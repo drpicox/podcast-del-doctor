@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="{{ '/assets/favicon.png' | relative_url }}">
+
+    <title>{{ page.title | default: site.podcast.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.podcast.description }}">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{ page.title | default: site.podcast.title }}">
+    <meta property="og:description" content="{{ page.description | default: site.podcast.description }}">
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.podcast.image }}">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.title | default: site.podcast.title }}">
+    <meta name="twitter:description" content="{{ page.description | default: site.podcast.description }}">
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.podcast.image }}">
+
+    <style>
+        :root {
+            /* Colors corporatius — Doctor Who inspired */
+            --tardis-blue: #003B6F;
+            --vortex-purple: #7B2FFE;
+            --gallifreyan-gold: #D4AF37;
+            --ice-blue: #E8F4FD;
+            --blanc-pur: #FFFFFF;
+
+            /* Colors adaptables (light mode) */
+            --bg-primary: #FFFFFF;
+            --bg-secondary: #E8F4FD;
+            --bg-gradient-start: #E8F4FD;
+            --bg-gradient-end: #FFFFFF;
+            --text-primary: #333;
+            --text-secondary: #555;
+            --text-tertiary: #666;
+            --border-color: rgba(0,0,0,0.1);
+            --shadow-color: rgba(0,0,0,0.1);
+            --shadow-color-strong: rgba(0,0,0,0.2);
+            --overlay-light: rgba(255,255,255,0.1);
+            --overlay-lighter: rgba(255,255,255,0.05);
+            --overlay-dark: rgba(0,0,0,0.2);
+
+            /* Fons de seccions destacades */
+            --disclaimer-bg: #E8D5F5;
+            --disclaimer-text: #333;
+            --disclaimer-heading: #003B6F;
+            --subscribe-bg: #003B6F;
+            --subscribe-text: #FFFFFF;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-primary: #0D1B2A;
+                --bg-secondary: #1B2838;
+                --bg-gradient-start: #0D1B2A;
+                --bg-gradient-end: #1B2838;
+                --text-primary: #e0e0e0;
+                --text-secondary: #b0b0b0;
+                --text-tertiary: #999;
+                --border-color: rgba(255,255,255,0.1);
+                --shadow-color: rgba(0,0,0,0.3);
+                --shadow-color-strong: rgba(0,0,0,0.5);
+                --overlay-light: rgba(255,255,255,0.05);
+                --overlay-lighter: rgba(255,255,255,0.02);
+                --overlay-dark: rgba(0,0,0,0.4);
+
+                --tardis-blue: #2E7EBF;
+                --vortex-purple: #9B5FFF;
+                --gallifreyan-gold: #E8C44A;
+                --ice-blue: #1B2838;
+
+                --disclaimer-bg: #1e1433;
+                --disclaimer-text: #e0e0e0;
+                --disclaimer-heading: #2E7EBF;
+                --subscribe-bg: #0a2540;
+                --subscribe-text: #e0e0e0;
+            }
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        .nav-links-left .nav-link, .btn-back-header {
+            color: var(--tardis-blue) !important;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .header {
+            background: var(--bg-primary);
+            box-shadow: 0 2px 10px var(--shadow-color);
+            position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+        }
+
+        .nav {
+            max-width: 1200px; margin: 0 auto; padding: 1rem 2rem;
+            display: flex; justify-content: space-between; align-items: center;
+        }
+
+        .logo { font-size: 1.2rem; font-weight: bold; color: var(--tardis-blue); text-decoration: none; }
+        .nav-links { display: flex; gap: 2rem; list-style: none; }
+        .nav-links a { color: var(--text-primary); text-decoration: none; font-weight: 500; transition: color 0.3s ease; }
+        .nav-links a:hover { color: var(--vortex-purple); }
+
+        .hamburger {
+            display: none; flex-direction: column; gap: 5px;
+            background: none; border: none; cursor: pointer; padding: 10px; z-index: 1001;
+        }
+        .hamburger span { width: 25px; height: 3px; background: var(--tardis-blue); border-radius: 3px; transition: all 0.3s ease; }
+        .hamburger.active span:nth-child(1) { transform: rotate(45deg) translate(6px, 6px); }
+        .hamburger.active span:nth-child(2) { opacity: 0; }
+        .hamburger.active span:nth-child(3) { transform: rotate(-45deg) translate(6px, -6px); }
+
+        .mobile-menu {
+            display: none; position: fixed; top: 60px; left: 0; right: 0;
+            background: var(--bg-primary); padding: 1rem; box-shadow: 0 4px 10px var(--shadow-color); z-index: 999;
+        }
+        .mobile-menu.active { display: block; }
+        .mobile-menu a {
+            display: block; padding: 1rem; color: var(--text-primary); text-decoration: none;
+            font-weight: 500; border-bottom: 1px solid var(--border-color); transition: all 0.3s ease;
+        }
+        .mobile-menu a:hover { background: var(--bg-secondary); color: var(--vortex-purple); }
+        .mobile-menu a:last-child { border-bottom: none; }
+
+        .hero {
+            min-height: 100vh; display: flex; align-items: center; justify-content: center;
+            text-align: center; padding: 2rem; padding-top: 6rem;
+            background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+        }
+        .hero-content { max-width: 800px; }
+        .podcast-logo {
+            width: 200px; height: 200px; border-radius: 20px; margin: 0 auto 2rem;
+            box-shadow: 0 10px 30px var(--shadow-color-strong); display: block;
+        }
+        .hero h1 { font-size: 3rem; color: var(--tardis-blue); margin-bottom: 1rem; font-weight: 700; }
+        .hero .subtitle { font-size: 1.5rem; color: var(--vortex-purple); margin-bottom: 2rem; font-weight: 300; }
+        .hero .description {
+            font-size: 1.2rem; color: var(--text-tertiary); margin-bottom: 3rem;
+            max-width: 600px; margin-left: auto; margin-right: auto;
+        }
+        .cta-buttons { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+
+        .btn {
+            padding: 1rem 2rem; border: 2px solid transparent; border-radius: 8px;
+            font-size: 1rem; font-weight: 700; text-decoration: none;
+            display: inline-flex; align-items: center; gap: 0.5rem;
+            transition: all 0.25s ease; cursor: pointer; box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        .btn:hover { box-shadow: 0 8px 20px rgba(0,0,0,0.2); }
+
+        .btn-primary { background: #D4AF37; color: #1a1a1a; border-color: #B8960E; }
+        .btn-primary:hover { background: #B8960E; }
+        .btn-spotify { background: #5AC26C; color: white; border-color: #3A9A49; }
+        .btn-spotify:hover { background: #4AAE59; }
+        .btn-apple { background: #2B2B2B; color: white; border-color: #000; }
+        .btn-apple:hover { background: #1A1A1A; }
+        .btn-apple.hidden { display: none; }
+        .btn-apple.primary, .btn-spotify.primary { box-shadow: 0 6px 16px rgba(0,0,0,0.25); }
+        .btn.secondary { box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+
+        .latest-episodes { padding: 5rem 2rem; background: var(--bg-secondary); }
+        .section-subtitle { text-align: center; color: var(--text-tertiary); font-size: 1.1rem; margin-top: -2rem; margin-bottom: 3rem; }
+        .latest-grid { display: grid; gap: 1.5rem; margin-bottom: 3rem; }
+        .latest-card {
+            background: var(--bg-primary); border-radius: 15px; padding: 1.5rem;
+            display: flex; gap: 1.5rem; box-shadow: 0 4px 15px var(--shadow-color);
+            transition: all 0.3s ease; border: 2px solid transparent;
+        }
+        .latest-card:hover { box-shadow: 0 8px 25px var(--shadow-color-strong); border-color: var(--vortex-purple); }
+        .latest-number {
+            background: var(--tardis-blue); color: white; width: 50px; height: 50px;
+            border-radius: 50%; display: flex; align-items: center; justify-content: center;
+            font-weight: bold; font-size: 1.2rem; flex-shrink: 0;
+        }
+        .latest-content { flex: 1; min-width: 0; }
+        .latest-content h3 { margin: 0 0 0.5rem 0; font-size: 1.3rem; }
+        .latest-content h3 a { color: var(--tardis-blue); text-decoration: none; transition: color 0.3s ease; }
+        .latest-content h3 a:hover { color: var(--vortex-purple); }
+        .latest-meta { color: var(--text-tertiary); font-size: 0.9rem; margin-bottom: 1rem; }
+        .latest-duration { margin-left: 1rem; background: var(--bg-secondary); padding: 0.2rem 0.5rem; border-radius: 4px; }
+        .latest-player { margin: 1rem 0; }
+        .latest-player audio { width: 100%; height: 40px; }
+        .latest-link { color: var(--vortex-purple); text-decoration: none; font-weight: 600; display: inline-block; transition: all 0.3s ease; }
+        .latest-link:hover { color: #5A10D0; transform: translateX(5px); }
+        .all-episodes-cta { text-align: center; }
+        .btn-large { padding: 1rem 2rem; font-size: 1.1rem; }
+
+        .about { padding: 5rem 2rem; background: var(--bg-primary); }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .section-title { text-align: center; font-size: 2.5rem; color: var(--tardis-blue); margin-bottom: 3rem; }
+        .about-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 3rem; }
+        .about-card { background: var(--bg-secondary); padding: 2rem; border-radius: 15px; text-align: center; transition: transform 0.3s ease; }
+        .about-card .icon { font-size: 3rem; margin-bottom: 1rem; display: flex; align-items: center; justify-content: center; height: 60px; }
+        .about-card .icon i { width: 48px; height: 48px; color: var(--tardis-blue); }
+        .about-card h3 { color: var(--tardis-blue); margin-bottom: 1rem; font-size: 1.5rem; }
+        .about-card p { color: var(--text-tertiary); line-height: 1.6; }
+
+        .disclaimer { background: var(--disclaimer-bg); padding: 3rem 2rem; transition: background-color 0.3s ease; }
+        .disclaimer-content { max-width: 800px; margin: 0 auto; text-align: left; }
+        .disclaimer h2 { text-align: center; color: var(--disclaimer-heading); margin-bottom: 1.5rem; font-size: 2rem; }
+        .disclaimer p { color: var(--disclaimer-text); font-size: 1.1rem; margin-bottom: 1rem; }
+        .disclaimer strong { color: var(--disclaimer-text); }
+        .disclaimer .highlight { background: var(--vortex-purple); color: var(--blanc-pur); padding: 0.3rem 0.6rem; border-radius: 5px; font-weight: bold; }
+        .disclaimer-content ul { margin: 1.5rem 0; padding-left: 0; list-style: none; max-width: 600px; margin-left: auto; margin-right: auto; }
+        .disclaimer-content li { margin: 0.8rem 0; line-height: 1.6; color: var(--disclaimer-text); font-size: 0.95rem; display: flex; align-items: center; gap: 0.8rem; }
+        .disclaimer-content li i { flex-shrink: 0; color: var(--tardis-blue); }
+
+        .subscribe { background: var(--subscribe-bg); color: var(--subscribe-text); padding: 5rem 2rem; text-align: center; transition: background-color 0.3s ease; }
+        .subscribe h2 { font-size: 2.5rem; margin-bottom: 1rem; color: var(--subscribe-text); }
+        .subscribe p { font-size: 1.2rem; margin-bottom: 3rem; opacity: 0.95; color: var(--subscribe-text); }
+        .subscribe-main-options { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 2rem; justify-items: center; max-width: 900px; margin-left: auto; margin-right: auto; }
+        .subscribe-option-card { background: rgba(255,255,255,0.15); border-radius: 15px; padding: 2rem; text-align: center; border: 2px solid transparent; display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 280px; transition: all 0.3s ease; }
+        .subscribe-option-card:hover { border-color: rgba(255,255,255,0.3); background: rgba(255,255,255,0.2); }
+        .option-icon { font-size: 3rem; margin-bottom: 1rem; display: flex; align-items: center; justify-content: center; height: 60px; }
+        .option-icon i { width: 48px; height: 48px; }
+        .subscribe-option-card h3 { color: var(--subscribe-text); margin: 0 0 0.5rem 0; font-size: 1.3rem; }
+        .subscribe-option-card p { color: var(--subscribe-text); opacity: 0.9; margin: 0 0 1.5rem 0; font-size: 1rem; }
+
+        .subscribe-btn { display: inline-block; padding: 1.2rem 2.5rem; border-radius: 10px; text-decoration: none; font-weight: 700; font-size: 1.1rem; transition: all 0.25s ease; cursor: pointer; border: 2px solid transparent; box-shadow: 0 6px 16px rgba(0,0,0,0.2); background: #D4AF37; color: #1a1a1a; border-color: #B8960E; }
+        .subscribe-btn:hover { background: #B8960E; box-shadow: 0 10px 28px rgba(0,0,0,0.25); }
+        .listen-btn, .app-btn, .copy-btn-action { background: #D4AF37; color: #1a1a1a; border-color: #B8960E; }
+        .listen-btn:hover, .app-btn:hover, .copy-btn-action:hover { background: #B8960E; }
+
+        .quick-instructions { background: rgba(255,255,255,0.1); border-radius: 10px; margin-top: 2rem; max-width: 600px; margin-left: auto; margin-right: auto; }
+        .quick-instructions summary { padding: 1rem 1.5rem; cursor: pointer; font-weight: 600; color: var(--subscribe-text); border-radius: 10px; transition: background 0.3s ease; }
+        .quick-instructions summary:hover { background: rgba(255,255,255,0.1); }
+        .instructions-content { padding: 0 1.5rem 1.5rem; text-align: left; }
+        .instructions-content p { margin: 0 0 0.5rem 0; font-size: 1rem; }
+        .rss-display { display: block; background: rgba(0,0,0,0.2); padding: 0.8rem 1rem; border-radius: 8px; font-family: monospace; font-size: 0.85rem; margin-bottom: 1rem; word-break: break-all; color: var(--subscribe-text); }
+        .instructions-content ol { padding-left: 1.5rem; margin: 1rem 0; color: var(--subscribe-text); }
+        .instructions-content li { margin: 0.5rem 0; line-height: 1.5; }
+        .instructions-content .note { background: rgba(212,175,55,0.3); padding: 0.8rem; border-radius: 8px; font-size: 0.9rem; margin-top: 1rem; display: flex; align-items: center; gap: 0.8rem; }
+        .instructions-content .note i { flex-shrink: 0; color: var(--gallifreyan-gold); }
+
+        .footer { background: var(--bg-secondary); color: var(--text-primary); padding: 3rem 2rem 2rem; text-align: center; border-top: 1px solid var(--border-color); }
+        .footer-links { display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap; }
+        .footer-links a { color: var(--text-secondary); text-decoration: none; transition: color 0.3s ease; }
+        .footer-links a:hover { color: var(--gallifreyan-gold); }
+
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2rem; }
+            .hero .subtitle { font-size: 1.2rem; }
+            .hero .description { font-size: 1rem; }
+            .podcast-logo { width: 150px; height: 150px; }
+            .nav { padding: 1rem; }
+            .nav-links { display: none; }
+            .hamburger { display: flex; }
+            .about-grid { grid-template-columns: 1fr; }
+            .cta-buttons { flex-direction: column; align-items: center; }
+            .latest-episodes { padding: 3rem 1rem; }
+            .section-subtitle { margin-top: -1.5rem; margin-bottom: 2rem; font-size: 1rem; }
+            .latest-card { flex-direction: column; text-align: center; }
+            .latest-number { margin: 0 auto; }
+            .latest-content h3 { font-size: 1.1rem; }
+            .btn-large { padding: 1rem 2rem; font-size: 1rem; }
+            .subscribe-main-options { grid-template-columns: 1fr; gap: 1rem; }
+            .subscribe-option-card { padding: 1.5rem; }
+            .option-icon { font-size: 2.5rem; }
+            .subscribe-option-card h3 { font-size: 1.1rem; }
+            .quick-instructions { margin-top: 1.5rem; }
+            .instructions-content { padding: 0 1rem 1rem; }
+            .rss-display { font-size: 0.75rem; }
+        }
+
+        @media (max-width: 480px) {
+            .hero { padding: 1rem; padding-top: 5rem; min-height: 90vh; }
+            .section-title { font-size: 2rem; }
+            .about-card { padding: 1.5rem; }
+            .header { padding: 0.5rem 0; }
+            .nav { padding: 0.5rem 1rem; }
+        }
+
+        html { scroll-behavior: smooth; }
+        .fade-in { opacity: 0; transform: translateY(30px); transition: all 0.6s ease; }
+        .fade-in.visible { opacity: 1; transform: translateY(0); }
+    </style>
+
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+
+    <style>
+        .btn i, .subscribe-btn i, .listen-btn i, .app-btn i, .copy-btn-action i {
+            margin-right: 0.5rem; width: 20px; height: 20px; vertical-align: middle; display: inline-block;
+        }
+        .btn-apple i { color: white !important; stroke: white !important; }
+    </style>
+</head>
+
+<body>
+    {{ content }}
+
+    <script>
+        function toggleMobileMenu() {
+            const hamburger = document.querySelector('.hamburger');
+            const mobileMenu = document.getElementById('mobileMenu');
+            hamburger.classList.toggle('active');
+            mobileMenu.classList.toggle('active');
+        }
+
+        document.querySelectorAll('.mobile-menu a').forEach(link => {
+            link.addEventListener('click', () => {
+                const hamburger = document.querySelector('.hamburger');
+                const mobileMenu = document.getElementById('mobileMenu');
+                if (hamburger && mobileMenu) { hamburger.classList.remove('active'); mobileMenu.classList.remove('active'); }
+            });
+        });
+
+        function detectPlatform() {
+            const ua = navigator.userAgent.toLowerCase();
+            const p = navigator.platform.toLowerCase();
+            if (/ipad|iphone|ipod/.test(ua) || (p === 'macintel' && navigator.maxTouchPoints > 1)) return 'ios';
+            if (/android/.test(ua)) return 'android';
+            if (/mac/.test(p)) return 'mac';
+            return 'desktop';
+        }
+
+        function subscribeApplePodcasts() {
+            window.location.href = 'podcast://david-rodenas.com/podcast-del-doctor/feed.xml';
+        }
+
+        function copyRSSNoAlert() {
+            const rssUrl = "{{ site.url }}{{ site.baseurl }}/feed.xml";
+            if (navigator.clipboard) {
+                navigator.clipboard.writeText(rssUrl).then(() => {
+                    const button = event.target;
+                    const orig = button.textContent;
+                    button.textContent = '✅ Copiat!';
+                    button.style.background = '#00C853';
+                    setTimeout(() => { button.textContent = orig; button.style.background = ''; }, 2000);
+                });
+            } else {
+                const ta = document.createElement('textarea');
+                ta.value = rssUrl;
+                document.body.appendChild(ta);
+                ta.select();
+                document.execCommand('copy');
+                document.body.removeChild(ta);
+                const button = event.target;
+                const orig = button.textContent;
+                button.textContent = '✅ Copiat!';
+                button.style.background = '#00C853';
+                setTimeout(() => { button.textContent = orig; button.style.background = ''; }, 2000);
+            }
+        }
+
+        function updatePlatformUI() {
+            const platform = detectPlatform();
+            const apple = document.querySelector('.cta-buttons .btn-apple');
+            const spotify = document.querySelector('.cta-buttons .btn-spotify');
+            const more = document.querySelector('.cta-buttons .btn-primary');
+            if (apple && spotify && more) {
+                if (platform === 'ios' || platform === 'mac') {
+                    apple.classList.remove('hidden'); apple.classList.add('primary');
+                    spotify.classList.add('secondary'); more.classList.add('secondary');
+                } else {
+                    apple.classList.add('hidden');
+                    spotify.classList.add('primary'); more.classList.remove('secondary');
+                }
+            }
+        }
+
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({ behavior: 'smooth' });
+            });
+        });
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => { if (entry.isIntersecting) entry.target.classList.add('visible'); });
+        }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+        document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+        function copyRSS() {
+            const rssUrl = "{{ site.url }}{{ site.baseurl }}/feed.xml";
+            if (navigator.clipboard) {
+                navigator.clipboard.writeText(rssUrl).then(() => alert('URL del RSS copiat al porta-retalls!'));
+            } else {
+                const ta = document.createElement('textarea');
+                ta.value = rssUrl;
+                document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta);
+                alert('URL del RSS copiat al porta-retalls!');
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            updatePlatformUI();
+            if (typeof feather !== 'undefined') feather.replace();
+        });
+    </script>
+</body>
+</html>

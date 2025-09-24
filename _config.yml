@@ -1,0 +1,38 @@
+title: "Podcast del Doctor"
+description: "Podcast sobre programació, tecnologia i enginyeria de software. Contingut generat amb intel·ligència artificial. Pensament crític aplicat al codi."
+baseurl: "/podcast-del-doctor"
+url: "https://david-rodenas.com"
+
+# Informació del podcast
+podcast:
+  title: "Podcast del Doctor"
+  subtitle: "Programació, tecnologia i enginyeria de software"
+  description: "Podcast sobre programació, tecnologia i enginyeria de software. Analitzem tendències, eines i pràctiques des de diferents perspectives. Contingut generat amb intel·ligència artificial. Pensa per tu mateix."
+  author: "David Rodenas"
+  website: "https://david-rodenas.com"
+  language: "ca-ES"
+  category: "Technology"
+  image: "/assets/logo-podcast.jpg"
+
+# GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Configuració Jekyll
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Collections
+collections:
+  episodes:
+    output: true
+    permalink: /episodi/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: episodes
+    values:
+      layout: episode

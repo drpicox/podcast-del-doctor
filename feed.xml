@@ -1,0 +1,109 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>{{ site.podcast.title | xml_escape }}</title>
+    <description>{{ site.podcast.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <atom:link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" type="application/rss+xml" />
+    <language>{{ site.podcast.language }}</language>
+    <managingEditor>{{ site.podcast.author }}</managingEditor>
+    <webMaster>{{ site.podcast.author }}</webMaster>
+    <copyright>Copyright {{ 'now' | date: '%Y' }} {{ site.podcast.author }}</copyright>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <image>
+      <url>{{ site.url }}{{ site.baseurl }}{{ site.podcast.image }}</url>
+      <title>{{ site.podcast.title }}</title>
+      <link>{{ site.url }}{{ site.baseurl }}</link>
+      <description>{{ site.podcast.description }}</description>
+    </image>
+
+    <!-- iTunes specific tags -->
+    <itunes:author>{{ site.podcast.author }}</itunes:author>
+    <itunes:summary>{{ site.podcast.description }}</itunes:summary>
+    <itunes:subtitle>{{ site.podcast.subtitle }}</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>{{ site.podcast.author }}</itunes:name>
+    </itunes:owner>
+    <itunes:image href="{{ site.url }}{{ site.baseurl }}{{ site.podcast.image }}" />
+    <itunes:category text="{{ site.podcast.category | xml_escape }}">
+      {% if site.podcast.subcategory %}<itunes:category text="{{ site.podcast.subcategory | xml_escape }}" />{% endif %}
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+
+    {% for episode in site.episodes reversed %}
+    <item>
+      <title>{{ episode.title | xml_escape }}</title>
+      <description>{{ episode.description | xml_escape }}</description>
+      <link>{{ site.url }}{{ site.baseurl }}{{ episode.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ episode.url }}</guid>
+      <pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>
+
+      {% if episode.audio_file %}
+      <!-- Support both full URLs (archive.org) and relative paths (legacy) -->
+      {% if episode.audio_file contains "http" %}
+      <enclosure url="{{ episode.audio_file }}"
+                 type="audio/mpeg"
+                 length="{{ episode.audio_size | default: 0 }}" />
+      {% else %}
+      <enclosure url="{{ site.url }}{{ site.baseurl }}/episodes/{{ episode.audio_file }}"
+                 type="audio/mpeg"
+                 length="{{ episode.audio_size | default: 0 }}" />
+      {% endif %}
+
+      <!-- iTunes specific tags -->
+      <itunes:author>{{ site.podcast.author }}</itunes:author>
+      <itunes:subtitle>{{ episode.description | xml_escape }}</itunes:subtitle>
+      <itunes:summary>{{ episode.content | strip_html | xml_escape | truncate: 4000 }}</itunes:summary>
+      {% if episode.duration %}<itunes:duration>{{ episode.duration }}</itunes:duration>{% endif %}
+      {% if episode.episode_number %}<itunes:episode>{{ episode.episode_number }}</itunes:episode>{% endif %}
+      {% if episode.season %}<itunes:season>{{ episode.season }}</itunes:season>{% endif %}
+      <itunes:explicit>false</itunes:explicit>
+
+      <!-- Podcast 2.0 namespace tags -->
+      {% assign ep_slug = episode.path | split: '/' | last | remove: '.md' %}
+      <podcast:transcript url="{{ site.url }}{{ site.baseurl }}/sources/{{ ep_slug }}-transcripcio.srt" type="application/x-subrip" language="ca" rel="captions" />
+      {% if episode.chapters_file %}
+      <podcast:chapters url="{{ site.url }}{{ site.baseurl }}/sources/{{ episode.chapters_file }}" type="application/json+chapters" />
+      {% endif %}
+      {% if episode.soundbite_start %}
+      <podcast:soundbite startTime="{{ episode.soundbite_start }}" duration="{{ episode.soundbite_duration }}">{{ episode.soundbite_title | xml_escape }}</podcast:soundbite>
+      {% endif %}
+
+      {% if episode.thumbnail %}
+      <itunes:image href="{{ site.url }}{{ site.baseurl }}{{ episode.thumbnail }}" />
+      {% endif %}
+      {% endif %}
+
+      <content:encoded><![CDATA[
+        {% capture href_abs %}href="{{ site.url }}/{% endcapture %}
+        {{ episode.content | replace: 'href="/', href_abs }}
+
+        <h3>⚠️ Disclaimer</h3>
+        <p>Aquest contingut ha estat generat amb intel·ligència artificial. Pot contenir interpretacions o errors. Consulta sempre les fonts originals i pensa per tu mateix.</p>
+
+        {% if episode.sources %}
+        <h3>📚 Fonts Utilitzades</h3>
+        <ul>
+        {% for source in episode.sources %}
+          <li>
+            {% if source.url contains "http" %}
+              <a href="{{ source.url }}" target="_blank">{{ source.title }}</a>
+            {% elsif source.url %}
+              <a href="{{ site.url }}{{ source.url }}" target="_blank">{{ source.title }}</a>
+            {% else %}
+              {{ source.title }}
+            {% endif %}
+            {% if source.description %} - {{ source.description }}{% endif %}
+          </li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+      ]]></content:encoded>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
