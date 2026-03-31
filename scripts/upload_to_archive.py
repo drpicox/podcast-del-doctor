@@ -20,6 +20,16 @@ PODCAST_URL = "https://david-rodenas.com/podcast-del-doctor"
 
 # Definició dels episodis amb les seves metadades
 EPISODIS = [
+    {
+        "num": "001",
+        "fitxer": "001-api-ollama-per-dins.mp3",
+        "identifier": "podcast-del-doctor-001-api-ollama-per-dins",
+        "title": "Episodi 1: Com funciona l'API d'Ollama per dins",
+        "description": "Anàlisi a fons de l'API d'Ollama: gestió de recursos GPU/CPU, endpoints Generate i Chat, paràmetres de control, streaming NDJSON, Tool Calling, sortides estructurades i emulació d'OpenAI. Tot executant-se localment.",
+        "date": "2026-03-31",
+        "duration": "20:04",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "ollama", "api", "llm", "ia local", "gpu", "tool calling", "openai", "streaming"]
+    },
 ]
 
 

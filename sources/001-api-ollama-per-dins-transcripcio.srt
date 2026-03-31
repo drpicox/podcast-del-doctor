@@ -1,0 +1,2324 @@
+1
+00:00:00,000 --> 00:00:03,660
+D'acord, anem a desgranar això des del principi.
+
+2
+00:00:04,240 --> 00:00:06,520
+Imaginem per un moment tenir, no sé,
+
+3
+00:00:06,860 --> 00:00:09,940
+un cervell amb tot el coneixement col·lectiu d'internet,
+
+4
+00:00:10,240 --> 00:00:13,220
+però que viu completament desconnectat,
+
+5
+00:00:13,320 --> 00:00:17,260
+vull dir, a dins d'una caixa de metall sobre el nostre escriptori.
+
+6
+00:00:17,560 --> 00:00:19,100
+Sí, sí, sense connexió a fora.
+
+7
+00:00:19,440 --> 00:00:20,040
+Exacte.
+
+8
+00:00:20,560 --> 00:00:22,700
+Sense subscripcions mensuals al núvol,
+
+9
+00:00:23,060 --> 00:00:25,420
+sense que ningú recopili dades de forma massiva,
+
+10
+00:00:25,420 --> 00:00:28,500
+o sigui, intel·ligència crua i totalment privada.
+
+11
+00:00:28,500 --> 00:00:31,440
+Clar. Llavors, avui estem aquí per fer una anàlisi a fons
+
+12
+00:00:31,440 --> 00:00:36,880
+de com donar-li una mena de sistema nerviós a aquest cervell allat.
+
+13
+00:00:37,140 --> 00:00:40,540
+I, doncs, aquest sistema nerviós és precisament l'àpid o a llama,
+
+14
+00:00:41,220 --> 00:00:43,280
+perquè, clar, estem passant d'una època
+
+15
+00:00:43,280 --> 00:00:46,600
+on l'estàndard era bàsicament agafar la teva informació confidencial
+
+16
+00:00:46,600 --> 00:00:48,620
+i enviar-la a servidors de tercers, oi?
+
+17
+00:00:48,900 --> 00:00:49,380
+Totalment.
+
+18
+00:00:49,580 --> 00:00:53,360
+A una realitat on els grans models de llenguatge, els LLM,
+
+19
+00:00:53,360 --> 00:00:55,180
+s'executen de manera local.
+
+20
+00:00:55,600 --> 00:00:57,080
+I el gran repte, avui dia,
+
+21
+00:00:57,240 --> 00:00:58,360
+no és només aconseguir que el model...
+
+22
+00:00:58,500 --> 00:00:59,520
+...de l'arrenqui i ja està.
+
+23
+00:00:59,800 --> 00:01:01,780
+Xolard, no és només que funcioni.
+
+24
+00:01:01,960 --> 00:01:02,480
+Exacte.
+
+25
+00:01:02,820 --> 00:01:05,320
+Sinó com aconseguim que es reoni de manera autònoma,
+
+26
+00:01:05,820 --> 00:01:08,960
+que interactui amb el món digital o físic que l'envolta,
+
+27
+00:01:09,420 --> 00:01:12,200
+però sense que col·lapsi tota la nostra infraestructura de pas.
+
+28
+00:01:12,520 --> 00:01:13,840
+I per desmitificar tot això,
+
+29
+00:01:14,060 --> 00:01:16,620
+hem estat remenant piles de documentació tècnica
+
+30
+00:01:16,620 --> 00:01:18,420
+de la mateixa àpid o llama
+
+31
+00:01:18,420 --> 00:01:20,980
+i també hem revisat guies pràctiques molt bones
+
+32
+00:01:20,980 --> 00:01:23,600
+de l'equip de One of Time i del Cactus Group.
+
+33
+00:01:23,900 --> 00:01:25,760
+Déu-n'hi-do la quantitat d'informació que hi ha.
+
+34
+00:01:25,940 --> 00:01:27,300
+Sí, sí, és massiu.
+
+35
+00:01:27,300 --> 00:01:31,180
+Però la nostra missió avui és extreure la mecànica real d'això.
+
+36
+00:01:31,680 --> 00:01:33,840
+Així que, a veure, comencem per la real del tema.
+
+37
+00:01:34,400 --> 00:01:35,960
+Quan iniciem un llama a l'ordinador,
+
+38
+00:01:36,180 --> 00:01:38,100
+s'estableix com un servei en segon pla, no?
+
+39
+00:01:38,520 --> 00:01:42,080
+Que es queda escoltant el port, crec que és el 11.434,
+
+40
+00:01:42,300 --> 00:01:43,100
+de la xarxa local.
+
+41
+00:01:43,420 --> 00:01:44,220
+Aquest mateix.
+
+42
+00:01:44,460 --> 00:01:48,040
+Però, com s'ho fa realment per gestionar les demandes de càlcul
+
+43
+00:01:48,040 --> 00:01:50,380
+tan bèsties que exigeixen aquests models?
+
+44
+00:01:50,700 --> 00:01:53,280
+Bueno, el que és fascinant de la mecànica interna d'Ullama
+
+45
+00:01:53,280 --> 00:01:56,840
+és, o sigui, com amaga tota la complexitat del maquinari.
+
+46
+00:01:57,300 --> 00:02:00,920
+Diguem que quan una aplicació li demana carregar una arquitectura enorme,
+
+47
+00:02:01,320 --> 00:02:05,200
+com un llama o un mistral o fins i tot un dípsic,
+
+48
+00:02:05,800 --> 00:02:09,740
+l'API no agafa el model i l'aboca allà a la memòria de qualsevol manera
+
+49
+00:02:09,740 --> 00:02:10,660
+i a veure què passa.
+
+50
+00:02:11,300 --> 00:02:14,080
+Fa una avaluació gairebé instantània del sistema.
+
+51
+00:02:14,440 --> 00:02:16,780
+O sigui, analitza què tens a l'ordinador en aquell moment.
+
+52
+00:02:17,500 --> 00:02:17,980
+Exacte.
+
+53
+00:02:18,140 --> 00:02:22,120
+Analitza quanta memòria B-RAM tens lliure a la targeta gràfica,
+
+54
+00:02:22,520 --> 00:02:25,500
+quina és la capacitat de la RAM tradicional de la teva placa base,
+
+55
+00:02:25,500 --> 00:02:26,700
+i a partir d'allà,
+
+56
+00:02:26,700 --> 00:02:29,740
+pren una decisió arquitectònica per fragmentar el model si cal.
+
+57
+00:02:30,100 --> 00:02:33,020
+Clar. Aquesta fragmentació ha de ser la clau, no?
+
+58
+00:02:33,580 --> 00:02:37,840
+Jo, vull dir, confesso que pensava que això del núvol era com anar de restaurant.
+
+59
+00:02:38,280 --> 00:02:38,800
+Ja m'entens.
+
+60
+00:02:39,260 --> 00:02:42,020
+Demanes a l'OpenAI i et porten el plat fet.
+
+61
+00:02:42,640 --> 00:02:44,160
+Sí, és una bona analogia.
+
+62
+00:02:44,700 --> 00:02:48,700
+Però tenir Ullama és com tenir una cuina professional a casa, oi?
+
+63
+00:02:48,980 --> 00:02:50,420
+On tu controles els ingredients.
+
+64
+00:02:51,200 --> 00:02:54,820
+I si entenc bé com funciona aquesta cuina, els models tenen capes.
+
+65
+00:02:55,200 --> 00:02:56,680
+Matrius de pesos matemàtics.
+
+66
+00:02:56,700 --> 00:02:58,580
+Sí, capes sobre capes.
+
+67
+00:02:58,860 --> 00:03:01,160
+Llavors, si tens una targeta gràfica molt potent,
+
+68
+00:03:01,640 --> 00:03:05,300
+l'API hi posa el 100% de les capes i tens una velocitat brutal.
+
+69
+00:03:05,820 --> 00:03:08,720
+Però si el model és massa gros per la GPU, què fa?
+
+70
+00:03:09,260 --> 00:03:09,840
+Ho divideix.
+
+71
+00:03:10,060 --> 00:03:11,120
+Ho divideix, exacte.
+
+72
+00:03:11,540 --> 00:03:12,500
+Reparteix la feina.
+
+73
+00:03:12,980 --> 00:03:18,140
+L'API podria dir, a veure, enviarem un 52% de la càrrega,
+
+74
+00:03:18,300 --> 00:03:21,720
+la part més pesada matemàticament, a la targeta gràfica.
+
+75
+00:03:22,060 --> 00:03:22,480
+D'acord.
+
+76
+00:03:22,480 --> 00:03:26,540
+I el 48% restant cap al processador central, la CPU.
+
+77
+00:03:27,260 --> 00:03:31,480
+I l'API d'Ullama fa de director d'orquestra, passant dades amunt i avall,
+
+78
+00:03:31,940 --> 00:03:35,380
+entre la memòria de vídeo i la del sistema durant la inferència.
+
+79
+00:03:35,840 --> 00:03:38,100
+Això evita colls d'ampolla increïbles.
+
+80
+00:03:38,520 --> 00:03:39,900
+I a l'usuari ni se n'adona.
+
+81
+00:03:40,120 --> 00:03:40,880
+Ni se n'adona.
+
+82
+00:03:41,440 --> 00:03:45,140
+I, de fet, una cosa molt xula és que proporcionen un endpoint específic,
+
+83
+00:03:45,700 --> 00:03:48,220
+que és barra API barra SAPS.
+
+84
+00:03:48,480 --> 00:03:50,040
+O sigui, API, SAPS.
+
+85
+00:03:50,400 --> 00:03:52,160
+Ah, sí, ho he vist a la documentació.
+
+86
+00:03:52,160 --> 00:03:55,640
+Doncs això permet a qui desenvolupa supervisar en temps real
+
+87
+00:03:55,640 --> 00:03:57,340
+com s'estan repartint els recursos.
+
+88
+00:03:57,880 --> 00:04:00,920
+És com tenir visió de reigecs del que passa sota el capó.
+
+89
+00:04:01,140 --> 00:04:02,360
+Ostres, això és molt potent.
+
+90
+00:04:02,840 --> 00:04:06,020
+Però, clar, tenir aquest cervell massiu allà optimitzat a la RAM,
+
+91
+00:04:06,180 --> 00:04:10,020
+doncs està molt bé, però és totalment inútil si està sortimut, oi?
+
+92
+00:04:10,400 --> 00:04:12,020
+Clar, necessita instruccions.
+
+93
+00:04:12,280 --> 00:04:13,000
+Necessita parlar.
+
+94
+00:04:13,500 --> 00:04:15,980
+Llavors anem a com l'API estructura el diàleg.
+
+95
+00:04:16,120 --> 00:04:17,880
+Perquè tenim dues rutes principals.
+
+96
+00:04:18,720 --> 00:04:20,620
+Barra API, barra Generate.
+
+97
+00:04:20,620 --> 00:04:22,960
+I barra API, barra xat.
+
+98
+00:04:23,200 --> 00:04:23,420
+Mhm.
+
+99
+00:04:24,040 --> 00:04:25,620
+Si mirem l'endpoint de generació,
+
+100
+00:04:25,640 --> 00:04:26,640
+el Generate,
+
+101
+00:04:27,580 --> 00:04:29,640
+a mi em va semblar pràcticament quirúrgic.
+
+102
+00:04:30,540 --> 00:04:33,480
+Fa la impressió que és per a una operació d'un sol tret,
+
+103
+00:04:33,840 --> 00:04:35,200
+sense memòria del passat.
+
+104
+00:04:35,800 --> 00:04:37,660
+Mhm, estic totalment d'acord.
+
+105
+00:04:38,040 --> 00:04:39,840
+És una descripció molt acurada.
+
+106
+00:04:40,560 --> 00:04:43,320
+La ruta Generate rep una única cadena de text,
+
+107
+00:04:43,540 --> 00:04:44,440
+un simple prompt,
+
+108
+00:04:44,860 --> 00:04:47,520
+i et torna una continuació directa d'aquí el text.
+
+109
+00:04:47,800 --> 00:04:48,360
+I ja està.
+
+110
+00:04:48,860 --> 00:04:49,640
+Molt directa?
+
+111
+00:04:50,080 --> 00:04:54,060
+Sí, és l'eina ideal per automatitzar tasques que no necessiten context.
+
+112
+00:04:54,060 --> 00:04:55,360
+Per exemple,
+
+113
+00:04:55,640 --> 00:04:57,340
+li passes un text i li dius
+
+114
+00:04:57,340 --> 00:05:00,080
+«Extreu-me els noms propis d'aquí»,
+
+115
+00:05:00,080 --> 00:05:02,100
+o per autocompletar una línia de codi.
+
+116
+00:05:02,620 --> 00:05:03,360
+Ah, clar.
+
+117
+00:05:03,880 --> 00:05:07,240
+I, curiosament, també suporta un camp que es diu «súfix»,
+
+118
+00:05:07,240 --> 00:05:10,200
+que et permet posar text al davant i al darrere d'un buit
+
+119
+00:05:10,200 --> 00:05:13,000
+i forces el model a omplir exactament aquell forat.
+
+120
+00:05:13,420 --> 00:05:14,880
+Això per programar va de conya.
+
+121
+00:05:15,580 --> 00:05:18,540
+Però, bueno, això resol les tasques, diguem-ne, mecàniques.
+
+122
+00:05:19,060 --> 00:05:21,480
+Ara, si volem construir assistents intel·ligents,
+
+123
+00:05:21,880 --> 00:05:24,840
+necessitem que recordin de què estàvem parlant fa 10 minuts.
+
+124
+00:05:24,840 --> 00:05:25,600
+L'historial.
+
+125
+00:05:25,640 --> 00:05:26,840
+L'historial de la conversa, sí.
+
+126
+00:05:27,020 --> 00:05:28,920
+I aquí és on entra l'empoïnxat.
+
+127
+00:05:29,760 --> 00:05:33,460
+Que, clar, això introdueix tota l'estructura de rols,
+
+128
+00:05:33,560 --> 00:05:35,880
+allò de sistema, usuari, assistent.
+
+129
+00:05:36,560 --> 00:05:38,360
+El que em va volar al cap de les guies
+
+130
+00:05:38,360 --> 00:05:41,880
+és la quantitat de feina bruta que ens estalvia l'API aquí.
+
+131
+00:05:42,540 --> 00:05:42,980
+Moltíssima.
+
+132
+00:05:43,060 --> 00:05:45,320
+Perquè si un programador hagués de parlar amb cada model
+
+133
+00:05:45,320 --> 00:05:47,460
+en el seu, no sé, idioma natiu,
+
+134
+00:05:47,880 --> 00:05:49,660
+seria un caos de formats, no?
+
+135
+00:05:49,720 --> 00:05:50,720
+Un caos absolut.
+
+136
+00:05:51,180 --> 00:05:52,340
+Jo n'estic segura, vull dir,
+
+137
+00:05:52,340 --> 00:05:55,340
+cada família de models té la seva pròpia paranoia sintàctica
+
+138
+00:05:55,920 --> 00:05:57,180
+amb els tòquens de control.
+
+139
+00:05:57,400 --> 00:05:57,460
+Sí.
+
+140
+00:05:58,200 --> 00:05:58,980
+Clar, per exemple,
+
+141
+00:05:59,500 --> 00:06:01,900
+alguns models fan servir etiquetes com
+
+142
+00:06:01,900 --> 00:06:04,780
+imstart entre claudados angulars
+
+143
+00:06:04,780 --> 00:06:07,200
+seguit del rol per dir qui està parlant.
+
+144
+00:06:07,700 --> 00:06:09,780
+Altres fan servir claudados quadrats
+
+145
+00:06:09,780 --> 00:06:11,380
+o etiquetes raríssimes.
+
+146
+00:06:11,460 --> 00:06:12,980
+Quina bogeria per programar això.
+
+147
+00:06:13,120 --> 00:06:14,240
+T'hi podries passar hores.
+
+148
+00:06:14,720 --> 00:06:16,680
+Però el disseny de l'API de Chat do Llama
+
+149
+00:06:16,680 --> 00:06:18,860
+actua com un traductor universal.
+
+150
+00:06:19,200 --> 00:06:21,520
+Agafa la llista de missatges neta,
+
+151
+00:06:22,180 --> 00:06:25,080
+identifica quin model s'està ejecutant sota el capó,
+
+152
+00:06:25,640 --> 00:06:27,580
+aplica la plantilla exacta
+
+153
+00:06:27,580 --> 00:06:30,420
+que necessita aquella arquitectura de forma dinàmica
+
+154
+00:06:30,420 --> 00:06:33,320
+i llavors ja construeix la cadena de text final
+
+155
+00:06:33,320 --> 00:06:34,340
+per al processador.
+
+156
+00:06:34,760 --> 00:06:37,340
+És a dir, tu només li passes un format net
+
+157
+00:06:37,340 --> 00:06:40,300
+i o Llama s'encarrega de disfressar-lo
+
+158
+00:06:40,300 --> 00:06:41,620
+perquè el model ho entengui.
+
+159
+00:06:42,240 --> 00:06:42,760
+Exacte.
+
+160
+00:06:43,020 --> 00:06:45,100
+Et treu un pes de sobre enorme.
+
+161
+00:06:45,540 --> 00:06:45,840
+D'acord.
+
+162
+00:06:46,120 --> 00:06:48,100
+Llavors ja tenim la comunicació resolta.
+
+163
+00:06:48,480 --> 00:06:49,380
+Però més enllà d'això,
+
+164
+00:06:49,760 --> 00:06:51,360
+tenim els paràmetres de control.
+
+165
+00:06:51,720 --> 00:06:54,440
+Jo els veig com els condiments per a la IA, no?
+
+166
+00:06:55,020 --> 00:06:55,020
+
+
+167
+00:06:55,020 --> 00:06:55,080
+No.
+
+168
+00:06:55,080 --> 00:06:55,160
+No.
+
+169
+00:06:55,160 --> 00:06:55,180
+No.
+
+170
+00:06:55,180 --> 00:06:55,200
+No.
+
+171
+00:06:55,200 --> 00:06:55,240
+No.
+
+172
+00:06:55,240 --> 00:06:55,340
+No.
+
+173
+00:06:55,640 --> 00:06:59,060
+La comunicació insisteix molt en el paràmetre temperatura.
+
+174
+00:06:59,500 --> 00:07:00,100
+La temperatura.
+
+175
+00:07:00,480 --> 00:07:02,280
+Ui, sí, aquesta és fonamental.
+
+176
+00:07:03,240 --> 00:07:05,380
+A veure, si jo poso la temperatura a zero,
+
+177
+00:07:05,760 --> 00:07:09,960
+la IA es converteix en una calculadora avorrida i superprecisa.
+
+178
+00:07:10,440 --> 00:07:11,300
+Bàsicament, sí.
+
+179
+00:07:11,800 --> 00:07:13,360
+Si poses la temperatura a zero,
+
+180
+00:07:13,640 --> 00:07:15,900
+elimines tota l'aliatorietat matemàtica.
+
+181
+00:07:16,440 --> 00:07:18,480
+L'obligues a triar sempre la següent paraula,
+
+182
+00:07:18,540 --> 00:07:21,040
+el següent tòquen amb la probabilitat més alta.
+
+183
+00:07:21,300 --> 00:07:21,720
+D'acord.
+
+184
+00:07:21,940 --> 00:07:24,580
+Així es converteix en un sistema determinista,
+
+185
+00:07:24,580 --> 00:07:25,580
+que és justa.
+
+186
+00:07:25,640 --> 00:07:27,180
+El que vols per extreure dades,
+
+187
+00:07:27,520 --> 00:07:30,080
+on la creativitat seria, bueno, un desastre.
+
+188
+00:07:30,240 --> 00:07:31,740
+Clar, no vols que s'inventi números.
+
+189
+00:07:32,440 --> 00:07:33,940
+Però també hi ha altres controls,
+
+190
+00:07:34,200 --> 00:07:35,740
+el top K i el top P.
+
+191
+00:07:36,320 --> 00:07:38,460
+Aquests semblen una mica més subtils.
+
+192
+00:07:38,740 --> 00:07:38,920
+Sí.
+
+193
+00:07:39,400 --> 00:07:42,360
+Operen manipulant la llista de possibles respostes
+
+194
+00:07:42,360 --> 00:07:43,840
+abans que el model decideixi.
+
+195
+00:07:44,480 --> 00:07:47,820
+El top K funciona com unes tisores, per entendre'ns.
+
+196
+00:07:48,280 --> 00:07:49,300
+Si el poses a 40,
+
+197
+00:07:49,580 --> 00:07:52,700
+el model només mirarà les 40 paraules més probables.
+
+198
+00:07:52,880 --> 00:07:53,660
+Talla la resta.
+
+199
+00:07:53,660 --> 00:07:55,620
+Talla darrere la cua d'opcions rares.
+
+200
+00:07:55,640 --> 00:07:57,920
+Que és el que sol provocar les al·lucinacions.
+
+201
+00:07:58,680 --> 00:08:00,720
+I el top P és encara més sofisticat.
+
+202
+00:08:01,260 --> 00:08:03,100
+Ordena els tòquens per probabilitat
+
+203
+00:08:03,100 --> 00:08:04,640
+i els va sumant fins a arribar a un percentatge.
+
+204
+00:08:05,500 --> 00:08:06,600
+Posem un 90%.
+
+205
+00:08:06,600 --> 00:08:09,080
+Llavors, si la primera opció ja és un 90%?
+
+206
+00:08:09,260 --> 00:08:10,400
+Només es queda amb aquella.
+
+207
+00:08:11,060 --> 00:08:13,200
+Permet tenir moltes opcions quan el model dubta
+
+208
+00:08:13,200 --> 00:08:15,320
+o molt poques quan la resposta és evident.
+
+209
+00:08:15,920 --> 00:08:18,120
+I no ens podem deixar el numset ex.
+
+210
+00:08:18,280 --> 00:08:18,720
+Què és això?
+
+211
+00:08:19,000 --> 00:08:20,360
+La finestra ve context.
+
+212
+00:08:21,100 --> 00:08:24,320
+Si redueixes aquest límit de memòria a curt termini,
+
+213
+00:08:24,760 --> 00:08:25,620
+alliberes una barba.
+
+214
+00:08:25,640 --> 00:08:29,300
+Així pots accelerar moltíssim el rendiment
+
+215
+00:08:29,300 --> 00:08:30,780
+quan fas tasques curtes.
+
+216
+00:08:31,160 --> 00:08:32,360
+D'acord, entès.
+
+217
+00:08:32,900 --> 00:08:34,960
+Això està molt bé per afinar el motor.
+
+218
+00:08:35,540 --> 00:08:37,560
+Però, clar, si ajustem tot això,
+
+219
+00:08:38,120 --> 00:08:40,740
+no solucionem el problema de la paciència humana, no?
+
+220
+00:08:41,060 --> 00:08:42,080
+Ah, la latència.
+
+221
+00:08:42,400 --> 00:08:42,660
+Clar.
+
+222
+00:08:43,180 --> 00:08:45,240
+Tu pots tenir el model més precís del món,
+
+223
+00:08:45,720 --> 00:08:47,800
+però si necessita dos minuts pensant
+
+224
+00:08:47,800 --> 00:08:51,140
+abans d'escopir-te un bloc de text enorme de cop...
+
+225
+00:08:51,140 --> 00:08:52,360
+Sembla que s'hagi penjat.
+
+226
+00:08:52,640 --> 00:08:53,160
+Exacte.
+
+227
+00:08:53,160 --> 00:08:54,960
+L'il·lusió d'interactivitat
+
+228
+00:08:54,960 --> 00:08:56,160
+es trenca totalment.
+
+229
+00:08:56,740 --> 00:08:59,060
+Però aquí és on es posa realment interessant,
+
+230
+00:08:59,560 --> 00:09:00,960
+perquè les fonts detallen
+
+231
+00:09:00,960 --> 00:09:04,580
+que l'API fa servir el flux de dades en temps real,
+
+232
+00:09:05,000 --> 00:09:05,940
+el famós streaming,
+
+233
+00:09:06,640 --> 00:09:08,280
+i està activat per defecte.
+
+234
+00:09:08,360 --> 00:09:08,660
+I tant.
+
+235
+00:09:09,000 --> 00:09:12,320
+I el mecanisme tècnic darrere d'aquesta il·lusió d'immediatesa
+
+236
+00:09:12,320 --> 00:09:14,760
+és el format NDXN,
+
+237
+00:09:15,500 --> 00:09:16,080
+que vol dir
+
+238
+00:09:16,080 --> 00:09:18,280
+JSON delimitat per salts de línia.
+
+239
+00:09:18,740 --> 00:09:20,080
+Com funciona això, exactament?
+
+240
+00:09:20,420 --> 00:09:20,960
+Doncs, mira,
+
+241
+00:09:20,960 --> 00:09:23,260
+en una petició tradicional,
+
+242
+00:09:23,740 --> 00:09:24,740
+l'aplicació demana
+
+243
+00:09:24,740 --> 00:09:26,540
+la informació i el servidor
+
+244
+00:09:26,540 --> 00:09:29,240
+et fa esperar fins que té tot el text generat.
+
+245
+00:09:29,560 --> 00:09:30,820
+Llavors t'ho envia tot de cop.
+
+246
+00:09:30,940 --> 00:09:31,680
+El bloc sencer.
+
+247
+00:09:32,000 --> 00:09:34,400
+Clar. Però amb NDTSS
+
+248
+00:09:34,400 --> 00:09:36,380
+la connexió es manté oberta
+
+249
+00:09:36,380 --> 00:09:38,920
+com si fos una canonada contínua d'aigua.
+
+250
+00:09:39,860 --> 00:09:40,880
+Tampoc un punt el model
+
+251
+00:09:40,880 --> 00:09:43,040
+dedueix el primer token, la primera paraula,
+
+252
+00:09:43,720 --> 00:09:44,960
+l'API envia un petit
+
+253
+00:09:44,960 --> 00:09:45,860
+paquet de dades,
+
+254
+00:09:46,320 --> 00:09:49,300
+i fraccions de segons després envia la següent.
+
+255
+00:09:50,080 --> 00:09:50,900
+Així el codi
+
+256
+00:09:50,900 --> 00:09:53,000
+que rep això ho pot anar pintant
+
+257
+00:09:53,000 --> 00:09:54,500
+a la pantalla paraula a paraula.
+
+258
+00:09:54,740 --> 00:09:56,520
+Aquest efecte de màquina d'escriure,
+
+259
+00:09:57,000 --> 00:09:58,980
+tan típic que veiem a tot arreu ara.
+
+260
+00:09:59,380 --> 00:10:00,340
+Exacte, és això.
+
+261
+00:10:00,600 --> 00:10:03,000
+Però el que jo trobo fascinant, o sigui, de veritat,
+
+262
+00:10:03,320 --> 00:10:05,100
+és com han hagut d'adaptar aquest streaming
+
+263
+00:10:05,100 --> 00:10:07,020
+per a la nova generació de models
+
+264
+00:10:07,020 --> 00:10:09,200
+de raonament, els que pensen
+
+265
+00:10:09,200 --> 00:10:10,760
+com el Dipsic R1.
+
+266
+00:10:11,060 --> 00:10:12,140
+Ah, sí, això és molt nou.
+
+267
+00:10:12,280 --> 00:10:15,140
+Clar, perquè aquests models, abans de donar-te
+
+268
+00:10:15,140 --> 00:10:16,880
+la resposta, elaboren
+
+269
+00:10:16,880 --> 00:10:18,500
+una cadena de pensament intern,
+
+270
+00:10:18,980 --> 00:10:20,980
+miren diferents camins, s'equivoquen,
+
+271
+00:10:21,280 --> 00:10:22,600
+rectifiquen...
+
+272
+00:10:22,600 --> 00:10:24,600
+Com envies aquest pensant-veu-adre?
+
+273
+00:10:24,740 --> 00:10:27,120
+Doncs la solució que han trobat
+
+274
+00:10:27,120 --> 00:10:29,420
+és introduir un camp separat.
+
+275
+00:10:29,900 --> 00:10:31,340
+Un camp que es diu, literalment,
+
+276
+00:10:31,700 --> 00:10:33,140
+Thinking, dins d'aquests paquets
+
+277
+00:10:33,140 --> 00:10:34,740
+JSON que t'arriben en temps real.
+
+278
+00:10:35,400 --> 00:10:37,000
+Llavors, mentre el model
+
+279
+00:10:37,000 --> 00:10:39,060
+està rumiant el problema, només
+
+280
+00:10:39,060 --> 00:10:40,780
+emet dades per aquest canal de Thinking.
+
+281
+00:10:41,120 --> 00:10:42,760
+Això permet capturar tota aquella
+
+282
+00:10:42,760 --> 00:10:44,820
+lògica pura i l'exploració d'errors
+
+283
+00:10:44,820 --> 00:10:45,400
+que fa el model.
+
+284
+00:10:45,620 --> 00:10:49,020
+Però, a nivell de disseny d'interfaces, això és un repte
+
+285
+00:10:49,020 --> 00:10:50,200
+enorme per al programador.
+
+286
+00:10:50,500 --> 00:10:52,900
+I tant, has de fer un seguiment de l'estat.
+
+287
+00:10:52,900 --> 00:10:54,500
+O sigui, identificar
+
+288
+00:10:54,740 --> 00:10:56,680
+quan estàs en un estat que en podríem dir
+
+289
+00:10:56,680 --> 00:10:57,560
+Inthinking.
+
+290
+00:10:57,780 --> 00:10:59,760
+Clar, mentre això està actiu, què fas amb el text?
+
+291
+00:10:59,900 --> 00:11:02,540
+Doncs l'agrupes, l'amagues darrere d'aquelles
+
+292
+00:11:02,540 --> 00:11:04,540
+pestanyes desplegables que veus a la pantalla
+
+293
+00:11:04,540 --> 00:11:06,860
+que diuen, el model està pensando.
+
+294
+00:11:07,440 --> 00:11:09,160
+I quan l'api para d'enviar coses
+
+295
+00:11:09,160 --> 00:11:10,300
+pel camp Thinking
+
+296
+00:11:10,300 --> 00:11:12,060
+i passa a la resposta normal,
+
+297
+00:11:12,200 --> 00:11:14,760
+tanca el bloc i comença a mostrar
+
+298
+00:11:14,760 --> 00:11:15,960
+la resposta definitiva.
+
+299
+00:11:16,500 --> 00:11:18,460
+I això és vital, perquè dona una
+
+300
+00:11:18,460 --> 00:11:20,020
+transparència increïble.
+
+301
+00:11:20,660 --> 00:11:22,540
+Pots auditar pas per pas com ha arribat
+
+302
+00:11:22,540 --> 00:11:23,260
+a la conclusió.
+
+303
+00:11:24,740 --> 00:11:26,300
+Auditar el raonament és clau,
+
+304
+00:11:26,740 --> 00:11:28,860
+sobretot quan t'adones d'un petit detall.
+
+305
+00:11:29,460 --> 00:11:31,440
+I és que, per molt llest que sigui,
+
+306
+00:11:32,000 --> 00:11:33,280
+aquest model continua
+
+307
+00:11:33,280 --> 00:11:34,440
+atrapat en el temps.
+
+308
+00:11:35,140 --> 00:11:36,600
+Només sap el que va aprendre
+
+309
+00:11:36,600 --> 00:11:37,900
+durant el seu entrenament.
+
+310
+00:11:38,160 --> 00:11:39,380
+Una entitat aïllada.
+
+311
+00:11:39,540 --> 00:11:40,460
+Completament aïllada.
+
+312
+00:11:41,000 --> 00:11:43,080
+I la necessitat de connectar aquest raonament
+
+313
+00:11:43,080 --> 00:11:44,560
+amb informació d'avui mateix
+
+314
+00:11:44,560 --> 00:11:46,440
+o amb altres programes,
+
+315
+00:11:46,720 --> 00:11:48,680
+això obre la porta al que anomenen
+
+316
+00:11:48,680 --> 00:11:50,300
+la crida de funcions.
+
+317
+00:11:50,800 --> 00:11:52,080
+El famós Tool Calling.
+
+318
+00:11:52,080 --> 00:11:53,760
+Sí, sí, i això canvia tot.
+
+319
+00:11:54,740 --> 00:11:56,840
+I es posa i es té clics per internet
+
+320
+00:11:56,840 --> 00:11:57,460
+ella sola.
+
+321
+00:11:57,580 --> 00:11:58,960
+No, no, per res.
+
+322
+00:11:59,120 --> 00:12:01,600
+Jo ho veig més aviat com tenir, no sé,
+
+323
+00:12:02,240 --> 00:12:03,440
+una estratègia brillant
+
+324
+00:12:03,440 --> 00:12:05,600
+tancat en un búnquer sense finestres.
+
+325
+00:12:05,880 --> 00:12:07,220
+M'agrada molt aquesta imatge.
+
+326
+00:12:07,400 --> 00:12:10,140
+Clar, aquesta estratègia no sap si fora plou
+
+327
+00:12:10,140 --> 00:12:12,320
+o fa sol, però pot passar un paper
+
+328
+00:12:12,320 --> 00:12:13,740
+per sota la porta demanant
+
+329
+00:12:13,740 --> 00:12:15,800
+llegeix el termòmetre de fora
+
+330
+00:12:15,800 --> 00:12:16,880
+i torna amb la xifra.
+
+331
+00:12:17,660 --> 00:12:19,340
+I l'aplicació que estem fent nosaltres
+
+332
+00:12:19,340 --> 00:12:22,300
+és la persona de fora que llegeix el termòmetre
+
+333
+00:12:22,300 --> 00:12:24,300
+i li torna el paper amb els graus.
+
+334
+00:12:24,420 --> 00:12:24,500
+Exacte.
+
+335
+00:12:24,740 --> 00:12:27,800
+És un repartiment de responsabilitats pur.
+
+336
+00:12:28,620 --> 00:12:30,440
+Tècnicament, això comença fins i tot
+
+337
+00:12:30,440 --> 00:12:31,760
+abans de la conversa.
+
+338
+00:12:32,220 --> 00:12:33,980
+El teu programa li diu al model
+
+339
+00:12:33,980 --> 00:12:36,660
+Mira, tens aquestes eines disponibles
+
+340
+00:12:36,660 --> 00:12:38,280
+i ho fa amb un esquema JSON
+
+341
+00:12:38,280 --> 00:12:39,500
+super estricte,
+
+342
+00:12:39,860 --> 00:12:41,300
+definint el nom de la funció
+
+343
+00:12:41,300 --> 00:12:43,260
+i quins paràmetres necessita.
+
+344
+00:12:43,340 --> 00:12:44,960
+I si el model, mentre raona,
+
+345
+00:12:45,380 --> 00:12:46,780
+decideix que necessita el clima?
+
+346
+00:12:46,980 --> 00:12:49,120
+Doncs atura en sec la generació de text,
+
+347
+00:12:49,640 --> 00:12:51,220
+deixa de parlar en llenguatge natural
+
+348
+00:12:51,220 --> 00:12:52,780
+i en comptes de text,
+
+349
+00:12:52,780 --> 00:12:54,600
+l'API es retorna un objecte
+
+350
+00:12:54,740 --> 00:12:55,880
+que es diu toolscalls.
+
+351
+00:12:56,320 --> 00:12:58,660
+És la comanda que deies, el paper per sota la porta.
+
+352
+00:12:59,160 --> 00:13:00,600
+Ah, i què hi diu allà?
+
+353
+00:13:00,720 --> 00:13:02,680
+Et diu quina funció has d'executar
+
+354
+00:13:02,680 --> 00:13:03,760
+i amb quines variables.
+
+355
+00:13:04,380 --> 00:13:05,840
+Llavors la teva aplicació local
+
+356
+00:13:05,840 --> 00:13:07,540
+executa el codi de veritat,
+
+357
+00:13:07,700 --> 00:13:09,080
+obté els graus que fa fora
+
+358
+00:13:09,080 --> 00:13:10,920
+i fa una nova petició a l'API
+
+359
+00:13:10,920 --> 00:13:12,480
+afegint la dada a l'historial
+
+360
+00:13:12,480 --> 00:13:13,840
+amb el rol de tool.
+
+361
+00:13:14,220 --> 00:13:17,300
+I llavors el model ja pot respondre amb base a la realitat.
+
+362
+00:13:17,880 --> 00:13:19,640
+Però, a veure, un moment, un moment.
+
+363
+00:13:19,980 --> 00:13:20,380
+Digues.
+
+364
+00:13:20,380 --> 00:13:22,100
+Si jo estic dissenyant un sistema
+
+365
+00:13:22,100 --> 00:13:24,660
+on dono llibertat al model de demanar dades,
+
+366
+00:13:24,740 --> 00:13:26,180
+avaluar resultat
+
+367
+00:13:26,180 --> 00:13:28,300
+i si no li agrada demanar una altra eina
+
+368
+00:13:28,300 --> 00:13:29,180
+de forma autònoma,
+
+369
+00:13:30,000 --> 00:13:32,280
+no estic creant una bomba de rellotgeria?
+
+370
+00:13:32,800 --> 00:13:34,540
+O sigui, un bucle infinit?
+
+371
+00:13:35,060 --> 00:13:36,940
+El model es podria confondre,
+
+372
+00:13:37,240 --> 00:13:38,980
+començar a demanar coses sense sentit,
+
+373
+00:13:39,300 --> 00:13:39,900
+repetidament,
+
+374
+00:13:40,220 --> 00:13:42,440
+i penjar l'ordinador esgotant tots els recursos.
+
+375
+00:13:42,820 --> 00:13:43,400
+Totalment.
+
+376
+00:13:43,820 --> 00:13:45,920
+El que descriu s'anomena bucle de gens,
+
+377
+00:13:46,080 --> 00:13:46,920
+els agent loops,
+
+378
+00:13:46,920 --> 00:13:48,760
+i és un maldecap constant
+
+379
+00:13:48,760 --> 00:13:50,200
+en la indústria ara mateix.
+
+380
+00:13:50,720 --> 00:13:52,780
+I la solució recau 100%
+
+381
+00:13:52,780 --> 00:13:54,380
+en qui programa l'aplicació.
+
+382
+00:13:54,740 --> 00:13:56,200
+Ollama no et protegeix d'això?
+
+383
+00:13:56,660 --> 00:13:56,880
+No.
+
+384
+00:13:57,300 --> 00:13:59,500
+L'API només posa la via de comunicació.
+
+385
+00:13:59,960 --> 00:14:02,480
+Tu has d'imposar la disciplina en el codi extern.
+
+386
+00:14:02,860 --> 00:14:05,080
+Has de definir les esquemes de les funcions
+
+387
+00:14:05,080 --> 00:14:06,720
+amb descripcions claríssimes
+
+388
+00:14:06,720 --> 00:14:08,280
+perquè la IA no es confongui.
+
+389
+00:14:08,780 --> 00:14:10,520
+I, sobretot, i això és imperatiu,
+
+390
+00:14:10,880 --> 00:14:13,780
+has de posar un límit màxim d'iteracions al teu codi.
+
+391
+00:14:13,940 --> 00:14:15,700
+Un tall per si es torna boic.
+
+392
+00:14:15,700 --> 00:14:16,120
+Clar.
+
+393
+00:14:16,760 --> 00:14:18,440
+Si el model demana eines, no sé,
+
+394
+00:14:18,640 --> 00:14:19,720
+cinc vegades seguides
+
+395
+00:14:19,720 --> 00:14:22,180
+sense generar una resposta final per a l'usuari,
+
+396
+00:14:22,640 --> 00:14:24,700
+el teu sistema ha de tallar el procés allà mateix,
+
+397
+00:14:24,740 --> 00:14:26,120
+i llançar un error humà.
+
+398
+00:14:26,560 --> 00:14:26,980
+D'acord.
+
+399
+00:14:27,520 --> 00:14:29,540
+Però encara hi ha un altre repte.
+
+400
+00:14:30,060 --> 00:14:31,500
+Si el meu sistema informàtic
+
+401
+00:14:31,500 --> 00:14:33,820
+espera arregrar el famós tool calls
+
+402
+00:14:33,820 --> 00:14:35,740
+amb un format JSON perfecte
+
+403
+00:14:36,440 --> 00:14:37,880
+d'aparells de dades,
+
+404
+00:14:38,480 --> 00:14:40,040
+però el model, per algun motiu,
+
+405
+00:14:40,160 --> 00:14:41,660
+es posa a xerrar i em respon
+
+406
+00:14:41,660 --> 00:14:43,920
+m'agradaria fer servir l'eina del clima
+
+407
+00:14:43,920 --> 00:14:45,160
+per midar el temps a Barcelona.
+
+408
+00:14:45,800 --> 00:14:46,780
+El teu programa peta.
+
+409
+00:14:47,580 --> 00:14:48,100
+Immediatament.
+
+410
+00:14:48,500 --> 00:14:48,780
+Peta.
+
+411
+00:14:49,220 --> 00:14:50,880
+Clar, perquè no entén el text humà.
+
+412
+00:14:51,180 --> 00:14:51,720
+Espera codi.
+
+413
+00:14:52,380 --> 00:14:53,180
+Com ho evitem, això?
+
+414
+00:14:53,780 --> 00:14:54,720
+Aquí és un entrant
+
+415
+00:14:54,740 --> 00:14:56,500
+a les sortides estructurades,
+
+416
+00:14:56,660 --> 00:14:58,120
+o Structured Outputs.
+
+417
+00:14:58,600 --> 00:14:59,560
+Pots configurar l'API
+
+418
+00:14:59,560 --> 00:15:01,420
+exigint un esquema JSON concret.
+
+419
+00:15:01,820 --> 00:15:03,540
+I el que fa l'API per sota és brutal,
+
+420
+00:15:03,900 --> 00:15:05,400
+perquè restringeix físicament
+
+421
+00:15:05,400 --> 00:15:07,520
+l'espai de tòquens que el model pot generar.
+
+422
+00:15:08,160 --> 00:15:09,400
+O sigui, no el deixa xerrar?
+
+423
+00:15:09,760 --> 00:15:11,880
+L'impedeix generar xerrameca innecessària.
+
+424
+00:15:12,120 --> 00:15:13,660
+L'obliga a encaixar la seva resposta
+
+425
+00:15:13,660 --> 00:15:16,060
+explosivament dins del format que tu li has demanat.
+
+426
+00:15:16,360 --> 00:15:18,360
+Les guies també parlen molt d'eines de validació,
+
+427
+00:15:18,480 --> 00:15:19,660
+com Paidantic o Zot.
+
+428
+00:15:19,780 --> 00:15:21,600
+Sí, sí, absolutament vitals.
+
+429
+00:15:21,920 --> 00:15:22,900
+Per a qui no ho conegueix,
+
+430
+00:15:22,900 --> 00:15:24,400
+jo me les imagino com...
+
+431
+00:15:24,740 --> 00:15:28,060
+porters de discoteca molt, molt estrictes.
+
+432
+00:15:28,620 --> 00:15:29,940
+Bona comparació.
+
+433
+00:15:30,660 --> 00:15:32,900
+Quan el model genera el format JSON,
+
+434
+00:15:33,400 --> 00:15:34,920
+aquests porters l'inspeccionen.
+
+435
+00:15:35,580 --> 00:15:36,700
+Si esperaven un número,
+
+436
+00:15:36,940 --> 00:15:39,220
+però arriba un text o falta una variable,
+
+437
+00:15:39,740 --> 00:15:41,320
+retgeixen l'entrada de cop.
+
+438
+00:15:41,680 --> 00:15:43,640
+No deixen passar dades mal formades
+
+439
+00:15:43,640 --> 00:15:44,860
+a la resta de l'aplicació.
+
+440
+00:15:45,220 --> 00:15:45,460
+Mai.
+
+441
+00:15:45,900 --> 00:15:48,000
+I si combines això amb la temperatura zero
+
+442
+00:15:48,000 --> 00:15:48,820
+que dèiem abans?
+
+443
+00:15:49,060 --> 00:15:51,200
+Tens un sistema hiperdeterminista,
+
+444
+00:15:51,500 --> 00:15:54,200
+robusta i funcionant 100% a la teva màquina.
+
+445
+00:15:54,200 --> 00:15:55,960
+Això és impressionant.
+
+446
+00:15:56,440 --> 00:15:58,340
+Converter Sollama en una eina increïble
+
+447
+00:15:58,340 --> 00:15:59,940
+per crear aplicacions des de zero.
+
+448
+00:16:00,220 --> 00:16:01,680
+Però aquí hi ha un elefant a l'habitació.
+
+449
+00:16:01,980 --> 00:16:04,580
+A la indústria hi ha milions i milions de línies de codi
+
+450
+00:16:04,580 --> 00:16:06,700
+que ja estan escrites específicament
+
+451
+00:16:06,700 --> 00:16:07,720
+per a l'API d'OpenAI.
+
+452
+00:16:08,060 --> 00:16:08,740
+Uf, sí.
+
+453
+00:16:09,280 --> 00:16:09,720
+De tot.
+
+454
+00:16:10,540 --> 00:16:12,340
+Automatitzacions, atenció al client...
+
+455
+00:16:12,340 --> 00:16:15,080
+Clar, anar ara als programadors i dir-los
+
+456
+00:16:15,080 --> 00:16:18,260
+Ei, reescriviu-ho tot per al format d'Ullama.
+
+457
+00:16:18,600 --> 00:16:20,300
+Doncs no ho farà ningú.
+
+458
+00:16:20,720 --> 00:16:21,980
+És una fricció massa gran.
+
+459
+00:16:21,980 --> 00:16:23,880
+I per això mateix la gent d'Ullama
+
+460
+00:16:23,880 --> 00:16:25,980
+va tenir una visió estratègica genial.
+
+461
+00:16:26,560 --> 00:16:29,140
+Han creat un autèntic cavall de troia corporatiu
+
+462
+00:16:29,140 --> 00:16:30,620
+amb el seu endpoint d'UVU.
+
+463
+00:16:30,800 --> 00:16:33,040
+A la documentació diu que és una capa
+
+464
+00:16:33,040 --> 00:16:34,580
+d'emulació directa d'OpenAI.
+
+465
+00:16:35,020 --> 00:16:36,940
+Com s'ho fa per enganyar el codi vell?
+
+466
+00:16:37,160 --> 00:16:39,840
+Actua com un traductor simultani, rapidíssim.
+
+467
+00:16:40,220 --> 00:16:43,100
+Quan un programa fa servir la llibreria oficial d'OpenAI,
+
+468
+00:16:43,560 --> 00:16:46,220
+envia un paquet de dades preparat pels servidors d'ells.
+
+469
+00:16:46,640 --> 00:16:48,980
+Però com a desenvolupador l'única cosa que has de fer
+
+470
+00:16:48,980 --> 00:16:51,600
+és canviar la URL base i posar-la al localhost
+
+471
+00:16:51,600 --> 00:16:53,000
+amb el port 11434.
+
+472
+00:16:53,400 --> 00:16:53,860
+I ja està.
+
+473
+00:16:53,880 --> 00:16:56,760
+I posar una clau d'API inventada, falsa.
+
+474
+00:16:56,940 --> 00:16:57,260
+Que bo.
+
+475
+00:16:57,500 --> 00:16:59,840
+Llavors, quan Ullama rep això al B1,
+
+476
+00:17:00,380 --> 00:17:01,900
+agafa l'estructura d'OpenAI,
+
+477
+00:17:02,360 --> 00:17:03,480
+extreu els paràmetres,
+
+478
+00:17:03,940 --> 00:17:05,300
+els tradueix el seu idioma,
+
+479
+00:17:05,820 --> 00:17:07,780
+executa el model que tinguis en local
+
+480
+00:17:07,780 --> 00:17:09,760
+i empaquetar la resposta
+
+481
+00:17:09,760 --> 00:17:12,660
+recreant l'involcatge exacte que donaria OpenAI.
+
+482
+00:17:13,280 --> 00:17:15,780
+De manera que el teu programa creu que està parlant
+
+483
+00:17:15,780 --> 00:17:18,180
+amb un servidor caríssim de Califòrnia,
+
+484
+00:17:18,700 --> 00:17:20,640
+però està xerrant amb la targeta gràfica
+
+485
+00:17:20,640 --> 00:17:21,660
+que tens sota la taula.
+
+486
+00:17:22,140 --> 00:17:22,640
+Exacte.
+
+487
+00:17:22,640 --> 00:17:23,600
+No hi ha cap diferència
+
+488
+00:17:23,600 --> 00:17:24,300
+per al programa.
+
+489
+00:17:24,920 --> 00:17:26,820
+I atenció, perquè això no només serveix
+
+490
+00:17:26,820 --> 00:17:27,680
+per generar text.
+
+491
+00:17:28,180 --> 00:17:30,440
+He vist a les guies que amulen fins i tot
+
+492
+00:17:30,440 --> 00:17:32,320
+la generació de vectors incrustats,
+
+493
+00:17:32,600 --> 00:17:33,540
+allò dels embeddings.
+
+494
+00:17:33,940 --> 00:17:35,840
+Oh, això és molt important per al RAC.
+
+495
+00:17:36,160 --> 00:17:39,000
+Sí, la generació augmentada per recuperació.
+
+496
+00:17:39,620 --> 00:17:40,360
+Simplificant molt,
+
+497
+00:17:40,460 --> 00:17:42,020
+per si algú s'ha perdut amb les sigles,
+
+498
+00:17:42,440 --> 00:17:45,380
+és allò de convertir milars de documents teus,
+
+499
+00:17:45,500 --> 00:17:46,060
+personals,
+
+500
+00:17:46,460 --> 00:17:48,060
+en coordenades matemàtiques.
+
+501
+00:17:48,640 --> 00:17:49,720
+I quan fas una pregunta,
+
+502
+00:17:50,140 --> 00:17:51,600
+busca el fragment més rellevant
+
+503
+00:17:51,600 --> 00:17:52,720
+i l'afegeix al context.
+
+504
+00:17:52,720 --> 00:17:55,240
+Que això es pugui fer completament en local,
+
+505
+00:17:55,600 --> 00:17:56,420
+emulant el núvol,
+
+506
+00:17:56,860 --> 00:17:58,900
+és tancar el cercle de la privacitat, oi?
+
+507
+00:17:59,500 --> 00:17:59,980
+Totalment.
+
+508
+00:18:00,140 --> 00:18:01,760
+I no es queda només amb opanellar, eh?
+
+509
+00:18:01,940 --> 00:18:04,920
+També s'estan començant a emular els formats d'antròpic.
+
+510
+00:18:05,340 --> 00:18:07,620
+Vull dir, pots agafar eines d'assistència
+
+511
+00:18:07,620 --> 00:18:08,720
+a la programació avançadíssimes,
+
+512
+00:18:09,500 --> 00:18:10,420
+com CloudCode,
+
+513
+00:18:10,960 --> 00:18:12,720
+i enganyar-les perquè funcionin completament
+
+514
+00:18:13,280 --> 00:18:15,600
+amb el teu disco dur i el teu model local.
+
+515
+00:18:15,820 --> 00:18:18,500
+Vist amb tota aquesta perspectiva que hem analitzat,
+
+516
+00:18:19,100 --> 00:18:21,720
+ja no estem parlant d'un simple simulador de xat,
+
+517
+00:18:21,720 --> 00:18:24,180
+d'un xatbot divertit per passar l'estona.
+
+518
+00:18:25,040 --> 00:18:26,720
+L'Apidoyama és una infraestructura
+
+519
+00:18:27,460 --> 00:18:29,460
+per orquestrar sistemes autònoms.
+
+520
+00:18:30,060 --> 00:18:31,120
+Pots gestionar la memòria,
+
+521
+00:18:31,660 --> 00:18:33,740
+exigir sortides en JSON rigoroses,
+
+522
+00:18:34,340 --> 00:18:35,920
+emular servidors comercials.
+
+523
+00:18:36,580 --> 00:18:39,160
+És espectacular com no depèn de cap xarxa.
+
+524
+00:18:39,700 --> 00:18:41,340
+Hem esborrat la barrera d'entrada.
+
+525
+00:18:41,940 --> 00:18:43,980
+El poder computacional que fa dos anys
+
+526
+00:18:43,980 --> 00:18:46,420
+demanava un equip sencer d'enginyers de núvol
+
+527
+00:18:46,420 --> 00:18:48,440
+ara està empaquetat en un servei
+
+528
+00:18:48,440 --> 00:18:50,860
+que corre al teu ordinador amb dues comandes.
+
+529
+00:18:50,860 --> 00:18:51,700
+I, precisament,
+
+530
+00:18:51,700 --> 00:18:53,700
+aquesta autonomia em porta a una última reflexió
+
+531
+00:18:54,260 --> 00:18:58,140
+que em va venir al cap llegint els arxius de configuració en Model File.
+
+532
+00:18:58,660 --> 00:19:02,120
+Aquests arxius et permeten incrustar un historial de missatges previ
+
+533
+00:19:02,120 --> 00:19:04,600
+dins del propi model de manera permanent.
+
+534
+00:19:05,620 --> 00:19:07,980
+Llavors, pensem a llarg termi.
+
+535
+00:19:08,380 --> 00:19:10,640
+Què passaria si algú dissenya un sistema
+
+536
+00:19:10,640 --> 00:19:14,020
+que actualitze contínuament aquest Model File,
+
+537
+00:19:14,520 --> 00:19:17,640
+que cada dia hi afegeixi un resum de les teves interaccions,
+
+538
+00:19:18,020 --> 00:19:20,520
+les teves decisions vitals o reflexions?
+
+539
+00:19:20,520 --> 00:19:20,580
+És un sistema que és molt important.
+
+540
+00:19:20,580 --> 00:19:20,640
+I, per tant,
+
+541
+00:19:20,640 --> 00:19:20,680
+és un sistema que és molt important.
+
+542
+00:19:20,680 --> 00:19:20,740
+I, per tant,
+
+543
+00:19:20,740 --> 00:19:20,760
+és un sistema que és molt important.
+
+544
+00:19:20,760 --> 00:19:20,780
+I, per tant,
+
+545
+00:19:20,780 --> 00:19:20,880
+és un sistema que és molt important.
+
+546
+00:19:20,880 --> 00:19:20,900
+I, per tant,
+
+547
+00:19:20,900 --> 00:19:20,920
+és un sistema que és molt important.
+
+548
+00:19:20,920 --> 00:19:20,980
+És un sistema que és molt important.
+
+549
+00:19:20,980 --> 00:19:22,000
+Any rere any.
+
+550
+00:19:22,320 --> 00:19:25,540
+Tot això sense dependre d'empreses que llegeixin les teves dades,
+
+551
+00:19:25,920 --> 00:19:28,120
+perquè només viu al teu port 11.434.
+
+552
+00:19:28,640 --> 00:19:30,420
+És una perspectiva superprofunda.
+
+553
+00:19:31,020 --> 00:19:35,060
+Estaries construint pràcticament un repositori d'aprenentatge acumulat
+
+554
+00:19:35,060 --> 00:19:35,960
+que creix amb tu.
+
+555
+00:19:36,640 --> 00:19:40,340
+O sigui, encapsular el teu context vital dins del model.
+
+556
+00:19:40,600 --> 00:19:40,860
+Clar.
+
+557
+00:19:41,560 --> 00:19:42,760
+Ja no descarregues un programa.
+
+558
+00:19:43,400 --> 00:19:46,400
+Estàs plantant la llavor d'una extensió cognitiva pròpia,
+
+559
+00:19:46,820 --> 00:19:48,820
+un segon cervell privat que aprèn,
+
+560
+00:19:49,200 --> 00:19:50,400
+iteració en reiteració,
+
+561
+00:19:50,400 --> 00:19:50,480
+per fer-ho.
+
+562
+00:19:50,480 --> 00:19:50,500
+Per fer-ho.
+
+563
+00:19:50,500 --> 00:19:50,560
+Per fer-ho.
+
+564
+00:19:50,560 --> 00:19:50,620
+Per fer-ho.
+
+565
+00:19:50,620 --> 00:19:50,680
+Per fer-ho.
+
+566
+00:19:50,680 --> 00:19:50,700
+Per fer-ho.
+
+567
+00:19:50,700 --> 00:19:50,740
+Per fer-ho.
+
+568
+00:19:50,740 --> 00:19:51,100
+Per fer-ho.
+
+569
+00:19:51,100 --> 00:19:51,180
+Per fer-ho.
+
+570
+00:19:51,180 --> 00:19:51,180
+
+
+571
+00:19:51,180 --> 00:19:51,220
+Per fer-ho.
+
+572
+00:19:51,220 --> 00:19:51,260
+Per fer-ho.
+
+573
+00:19:51,260 --> 00:19:51,320
+Per fer-ho.
+
+574
+00:19:51,320 --> 00:19:51,400
+Per fer-ho.
+
+575
+00:19:51,400 --> 00:19:51,420
+Per fer-ho.
+
+576
+00:19:51,420 --> 00:19:51,800
+Per fer-ho.
+
+577
+00:19:51,800 --> 00:19:54,640
+I la tecnologia base ja la tenim a l'escriptori.
+
+578
+00:19:55,700 --> 00:19:56,100
+Absolutament.
+
+579
+00:19:56,320 --> 00:19:57,840
+Doncs amb aquesta idea us deixem avui.
+
+580
+00:19:58,360 --> 00:20:01,720
+Moltes gràcies per acompanyar-nos en aquesta desconstrucció de l'àpido llama.
+
+581
+00:20:02,240 --> 00:20:03,960
+Ens retrobem a la pròxima anàlisi a fons.
+

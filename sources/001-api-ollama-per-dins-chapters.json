@@ -1,0 +1,16 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 1: Com funciona l'API d'Ollama per dins",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: IA privada i local" },
+    { "startTime": 104.5, "title": "Gestió de recursos: GPU, CPU i fragmentació de models" },
+    { "startTime": 253.5, "title": "Endpoints: Generate vs Chat" },
+    { "startTime": 411.7, "title": "Paràmetres de control: temperatura, top_k i top_p" },
+    { "startTime": 518.1, "title": "Streaming en temps real i NDJSON" },
+    { "startTime": 708.7, "title": "Tool Calling: connectar la IA amb el món real" },
+    { "startTime": 896.7, "title": "Sortides estructurades i validació" },
+    { "startTime": 960.2, "title": "Emulació d'OpenAI: el cavall de Troia d'Ollama" },
+    { "startTime": 1131.7, "title": "Reflexió final: extensió cognitiva pròpia" }
+  ]
+}
