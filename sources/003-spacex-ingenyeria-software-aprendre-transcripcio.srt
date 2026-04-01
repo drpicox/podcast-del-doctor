@@ -1,0 +1,4496 @@
+1
+00:00:00,000 --> 00:00:02,240
+Hola a tothom, benvinguts a la nostra dita d'avui.
+
+2
+00:00:02,620 --> 00:00:02,940
+Sí.
+
+3
+00:00:03,320 --> 00:00:05,940
+I parlarem de desenvolupament test-driven.
+
+4
+00:00:06,400 --> 00:00:06,780
+TDD.
+
+5
+00:00:07,120 --> 00:00:07,740
+TDD, sí.
+
+6
+00:00:07,920 --> 00:00:10,160
+T'has enviat un munt d'insights de la YouTube de Dave Farley.
+
+7
+00:00:11,360 --> 00:00:11,600
+Sí.
+
+8
+00:00:12,160 --> 00:00:16,840
+I he de dir que estic bastant curiós d'aquest tema.
+
+9
+00:00:17,080 --> 00:00:17,300
+Sí.
+
+10
+00:00:17,800 --> 00:00:22,600
+Sembla que TDD sigui una d'aquestes coses que la gent o realment estimen o completament evoquen.
+
+11
+00:00:23,440 --> 00:00:25,400
+Per què hi ha una reacció tan forta d'eixos?
+
+12
+00:00:25,920 --> 00:00:26,980
+És fascinant, no?
+
+13
+00:00:26,980 --> 00:00:29,600
+I és una cosa que la gent té opinions molt fortes sobre.
+
+14
+00:00:29,600 --> 00:00:33,760
+I crec que la cosa que està passant allà és que la gent sovint no entén
+
+15
+00:00:33,760 --> 00:00:35,900
+quina és la idea corell d'TDD.
+
+16
+00:00:36,040 --> 00:00:38,180
+Tindrem una mirada en detall a la perspectiva de Dave Farley
+
+17
+00:00:38,180 --> 00:00:40,140
+per entendre per què ho és.
+
+18
+00:00:40,200 --> 00:00:40,340
+Sí.
+
+19
+00:00:40,740 --> 00:00:43,920
+Sembla que moltes vegades la gent pensi que TDD és només sobre testar.
+
+20
+00:00:43,980 --> 00:00:44,280
+Sí.
+
+21
+00:00:44,420 --> 00:00:47,040
+Però Dave Farley realment enfatitza que és més que això.
+
+22
+00:00:47,100 --> 00:00:48,140
+Sí, absolutament.
+
+23
+00:00:48,600 --> 00:00:52,560
+La manera com Dave Farley la descriu és que TDD és una tècnica de designació.
+
+24
+00:00:52,840 --> 00:00:56,780
+És sobre utilitzar testes com a tool per ajudar-te a designar la teva software.
+
+25
+00:00:57,240 --> 00:00:59,520
+Usa aquesta bonica anàlisi d'un carpenter
+
+26
+00:00:59,520 --> 00:00:59,580
+que es diu TDD.
+
+27
+00:00:59,600 --> 00:01:00,460
+Usa una tècnica de T.
+
+28
+00:01:01,220 --> 00:01:03,860
+No és sobre restricció de la creativitat del carpenter,
+
+29
+00:01:03,980 --> 00:01:06,400
+és sobre ajudar-los a fer que les coses que estan construint
+
+30
+00:01:06,400 --> 00:01:08,740
+siguin square i veres.
+
+31
+00:01:08,920 --> 00:01:09,580
+És un punt molt bé.
+
+32
+00:01:09,920 --> 00:01:11,320
+No és sobre limitar-te,
+
+33
+00:01:11,400 --> 00:01:14,380
+és sobre ajudar-te a crear una cosa que sigui ben estructurada.
+
+34
+00:01:14,520 --> 00:01:14,740
+És clar.
+
+35
+00:01:15,020 --> 00:01:17,480
+I és aquí on ve el famós cicle de refactor de la red-verda.
+
+36
+00:01:18,240 --> 00:01:20,020
+Ok, he sentit això, però, a ser honest,
+
+37
+00:01:20,560 --> 00:01:21,800
+no estic gaire segur que ho entendi.
+
+38
+00:01:21,960 --> 00:01:22,900
+És, en realitat, gairebé straightforward.
+
+39
+00:01:23,520 --> 00:01:25,020
+La manera com funciona és que escrius un test
+
+40
+00:01:25,020 --> 00:01:27,060
+que descriu què vols que el teu codi faci.
+
+41
+00:01:27,820 --> 00:01:29,480
+I, és clar, perquè no has escrit el codi encara,
+
+42
+00:01:29,480 --> 00:01:31,080
+el test farà malament, i és la fase roja.
+
+43
+00:01:31,600 --> 00:01:34,420
+Aleshores, escrius prou codi per fer que el test passi.
+
+44
+00:01:34,500 --> 00:01:34,760
+Ok.
+
+45
+00:01:34,920 --> 00:01:35,540
+Aquesta és la fase verd.
+
+46
+00:01:36,240 --> 00:01:38,360
+I, a la fi, refactores,
+
+47
+00:01:38,360 --> 00:01:41,640
+que vol dir millorar la estructura i la llegibilitat del codi
+
+48
+00:01:41,640 --> 00:01:43,080
+sense canviar el seu comportament.
+
+49
+00:01:43,580 --> 00:01:45,100
+Així és com un cicle de feedback constant
+
+50
+00:01:45,100 --> 00:01:47,280
+on sempre refines i millores.
+
+51
+00:01:47,600 --> 00:01:47,780
+Sí.
+
+52
+00:01:47,820 --> 00:01:49,600
+Sembla que això podria ser una manera molt efectiva
+
+53
+00:01:49,600 --> 00:01:52,220
+de construir sistemes complexos.
+
+54
+00:01:52,780 --> 00:01:55,240
+Però, ¿aquest aproach ajuda a evitar
+
+55
+00:01:55,240 --> 00:01:59,220
+aquelles bases de codi que som tots veus?
+
+56
+00:01:59,220 --> 00:02:00,040
+Absolutament.
+
+57
+00:02:00,240 --> 00:02:00,840
+Realment ho fa.
+
+58
+00:02:01,080 --> 00:02:03,100
+Una de les maneres en què ho fa és que actua
+
+59
+00:02:03,100 --> 00:02:05,700
+com un tipus d'escenari d'abans per a les faltes de design.
+
+60
+00:02:06,200 --> 00:02:09,400
+Així que, si trobes un test difícil de escriure,
+
+61
+00:02:09,580 --> 00:02:11,880
+és sovint un signo que el teu design és too complex
+
+62
+00:02:11,880 --> 00:02:13,300
+o too tightly coupled.
+
+63
+00:02:13,720 --> 00:02:15,700
+¿Pots explicar què vol dir coupling en aquest context?
+
+64
+00:02:15,860 --> 00:02:16,900
+Jo crec que alguns dels nostres espectadors
+
+65
+00:02:16,900 --> 00:02:17,820
+no estarien familiaritzats amb això.
+
+66
+00:02:17,840 --> 00:02:19,260
+Llavors, coupling i software design
+
+67
+00:02:19,260 --> 00:02:21,700
+refereixen a com molt de diferents parts del teu codi
+
+68
+00:02:21,700 --> 00:02:22,460
+depenen d'un altre.
+
+69
+00:02:22,760 --> 00:02:23,020
+Ok.
+
+70
+00:02:23,360 --> 00:02:26,260
+High coupling vol dir que canvis en una part del teu codi
+
+71
+00:02:26,260 --> 00:02:27,920
+són possibles de trencar coses en altres parts.
+
+72
+00:02:27,920 --> 00:02:29,200
+I això fa que el teu codi
+
+73
+00:02:29,220 --> 00:02:30,840
+sigui difícil de mantenir i canviar.
+
+74
+00:02:30,980 --> 00:02:31,240
+D'acord.
+
+75
+00:02:31,560 --> 00:02:34,220
+TDD et encoratja a pensar sobre aquestes dependències
+
+76
+00:02:34,220 --> 00:02:35,120
+des del principi
+
+77
+00:02:35,120 --> 00:02:36,560
+i a designar el teu codi
+
+78
+00:02:36,560 --> 00:02:38,760
+en una manera més mòdula i lússament coupleda.
+
+79
+00:02:39,100 --> 00:02:40,200
+D'acord. Això fa sens.
+
+80
+00:02:40,340 --> 00:02:42,060
+Així que TDD et ajuda a trobar
+
+81
+00:02:42,060 --> 00:02:43,480
+aquests problemes potencials a l'abans.
+
+82
+00:02:44,180 --> 00:02:44,780
+Exactament.
+
+83
+00:02:45,040 --> 00:02:46,900
+I en dona un gran exemple d'això.
+
+84
+00:02:47,120 --> 00:02:49,000
+En parla d'encontrar un test
+
+85
+00:02:49,000 --> 00:02:50,880
+que requereix un servei d'encontrar Jenkins
+
+86
+00:02:50,880 --> 00:02:51,760
+per a que es reuneixi
+
+87
+00:02:51,760 --> 00:02:54,020
+només per a mirar per host local en una URL.
+
+88
+00:02:54,420 --> 00:02:55,820
+Uau, això sembla una mica extrem.
+
+89
+00:02:55,820 --> 00:02:58,400
+És un signo clar que alguna cosa no està bé
+
+90
+00:02:58,400 --> 00:02:59,120
+amb el design.
+
+91
+00:02:59,220 --> 00:03:01,120
+Sí, puc veure com una situació com aquesta
+
+92
+00:03:01,120 --> 00:03:02,640
+pot ser ràpidament un malament per gestionar.
+
+93
+00:03:02,940 --> 00:03:04,360
+És com intentar construir una casa
+
+94
+00:03:04,360 --> 00:03:06,820
+on cada lloc és connectat a cada altra lloc
+
+95
+00:03:06,820 --> 00:03:08,280
+amb no hi hagi separació clara.
+
+96
+00:03:08,580 --> 00:03:11,340
+Seria increïble de fer canvis
+
+97
+00:03:11,340 --> 00:03:13,260
+o fixar problemes sense afectar
+
+98
+00:03:13,260 --> 00:03:13,900
+tot el que altres.
+
+99
+00:03:14,360 --> 00:03:16,800
+I TDD et ajuda a evitar aquest tipus
+
+100
+00:03:16,800 --> 00:03:18,600
+d'arquitectura messa en el teu codi.
+
+101
+00:03:19,180 --> 00:03:20,340
+Així que com això s'acorda
+
+102
+00:03:20,340 --> 00:03:22,900
+amb la idea de TDD com a design?
+
+103
+00:03:23,440 --> 00:03:25,260
+Bé, si penses en aquests 5
+
+104
+00:03:25,260 --> 00:03:27,380
+qualitats de codi ben designat que el menciona,
+
+105
+00:03:28,080 --> 00:03:29,140
+modularitat, cohesió,
+
+106
+00:03:29,220 --> 00:03:30,420
+separació de preocupacions,
+
+107
+00:03:30,420 --> 00:03:31,940
+abstracció i poca combinació,
+
+108
+00:03:31,940 --> 00:03:34,040
+aquestes són totes qualitats que es van emergir
+
+109
+00:03:34,040 --> 00:03:35,560
+naturalment quan practiques TDD.
+
+110
+00:03:36,180 --> 00:03:37,340
+Perquè estàs constantment pensant
+
+111
+00:03:37,340 --> 00:03:38,380
+sobre com escriure codi testable,
+
+112
+00:03:38,760 --> 00:03:40,080
+ets forçat a fer choices de design
+
+113
+00:03:40,080 --> 00:03:41,360
+que suporten aquestes qualitats.
+
+114
+00:03:41,700 --> 00:03:41,960
+Entenc.
+
+115
+00:03:42,080 --> 00:03:43,060
+Així que no és com si TDD
+
+116
+00:03:43,060 --> 00:03:45,040
+fos una activitat separada de la designació.
+
+117
+00:03:45,100 --> 00:03:45,340
+Sí.
+
+118
+00:03:45,620 --> 00:03:46,940
+És actualment basat en l'entorn
+
+119
+00:03:46,940 --> 00:03:47,460
+de la desenvolupament.
+
+120
+00:03:48,020 --> 00:03:48,280
+És clar.
+
+121
+00:03:48,780 --> 00:03:49,600
+I aquesta és una de les raons
+
+122
+00:03:49,600 --> 00:03:50,920
+per les quals pot ser tan poderosa.
+
+123
+00:03:51,060 --> 00:03:52,460
+No és només sobre adicionar testos
+
+124
+00:03:52,460 --> 00:03:53,160
+després de la factura,
+
+125
+00:03:53,160 --> 00:03:55,280
+és sobre utilitzar testos com a tool
+
+126
+00:03:55,280 --> 00:03:56,720
+per guanyar i shapear el design
+
+127
+00:03:56,720 --> 00:03:57,340
+de la teva software
+
+128
+00:03:57,340 --> 00:03:58,160
+des del primer moment.
+
+129
+00:03:58,620 --> 00:04:00,040
+Això ja m'està fent resoldre
+
+130
+00:04:00,040 --> 00:04:01,100
+com aprofito la desenvolupament.
+
+131
+00:04:01,540 --> 00:04:02,760
+Em sembla que TDD
+
+132
+00:04:02,760 --> 00:04:04,000
+podria ser molt valible
+
+133
+00:04:04,000 --> 00:04:05,000
+per a construir una software
+
+134
+00:04:05,000 --> 00:04:06,200
+més robusta i mantenible.
+
+135
+00:04:07,340 --> 00:04:08,700
+Però què tal l'argument
+
+136
+00:04:08,700 --> 00:04:10,500
+que TDD tancarà la desenvolupament?
+
+137
+00:04:11,120 --> 00:04:12,780
+M'imagino que escriure tots aquests tests
+
+138
+00:04:12,780 --> 00:04:13,240
+a l'abast
+
+139
+00:04:13,240 --> 00:04:14,440
+podria demanar molt d'extra temps.
+
+140
+00:04:14,980 --> 00:04:15,740
+Aquesta és una preocupació molt común
+
+141
+00:04:15,740 --> 00:04:17,560
+i definitivament en parlarem més.
+
+142
+00:04:17,740 --> 00:04:18,380
+Però primer,
+
+143
+00:04:18,380 --> 00:04:19,220
+fem una visió més proactiva
+
+144
+00:04:19,220 --> 00:04:20,380
+a l'idea de desenvolupament
+
+145
+00:04:20,380 --> 00:04:20,380
+
+
+146
+00:04:21,240 --> 00:04:21,860
+o BDD,
+
+147
+00:04:22,140 --> 00:04:24,240
+que es basa en els principis de TDD.
+
+148
+00:04:24,520 --> 00:04:26,720
+Ok, doncs BDD és relacionat amb PDD.
+
+149
+00:04:26,840 --> 00:04:27,040
+Sí.
+
+150
+00:04:27,340 --> 00:04:29,160
+Pots pensar-te-ho com una evolució de TDD
+
+151
+00:04:29,160 --> 00:04:30,460
+on el focus s'escapa
+
+152
+00:04:30,460 --> 00:04:31,900
+encara més cap al comportament
+
+153
+00:04:31,900 --> 00:04:32,480
+de la software
+
+154
+00:04:32,480 --> 00:04:33,220
+des del punt de vista dels users.
+
+155
+00:04:34,060 --> 00:04:34,560
+Interessant.
+
+156
+00:04:34,660 --> 00:04:35,720
+Aleshores, com funciona BDD
+
+157
+00:04:35,720 --> 00:04:37,160
+en el procés?
+
+158
+00:04:37,280 --> 00:04:38,020
+Què fa que sigui diferent
+
+159
+00:04:38,020 --> 00:04:39,300
+de escriure tests de unites regulars?
+
+160
+00:04:40,160 --> 00:04:41,760
+BDD és tot sobre
+
+161
+00:04:41,760 --> 00:04:42,700
+fer aquests tests
+
+162
+00:04:42,700 --> 00:04:43,700
+més legibles per a la humanitat
+
+163
+00:04:43,700 --> 00:04:45,740
+i enfocats en els resultats
+
+164
+00:04:45,740 --> 00:04:46,660
+que l'user s'enviarà.
+
+165
+00:04:47,160 --> 00:04:48,660
+Aleshores, en comptes de escriure un test
+
+166
+00:04:48,660 --> 00:04:49,240
+que diu
+
+167
+00:04:49,240 --> 00:04:50,800
+verifia que el metàl·lit X
+
+168
+00:04:50,800 --> 00:04:52,020
+retorna la valoració Y,
+
+169
+00:04:52,580 --> 00:04:53,560
+escriuries un test que diu
+
+170
+00:04:53,560 --> 00:04:54,220
+una cosa com
+
+171
+00:04:54,220 --> 00:04:55,720
+quan un usuari adició un item
+
+172
+00:04:55,720 --> 00:04:56,560
+a la seva carteta,
+
+173
+00:04:56,640 --> 00:04:57,320
+la carteta total
+
+174
+00:04:57,320 --> 00:04:58,480
+hauria d'update correctament.
+
+175
+00:04:58,660 --> 00:04:59,440
+Això fa molt de sens.
+
+176
+00:04:59,560 --> 00:05:01,100
+És sobre framear aquests tests
+
+177
+00:05:01,100 --> 00:05:02,320
+en termes de històries d'users
+
+178
+00:05:02,320 --> 00:05:03,140
+i escenaris reals.
+
+179
+00:05:03,860 --> 00:05:04,360
+Exacte.
+
+180
+00:05:04,500 --> 00:05:05,100
+I això té
+
+181
+00:05:05,100 --> 00:05:05,760
+uns beneficis
+
+182
+00:05:05,760 --> 00:05:06,320
+molt significats.
+
+183
+00:05:07,180 --> 00:05:07,340
+Sí.
+
+184
+00:05:07,500 --> 00:05:08,400
+Un dels avantatges
+
+185
+00:05:08,400 --> 00:05:09,120
+és que els tests de BDD
+
+186
+00:05:09,120 --> 00:05:10,320
+són molt més fàcils
+
+187
+00:05:10,320 --> 00:05:11,160
+per a la gent no-tècnica
+
+188
+00:05:11,160 --> 00:05:11,900
+d'entendre.
+
+189
+00:05:12,300 --> 00:05:12,560
+D'acord.
+
+190
+00:05:12,720 --> 00:05:13,480
+Aleshores, si treballes
+
+191
+00:05:13,480 --> 00:05:14,840
+en un team amb managers de productes
+
+192
+00:05:14,840 --> 00:05:16,660
+o designers o fins i tot clients,
+
+193
+00:05:16,940 --> 00:05:18,200
+utilitzant una llengua
+
+194
+00:05:18,200 --> 00:05:18,600
+més humana legible
+
+195
+00:05:18,600 --> 00:05:19,960
+per als teus tests
+
+196
+00:05:19,960 --> 00:05:20,760
+pot millorar
+
+197
+00:05:20,760 --> 00:05:21,360
+molt més
+
+198
+00:05:21,360 --> 00:05:22,120
+la comunicació
+
+199
+00:05:22,120 --> 00:05:22,880
+i la col·laboració.
+
+200
+00:05:23,100 --> 00:05:23,460
+D'acord.
+
+201
+00:05:23,880 --> 00:05:24,900
+Aleshores, en comptes de ser
+
+202
+00:05:24,900 --> 00:05:25,480
+un document tècnic
+
+203
+00:05:25,480 --> 00:05:27,020
+que només els desenvolupadors
+
+204
+00:05:27,020 --> 00:05:27,740
+poden decipherar,
+
+205
+00:05:28,140 --> 00:05:28,600
+els tests
+
+206
+00:05:28,600 --> 00:05:29,300
+es tornen una comprensió
+
+207
+00:05:29,300 --> 00:05:30,840
+de com el software
+
+208
+00:05:30,840 --> 00:05:31,380
+ha de comportar.
+
+209
+00:05:31,580 --> 00:05:32,140
+Exacte.
+
+210
+00:05:32,540 --> 00:05:33,080
+Dave Farley
+
+211
+00:05:33,080 --> 00:05:34,120
+parla d'aquesta idea
+
+212
+00:05:34,120 --> 00:05:34,720
+de tornar
+
+213
+00:05:34,720 --> 00:05:35,700
+unes visites
+
+214
+00:05:35,700 --> 00:05:37,260
+en concrets exemples.
+
+215
+00:05:37,360 --> 00:05:37,540
+Oh.
+
+216
+00:05:37,800 --> 00:05:38,180
+Aleshores, comencem
+
+217
+00:05:38,180 --> 00:05:38,900
+per entendre
+
+218
+00:05:38,900 --> 00:05:39,620
+el que l'user
+
+219
+00:05:39,620 --> 00:05:40,380
+vol aconseguir.
+
+220
+00:05:40,640 --> 00:05:40,820
+D'acord.
+
+221
+00:05:40,900 --> 00:05:41,420
+Després defineix
+
+222
+00:05:41,420 --> 00:05:42,360
+escenaris específics
+
+223
+00:05:42,360 --> 00:05:43,580
+que il·lustren aquests objectius.
+
+224
+00:05:44,000 --> 00:05:44,760
+I, finalment,
+
+225
+00:05:44,760 --> 00:05:45,860
+tornes aquests escenaris
+
+226
+00:05:45,860 --> 00:05:47,760
+en especificacions executables,
+
+227
+00:05:48,040 --> 00:05:48,940
+que són els tests de BDD.
+
+228
+00:05:49,720 --> 00:05:50,920
+Són coses que poden ser
+
+229
+00:05:50,920 --> 00:05:51,460
+de manera particular
+
+230
+00:05:51,460 --> 00:05:52,520
+útil quan parles
+
+231
+00:05:52,520 --> 00:05:54,340
+d'interaccions d'users
+
+232
+00:05:54,340 --> 00:05:55,500
+o de workflows.
+
+233
+00:05:56,060 --> 00:05:56,700
+Absolutament.
+
+234
+00:05:57,160 --> 00:05:58,200
+I també et permet
+
+235
+00:05:58,200 --> 00:05:59,220
+evitar escriure
+
+236
+00:05:59,220 --> 00:06:00,480
+testos molt complexos
+
+237
+00:06:00,480 --> 00:06:00,960
+i brits.
+
+238
+00:06:01,720 --> 00:06:02,120
+D'acord.
+
+239
+00:06:02,300 --> 00:06:03,080
+Recordeu com parlàvem
+
+240
+00:06:03,080 --> 00:06:03,580
+de la cúpula?
+
+241
+00:06:04,140 --> 00:06:04,500
+Sí.
+
+242
+00:06:04,620 --> 00:06:05,700
+BDD t'encoratja
+
+243
+00:06:05,700 --> 00:06:06,360
+a focusar
+
+244
+00:06:06,360 --> 00:06:07,000
+en els resultats
+
+245
+00:06:07,000 --> 00:06:07,420
+que importen
+
+246
+00:06:07,420 --> 00:06:08,020
+a l'user
+
+247
+00:06:08,020 --> 00:06:08,980
+en comptes de
+
+248
+00:06:08,980 --> 00:06:09,580
+les detalles
+
+249
+00:06:09,580 --> 00:06:09,640
+internes
+
+250
+00:06:09,640 --> 00:06:10,380
+d'implementació
+
+251
+00:06:10,380 --> 00:06:11,420
+del teu codi.
+
+252
+00:06:11,540 --> 00:06:11,820
+D'acord.
+
+253
+00:06:11,820 --> 00:06:12,960
+I això porta a testar
+
+254
+00:06:12,960 --> 00:06:13,960
+testos que són més robustos
+
+255
+00:06:13,960 --> 00:06:14,660
+i menys probablement
+
+256
+00:06:14,660 --> 00:06:15,060
+de trencar
+
+257
+00:06:15,060 --> 00:06:15,980
+quan fas canvis
+
+258
+00:06:15,980 --> 00:06:16,700
+al codi d'enllaç.
+
+259
+00:06:17,240 --> 00:06:18,140
+Això fa molta sensació.
+
+260
+00:06:18,300 --> 00:06:18,500
+Sí.
+
+261
+00:06:18,620 --> 00:06:19,720
+Focant-se en el què
+
+262
+00:06:19,720 --> 00:06:20,820
+en comptes de com
+
+263
+00:06:20,820 --> 00:06:22,320
+crees una base
+
+264
+00:06:22,320 --> 00:06:22,720
+més estable
+
+265
+00:06:22,720 --> 00:06:24,080
+per als testos.
+
+266
+00:06:24,440 --> 00:06:24,720
+D'acord.
+
+267
+00:06:24,980 --> 00:06:25,520
+És com construir
+
+268
+00:06:25,520 --> 00:06:25,960
+una casa
+
+269
+00:06:25,960 --> 00:06:26,920
+en terra solidària
+
+270
+00:06:26,920 --> 00:06:27,440
+en comptes de
+
+271
+00:06:27,440 --> 00:06:28,160
+en sandalia.
+
+272
+00:06:28,740 --> 00:06:29,040
+Sí.
+
+273
+00:06:29,280 --> 00:06:29,800
+Els testos
+
+274
+00:06:29,800 --> 00:06:30,860
+es tornen més rellevants
+
+275
+00:06:30,860 --> 00:06:31,860
+i menys prone
+
+276
+00:06:31,860 --> 00:06:32,740
+a positives falses
+
+277
+00:06:32,740 --> 00:06:33,220
+o negatives.
+
+278
+00:06:33,680 --> 00:06:34,420
+Això m'agrada
+
+279
+00:06:34,420 --> 00:06:35,580
+una nova apreciació
+
+280
+00:06:35,580 --> 00:06:36,260
+per la pensió
+
+281
+00:06:36,260 --> 00:06:37,040
+que va enllà
+
+282
+00:06:37,040 --> 00:06:37,280
+de escriure
+
+283
+00:06:37,280 --> 00:06:38,200
+bons testos.
+
+284
+00:06:38,500 --> 00:06:38,700
+Sí.
+
+285
+00:06:38,800 --> 00:06:39,200
+És definitivament
+
+286
+00:06:39,200 --> 00:06:39,840
+més que només
+
+287
+00:06:39,840 --> 00:06:40,120
+adicionar
+
+288
+00:06:40,120 --> 00:06:40,940
+unes assertions
+
+289
+00:06:40,940 --> 00:06:41,580
+aquí i allà.
+
+290
+00:06:41,700 --> 00:06:41,920
+D'acord.
+
+291
+00:06:42,120 --> 00:06:43,100
+Testos ben escrit,
+
+292
+00:06:43,180 --> 00:06:44,020
+especialment testos de BDD,
+
+293
+00:06:44,520 --> 00:06:45,180
+poden servir
+
+294
+00:06:45,180 --> 00:06:47,040
+com a documentació
+
+295
+00:06:47,040 --> 00:06:47,060
+valora.
+
+296
+00:06:47,400 --> 00:06:47,620
+D'acord.
+
+297
+00:06:47,980 --> 00:06:48,600
+I ajudar
+
+298
+00:06:48,600 --> 00:06:49,040
+a assegurar
+
+299
+00:06:49,040 --> 00:06:49,500
+que tothom
+
+300
+00:06:49,500 --> 00:06:49,880
+involucrat
+
+301
+00:06:49,880 --> 00:06:50,440
+en el projecte
+
+302
+00:06:50,440 --> 00:06:51,280
+és al mateix pagament.
+
+303
+00:06:51,740 --> 00:06:52,140
+Fins ara,
+
+304
+00:06:52,180 --> 00:06:52,620
+hem parlat
+
+305
+00:06:52,620 --> 00:06:53,300
+de testar
+
+306
+00:06:53,300 --> 00:06:54,160
+la logica de la darrera.
+
+307
+00:06:54,160 --> 00:06:54,680
+Però què tal
+
+308
+00:06:54,680 --> 00:06:55,720
+amb la interface d'usuar?
+
+309
+00:06:55,900 --> 00:06:57,080
+Com aplices
+
+310
+00:06:57,080 --> 00:06:58,040
+aquests principis
+
+311
+00:06:58,040 --> 00:06:59,040
+a una cosa
+
+312
+00:06:59,040 --> 00:07:00,360
+tan dinàmica
+
+313
+00:07:00,360 --> 00:07:01,100
+i complexa
+
+314
+00:07:01,100 --> 00:07:01,580
+com una UI?
+
+315
+00:07:02,220 --> 00:07:03,240
+És una bona pregunta.
+
+316
+00:07:03,540 --> 00:07:04,380
+I és un àrea
+
+317
+00:07:04,380 --> 00:07:05,380
+en què molts desenvolupadors
+
+318
+00:07:05,380 --> 00:07:05,760
+s'estrenen.
+
+319
+00:07:06,000 --> 00:07:06,180
+Sí.
+
+320
+00:07:06,400 --> 00:07:07,340
+Però la perspectiva
+
+321
+00:07:07,340 --> 00:07:07,940
+d'en Dave Farley
+
+322
+00:07:07,940 --> 00:07:09,000
+és molt interessant.
+
+323
+00:07:09,320 --> 00:07:10,220
+Emphasiza
+
+324
+00:07:10,220 --> 00:07:11,800
+que és la nostra responsabilitat
+
+325
+00:07:11,800 --> 00:07:12,520
+com a desenvolupadors
+
+326
+00:07:12,520 --> 00:07:13,540
+de fer que la nostra UI
+
+327
+00:07:13,540 --> 00:07:14,480
+sigui testable.
+
+328
+00:07:14,860 --> 00:07:15,800
+No és sobre
+
+329
+00:07:15,800 --> 00:07:16,720
+la culpa
+
+330
+00:07:16,720 --> 00:07:18,120
+de la complexitat
+
+331
+00:07:18,120 --> 00:07:19,020
+inherent de la desenvolupació de la UI.
+
+332
+00:07:19,280 --> 00:07:19,780
+És sobre
+
+333
+00:07:19,780 --> 00:07:19,860
+que la nostra
+
+334
+00:07:19,880 --> 00:07:20,180
+responsabilitat
+
+335
+00:07:20,180 --> 00:07:20,460
+és fer
+
+336
+00:07:20,460 --> 00:07:21,360
+choices de design
+
+337
+00:07:21,360 --> 00:07:21,380
+conscients
+
+338
+00:07:21,380 --> 00:07:22,600
+que simplifiquen
+
+339
+00:07:22,600 --> 00:07:23,000
+la testa.
+
+340
+00:07:23,300 --> 00:07:23,540
+D'acord.
+
+341
+00:07:23,920 --> 00:07:24,760
+Però com fem això?
+
+342
+00:07:25,040 --> 00:07:25,600
+Quins consells pràctics?
+
+343
+00:07:26,340 --> 00:07:26,520
+Bé,
+
+344
+00:07:26,560 --> 00:07:27,000
+el Dave suggeria
+
+345
+00:07:27,000 --> 00:07:27,960
+unes estratègies clau.
+
+346
+00:07:28,200 --> 00:07:28,840
+Una és
+
+347
+00:07:28,840 --> 00:07:29,500
+l'abstracció.
+
+348
+00:07:29,940 --> 00:07:30,200
+Aleshores,
+
+349
+00:07:30,320 --> 00:07:31,040
+en comptes de testar
+
+350
+00:07:31,040 --> 00:07:32,000
+la UI directament,
+
+351
+00:07:32,400 --> 00:07:33,000
+podem crear
+
+352
+00:07:33,000 --> 00:07:33,740
+abstractions
+
+353
+00:07:33,740 --> 00:07:34,860
+que representen
+
+354
+00:07:34,860 --> 00:07:35,600
+elements de la UI
+
+355
+00:07:35,600 --> 00:07:36,600
+en les seves interaccions.
+
+356
+00:07:36,700 --> 00:07:36,840
+Aleshores,
+
+357
+00:07:36,840 --> 00:07:37,440
+en comptes de escriure
+
+358
+00:07:37,440 --> 00:07:37,880
+un test
+
+359
+00:07:37,880 --> 00:07:38,240
+que clica
+
+360
+00:07:38,240 --> 00:07:38,700
+un botó específic
+
+361
+00:07:38,700 --> 00:07:39,520
+a la pantalla,
+
+362
+00:07:39,980 --> 00:07:40,680
+interactaríem
+
+363
+00:07:40,680 --> 00:07:41,360
+amb una representació
+
+364
+00:07:41,360 --> 00:07:42,020
+abstracta
+
+365
+00:07:42,020 --> 00:07:42,660
+d'aquest botó
+
+366
+00:07:42,660 --> 00:07:43,320
+en el nostre test.
+
+367
+00:07:43,460 --> 00:07:44,140
+Exactament.
+
+368
+00:07:44,240 --> 00:07:44,760
+I això ens permet
+
+369
+00:07:44,760 --> 00:07:45,840
+testar la lògica
+
+370
+00:07:45,840 --> 00:07:46,400
+darrere de la UI
+
+371
+00:07:46,400 --> 00:07:47,280
+sense ser aturats
+
+372
+00:07:47,280 --> 00:07:47,800
+a detalls
+
+373
+00:07:47,800 --> 00:07:48,940
+visuals específics
+
+374
+00:07:48,940 --> 00:07:49,620
+que pot canviar.
+
+375
+00:07:49,940 --> 00:07:50,440
+Això sembla
+
+376
+00:07:50,440 --> 00:07:51,360
+molt més robust
+
+377
+00:07:51,360 --> 00:07:51,960
+i menys probable
+
+378
+00:07:51,960 --> 00:07:52,480
+que es trenqui
+
+379
+00:07:52,480 --> 00:07:53,400
+si el design
+
+380
+00:07:53,400 --> 00:07:53,920
+de la UI
+
+381
+00:07:53,920 --> 00:07:54,500
+és tweakat.
+
+382
+00:07:54,500 --> 00:07:55,100
+Exactament.
+
+383
+00:07:55,360 --> 00:07:56,380
+I la següent estratègia
+
+384
+00:07:56,380 --> 00:07:57,000
+és fer servir
+
+385
+00:07:57,000 --> 00:07:57,620
+una combinació
+
+386
+00:07:57,620 --> 00:07:58,540
+de testos de unit
+
+387
+00:07:58,540 --> 00:07:59,620
+i testos d'integració.
+
+388
+00:08:00,220 --> 00:08:00,460
+D'acord.
+
+389
+00:08:00,800 --> 00:08:01,440
+Així podem fer servir
+
+390
+00:08:01,440 --> 00:08:02,160
+testos de unit
+
+391
+00:08:02,160 --> 00:08:03,480
+per testar
+
+392
+00:08:03,480 --> 00:08:04,300
+els components
+
+393
+00:08:04,300 --> 00:08:05,160
+de la UI
+
+394
+00:08:05,160 --> 00:08:06,160
+en isolació.
+
+395
+00:08:06,360 --> 00:08:06,620
+D'acord.
+
+396
+00:08:06,780 --> 00:08:07,480
+I després podem fer servir
+
+397
+00:08:07,480 --> 00:08:08,100
+testos d'integració
+
+398
+00:08:08,100 --> 00:08:09,300
+per verificar
+
+399
+00:08:09,300 --> 00:08:10,280
+que aquests components
+
+400
+00:08:10,280 --> 00:08:11,740
+funcionen correctament
+
+401
+00:08:11,740 --> 00:08:12,500
+en el context
+
+402
+00:08:12,500 --> 00:08:14,040
+de l'applicació overall.
+
+403
+00:08:14,280 --> 00:08:14,740
+És com fer
+
+404
+00:08:14,740 --> 00:08:16,180
+que cada part
+
+405
+00:08:16,180 --> 00:08:16,860
+d'un motiu de la carrer
+
+406
+00:08:16,860 --> 00:08:17,700
+funcioni correctament
+
+407
+00:08:17,700 --> 00:08:19,020
+i després testar
+
+408
+00:08:19,020 --> 00:08:19,780
+que l'entorn
+
+409
+00:08:19,780 --> 00:08:20,200
+de l'enginy
+
+410
+00:08:20,200 --> 00:08:20,520
+es reuneix
+
+411
+00:08:20,520 --> 00:08:20,900
+de manera fàcil
+
+412
+00:08:20,900 --> 00:08:21,780
+quan assemblat.
+
+413
+00:08:22,040 --> 00:08:22,960
+Perfecte anàlisi.
+
+414
+00:08:23,500 --> 00:08:24,340
+I això porta
+
+415
+00:08:24,340 --> 00:08:25,140
+a un altre punt important
+
+416
+00:08:25,140 --> 00:08:26,060
+que ell afilata,
+
+417
+00:08:26,160 --> 00:08:26,980
+que és l'importància
+
+418
+00:08:26,980 --> 00:08:28,080
+de controlar variables
+
+419
+00:08:28,080 --> 00:08:29,300
+quan escriu testos.
+
+420
+00:08:29,420 --> 00:08:30,340
+Controlar variables,
+
+421
+00:08:30,480 --> 00:08:31,040
+sembla una mica
+
+422
+00:08:31,040 --> 00:08:31,920
+com un experiment de ciència.
+
+423
+00:08:32,140 --> 00:08:32,640
+D'alguna manera,
+
+424
+00:08:32,780 --> 00:08:33,200
+ho és.
+
+425
+00:08:33,620 --> 00:08:34,180
+Estem intentant
+
+426
+00:08:34,180 --> 00:08:34,580
+crear testos
+
+427
+00:08:34,580 --> 00:08:35,720
+rellíps i predictables.
+
+428
+00:08:36,380 --> 00:08:36,600
+D'acord.
+
+429
+00:08:36,680 --> 00:08:37,280
+I per fer això
+
+430
+00:08:37,280 --> 00:08:38,260
+hem d'isolar
+
+431
+00:08:38,260 --> 00:08:39,060
+les parts del nostre codi
+
+432
+00:08:39,060 --> 00:08:39,680
+que estem testant
+
+433
+00:08:39,680 --> 00:08:40,600
+i assegurar
+
+434
+00:08:40,600 --> 00:08:41,880
+que els factors externs
+
+435
+00:08:41,880 --> 00:08:42,660
+no influen
+
+436
+00:08:42,660 --> 00:08:43,480
+els resultats.
+
+437
+00:08:43,780 --> 00:08:44,000
+D'acord.
+
+438
+00:08:44,220 --> 00:08:44,700
+Estic començant a veure
+
+439
+00:08:44,700 --> 00:08:45,600
+com això pot ser trígic.
+
+440
+00:08:46,020 --> 00:08:46,960
+Però quines són
+
+441
+00:08:46,960 --> 00:08:47,360
+algunes maneres
+
+442
+00:08:47,360 --> 00:08:48,000
+de controlar
+
+443
+00:08:48,000 --> 00:08:48,740
+aquests variables
+
+444
+00:08:48,740 --> 00:08:49,420
+en la pràctica?
+
+445
+00:08:49,880 --> 00:08:50,820
+Com gestiones
+
+446
+00:08:50,820 --> 00:08:51,440
+coses com
+
+447
+00:08:51,440 --> 00:08:52,240
+databases
+
+448
+00:08:52,240 --> 00:08:53,240
+o sistemes de fàcil
+
+449
+00:08:53,240 --> 00:08:55,040
+o connexions
+
+450
+00:08:55,040 --> 00:08:54,980
+de neteja
+
+451
+00:08:54,980 --> 00:08:55,920
+en els teus testos?
+
+452
+00:08:56,400 --> 00:08:56,700
+Una tècnica
+
+453
+00:08:56,700 --> 00:08:57,440
+molt común
+
+454
+00:08:57,440 --> 00:08:57,920
+és utilitzar
+
+455
+00:08:57,920 --> 00:08:59,100
+mocs o fakes.
+
+456
+00:08:59,580 --> 00:09:00,060
+Pensa-te-hi
+
+457
+00:09:00,060 --> 00:09:00,980
+com els dubles
+
+458
+00:09:00,980 --> 00:09:01,440
+de la fàcula en un filme.
+
+459
+00:09:02,000 --> 00:09:03,060
+Estan en
+
+460
+00:09:03,060 --> 00:09:03,840
+per la realitat,
+
+461
+00:09:04,220 --> 00:09:04,740
+permetent-te
+
+462
+00:09:04,740 --> 00:09:05,420
+simular
+
+463
+00:09:05,420 --> 00:09:06,480
+behaviors específics
+
+464
+00:09:06,480 --> 00:09:07,240
+i respostes
+
+465
+00:09:07,240 --> 00:09:08,200
+en un ambient
+
+466
+00:09:08,200 --> 00:09:08,320
+controlat.
+
+467
+00:09:08,920 --> 00:09:09,100
+Aleshores,
+
+468
+00:09:09,200 --> 00:09:09,800
+en comptes de connectar
+
+469
+00:09:09,800 --> 00:09:10,780
+a un real database
+
+470
+00:09:10,780 --> 00:09:11,640
+en el teu test,
+
+471
+00:09:12,040 --> 00:09:12,580
+utilitzaries un
+
+472
+00:09:12,580 --> 00:09:13,300
+mock database
+
+473
+00:09:13,300 --> 00:09:14,040
+que retorna
+
+474
+00:09:14,040 --> 00:09:14,740
+dades predefinides.
+
+475
+00:09:15,220 --> 00:09:15,700
+Precisament.
+
+476
+00:09:16,140 --> 00:09:16,780
+I això et dona
+
+477
+00:09:16,780 --> 00:09:17,660
+molt més control
+
+478
+00:09:17,660 --> 00:09:18,300
+en l'ambient
+
+479
+00:09:18,300 --> 00:09:18,740
+de testar
+
+480
+00:09:18,740 --> 00:09:19,380
+i et permet
+
+481
+00:09:19,380 --> 00:09:19,860
+evitar
+
+482
+00:09:19,860 --> 00:09:19,960
+resultats
+
+483
+00:09:19,960 --> 00:09:20,720
+impredictibles
+
+484
+00:09:20,720 --> 00:09:21,620
+que podrien ser
+
+485
+00:09:21,620 --> 00:09:22,120
+causats
+
+486
+00:09:22,120 --> 00:09:22,820
+per factors externs.
+
+487
+00:09:23,420 --> 00:09:24,120
+Sembla una manera
+
+488
+00:09:24,120 --> 00:09:24,640
+molt poderosa
+
+489
+00:09:24,640 --> 00:09:25,380
+d'assistir
+
+490
+00:09:25,380 --> 00:09:26,040
+que els teus tests
+
+491
+00:09:26,040 --> 00:09:26,180
+siguin
+
+492
+00:09:26,180 --> 00:09:26,780
+focats
+
+493
+00:09:26,780 --> 00:09:27,500
+i rellevants.
+
+494
+00:09:27,640 --> 00:09:27,820
+És.
+
+495
+00:09:28,440 --> 00:09:29,380
+I controlant
+
+496
+00:09:29,380 --> 00:09:29,960
+aquests variables
+
+497
+00:09:29,960 --> 00:09:30,660
+també adones-te
+
+498
+00:09:30,660 --> 00:09:31,440
+de més confiança
+
+499
+00:09:31,440 --> 00:09:32,360
+quan refactores
+
+500
+00:09:32,360 --> 00:09:32,840
+el teu codi.
+
+501
+00:09:33,020 --> 00:09:33,300
+D'acord.
+
+502
+00:09:33,700 --> 00:09:34,100
+Deixem-nos
+
+503
+00:09:34,100 --> 00:09:34,640
+refactorar.
+
+504
+00:09:34,740 --> 00:09:35,040
+Ho hem parlat
+
+505
+00:09:35,040 --> 00:09:35,740
+una mica abans,
+
+506
+00:09:35,940 --> 00:09:36,600
+però podries
+
+507
+00:09:36,600 --> 00:09:37,440
+explicar en més detall
+
+508
+00:09:40,780 --> 00:09:43,780
+com es fa
+
+509
+00:09:43,780 --> 00:09:44,100
+per millorar
+
+510
+00:09:44,100 --> 00:09:45,180
+el teu codi
+
+511
+00:09:45,180 --> 00:09:44,100
+sense canviar
+
+512
+00:09:44,100 --> 00:09:45,040
+el seu comportament extern.
+
+513
+00:09:45,500 --> 00:09:45,900
+És com
+
+514
+00:09:45,900 --> 00:09:46,860
+tancar la teva casa
+
+515
+00:09:46,860 --> 00:09:47,680
+i rearranyar
+
+516
+00:09:47,680 --> 00:09:48,360
+la teva furnitura
+
+517
+00:09:48,360 --> 00:09:48,900
+per fer-la
+
+518
+00:09:48,900 --> 00:09:49,640
+més funcional
+
+519
+00:09:49,640 --> 00:09:50,840
+i estètica
+
+520
+00:09:50,840 --> 00:09:52,400
+sense canviar
+
+521
+00:09:52,400 --> 00:09:53,180
+el seu propi
+
+522
+00:09:53,180 --> 00:09:53,820
+de la teva casa.
+
+523
+00:09:53,920 --> 00:09:54,900
+Així no adones-te
+
+524
+00:09:54,900 --> 00:09:55,480
+de noves feinades
+
+525
+00:09:55,480 --> 00:09:56,380
+o fixar bugs,
+
+526
+00:09:56,840 --> 00:09:57,420
+només fent
+
+527
+00:09:57,420 --> 00:09:58,100
+el codi existent
+
+528
+00:09:58,100 --> 00:09:58,820
+menjar
+
+529
+00:09:58,820 --> 00:09:59,320
+i més fàcil
+
+530
+00:09:59,320 --> 00:09:59,700
+de treballar.
+
+531
+00:09:59,960 --> 00:10:00,640
+Exactament.
+
+532
+00:10:01,060 --> 00:10:01,920
+I això és on
+
+533
+00:10:01,920 --> 00:10:03,220
+tenir una suïtia
+
+534
+00:10:03,220 --> 00:10:03,800
+de comprensió
+
+535
+00:10:03,800 --> 00:10:04,580
+de tests,
+
+536
+00:10:05,160 --> 00:10:05,960
+particularment
+
+537
+00:10:05,960 --> 00:10:06,620
+els creats
+
+538
+00:10:06,620 --> 00:10:07,360
+a través de TDD,
+
+539
+00:10:07,860 --> 00:10:09,100
+torna molt valent.
+
+540
+00:10:09,340 --> 00:10:09,540
+D'acord.
+
+541
+00:10:09,540 --> 00:10:10,460
+Perquè els teus tests
+
+542
+00:10:10,460 --> 00:10:10,760
+són molt
+
+543
+00:10:10,760 --> 00:10:11,060
+valents.
+
+544
+00:10:11,060 --> 00:10:11,400
+I és com
+
+545
+00:10:11,400 --> 00:10:11,400
+
+
+546
+00:10:11,400 --> 00:10:11,460
+per verificar
+
+547
+00:10:11,460 --> 00:10:12,420
+que la funcionalitat
+
+548
+00:10:12,420 --> 00:10:13,200
+del teu codi
+
+549
+00:10:13,200 --> 00:10:14,300
+funciona correctament.
+
+550
+00:10:15,020 --> 00:10:15,640
+Pots fer
+
+551
+00:10:15,640 --> 00:10:16,620
+canvis
+
+552
+00:10:16,620 --> 00:10:17,780
+a la estructura
+
+553
+00:10:17,780 --> 00:10:18,080
+intern
+
+554
+00:10:18,080 --> 00:10:18,420
+sense preocupar
+
+555
+00:10:18,420 --> 00:10:19,420
+de trencar coses.
+
+556
+00:10:19,680 --> 00:10:19,960
+És com
+
+557
+00:10:19,960 --> 00:10:20,820
+tenir una neta de seguretat
+
+558
+00:10:20,820 --> 00:10:21,840
+perquè pots experimentar
+
+559
+00:10:21,840 --> 00:10:22,540
+i fer millorar
+
+560
+00:10:22,540 --> 00:10:23,560
+sense la risca
+
+561
+00:10:23,560 --> 00:10:23,880
+de caure
+
+562
+00:10:23,880 --> 00:10:24,660
+en la teva cara.
+
+563
+00:10:24,760 --> 00:10:25,220
+És un bon motiu
+
+564
+00:10:25,220 --> 00:10:25,580
+per dir-ho.
+
+565
+00:10:26,100 --> 00:10:26,900
+I refactorar
+
+566
+00:10:26,900 --> 00:10:27,480
+no és només
+
+567
+00:10:27,480 --> 00:10:28,260
+sobre estètica
+
+568
+00:10:28,260 --> 00:10:29,020
+o fer que el codi
+
+569
+00:10:29,020 --> 00:10:29,540
+sembli bonic.
+
+570
+00:10:29,660 --> 00:10:29,840
+D'acord.
+
+571
+00:10:30,060 --> 00:10:30,500
+Té un impacte
+
+572
+00:10:30,500 --> 00:10:30,940
+profund
+
+573
+00:10:30,940 --> 00:10:32,120
+en la salut
+
+574
+00:10:32,120 --> 00:10:33,640
+i la sostenibilitat
+
+575
+00:10:33,640 --> 00:10:34,440
+de la teva base de codi.
+
+576
+00:10:34,440 --> 00:10:34,740
+D'acord.
+
+577
+00:10:35,120 --> 00:10:35,620
+Pot fer
+
+578
+00:10:35,620 --> 00:10:37,200
+a la modularitat
+
+579
+00:10:37,200 --> 00:10:37,300
+millor,
+
+580
+00:10:40,760 --> 00:10:43,420
+i a la sostenibilitat
+
+581
+00:10:43,420 --> 00:10:44,380
+de la teva base de codi.
+
+582
+00:10:44,380 --> 00:10:45,040
+Així que no és
+
+583
+00:10:45,040 --> 00:10:45,820
+només un bon motiu.
+
+584
+00:10:46,580 --> 00:10:47,560
+És una part crucial
+
+585
+00:10:47,560 --> 00:10:48,440
+de la construcció
+
+586
+00:10:48,440 --> 00:10:48,940
+de la software
+
+587
+00:10:48,940 --> 00:10:50,200
+que pot evolucionar
+
+588
+00:10:50,200 --> 00:10:50,840
+i adaptar
+
+589
+00:10:50,840 --> 00:10:51,360
+a l'hora.
+
+590
+00:10:51,440 --> 00:10:52,040
+Absolutament.
+
+591
+00:10:52,520 --> 00:10:53,140
+I fins i tot
+
+592
+00:10:53,140 --> 00:10:54,340
+sugereix que refactorar
+
+593
+00:10:54,340 --> 00:10:54,800
+pot fer
+
+594
+00:10:54,800 --> 00:10:56,200
+millor design.
+
+595
+00:10:56,360 --> 00:10:56,660
+Espera,
+
+596
+00:10:56,720 --> 00:10:57,480
+com és possible?
+
+597
+00:10:57,700 --> 00:10:58,360
+Jo pensava que refactorar
+
+598
+00:10:58,360 --> 00:10:58,740
+era només
+
+599
+00:10:58,740 --> 00:10:59,220
+sobre tancar
+
+600
+00:10:59,220 --> 00:11:00,000
+els codis existents.
+
+601
+00:11:00,040 --> 00:11:00,520
+Ho pot ser,
+
+602
+00:11:00,640 --> 00:11:01,300
+però també pot ser
+
+603
+00:11:01,300 --> 00:11:01,900
+un tool poderós
+
+604
+00:11:01,900 --> 00:11:02,840
+per descobrir
+
+605
+00:11:02,840 --> 00:11:03,640
+les faltes de design
+
+606
+00:11:03,640 --> 00:11:04,540
+i explorar
+
+607
+00:11:04,540 --> 00:11:05,860
+solucions alternatives.
+
+608
+00:11:06,160 --> 00:11:06,400
+Oh.
+
+609
+00:11:06,600 --> 00:11:06,960
+Llavors,
+
+610
+00:11:06,960 --> 00:11:07,640
+ell descriu
+
+611
+00:11:07,640 --> 00:11:08,300
+la situació
+
+612
+00:11:08,300 --> 00:11:09,180
+en què treballava
+
+613
+00:11:09,180 --> 00:11:09,880
+en un joc de batalla.
+
+614
+00:11:09,880 --> 00:11:10,760
+Ok.
+
+615
+00:11:10,880 --> 00:11:10,980
+I,
+
+616
+00:11:11,060 --> 00:11:11,680
+en el procés
+
+617
+00:11:11,680 --> 00:11:12,500
+de refactorar,
+
+618
+00:11:12,660 --> 00:11:13,200
+va adonar-se
+
+619
+00:11:13,200 --> 00:11:13,800
+que va mancar
+
+620
+00:11:13,800 --> 00:11:14,640
+un concepte clau,
+
+621
+00:11:15,120 --> 00:11:15,880
+les regles del joc.
+
+622
+00:11:16,220 --> 00:11:16,640
+Interessant.
+
+623
+00:11:16,780 --> 00:11:17,600
+Per introduir
+
+624
+00:11:17,600 --> 00:11:18,500
+aquest concepte
+
+625
+00:11:18,500 --> 00:11:19,460
+i reestructurar
+
+626
+00:11:19,460 --> 00:11:19,860
+el seu codi
+
+627
+00:11:19,860 --> 00:11:20,160
+d'acord,
+
+628
+00:11:20,400 --> 00:11:21,160
+va poder
+
+629
+00:11:21,160 --> 00:11:22,020
+simplificar
+
+630
+00:11:22,020 --> 00:11:23,120
+el design
+
+631
+00:11:23,120 --> 00:11:23,540
+i fer-lo
+
+632
+00:11:23,540 --> 00:11:24,360
+molt més elegant.
+
+633
+00:11:24,740 --> 00:11:25,580
+Això és fascinant.
+
+634
+00:11:25,860 --> 00:11:26,320
+Així que no és
+
+635
+00:11:26,320 --> 00:11:26,700
+només
+
+636
+00:11:26,700 --> 00:11:27,080
+sobre fer
+
+637
+00:11:27,080 --> 00:11:27,440
+el codi
+
+638
+00:11:27,440 --> 00:11:27,800
+més bonic.
+
+639
+00:11:28,360 --> 00:11:28,780
+És sobre
+
+640
+00:11:28,780 --> 00:11:29,480
+desenvolupar
+
+641
+00:11:29,480 --> 00:11:30,780
+més d'insights
+
+642
+00:11:30,780 --> 00:11:31,460
+i millorar
+
+643
+00:11:31,460 --> 00:11:32,140
+el design
+
+644
+00:11:32,140 --> 00:11:33,280
+a un nivell fundamental.
+
+645
+00:11:33,800 --> 00:11:34,380
+Exacte.
+
+646
+00:11:34,500 --> 00:11:35,020
+I aquí és on
+
+647
+00:11:35,020 --> 00:11:35,620
+la natura iterativa
+
+648
+00:11:35,620 --> 00:11:36,480
+de TDD
+
+649
+00:11:36,480 --> 00:11:37,300
+es mostra.
+
+650
+00:11:37,580 --> 00:11:38,180
+Constant
+
+651
+00:11:38,180 --> 00:11:38,700
+la circulació
+
+652
+00:11:38,700 --> 00:11:39,360
+d'aquest codi
+
+653
+00:11:39,880 --> 00:11:40,100
+de factor,
+
+654
+00:11:40,460 --> 00:11:41,880
+crees oportunitats
+
+655
+00:11:41,880 --> 00:11:42,380
+per aprendre,
+
+656
+00:11:42,560 --> 00:11:43,140
+refinar
+
+657
+00:11:43,140 --> 00:11:43,760
+i evolucionar
+
+658
+00:11:43,760 --> 00:11:44,220
+el teu design
+
+659
+00:11:44,220 --> 00:11:44,740
+en el temps.
+
+660
+00:11:45,020 --> 00:11:45,600
+Això és definitivament
+
+661
+00:11:45,600 --> 00:11:46,020
+canviant
+
+662
+00:11:46,020 --> 00:11:46,460
+com penso
+
+663
+00:11:46,460 --> 00:11:47,020
+sobre TDD.
+
+664
+00:11:47,800 --> 00:11:48,380
+No és només
+
+665
+00:11:48,380 --> 00:11:49,360
+sobre escriure testos.
+
+666
+00:11:49,360 --> 00:11:49,900
+És sobre
+
+667
+00:11:49,900 --> 00:11:50,400
+aprendre
+
+668
+00:11:50,400 --> 00:11:52,020
+una nova manera
+
+669
+00:11:52,020 --> 00:11:52,800
+de pensar
+
+670
+00:11:52,800 --> 00:11:53,360
+sobre el desenvolupament
+
+671
+00:11:53,360 --> 00:11:53,900
+de software.
+
+672
+00:11:54,060 --> 00:11:54,740
+I aquest canvi
+
+673
+00:11:54,740 --> 00:11:55,380
+en la mentalitat
+
+674
+00:11:55,380 --> 00:11:56,380
+és el que últimament
+
+675
+00:11:56,380 --> 00:11:57,700
+fa a la creació
+
+676
+00:11:57,700 --> 00:11:58,360
+de softwares
+
+677
+00:11:58,360 --> 00:11:59,000
+de qualitat
+
+678
+00:11:59,000 --> 00:11:59,020
+de alta qualitat
+
+679
+00:11:59,020 --> 00:11:59,240
+que poden
+
+680
+00:11:59,240 --> 00:11:59,660
+mantenir-se.
+
+681
+00:12:00,140 --> 00:12:00,880
+Sistemes que són
+
+682
+00:12:00,880 --> 00:12:01,780
+robustes,
+
+683
+00:12:01,900 --> 00:12:02,400
+adaptables
+
+684
+00:12:02,400 --> 00:12:02,820
+i poden
+
+685
+00:12:02,820 --> 00:12:03,240
+superar
+
+686
+00:12:03,240 --> 00:12:04,100
+el test de temps.
+
+687
+00:12:04,260 --> 00:12:04,660
+Em sembla que
+
+688
+00:12:04,660 --> 00:12:05,080
+sóc el cor
+
+689
+00:12:05,080 --> 00:12:05,940
+de la superfície
+
+690
+00:12:05,940 --> 00:12:06,200
+de què
+
+691
+00:12:06,200 --> 00:12:06,700
+TDD és
+
+692
+00:12:06,700 --> 00:12:07,020
+tot sobre.
+
+693
+00:12:09,880 --> 00:12:10,700
+Hi ha sempre
+
+694
+00:12:10,700 --> 00:12:11,220
+més a aprendre
+
+695
+00:12:11,220 --> 00:12:12,040
+i una de les coses
+
+696
+00:12:12,040 --> 00:12:12,460
+que m'ha impactat
+
+697
+00:12:12,460 --> 00:12:13,280
+sobre aquestes sources
+
+698
+00:12:13,280 --> 00:12:14,300
+és l'emphasis
+
+699
+00:12:14,300 --> 00:12:14,920
+en l'element
+
+700
+00:12:14,920 --> 00:12:15,320
+humà
+
+701
+00:12:15,320 --> 00:12:16,640
+de la desenvolupament
+
+702
+00:12:16,640 --> 00:12:16,560
+de software.
+
+703
+00:12:17,080 --> 00:12:17,480
+És fàcil
+
+704
+00:12:17,480 --> 00:12:18,040
+que es perdi
+
+705
+00:12:18,040 --> 00:12:18,760
+en els detalls
+
+706
+00:12:18,760 --> 00:12:18,860
+tècnics
+
+707
+00:12:18,860 --> 00:12:20,580
+però a l'endemà
+
+708
+00:12:20,580 --> 00:12:21,360
+són les persones
+
+709
+00:12:21,360 --> 00:12:22,060
+que estan
+
+710
+00:12:22,060 --> 00:12:22,400
+construint coses
+
+711
+00:12:22,400 --> 00:12:23,020
+per a altres persones.
+
+712
+00:12:23,100 --> 00:12:23,320
+Aquest és
+
+713
+00:12:23,320 --> 00:12:23,560
+un punt
+
+714
+00:12:23,560 --> 00:12:23,900
+molt crític
+
+715
+00:12:23,900 --> 00:12:25,340
+i Dave Farley
+
+716
+00:12:25,340 --> 00:12:25,680
+realment
+
+717
+00:12:25,680 --> 00:12:26,220
+enfonsa
+
+718
+00:12:26,220 --> 00:12:26,880
+l'importància
+
+719
+00:12:26,880 --> 00:12:27,660
+de la comunicació
+
+720
+00:12:27,660 --> 00:12:28,660
+i la col·laboració
+
+721
+00:12:28,660 --> 00:12:29,800
+i fer que tothom
+
+722
+00:12:29,800 --> 00:12:30,300
+entengui
+
+723
+00:12:30,300 --> 00:12:30,820
+què està passant.
+
+724
+00:12:31,220 --> 00:12:31,680
+I sembla que
+
+725
+00:12:31,680 --> 00:12:32,320
+veu el test
+
+726
+00:12:32,320 --> 00:12:33,920
+com una part
+
+727
+00:12:33,920 --> 00:12:33,880
+clara
+
+728
+00:12:33,880 --> 00:12:34,460
+d'aquesta
+
+729
+00:12:34,460 --> 00:12:35,000
+apropiació
+
+730
+00:12:35,000 --> 00:12:35,720
+d'acord.
+
+731
+00:12:36,200 --> 00:12:37,040
+No és només
+
+732
+00:12:37,040 --> 00:12:38,140
+provar que el codi
+
+733
+00:12:38,140 --> 00:12:38,620
+és correcte
+
+734
+00:12:38,620 --> 00:12:39,760
+és provar
+
+735
+00:12:39,760 --> 00:12:40,120
+una manera
+
+736
+00:12:40,120 --> 00:12:41,840
+de identificar
+
+737
+00:12:41,840 --> 00:12:41,840
+
+
+738
+00:12:41,840 --> 00:12:42,280
+quan les coses
+
+739
+00:12:42,280 --> 00:12:42,720
+són malament.
+
+740
+00:12:43,060 --> 00:12:43,440
+Sí.
+
+741
+00:12:44,100 --> 00:12:44,480
+Ell té
+
+742
+00:12:44,480 --> 00:12:45,200
+aquesta gran idea.
+
+743
+00:12:45,820 --> 00:12:46,240
+Un test
+
+744
+00:12:46,240 --> 00:12:46,520
+de solucions
+
+745
+00:12:46,520 --> 00:12:47,960
+és més valuable
+
+746
+00:12:47,960 --> 00:12:48,700
+que milions
+
+747
+00:12:48,700 --> 00:12:49,160
+de testos passats.
+
+748
+00:12:49,800 --> 00:12:50,280
+Pensa-ho
+
+749
+00:12:50,280 --> 00:12:51,120
+com una alarma de fred.
+
+750
+00:12:51,520 --> 00:12:52,300
+No és allà
+
+751
+00:12:52,300 --> 00:12:52,740
+per dir-te
+
+752
+00:12:52,740 --> 00:12:53,680
+que tot està bé.
+
+753
+00:12:54,200 --> 00:12:54,440
+És allà
+
+754
+00:12:54,440 --> 00:12:55,160
+per alertar-te
+
+755
+00:12:55,160 --> 00:12:55,980
+quan hi ha un problema
+
+756
+00:12:55,980 --> 00:12:56,380
+que necessita
+
+757
+00:12:56,380 --> 00:12:56,920
+la teva atenció.
+
+758
+00:12:56,920 --> 00:12:58,200
+És una anàlisi molt bona.
+
+759
+00:12:58,580 --> 00:12:59,900
+Canvia com pensem
+
+760
+00:12:59,900 --> 00:13:00,420
+els tests
+
+761
+00:13:00,420 --> 00:13:01,380
+en comptes de veure-los
+
+762
+00:13:01,380 --> 00:13:01,860
+com una pressió.
+
+763
+00:13:02,460 --> 00:13:03,520
+Comencem a veure-los
+
+764
+00:13:03,520 --> 00:13:04,600
+com una feedback valida
+
+765
+00:13:04,600 --> 00:13:05,780
+que et permet
+
+766
+00:13:05,780 --> 00:13:06,660
+agafar problemes
+
+767
+00:13:06,660 --> 00:13:06,960
+abans.
+
+768
+00:13:07,600 --> 00:13:08,180
+I aquesta anàlisi
+
+769
+00:13:08,180 --> 00:13:09,040
+no és només
+
+770
+00:13:09,040 --> 00:13:09,780
+per a l'individual
+
+771
+00:13:09,780 --> 00:13:10,400
+desenvolupador.
+
+772
+00:13:10,900 --> 00:13:11,460
+Recordeu com
+
+773
+00:13:11,460 --> 00:13:11,980
+discutíem
+
+774
+00:13:11,980 --> 00:13:12,440
+el desenvolupament
+
+775
+00:13:12,440 --> 00:13:12,440
+
+
+776
+00:13:12,440 --> 00:13:13,560
+i el seu
+
+777
+00:13:13,560 --> 00:13:13,920
+èmfasi
+
+778
+00:13:13,920 --> 00:13:14,900
+en les històries
+
+779
+00:13:14,900 --> 00:13:15,880
+i les especificacions?
+
+780
+00:13:16,160 --> 00:13:16,920
+És tot
+
+781
+00:13:16,920 --> 00:13:17,600
+per crear
+
+782
+00:13:17,600 --> 00:13:18,160
+una comprensió
+
+783
+00:13:18,160 --> 00:13:19,140
+de què
+
+784
+00:13:19,140 --> 00:13:19,680
+el software
+
+785
+00:13:19,680 --> 00:13:20,200
+ha de fer.
+
+786
+00:13:20,560 --> 00:13:21,120
+No només
+
+787
+00:13:21,120 --> 00:13:21,940
+entre desenvolupadors
+
+788
+00:13:21,940 --> 00:13:22,480
+sinó també
+
+789
+00:13:22,480 --> 00:13:23,060
+amb productes
+
+790
+00:13:23,060 --> 00:13:23,360
+owners,
+
+791
+00:13:23,580 --> 00:13:24,000
+stakeholders
+
+792
+00:13:24,000 --> 00:13:24,780
+i fins i tot
+
+793
+00:13:24,780 --> 00:13:25,200
+els usadors
+
+794
+00:13:25,200 --> 00:13:25,780
+els mateixos.
+
+795
+00:13:25,860 --> 00:13:26,120
+És com
+
+796
+00:13:26,120 --> 00:13:26,780
+crear una rota
+
+797
+00:13:26,780 --> 00:13:27,440
+que tothom
+
+798
+00:13:27,440 --> 00:13:28,020
+pot seguir
+
+799
+00:13:28,020 --> 00:13:29,000
+assegurant que
+
+800
+00:13:29,000 --> 00:13:29,280
+tots
+
+801
+00:13:29,280 --> 00:13:29,600
+estigueu
+
+802
+00:13:29,600 --> 00:13:29,600
+
+
+803
+00:13:29,600 --> 00:13:29,940
+la mateixa
+
+804
+00:13:29,940 --> 00:13:30,160
+cosa
+
+805
+00:13:30,160 --> 00:13:30,520
+de la mateixa
+
+806
+00:13:30,520 --> 00:13:30,740
+manera.
+
+807
+00:13:30,740 --> 00:13:31,660
+Exacte.
+
+808
+00:13:31,860 --> 00:13:32,400
+Quan tothom
+
+809
+00:13:32,400 --> 00:13:32,980
+està a la mateixa
+
+810
+00:13:32,980 --> 00:13:33,400
+pàgina,
+
+811
+00:13:33,480 --> 00:13:33,740
+ets molt
+
+812
+00:13:33,740 --> 00:13:33,920
+més
+
+813
+00:13:33,920 --> 00:13:34,120
+probable
+
+814
+00:13:34,120 --> 00:13:34,520
+de construir
+
+815
+00:13:34,520 --> 00:13:34,920
+software
+
+816
+00:13:34,920 --> 00:13:35,100
+que
+
+817
+00:13:35,100 --> 00:13:35,600
+realment
+
+818
+00:13:35,600 --> 00:13:35,960
+s'aconsegueix
+
+819
+00:13:35,960 --> 00:13:36,440
+els usadors.
+
+820
+00:13:37,020 --> 00:13:37,460
+D'acord.
+
+821
+00:13:37,660 --> 00:13:38,160
+Així que
+
+822
+00:13:38,160 --> 00:13:38,560
+hem cobert
+
+823
+00:13:38,560 --> 00:13:39,000
+molt
+
+824
+00:13:39,000 --> 00:13:39,280
+sobre
+
+825
+00:13:39,280 --> 00:13:39,520
+com
+
+826
+00:13:39,520 --> 00:13:39,940
+TDD
+
+827
+00:13:39,940 --> 00:13:40,240
+pot
+
+828
+00:13:40,240 --> 00:13:40,660
+millorar
+
+829
+00:13:40,660 --> 00:13:40,800
+el
+
+830
+00:13:40,800 --> 00:13:41,080
+design
+
+831
+00:13:41,080 --> 00:13:41,000
+de la
+
+832
+00:13:41,000 --> 00:13:41,400
+qualitat
+
+833
+00:13:41,400 --> 00:13:41,580
+de la
+
+834
+00:13:41,580 --> 00:13:41,880
+còrrega
+
+835
+00:13:41,880 --> 00:13:42,080
+i la
+
+836
+00:13:42,080 --> 00:13:42,700
+col·laboració.
+
+837
+00:13:43,220 --> 00:13:43,500
+Però
+
+838
+00:13:43,500 --> 00:13:44,200
+hi ha encara
+
+839
+00:13:44,200 --> 00:13:44,400
+aquesta
+
+840
+00:13:44,400 --> 00:13:44,620
+una
+
+841
+00:13:44,620 --> 00:13:44,860
+gran
+
+842
+00:13:44,860 --> 00:13:45,340
+qüestió
+
+843
+00:13:45,340 --> 00:13:45,520
+que
+
+844
+00:13:45,520 --> 00:13:45,560
+s'està
+
+845
+00:13:45,560 --> 00:13:45,800
+afegint.
+
+846
+00:13:46,620 --> 00:13:47,620
+¿TDD
+
+847
+00:13:47,620 --> 00:13:48,100
+actualment
+
+848
+00:13:48,100 --> 00:13:48,460
+s'aclou
+
+849
+00:13:48,460 --> 00:13:48,820
+el
+
+850
+00:13:48,820 --> 00:13:49,260
+desenvolupament?
+
+851
+00:13:50,140 --> 00:13:50,440
+¿És
+
+852
+00:13:50,440 --> 00:13:50,800
+valent
+
+853
+00:13:50,800 --> 00:13:51,160
+l'extra
+
+854
+00:13:51,160 --> 00:13:51,420
+temps
+
+855
+00:13:51,420 --> 00:14:01,620
+de
+
+856
+00:14:01,620 --> 00:14:01,920
+la
+
+857
+00:14:01,920 --> 00:14:02,200
+còrrega?
+
+858
+00:14:03,060 --> 00:14:03,260
+És
+
+859
+00:14:03,260 --> 00:14:03,500
+com
+
+860
+00:14:03,500 --> 00:14:03,840
+l'anterior
+
+861
+00:14:03,840 --> 00:14:04,200
+dient
+
+862
+00:14:04,200 --> 00:14:04,460
+que
+
+863
+00:14:04,460 --> 00:14:04,720
+mesura
+
+864
+00:14:04,720 --> 00:14:05,020
+dues
+
+865
+00:14:05,020 --> 00:14:05,340
+cotes
+
+866
+00:14:05,340 --> 00:14:05,660
+una
+
+867
+00:14:05,660 --> 00:14:05,780
+vegada.
+
+868
+00:14:05,980 --> 00:14:06,620
+Exacte.
+
+869
+00:14:07,100 --> 00:14:07,280
+En
+
+870
+00:14:07,280 --> 00:14:07,500
+prenent
+
+871
+00:14:07,500 --> 00:14:07,880
+el temps
+
+872
+00:14:07,880 --> 00:14:08,040
+de
+
+873
+00:14:08,040 --> 00:14:08,240
+pensar
+
+874
+00:14:08,240 --> 00:14:08,440
+al
+
+875
+00:14:08,440 --> 00:14:08,580
+teu
+
+876
+00:14:08,580 --> 00:14:09,000
+design,
+
+877
+00:14:09,180 --> 00:14:09,400
+escriure
+
+878
+00:14:09,400 --> 00:14:09,540
+els
+
+879
+00:14:09,540 --> 00:14:09,860
+tests
+
+880
+00:14:09,860 --> 00:14:10,080
+i
+
+881
+00:14:10,080 --> 00:14:10,620
+refacturar
+
+882
+00:14:10,620 --> 00:14:10,800
+el
+
+883
+00:14:10,800 --> 00:14:11,440
+codi,
+
+884
+00:14:11,440 --> 00:14:11,640
+és
+
+885
+00:14:11,640 --> 00:14:12,020
+essencialment
+
+886
+00:14:12,020 --> 00:14:12,380
+construir
+
+887
+00:14:12,380 --> 00:14:12,620
+una
+
+888
+00:14:12,620 --> 00:14:12,840
+molt
+
+889
+00:14:12,840 --> 00:14:13,180
+forta
+
+890
+00:14:13,180 --> 00:14:13,740
+fundació
+
+891
+00:14:13,740 --> 00:14:13,980
+per
+
+892
+00:14:13,980 --> 00:14:14,100
+la
+
+893
+00:14:14,100 --> 00:14:14,540
+software.
+
+894
+00:14:15,160 --> 00:14:15,320
+I
+
+895
+00:14:15,320 --> 00:14:15,600
+vol dir
+
+896
+00:14:15,600 --> 00:14:15,740
+que
+
+897
+00:14:15,740 --> 00:14:15,780
+ets
+
+898
+00:14:15,780 --> 00:14:16,040
+menys
+
+899
+00:14:16,040 --> 00:14:16,300
+probable
+
+900
+00:14:16,300 --> 00:14:16,480
+de
+
+901
+00:14:16,480 --> 00:14:16,780
+trobar
+
+902
+00:14:16,780 --> 00:14:17,080
+aquests
+
+903
+00:14:17,080 --> 00:14:17,860
+bugs bugs
+
+904
+00:14:17,860 --> 00:14:18,060
+i
+
+905
+00:14:18,060 --> 00:14:18,420
+flaws
+
+906
+00:14:18,420 --> 00:14:18,900
+que
+
+907
+00:14:18,900 --> 00:14:19,040
+poden
+
+908
+00:14:19,040 --> 00:14:19,220
+menjar
+
+909
+00:14:19,220 --> 00:14:19,780
+hores,
+
+910
+00:14:20,220 --> 00:14:20,540
+dies
+
+911
+00:14:20,540 --> 00:14:20,740
+o
+
+912
+00:14:20,740 --> 00:14:21,240
+fins
+
+913
+00:14:21,240 --> 00:14:21,400
+de
+
+914
+00:14:21,400 --> 00:14:21,840
+debugging
+
+915
+00:14:21,840 --> 00:14:22,260
+time
+
+916
+00:14:22,260 --> 00:14:22,500
+later
+
+917
+00:14:22,500 --> 00:14:22,880
+on.
+
+918
+00:14:23,260 --> 00:14:23,440
+Plus,
+
+919
+00:14:23,520 --> 00:14:23,680
+haven't
+
+920
+00:14:23,680 --> 00:14:23,800
+we
+
+921
+00:14:23,800 --> 00:14:23,960
+all
+
+922
+00:14:23,960 --> 00:14:24,380
+experienced
+
+923
+00:14:24,380 --> 00:14:24,600
+that
+
+924
+00:14:24,600 --> 00:14:24,860
+moment
+
+925
+00:14:24,860 --> 00:14:25,040
+of
+
+926
+00:14:25,040 --> 00:14:25,380
+dread
+
+927
+00:14:25,380 --> 00:14:25,540
+when
+
+928
+00:14:25,540 --> 00:14:25,660
+you
+
+929
+00:14:25,660 --> 00:14:25,820
+have
+
+930
+00:14:25,820 --> 00:14:25,940
+to
+
+931
+00:14:25,940 --> 00:14:26,080
+make
+
+932
+00:14:26,080 --> 00:14:26,420
+changes
+
+933
+00:14:26,420 --> 00:14:26,640
+to
+
+934
+00:14:26,640 --> 00:14:26,820
+a
+
+935
+00:14:26,820 --> 00:14:27,220
+large
+
+936
+00:14:27,220 --> 00:14:27,820
+untested
+
+937
+00:14:27,820 --> 00:14:28,340
+codebase.
+
+938
+00:14:28,460 --> 00:14:28,720
+Yeah.
+
+939
+00:14:28,960 --> 00:14:29,080
+You
+
+940
+00:14:29,080 --> 00:14:29,280
+never
+
+941
+00:14:29,280 --> 00:14:29,460
+know
+
+942
+00:14:29,460 --> 00:14:29,620
+what
+
+943
+00:14:29,620 --> 00:14:29,720
+you
+
+944
+00:14:29,720 --> 00:14:29,880
+might
+
+945
+00:14:29,880 --> 00:14:30,240
+break.
+
+946
+00:14:30,480 --> 00:14:30,660
+Right.
+
+947
+00:14:30,820 --> 00:14:30,940
+But
+
+948
+00:14:30,940 --> 00:14:31,100
+with
+
+949
+00:14:31,100 --> 00:14:31,220
+a
+
+950
+00:14:31,220 --> 00:14:31,380
+good
+
+951
+00:14:31,380 --> 00:14:31,640
+suite
+
+952
+00:14:31,640 --> 00:14:31,780
+of
+
+953
+00:14:31,780 --> 00:14:32,140
+tests
+
+954
+00:14:32,140 --> 00:14:32,340
+you
+
+955
+00:14:32,340 --> 00:14:32,480
+can
+
+956
+00:14:32,480 --> 00:14:32,980
+refactor
+
+957
+00:14:32,980 --> 00:14:33,160
+and
+
+958
+00:14:33,160 --> 00:14:33,320
+make
+
+959
+00:14:33,320 --> 00:14:33,640
+changes
+
+960
+00:14:33,640 --> 00:14:33,840
+with
+
+961
+00:14:33,840 --> 00:14:34,100
+much
+
+962
+00:14:34,100 --> 00:14:34,280
+more
+
+963
+00:14:34,280 --> 00:14:34,760
+confidence
+
+964
+00:14:34,760 --> 00:14:35,180
+knowing
+
+965
+00:14:35,180 --> 00:14:35,360
+that
+
+966
+00:14:35,360 --> 00:14:35,500
+your
+
+967
+00:14:35,500 --> 00:14:35,820
+tests
+
+968
+00:14:35,820 --> 00:14:36,020
+will
+
+969
+00:14:36,020 --> 00:14:36,260
+catch
+
+970
+00:14:36,260 --> 00:14:36,500
+any
+
+971
+00:14:36,500 --> 00:14:37,040
+unintended
+
+972
+00:14:37,040 --> 00:14:37,760
+consequences.
+
+973
+00:14:38,280 --> 00:14:38,380
+So
+
+974
+00:14:38,380 --> 00:14:38,780
+TDD
+
+975
+00:14:38,780 --> 00:14:39,200
+isn't
+
+976
+00:14:39,200 --> 00:14:39,420
+about
+
+977
+00:14:39,420 --> 00:14:39,760
+slowing
+
+978
+00:14:39,760 --> 00:14:40,180
+down.
+
+979
+00:14:40,640 --> 00:14:40,740
+It's
+
+980
+00:14:40,740 --> 00:14:40,940
+about
+
+981
+00:14:40,940 --> 00:14:41,260
+working
+
+982
+00:14:41,260 --> 00:14:41,780
+smarter
+
+983
+00:14:41,780 --> 00:14:42,260
+not
+
+984
+00:14:42,260 --> 00:14:42,600
+harder.
+
+985
+00:14:42,740 --> 00:14:43,340
+Precisely.
+
+986
+00:14:43,760 --> 00:14:44,080
+And
+
+987
+00:14:44,080 --> 00:14:44,380
+here's
+
+988
+00:14:44,380 --> 00:14:44,640
+another
+
+989
+00:14:44,640 --> 00:14:44,960
+really
+
+990
+00:14:44,960 --> 00:14:45,340
+interesting
+
+991
+00:14:45,340 --> 00:14:45,620
+point
+
+992
+00:14:45,620 --> 00:14:45,840
+from
+
+993
+00:14:45,840 --> 00:14:46,100
+Dave
+
+994
+00:14:46,100 --> 00:14:46,500
+Farley.
+
+995
+00:14:46,880 --> 00:14:47,240
+He
+
+996
+00:14:47,240 --> 00:14:47,540
+actually
+
+997
+00:14:47,540 --> 00:14:47,900
+argues
+
+998
+00:14:47,900 --> 00:14:48,120
+that
+
+999
+00:14:48,120 --> 00:14:48,440
+TDD
+
+1000
+00:14:48,440 --> 00:14:48,760
+can
+
+1001
+00:14:48,760 --> 00:14:49,240
+enhance
+
+1002
+00:14:49,240 --> 00:14:49,560
+job
+
+1003
+00:14:49,560 --> 00:14:50,000
+security
+
+1004
+00:14:50,000 --> 00:14:50,280
+for
+
+1005
+00:14:50,280 --> 00:14:50,680
+developers
+
+1006
+00:14:50,680 --> 00:14:51,060
+not
+
+1007
+00:14:51,060 --> 00:14:51,460
+threaten
+
+1008
+00:14:51,460 --> 00:14:51,640
+it.
+
+1009
+00:14:51,780 --> 00:14:52,160
+Really?
+
+1010
+00:14:52,340 --> 00:14:52,520
+I've
+
+1011
+00:14:52,520 --> 00:14:52,820
+heard the
+
+1012
+00:14:52,820 --> 00:14:53,220
+opposite
+
+1013
+00:14:53,220 --> 00:14:53,540
+that
+
+1014
+00:14:53,540 --> 00:14:53,740
+some
+
+1015
+00:14:53,740 --> 00:14:54,240
+developers
+
+1016
+00:14:54,240 --> 00:14:54,780
+fear
+
+1017
+00:14:54,780 --> 00:14:55,180
+TDD
+
+1018
+00:14:55,180 --> 00:14:56,020
+because
+
+1019
+00:14:56,020 --> 00:14:56,220
+it
+
+1020
+00:14:56,220 --> 00:14:56,400
+makes
+
+1021
+00:14:56,400 --> 00:14:56,580
+their
+
+1022
+00:14:56,580 --> 00:14:56,820
+code
+
+1023
+00:14:56,820 --> 00:14:57,180
+easier
+
+1024
+00:14:57,180 --> 00:14:57,360
+for
+
+1025
+00:14:57,360 --> 00:14:57,560
+others
+
+1026
+00:14:57,560 --> 00:14:57,720
+to
+
+1027
+00:14:57,720 --> 00:14:58,200
+understand
+
+1028
+00:14:58,200 --> 00:14:58,400
+and
+
+1029
+00:14:58,400 --> 00:14:58,760
+potentially
+
+1030
+00:14:58,760 --> 00:14:59,320
+replace.
+
+1031
+00:14:59,620 --> 00:14:59,880
+Yeah,
+
+1032
+00:15:00,040 --> 00:15:00,300
+I can
+
+1033
+00:15:00,300 --> 00:15:00,640
+see why
+
+1034
+00:15:00,640 --> 00:15:00,780
+some
+
+1035
+00:15:00,780 --> 00:15:00,960
+people
+
+1036
+00:15:00,960 --> 00:15:01,160
+might
+
+1037
+00:15:01,160 --> 00:15:01,380
+think
+
+1038
+00:15:01,380 --> 00:15:01,640
+that.
+
+1039
+00:15:02,020 --> 00:15:02,200
+But
+
+1040
+00:15:02,200 --> 00:15:02,320
+he
+
+1041
+00:15:02,320 --> 00:15:02,520
+makes
+
+1042
+00:15:02,520 --> 00:15:02,660
+a
+
+1043
+00:15:02,660 --> 00:15:03,040
+compelling
+
+1044
+00:15:03,040 --> 00:15:03,400
+case
+
+1045
+00:15:03,400 --> 00:15:03,580
+for
+
+1046
+00:15:03,580 --> 00:15:03,740
+the
+
+1047
+00:15:03,740 --> 00:15:04,120
+opposite
+
+1048
+00:15:04,120 --> 00:15:04,700
+viewpoint.
+
+1049
+00:15:05,660 --> 00:15:05,880
+By
+
+1050
+00:15:11,260 --> 00:15:31,620
+saying
+
+1051
+00:15:31,620 --> 00:15:31,820
+that
+
+1052
+00:15:31,820 --> 00:15:31,840
+it
+
+1053
+00:15:31,840 --> 00:15:31,920
+is
+
+1054
+00:15:31,920 --> 00:15:32,040
+a
+
+1055
+00:15:32,040 --> 00:15:32,220
+really
+
+1056
+00:15:32,220 --> 00:15:32,760
+powerful
+
+1057
+00:15:32,760 --> 00:15:33,220
+message.
+
+1058
+00:15:33,360 --> 00:15:33,640
+It
+
+1059
+00:15:33,640 --> 00:15:33,980
+suggests
+
+1060
+00:15:33,980 --> 00:15:34,140
+that
+
+1061
+00:15:34,140 --> 00:15:34,400
+TDD
+
+1062
+00:15:34,400 --> 00:15:34,620
+is
+
+1063
+00:15:34,620 --> 00:15:34,800
+not
+
+1064
+00:15:34,800 --> 00:15:34,940
+just
+
+1065
+00:15:34,940 --> 00:15:35,060
+a
+
+1066
+00:15:35,060 --> 00:15:35,320
+technical
+
+1067
+00:15:35,320 --> 00:15:35,800
+practice,
+
+1068
+00:15:36,000 --> 00:15:36,140
+it's
+
+1069
+00:15:36,140 --> 00:15:36,260
+a
+
+1070
+00:15:36,260 --> 00:15:36,560
+cultural
+
+1071
+00:15:36,560 --> 00:15:36,980
+shift
+
+1072
+00:15:36,980 --> 00:15:37,380
+that
+
+1073
+00:15:37,380 --> 00:15:37,520
+can
+
+1074
+00:15:37,520 --> 00:15:37,680
+lead
+
+1075
+00:15:37,680 --> 00:15:37,800
+to
+
+1076
+00:15:37,800 --> 00:15:38,020
+better
+
+1077
+00:15:38,020 --> 00:15:38,440
+software
+
+1078
+00:15:38,440 --> 00:15:38,680
+and
+
+1079
+00:15:38,680 --> 00:15:38,780
+a
+
+1080
+00:15:38,780 --> 00:15:38,940
+more
+
+1081
+00:15:38,940 --> 00:15:39,220
+fulfilling
+
+1082
+00:15:39,220 --> 00:15:39,520
+work
+
+1083
+00:15:39,520 --> 00:15:39,920
+environment.
+
+1084
+00:15:40,280 --> 00:15:40,660
+Absolutely.
+
+1085
+00:15:40,940 --> 00:15:41,040
+It's
+
+1086
+00:15:41,040 --> 00:15:41,240
+about
+
+1087
+00:15:41,240 --> 00:15:41,320
+!
+
+1088
+00:16:11,020 --> 00:16:11,220
+Yeah!
+
+1089
+00:16:11,220 --> 00:16:11,300
+It's
+
+1090
+00:16:11,300 --> 00:16:11,420
+about
+
+1091
+00:16:11,420 --> 00:16:17,880
+building
+
+1092
+00:16:17,880 --> 00:16:18,300
+software
+
+1093
+00:16:18,300 --> 00:16:18,520
+that
+
+1094
+00:16:18,520 --> 00:16:18,680
+can
+
+1095
+00:16:18,680 --> 00:16:18,860
+stand
+
+1096
+00:16:18,860 --> 00:16:19,000
+the
+
+1097
+00:16:19,000 --> 00:16:19,200
+test
+
+1098
+00:16:19,200 --> 00:16:19,340
+of
+
+1099
+00:16:19,340 --> 00:16:19,660
+time.
+
+1100
+00:16:19,820 --> 00:16:20,040
+It's
+
+1101
+00:16:20,040 --> 00:16:20,160
+not
+
+1102
+00:16:20,160 --> 00:16:20,340
+just
+
+1103
+00:16:20,340 --> 00:16:20,540
+about
+
+1104
+00:16:20,540 --> 00:16:20,760
+writing
+
+1105
+00:16:20,760 --> 00:16:21,120
+code,
+
+1106
+00:16:21,240 --> 00:16:21,300
+it's
+
+1107
+00:16:21,300 --> 00:16:21,520
+about
+
+1108
+00:16:21,520 --> 00:16:21,980
+crafting
+
+1109
+00:16:21,980 --> 00:16:23,320
+well-designed,
+
+1110
+00:16:23,600 --> 00:16:24,040
+robust,
+
+1111
+00:16:24,200 --> 00:16:24,280
+and
+
+1112
+00:16:24,280 --> 00:16:24,820
+maintainable
+
+1113
+00:16:24,820 --> 00:16:25,260
+systems.
+
+1114
+00:16:25,400 --> 00:16:25,580
+Keep
+
+1115
+00:16:25,580 --> 00:16:25,900
+diving
+
+1116
+00:16:25,900 --> 00:16:26,180
+deep,
+
+1117
+00:16:26,280 --> 00:16:26,440
+keep
+
+1118
+00:16:26,440 --> 00:16:26,840
+challenging
+
+1119
+00:16:26,840 --> 00:16:27,260
+yourself,
+
+1120
+00:16:27,340 --> 00:16:27,420
+and
+
+1121
+00:16:27,420 --> 00:16:27,620
+keep
+
+1122
+00:16:27,620 --> 00:16:27,940
+building
+
+1123
+00:16:27,940 --> 00:16:28,380
+amazing
+
+1124
+00:16:28,380 --> 00:16:28,920
+things.
+

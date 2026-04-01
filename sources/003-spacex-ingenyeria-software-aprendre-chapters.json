@@ -1,0 +1,43 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 003: Test-Driven Development amb Dave Farley",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introducció: Benvinguda a TDD"
+    },
+    {
+      "startTime": 90,
+      "title": "Què és realment Test-Driven Development?"
+    },
+    {
+      "startTime": 240,
+      "title": "El cicle Red-Green-Refactor"
+    },
+    {
+      "startTime": 405,
+      "title": "TDD com a tècnica de disseny, no només testing"
+    },
+    {
+      "startTime": 585,
+      "title": "Detecció de problemes d'acoblament i design"
+    },
+    {
+      "startTime": 690,
+      "title": "Behavior-Driven Development (BDD): Evolucionant TDD"
+    },
+    {
+      "startTime": 825,
+      "title": "Testing de la UI: Abstracció i estratègies"
+    },
+    {
+      "startTime": 900,
+      "title": "Control de variables, mocks i refactoring"
+    },
+    {
+      "startTime": 966,
+      "title": "Conclusions: Software robust i mantenible"
+    }
+  ]
+}

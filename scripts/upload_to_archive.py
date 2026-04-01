@@ -40,6 +40,16 @@ EPISODIS = [
         "duration": "15:02",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "lingüística", "idioma anglès", "ortografia", "gran rotació vocàlica", "història", "fonètica", "impremta", "caxton"]
     },
+    {
+        "num": "003",
+        "fitxer": "003-spacex-ingenyeria-software-aprendre.mp3",
+        "identifier": "podcast-del-doctor-003-spacex-ingenyeria-software-aprendre",
+        "title": "Episodi 003: Test-Driven Development amb Dave Farley",
+        "description": "Una anàlisi fonamental sobre Test-Driven Development (TDD). Amb Dave Farley, explorem com els tests no són només validació sinó una eina essencial de disseny que millora la qualitat del codi, la mantenibilitat i la col·laboració entre equips. Descobrim el cicle red-green-refactor, Behavior-Driven Development (BDD), i per què TDD accelera la desenvolupament en lloc de ralentir-la.",
+        "date": "2026-04-01",
+        "duration": "16:29",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "tdd", "test-driven development", "dave farley", "bdd", "testing", "refactoring", "software design", "software engineering"]
+    },
 ]
 
 
