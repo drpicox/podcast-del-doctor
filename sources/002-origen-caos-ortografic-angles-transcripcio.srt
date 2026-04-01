@@ -1,0 +1,1096 @@
+1
+00:00:00,000 --> 00:00:03,700
+Qualsevol persona que hagi intentat aprendre anglès s'ha trobat amb això,
+
+2
+00:00:04,300 --> 00:00:09,260
+perquè paraules com through, tough, bow s'escriuen gairebé igual,
+
+3
+00:00:09,720 --> 00:00:12,000
+però sonen completament diferents.
+
+4
+00:00:12,360 --> 00:00:14,900
+Sembla que no tingui cap lògica, cap ni una,
+
+5
+00:00:15,260 --> 00:00:17,620
+però la resposta no és que l'anglès sigui il·lògic,
+
+6
+00:00:18,020 --> 00:00:22,700
+sinó que la seva ortografia és, en realitat, una mena de càpsula del temps,
+
+7
+00:00:23,340 --> 00:00:26,940
+un eco d'un dels terratrèmols lingüístics més grans de la història.
+
+8
+00:00:26,940 --> 00:00:31,980
+El great vowel shift, o com en direm avui, la gran rotació vocàlica.
+
+9
+00:00:32,760 --> 00:00:38,000
+Per entendre la magnitud d'això, només cal imaginar-se a Geoffrey Chaucer, al segle XIV,
+
+10
+00:00:38,460 --> 00:00:40,960
+intentant parlar amb Shakespeare 200 anys més tard.
+
+11
+00:00:41,200 --> 00:00:41,940
+S'haurien entès?
+
+12
+00:00:42,120 --> 00:00:44,780
+Probablement no del tot, i no per les paraules en si,
+
+13
+00:00:45,120 --> 00:00:48,880
+sinó perquè el so d'aquestes paraules havia canviat d'una manera radical.
+
+14
+00:00:49,640 --> 00:00:52,520
+El que els separava era una autèntica revolució sonora.
+
+15
+00:00:52,780 --> 00:00:55,980
+Doncs aquesta és la missió de la nostra anàlisi a fons d'avui.
+
+16
+00:00:55,980 --> 00:01:01,080
+Volem entendre, a partir de fons de lingüística històrica i articles acadèmics,
+
+17
+00:01:01,520 --> 00:01:03,640
+què va ser exactament aquesta rotació,
+
+18
+00:01:04,080 --> 00:01:05,460
+per què creiem que va passar
+
+19
+00:01:05,460 --> 00:01:10,940
+i com la seva col·lisió amb la impremta, una revolució tecnològica, ho va canviar tot.
+
+20
+00:01:11,440 --> 00:01:12,920
+Comencem a desxifrar el misteri?
+
+21
+00:01:13,400 --> 00:01:14,600
+D'acord, anem al gra.
+
+22
+00:01:15,040 --> 00:01:17,100
+Què va ser exactament aquesta transformació?
+
+23
+00:01:17,700 --> 00:01:22,180
+Perquè, a veure, rotació vocàlica són una mica... abstracta.
+
+24
+00:01:22,360 --> 00:01:24,920
+Bé, va ser un canvi en cadena,
+
+25
+00:01:25,980 --> 00:01:29,500
+sistemàtic, que va afectar totes les vocals llargues de l'anglès.
+
+26
+00:01:29,960 --> 00:01:32,480
+Un procés que va començar cap al segle XIV
+
+27
+00:01:32,480 --> 00:01:35,780
+i no es va acabar del tot fins gairebé el XVIII.
+
+28
+00:01:36,360 --> 00:01:40,000
+I els resultats són, vistos des d'ara, sorprenents.
+
+29
+00:01:40,340 --> 00:01:41,180
+Posa'ns un exemple.
+
+30
+00:01:41,740 --> 00:01:44,120
+Doncs mira, la paraula bite, morsegar,
+
+31
+00:01:44,660 --> 00:01:47,000
+a l'anglès de Chaucer no sonava com avui.
+
+32
+00:01:47,420 --> 00:01:52,440
+Tenia un so I, com una I llarga, la que tenim a la paraula anglesa machine.
+
+33
+00:01:52,440 --> 00:01:53,080
+Ahà.
+
+34
+00:01:53,420 --> 00:01:55,440
+O sigui que bite es pronuncia...
+
+35
+00:01:55,980 --> 00:01:59,720
+Creava més o menys com l'actual bit, remolatxa.
+
+36
+00:01:59,800 --> 00:02:00,520
+Espera, espera.
+
+37
+00:02:01,000 --> 00:02:05,780
+Vols dir que I bite an apple sonava com I beat an apple?
+
+38
+00:02:06,240 --> 00:02:07,600
+Exactament, això és.
+
+39
+00:02:08,020 --> 00:02:09,420
+I no és un cas aïllat, eh?
+
+40
+00:02:09,720 --> 00:02:11,380
+La llista és inacabable.
+
+41
+00:02:11,680 --> 00:02:12,080
+Ostres.
+
+42
+00:02:12,220 --> 00:02:15,680
+La paraula mit, trobar-se, que avui té aquest so I,
+
+43
+00:02:16,080 --> 00:02:18,340
+abans sonava com el modern mate, company.
+
+44
+00:02:18,760 --> 00:02:19,800
+Nice to mate you.
+
+45
+00:02:20,000 --> 00:02:20,660
+Sí, sí.
+
+46
+00:02:21,080 --> 00:02:22,540
+Podia portar confusions, segur.
+
+47
+00:02:22,860 --> 00:02:23,380
+Vaja.
+
+48
+00:02:23,980 --> 00:02:25,840
+O un altre house, casa.
+
+49
+00:02:25,980 --> 00:02:27,800
+Avui té un diptong au.
+
+50
+00:02:28,420 --> 00:02:31,820
+Però a l'època tenia una U llarga, com la de but.
+
+51
+00:02:32,300 --> 00:02:34,260
+Es deia una cosa semblant a hus.
+
+52
+00:02:34,680 --> 00:02:39,740
+I per tancar el cercle, but, bota, sonava com el modern boat, vaixell.
+
+53
+00:02:40,660 --> 00:02:41,360
+És increïble.
+
+54
+00:02:41,500 --> 00:02:45,820
+És com si totes les vocals haguessin fet un pas endavant en una mena de dansa, no?
+
+55
+00:02:46,360 --> 00:02:49,140
+Quin era el mecanisme? Què passava a la boca de la gent?
+
+56
+00:02:49,400 --> 00:02:51,380
+La manera més senzilla de veure-ho
+
+57
+00:02:51,380 --> 00:02:55,800
+és que totes les vocals llargues van començar a pujar.
+
+58
+00:02:55,980 --> 00:02:58,860
+La posició de la llengua a la boca es va elevar.
+
+59
+00:02:59,380 --> 00:03:01,040
+Però clar, hi ha un sostre.
+
+60
+00:03:01,540 --> 00:03:04,620
+Les vocals més altes, que ja no podien posar més,
+
+61
+00:03:04,820 --> 00:03:07,400
+la I, the bite, i la U, the house...
+
+62
+00:03:07,400 --> 00:03:08,640
+Es van quedar sense espai.
+
+63
+00:03:08,980 --> 00:03:09,460
+Exacte.
+
+64
+00:03:09,880 --> 00:03:10,480
+I què van fer?
+
+65
+00:03:10,880 --> 00:03:12,120
+Es van trencar.
+
+66
+00:03:12,680 --> 00:03:16,060
+Van passar d'un so pur a un de compost, un diptong.
+
+67
+00:03:16,640 --> 00:03:19,820
+La I es va convertir en I i la U en U.
+
+68
+00:03:20,220 --> 00:03:21,780
+I aquest va ser el tret de sortida.
+
+69
+00:03:22,120 --> 00:03:22,460
+Ah, clar.
+
+70
+00:03:23,020 --> 00:03:24,860
+I això va provocar un efecte domino.
+
+71
+00:03:24,860 --> 00:03:25,460
+Sí.
+
+72
+00:03:25,460 --> 00:03:27,300
+El lloc que van deixar buit aquestes vocals
+
+73
+00:03:27,300 --> 00:03:29,840
+va ser ocupat per les que venien just a sota.
+
+74
+00:03:30,300 --> 00:03:30,820
+Precisament.
+
+75
+00:03:31,440 --> 00:03:32,940
+Cada vocal va començar a pujar
+
+76
+00:03:32,940 --> 00:03:35,840
+per omplir l'espai fonètic que havia deixat lliure l'anterior.
+
+77
+00:03:36,580 --> 00:03:38,400
+No va ser una cosa de la nit al dia, eh?
+
+78
+00:03:38,720 --> 00:03:41,320
+Va ser un procés molt gradual, de segles.
+
+79
+00:03:41,800 --> 00:03:43,940
+Una autèntica dansa de sons, com deies.
+
+80
+00:03:44,360 --> 00:03:44,880
+Entesos.
+
+81
+00:03:45,360 --> 00:03:47,660
+El mecanisme intern és fascinant,
+
+82
+00:03:48,140 --> 00:03:50,480
+gairebé com una maquinària de rellolleria.
+
+83
+00:03:51,040 --> 00:03:53,980
+Però em pregunto, què va ser caure la primera fitxa?
+
+84
+00:03:53,980 --> 00:03:54,060
+No.
+
+85
+00:03:54,060 --> 00:03:54,100
+No.
+
+86
+00:03:54,100 --> 00:03:54,120
+No.
+
+87
+00:03:54,120 --> 00:03:54,140
+No.
+
+88
+00:03:54,140 --> 00:03:54,160
+No.
+
+89
+00:03:54,160 --> 00:03:54,220
+No.
+
+90
+00:03:54,220 --> 00:03:54,240
+No.
+
+91
+00:03:54,240 --> 00:03:54,300
+No.
+
+92
+00:03:54,300 --> 00:03:54,320
+No.
+
+93
+00:03:54,320 --> 00:03:54,420
+No.
+
+94
+00:03:54,420 --> 00:03:54,440
+No.
+
+95
+00:03:54,440 --> 00:03:54,480
+No.
+
+96
+00:03:54,480 --> 00:03:54,500
+No.
+
+97
+00:03:54,500 --> 00:03:55,900
+Això no passa en el buit, oi?
+
+98
+00:03:56,300 --> 00:03:57,400
+És la gran pregunta.
+
+99
+00:03:58,140 --> 00:04:01,620
+I aquí les fonts ens presenten un debat molt interessant.
+
+100
+00:04:02,400 --> 00:04:04,680
+Hi ha dues teories principals sobre el mecanisme.
+
+101
+00:04:05,420 --> 00:04:07,000
+La primera, d'Otto Jespersen,
+
+102
+00:04:07,340 --> 00:04:10,760
+s'anomena cadena d'arrossegament, o drag chain.
+
+103
+00:04:11,320 --> 00:04:12,580
+Cadena d'arrossegament?
+
+104
+00:04:12,960 --> 00:04:13,200
+Sí.
+
+105
+00:04:13,840 --> 00:04:16,380
+Segons ell, el canvi va començar a dalt de tot.
+
+106
+00:04:16,900 --> 00:04:19,420
+Les vocals més altes, i, i u,
+
+107
+00:04:19,820 --> 00:04:22,760
+van ser les primeres a canviar, deixant un buit fonètic.
+
+108
+00:04:22,760 --> 00:04:23,900
+Com fi alguno,
+
+109
+00:04:23,900 --> 00:04:26,300
+s'aixequés d'una cadira i deixés un lloc lliure.
+
+110
+00:04:26,300 --> 00:04:26,900
+Exacte.
+
+111
+00:04:26,900 --> 00:04:29,780
+I sembla que a la fonètica no li agrada el buit.
+
+112
+00:04:29,780 --> 00:04:32,440
+Aquest espai va actuar com un imant,
+
+113
+00:04:32,440 --> 00:04:36,040
+arrossegant les vocals de sota cap amunt per omplir-lo.
+
+114
+00:04:36,040 --> 00:04:37,400
+És una idea potent.
+
+115
+00:04:37,400 --> 00:04:41,720
+Però, hi ha alguna cosa que, no sé, no m'acaba de quadrar?
+
+116
+00:04:41,720 --> 00:04:46,100
+Això assumeix que les vocals de dalt van ser les líders.
+
+117
+00:04:46,100 --> 00:04:47,700
+I si va ser al revés?
+
+118
+00:04:47,700 --> 00:04:50,180
+I si les de baix van començar a empènyer?
+
+119
+00:04:50,180 --> 00:04:53,540
+Aquesta és exactament l'altra gran teoria.
+
+120
+00:04:53,540 --> 00:04:58,040
+La cadena d'empuxa, o push chain, de Carl Lueck.
+
+121
+00:04:58,040 --> 00:05:00,540
+La teva intuïció és perfecta.
+
+122
+00:05:00,540 --> 00:05:04,040
+Ell deia que no, que el canvi va començar des de baix.
+
+123
+00:05:04,040 --> 00:05:07,040
+Les vocals mitjanes, com la E o la O,
+
+124
+00:05:07,040 --> 00:05:10,040
+les de mit i but en l'anglès antic,
+
+125
+00:05:10,040 --> 00:05:11,040
+just,
+
+126
+00:05:11,040 --> 00:05:15,040
+van començar a elevar-se, potser per prestigi social,
+
+127
+00:05:15,040 --> 00:05:18,040
+i en fer-ho van empujar les de dalt,
+
+128
+00:05:18,040 --> 00:05:20,040
+com algú que s'aixeca en un concert
+
+129
+00:05:20,040 --> 00:05:23,040
+i obliga a tothom qui té darrere a aixecar-se també.
+
+130
+00:05:23,040 --> 00:05:25,040
+És una analogia perfecta.
+
+131
+00:05:25,040 --> 00:05:29,040
+Les vocals més altes, I i U, es van trobar sense lloc.
+
+132
+00:05:29,040 --> 00:05:31,540
+Per no fusionar-se amb les que pujaven,
+
+133
+00:05:31,540 --> 00:05:34,040
+van haver de saltar, per dir-ho així,
+
+134
+00:05:34,040 --> 00:05:36,040
+i convertir-se en distongs.
+
+135
+00:05:36,040 --> 00:05:38,040
+Té molt de sentit.
+
+136
+00:05:38,040 --> 00:05:42,040
+I tenim alguna pista per saber quina teoria és més probable?
+
+137
+00:05:42,040 --> 00:05:44,040
+O és pura especulació?
+
+138
+00:05:44,040 --> 00:05:48,040
+Doncs sí, i la dialectologia ens dona una evidència clau.
+
+139
+00:05:48,040 --> 00:05:51,040
+I sembla que apunta cap a la cadena d'empenta.
+
+140
+00:05:51,040 --> 00:05:52,040
+A veure.
+
+141
+00:05:52,040 --> 00:05:54,040
+En alguns dialectes del nord d'Anglaterra,
+
+142
+00:05:54,040 --> 00:05:58,040
+la vocal O no es va elevar, es va quedar al seu lloc.
+
+143
+00:05:58,040 --> 00:06:02,040
+I el que és curiós és que en aquests mateixos dialectes,
+
+144
+00:06:02,040 --> 00:06:06,040
+la vocal alta U, la de house, tampoc no es va convertir en diptong.
+
+145
+00:06:06,040 --> 00:06:09,040
+Ah, això és una pista molt bona.
+
+146
+00:06:09,040 --> 00:06:13,040
+Vol dir que la vocal de dalt necessitava que l'empenyessin per moure's.
+
+147
+00:06:13,040 --> 00:06:15,040
+Si ningú l'empeny, es queda quieta.
+
+148
+00:06:15,040 --> 00:06:16,040
+Exactament.
+
+149
+00:06:16,040 --> 00:06:21,040
+No tanca el debat del tot, però és un argument de pes a favor de la push-chain,
+
+150
+00:06:21,040 --> 00:06:23,040
+d'acord?
+
+151
+00:06:23,040 --> 00:06:25,040
+Ja tenim els mecanismes interns.
+
+152
+00:06:25,040 --> 00:06:28,040
+Però seguim amb la pregunta clau.
+
+153
+00:06:28,040 --> 00:06:30,040
+Què va provocar tot això?
+
+154
+00:06:30,040 --> 00:06:33,040
+Per què just el segle XIV?
+
+155
+00:06:33,040 --> 00:06:38,040
+El context històric i social que apunten les fonts sembla absolutament crucial.
+
+156
+00:06:38,040 --> 00:06:43,040
+És impossible entendre-ho sense mirar què passava a la societat anglesa.
+
+157
+00:06:43,040 --> 00:06:46,040
+I el segle XIV va ser caòtic.
+
+158
+00:06:46,040 --> 00:06:49,040
+L'esdeveniment catalitzador va ser la Pesta Negra,
+
+159
+00:06:49,040 --> 00:06:51,040
+a partir de 1348.
+
+160
+00:06:51,040 --> 00:06:55,040
+Una catàstrofe que va matar entre un terç i la meitat de la població.
+
+161
+00:06:55,040 --> 00:06:56,040
+Un moment.
+
+162
+00:06:56,040 --> 00:07:01,040
+Si va morir tanta gent, això no hauria d'haver simplificat la llengua?
+
+163
+00:07:01,040 --> 00:07:06,040
+En lloc de provocar un canvi tan complex, semblava contraintuitiu.
+
+164
+00:07:06,040 --> 00:07:08,040
+És una bona pregunta.
+
+165
+00:07:08,040 --> 00:07:11,040
+Però la clau no és la mort en si, sinó la conseqüència.
+
+166
+00:07:11,040 --> 00:07:14,040
+Una mobilitat social i geogràfica brutal.
+
+167
+00:07:14,040 --> 00:07:18,040
+Amb tantes morts, hi havia una demanda de mà d'obra enorme.
+
+168
+00:07:18,040 --> 00:07:22,040
+I la gent del camp, de diferents comtats, cadascú amb el seu dialecte,
+
+169
+00:07:22,040 --> 00:07:25,040
+va començar a emigrar en massa cap a les ciutats.
+
+170
+00:07:25,040 --> 00:07:27,040
+Sobretot a Londres.
+
+171
+00:07:27,040 --> 00:07:30,040
+I Londres es va convertir en una mena de melting pot d'accents.
+
+172
+00:07:30,040 --> 00:07:32,040
+Un melting pot caòtic, sí.
+
+173
+00:07:32,040 --> 00:07:36,040
+Imagina't gent de Kent, d'Istànglia, de les Midlands...
+
+174
+00:07:36,040 --> 00:07:41,040
+Tots arribant a la capital i barrejant-s'ho per primer cop.
+
+175
+00:07:41,040 --> 00:07:45,040
+En aquest entorn, els dialectes comencen a enivellar-se.
+
+176
+00:07:45,040 --> 00:07:47,040
+Es crea un nou accent urbà.
+
+177
+00:07:47,040 --> 00:07:49,040
+Una barreja de tots.
+
+178
+00:07:49,040 --> 00:07:54,040
+I en aquest procés, alguns trets fonètics esdevenen més prestigiosos que d'altres.
+
+179
+00:07:54,040 --> 00:07:57,040
+Aquí és on entra el factor del classisme, suposo.
+
+180
+00:07:57,040 --> 00:07:59,040
+La gent vol sonar millor.
+
+181
+00:07:59,040 --> 00:08:03,040
+Precisament. El que en diem hipercorrecció.
+
+182
+00:08:03,040 --> 00:08:07,040
+Les fonts suggereixen que una pronunciació amb vocals més altes,
+
+183
+00:08:07,040 --> 00:08:12,040
+més tancades, es va començar a associar a un estatus superior.
+
+184
+00:08:12,040 --> 00:08:16,040
+La nova classe mitjana, per diferenciar-se dels nouvinguts rurals,
+
+185
+00:08:16,040 --> 00:08:19,040
+potser va exagerar aquesta pronunciació.
+
+186
+00:08:19,040 --> 00:08:21,040
+Per marcar distàncies, sí.
+
+187
+00:08:21,040 --> 00:08:24,040
+I a sobre hi ha un altre factor geopolític.
+
+188
+00:08:24,040 --> 00:08:26,040
+La guerra dels cent anys en França.
+
+189
+00:08:26,040 --> 00:08:30,040
+El francès havia estat la llengua de l'acord de l'aristocràcia.
+
+190
+00:08:30,040 --> 00:08:31,040
+Clar.
+
+191
+00:08:31,040 --> 00:08:34,040
+Però amb la guerra va sorgir un sentiment antifrancès molt fort.
+
+192
+00:08:34,040 --> 00:08:39,040
+Parlar en anglès, i parlar-lo d'una manera distintiva, no francesa,
+
+193
+00:08:39,040 --> 00:08:42,040
+es va convertir en un acte d'identitat.
+
+194
+00:08:42,040 --> 00:08:45,040
+Alguns creuen que la rotació, que allunyava els sons de l'anglès,
+
+195
+00:08:45,040 --> 00:08:50,040
+dels del francès, es va accelerar per aquest desig de sonar més anglès.
+
+196
+00:08:50,040 --> 00:08:52,040
+Una tempesta perfecta, baixa.
+
+197
+00:08:52,040 --> 00:08:56,040
+Llavors tenim una llengua en plena ebullició, canviant a cada generació.
+
+198
+00:08:56,040 --> 00:09:01,040
+I just enmig d'aquest terratròmol apareix una tecnologia que ho canviarà tot.
+
+199
+00:09:01,040 --> 00:09:04,040
+Aquí entra la peça final, suposo.
+
+200
+00:09:04,040 --> 00:09:08,040
+Aquí entra William Caxton, any 1476.
+
+201
+00:09:08,040 --> 00:09:11,040
+Introdueix la primera impremta a Anglaterra.
+
+202
+00:09:11,040 --> 00:09:14,040
+I la impremta, per naturalesa, necessitava una cosa.
+
+203
+00:09:14,040 --> 00:09:17,040
+Estandardització.
+
+204
+00:09:17,040 --> 00:09:22,040
+Per poder vendre llibres a tot el país, calia que s'escriguessin igual a tot arreu.
+
+205
+00:09:22,040 --> 00:09:25,040
+Però van arribar en el pitjor moment, oi?
+
+206
+00:09:25,040 --> 00:09:27,040
+Fonèticament parlant.
+
+207
+00:09:27,040 --> 00:09:31,040
+Com tries com escriure una paraula si la gent la diu de maneres diferents a cada lloc?
+
+208
+00:09:31,040 --> 00:09:33,040
+I a més, està canviant.
+
+209
+00:09:33,040 --> 00:09:35,040
+Aquesta era la qüestió.
+
+210
+00:09:35,040 --> 00:09:39,040
+I els impressors com Caxton no eren lingüistes, eren homes de negocis.
+
+211
+00:09:39,040 --> 00:09:42,040
+No es van posar a inventar una ortografia nova.
+
+212
+00:09:42,040 --> 00:09:43,040
+Van fer el més pràctic.
+
+213
+00:09:44,040 --> 00:09:49,040
+Van agafar les convencions que ja existien, les que feien servir els escribes de Londres.
+
+214
+00:09:49,040 --> 00:09:54,040
+Bàsicament, van copiar l'ortografia de l'anglès mitjà tardà, la dels manuscrits.
+
+215
+00:09:54,040 --> 00:09:55,040
+Ah, ja ho entenc.
+
+216
+00:09:55,040 --> 00:10:02,040
+Llavors, és com si haguessin fet una fotografia de la lingua just a la meitat d'un terratrèmol.
+
+217
+00:10:02,040 --> 00:10:08,040
+L'ortografia es va quedar congelada al voltant de 1476. Però el so...
+
+218
+00:10:08,040 --> 00:10:13,040
+El so, la paraula parlada, va continuar evolucionant durant 200 o 300 anys més.
+
+219
+00:10:13,040 --> 00:10:15,040
+Aquesta és la clau de tot.
+
+220
+00:10:15,040 --> 00:10:16,040
+Exacte.
+
+221
+00:10:16,040 --> 00:10:23,040
+L'ortografia anglesa moderna és, en essència, un fòssil de la pronunciació del segle XV.
+
+222
+00:10:23,040 --> 00:10:27,040
+L'exemple perfecte és la paraula knight, cavaller.
+
+223
+00:10:27,040 --> 00:10:29,040
+Això de knight m'ha marcat.
+
+224
+00:10:29,040 --> 00:10:34,040
+A l'escola pensava que l'anglès era il·lògic per culpa de paraules com aquesta.
+
+225
+00:10:34,040 --> 00:10:38,040
+Però ara veig que no és il·lògic. És un fòssil.
+
+226
+00:10:38,040 --> 00:10:40,040
+És un fòssil perfecte.
+
+227
+00:10:40,040 --> 00:10:46,040
+L'ortografia K-N-I-G-H-T reflectia la pronunciació de l'època.
+
+228
+00:10:46,040 --> 00:10:53,040
+La K es pronunciava, el so G era una fricativa, un so gutural semblant a la J castellana.
+
+229
+00:10:53,040 --> 00:10:55,040
+Un so que hem perdut.
+
+230
+00:10:55,040 --> 00:10:56,040
+Totalment.
+
+231
+00:10:56,040 --> 00:11:00,040
+La impremta va fixar aquesta grafia, però la llengua va seguir.
+
+232
+00:11:00,040 --> 00:11:09,040
+La K va modir, el so G va desaparèixer, i la vocal I, que sonava I, va seguir tota la rotació fins a convertir-se en el diptong I.
+
+233
+00:11:09,040 --> 00:11:12,040
+Per això avui escrivim K-Night, però diem Knight.
+
+234
+00:11:12,040 --> 00:11:23,040
+Això explica moltíssimes coses. Però em pregunto, aquesta rotació va ser una llei universal o hi va haver paraules rebels que van decidir no anar a la festa?
+
+235
+00:11:23,040 --> 00:11:34,040
+Hi va haver muntes de rebels, i les excepcions són fascinants. Hi ha paraules on el canvi sembla que es va aturar a mig camí. Pensa en great, break o steak.
+
+236
+00:11:34,040 --> 00:11:36,040
+Ah, és veritat.
+
+237
+00:11:36,040 --> 00:11:38,040
+Segons el patró, haurien d'haver acabat sonant com...
+
+238
+00:11:39,040 --> 00:11:45,040
+greet, amb una vocal I. Però no. Es van quedar en un estadi anterior, amb el so E-I.
+
+239
+00:11:45,040 --> 00:11:47,040
+I se sap per què?
+
+240
+00:11:47,040 --> 00:11:59,040
+Bé, no hi ha una única resposta. De vegades les consonants del voltant van jugar un paper. Per exemple, a Rome, la vocal U hauria d'haver-se convertit en AU, com a house.
+
+241
+00:11:59,040 --> 00:12:00,040
+Però no ho va fer.
+
+242
+00:12:00,040 --> 00:12:08,040
+No. Perquè les consonants labials, la R i la M, que es fan amb els llavis, sembla que van protegir la vocal. Van impedir que es trenqués.
+
+243
+00:12:08,040 --> 00:12:13,040
+Les consonants van fer d'amor de contenció. És increïble.
+
+244
+00:12:13,040 --> 00:12:22,040
+Sí. Altres paraules, com father, simplement no van seguir el patró, potser per influències dialectals. I després hi ha els immigrants.
+
+245
+00:12:22,040 --> 00:12:23,040
+Immigrants.
+
+246
+00:12:23,040 --> 00:12:24,040
+A la llengua.
+
+247
+00:12:24,040 --> 00:12:25,040
+Exacte.
+
+248
+00:12:25,040 --> 00:12:36,040
+Els matlleus. Paraules com soufflé o cappuccino no van participar a la gran rotació vocàlica. Per què? Perquè van arribar a la festa quan ja s'havia acabat.
+
+249
+00:12:36,040 --> 00:12:37,040
+Clar. Van arribar tard.
+
+250
+00:12:37,040 --> 00:12:41,040
+Van arribar quan el procés ja estava molt avançat o completat.
+
+251
+00:12:41,040 --> 00:12:51,040
+Hi ha una idea final a les fonts que em sembla brillant. Diu que l'anglès, d'alguna manera, va pagar un preu per haver simplificat tant la seva gramàtica.
+
+252
+00:12:51,040 --> 00:12:56,040
+És una perspectiva fonamental per entendre el perquè funcional de tot plegat.
+
+253
+00:12:56,040 --> 00:13:06,040
+Si compares l'anglès mitjà amb l'alemany modern, per exemple, l'alemany va conservar molta complexitat gramatical. Casos, gèneres, terminacions...
+
+254
+00:13:06,040 --> 00:13:14,040
+L'anglès, en canvi, ho va perdre gairebé tot. Es va fer una llengua molt més monosil·làbica. I això té una conseqüència acústica, no?
+
+255
+00:13:14,040 --> 00:13:25,040
+...que t'ajudin, tota la càrrega del significat cau sobre la vocal. Si la diferència entre dues vocals és molt subtil, en una conversa ràpida és molt fàcil confondre-les.
+
+256
+00:13:25,040 --> 00:13:27,040
+La comunicació es podria col·lapsar?
+
+257
+00:13:27,040 --> 00:13:34,040
+Exacte. Llavors, la gran rotació vocàlica va ser, en el fons, una solució a aquest problema.
+
+258
+00:13:34,040 --> 00:13:35,040
+Una solució inconscient?
+
+259
+00:13:35,040 --> 00:13:50,040
+Sí. En canviar vocals pures per diptons complexos com ai o au, la llengua va crear sons molt més distintius, més robustos, més difícils de confondre. Va ser una adaptació fonètica per compensar la pèrdua de complexitat gramatical.
+
+260
+00:13:50,040 --> 00:14:04,040
+Llavors, la gran conclusió és que la gran rotació vocàlica no va ser un accident. Va ser una adaptació, una resposta a una tempesta perfecta de canvis interns, una agitació social massiva i, finalment, una revolució tecnològica.
+
+261
+00:14:05,040 --> 00:14:07,040
+Aquesta raresa de l'ortografia anglesa no és un defecte, sinó un mapa de la seva història.
+
+262
+00:14:07,040 --> 00:14:20,040
+Exacte. La llengua va sacrificar transparència ortogràfica per guanyar claretat comunicativa.
+
+263
+00:14:20,040 --> 00:14:33,040
+De fet, el canvi és tan profund que fins i tot els noms de les lletres van canviar. Abans, la lletra A es deia A, com la nostra A. Després, va passar a dir-se ei. La i es deia i i ara es diu ai.
+
+264
+00:14:33,040 --> 00:14:34,200
+i ara es diu ai.
+
+265
+00:14:34,720 --> 00:14:36,120
+El canvi és a tot arreu.
+
+266
+00:14:36,720 --> 00:14:38,800
+El que ens deixa amb una última reflexió,
+
+267
+00:14:39,100 --> 00:14:41,380
+una idea provocadora que plantegen les fonts.
+
+268
+00:14:42,160 --> 00:14:43,920
+Si la rotació va ser, en part,
+
+269
+00:14:44,100 --> 00:14:47,260
+una resposta a la pèrdua de complexitat gramatical,
+
+270
+00:14:47,880 --> 00:14:49,800
+això planteja una pregunta fascinant.
+
+271
+00:14:50,280 --> 00:14:54,280
+Si l'anglès hagués conservat una gramàtica més complexa com l'alemany,
+
+272
+00:14:54,760 --> 00:14:57,340
+hauria necessitat un canvi fonètic tan dràstic?
+
+273
+00:14:57,800 --> 00:14:59,900
+Podria una gramàtica més complexa
+
+274
+00:14:59,900 --> 00:15:02,620
+haver salvat l'anglès de la seva ortografia endimoniada?
+

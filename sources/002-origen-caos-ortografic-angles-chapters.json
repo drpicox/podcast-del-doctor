@@ -1,0 +1,39 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 002: L'Origen del Caos Ortogràfic Anglès",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introducció: Per què l'anglès és incomprehensible"
+    },
+    {
+      "startTime": 26.94,
+      "title": "La Gran Rotació Vocàlica: Del segle XIV al XVIII"
+    },
+    {
+      "startTime": 180,
+      "title": "Mecanismes Interns: Cadena d'Arrossegament i Cadena d'Empenta"
+    },
+    {
+      "startTime": 360,
+      "title": "La Pesta Negra: Catalitzador del Caos Lingüístic"
+    },
+    {
+      "startTime": 580,
+      "title": "La Impremta de Caxton: Congelar la Pronunciació"
+    },
+    {
+      "startTime": 750,
+      "title": "Fòssils Lingüístics: Per què 'knight' és un fòssil"
+    },
+    {
+      "startTime": 850,
+      "title": "Excepcions i Rebels: Paraules que van trencar la Regla"
+    },
+    {
+      "startTime": 900,
+      "title": "Conclusions: L'Ortografia com a Mapa de la Història"
+    }
+  ]
+}

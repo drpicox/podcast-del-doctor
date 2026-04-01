@@ -30,6 +30,16 @@ EPISODIS = [
         "duration": "20:04",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "ollama", "api", "llm", "ia local", "gpu", "tool calling", "openai", "streaming"]
     },
+    {
+        "num": "002",
+        "fitxer": "002-origen-caos-ortografic-angles.mp3",
+        "identifier": "podcast-del-doctor-002-origen-caos-ortografic-angles",
+        "title": "Episodi 2: L'Origen del Caos Ortogràfic Anglès",
+        "description": "La gran rotació vocàlica anglesa: per què l'ortografia és un caos lingüístic. Analitzem els mecanismes interns (cadena d'arrossegament vs. d'empenta), el context històric (Pesta Negra, guerra de França), i com la impremta de Caxton va congelar la pronunciació del segle XV, creant fòssils ortogràfics com 'knight'.",
+        "date": "2026-04-01",
+        "duration": "15:02",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "lingüística", "idioma anglès", "ortografia", "gran rotació vocàlica", "història", "fonètica", "impremta", "caxton"]
+    },
 ]
 
 
