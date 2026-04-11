@@ -50,6 +50,26 @@ EPISODIS = [
         "duration": "16:29",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "tdd", "test-driven development", "dave farley", "bdd", "testing", "refactoring", "software design", "software engineering"]
     },
+    {
+        "num": "004",
+        "fitxer": "004-domar-ia-precisio.mp3",
+        "identifier": "podcast-del-doctor-004-domar-ia-precisio",
+        "title": "Episodi 004: Domar la IA per programar amb precisió",
+        "description": "Com domesticar la intel·ligència artificial per aconseguir precisió en la programació? Explorem els descobriments reveladors de l'Ada Kessler sobre els veritables perills i potencials de treballar amb models de llenguatge extens. Descobrim per què els llocs comuns sobre la 'finestra de context' són insuficients, com gestionar la 'podridura del context', per què els 'superagents' generalistes són una trampa, la importància de la fricció intencionada, l'elasticitat del text (DOOM semàntic), i com els desenvolupadors passem de ser creadors de codi a directors d'orquestra de múltiples agents especialitzats.",
+        "date": "2026-04-03",
+        "duration": "32:43",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "ia", "llm", "ada kessler", "augmented coding", "context window", "agents", "prompt engineering", "software design", "nondeterminism", "git worktrees", "evaluation", "evals"]
+    },
+    {
+        "num": "005",
+        "fitxer": "005-ouro-ia-pensa-en-bucle.mp3",
+        "identifier": "podcast-del-doctor-005-ouro-ia-pensa-en-bucle",
+        "title": "Episodi 005: Ouro, la IA que pensa en bucle",
+        "description": "Quin seria el proper gran salt en IA si en lloc de construir models cada vegada més grans i cars, ensenyéssim a un de petit a pensar en bucle? Explorem Ouro, un model de llenguatge en bucle (LoopLM) de només 2.6 bilions de paràmetres que supera models de 12 bilions en raonament matemàtic. Basat en l'article 'Scaling Latent Reasoning via Looped Language Models' (arxiv:2510.25741) de ByteDance, UC Santa Cruz i Princeton.",
+        "date": "2026-04-11",
+        "duration": "13:02",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "ia", "llm", "ouro", "looped language models", "latent reasoning", "chain-of-thought", "raonament", "arxiv", "bytedance", "princeton", "democratitzacio ia", "espai latent"]
+    },
 ]
 
 

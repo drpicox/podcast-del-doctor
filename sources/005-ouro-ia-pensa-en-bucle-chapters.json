@@ -1,0 +1,15 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 005: Ouro, la IA que pensa en bucle",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: la cursa armamentística de la IA" },
+    { "startTime": 130, "title": "Ouro: el model de llenguatge en bucle" },
+    { "startTime": 270, "title": "Raonament en l'espai latent" },
+    { "startTime": 356, "title": "La porta de sortida primerenca" },
+    { "startTime": 447, "title": "Memòria eficient: KV Cache Sharing" },
+    { "startTime": 494, "title": "Disc dur vs CPU: coneixement vs manipulació" },
+    { "startTime": 569, "title": "Fidelitat i seguretat del raonament latent" },
+    { "startTime": 702, "title": "Reflexió final: la democratització de la IA" }
+  ]
+}
