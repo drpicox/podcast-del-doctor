@@ -1,0 +1,13 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 006: El raonament autònom de Claude Mythos",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: la filtració de Claude Mythos" },
+    { "startTime": 131, "title": "Arquitectura: Mixture of Experts de 10 bilions" },
+    { "startTime": 269, "title": "Recurrència latent: pensar en espai vectorial" },
+    { "startTime": 353, "title": "Resultats: USAMO 97.6% i programació 93%" },
+    { "startTime": 379, "title": "Ciberseguretat autònoma: zero-days de dècades" },
+    { "startTime": 451, "title": "Reflexió final: sintaxi vs lògica i l'espai latent" }
+  ]
+}

@@ -70,6 +70,16 @@ EPISODIS = [
         "duration": "13:02",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "ia", "llm", "ouro", "looped language models", "latent reasoning", "chain-of-thought", "raonament", "arxiv", "bytedance", "princeton", "democratitzacio ia", "espai latent"]
     },
+    {
+        "num": "006",
+        "fitxer": "006-raonament-autonom-claude-mythos.mp3",
+        "identifier": "podcast-del-doctor-006-raonament-autonom-claude-mythos",
+        "title": "Episodi 006: El raonament autònom de Claude Mythos",
+        "description": "Una filtració massiva des de l'interior d'Anthropic ha exposat Claude Mythos, un model especulatiu de 10 bilions de paràmetres que combina Mixture of Experts ultradispers amb recurrència latent. Un sistema que rumia en silenci en el seu espai vectorial intern, aconsegueix un 97.6% al benchmark USAMO de matemàtiques i és capaç de trobar zero-days de 27 anys amagats en codi revisat 5 milions de vegades.",
+        "date": "2026-04-11",
+        "duration": "13:58",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "ia", "llm", "claude", "anthropic", "mixture of experts", "moe", "recurrència latent", "raonament autònom", "ciberseguretat", "zero-day", "espai latent", "claude mythos"]
+    },
 ]
 
 
