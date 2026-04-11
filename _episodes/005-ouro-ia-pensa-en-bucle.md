@@ -20,8 +20,6 @@ sources:
 - title: "Transcripció automàtica de l'episodi"
   url: "/podcast-del-doctor/sources/005-ouro-ia-pensa-en-bucle-transcripcio.txt"
   description: "Transcripció completa generada amb OpenAI Whisper (model large-v3)"
-# TODO: Generar thumbnail quan ollama MLX funcioni (libmlxc.dylib no trobat post-update sistema)
-# python scripts/generate_thumbnail.py --episodi 005 --nom 005-ouro-ia-pensa-en-bucle --prompt-suffix "a small glowing brain looping inside a recursive loop of light, ouroboros snake eating its tail in the background, futuristic neon"
 title: "Episodi 005: Ouro, la IA que pensa en bucle"
 ---
 

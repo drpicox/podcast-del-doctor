@@ -17,8 +17,6 @@ sources:
 - title: "Transcripció automàtica de l'episodi"
   url: "/podcast-del-doctor/sources/006-raonament-autonom-claude-mythos-transcripcio.txt"
   description: "Transcripció completa generada amb OpenAI Whisper (model large-v3)"
-# TODO: Generar thumbnail quan ollama MLX funcioni (libmlxc.dylib no trobat post-update sistema)
-# python scripts/generate_thumbnail.py --episodi 006 --nom 006-raonament-autonom-claude-mythos --prompt-suffix "a glowing TARDIS with a cracked door leaking light, classified documents floating around, neural network nodes forming a brain in the vortex background"
 title: "Episodi 006: El raonament autònom de Claude Mythos"
 ---
 
