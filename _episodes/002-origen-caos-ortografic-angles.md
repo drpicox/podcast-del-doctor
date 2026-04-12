@@ -18,7 +18,7 @@ sources:
   url: "/podcast-del-doctor/sources/002-origen-caos-ortografic-angles-transcripcio.txt"
   description: "Transcripció completa generada amb OpenAI Whisper (model large-v3)"
 thumbnail: "/assets/thumbnails/002-origen-caos-ortografic-angles.png"
-title: "Episodi 2: L'Origen del Caos Ortogràfic Anglès"
+title: "Episodi 002: L'Origen del Caos Ortogràfic Anglès"
 ---
 
 ## Introducció

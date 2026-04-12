@@ -21,7 +21,7 @@ sources:
   url: "/podcast-del-doctor/sources/001-api-ollama-per-dins-transcripcio.txt"
   description: "Transcripció completa generada amb OpenAI Whisper (model large-v3)"
 thumbnail: "/assets/thumbnails/001-api-ollama-per-dins.png"
-title: "Episodi 1: Com funciona l'API d'Ollama per dins"
+title: "Episodi 001: Com funciona l'API d'Ollama per dins"
 ---
 
 ## Introducció
