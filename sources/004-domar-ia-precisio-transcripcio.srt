@@ -1,0 +1,3124 @@
+1
+00:00:00,000 --> 00:00:03,260
+O sigui, imagina't que vas per la platja i...
+
+2
+00:00:03,260 --> 00:00:05,440
+trobes una llàntia màgica.
+
+3
+00:00:05,780 --> 00:00:07,200
+D'acord, m'agrada, però on vas?
+
+4
+00:00:07,940 --> 00:00:12,240
+La fregues amb l'esperança que en surti el típic geni simpàtic de les pel·lícules, saps?
+
+5
+00:00:12,780 --> 00:00:17,000
+Aquell que està superdisposat a complir qualsevol desig amb una perfecció absoluta.
+
+6
+00:00:17,740 --> 00:00:18,920
+El geni de Disney, vaja.
+
+7
+00:00:19,420 --> 00:00:20,520
+Exacte, el de Disney.
+
+8
+00:00:21,220 --> 00:00:23,000
+Però la realitat és que n'apareix un geni...
+
+9
+00:00:23,520 --> 00:00:27,120
+antic, caòtic, gairebé entremaliat.
+
+10
+00:00:27,340 --> 00:00:29,780
+Un geni de llibres de fantasia fosca.
+
+11
+00:00:30,000 --> 00:00:33,440
+I tu li demanes que escrigui una peça de programari complexa.
+
+12
+00:00:33,900 --> 00:00:37,940
+Aquest geni obre el portàtil, tecleja a una velocitat vertiginosa,
+
+13
+00:00:38,460 --> 00:00:40,680
+fa una mica de màgia, incomprensible,
+
+14
+00:00:41,220 --> 00:00:45,160
+i el lliure un codi que... bueno, que més o menys funciona.
+
+15
+00:00:45,500 --> 00:00:48,140
+Uf, i aquest més o menys és el gran problema.
+
+16
+00:00:48,480 --> 00:00:48,620
+Clar.
+
+17
+00:00:49,200 --> 00:00:52,400
+Si algú que ens escolta es dedica al desenvolupament de programari,
+
+18
+00:00:52,780 --> 00:00:54,960
+aquesta frase de més o menys funciona
+
+19
+00:00:54,960 --> 00:00:58,920
+és suficient per provocar un autèntic curtcircuit mental, oi?
+
+20
+00:00:59,160 --> 00:00:59,600
+Totalment.
+
+21
+00:01:00,000 --> 00:01:04,240
+El que és fascinant d'aquí és que aquest més o menys
+
+22
+00:01:04,240 --> 00:01:07,380
+representa un xoc cultural immens.
+
+23
+00:01:07,940 --> 00:01:11,260
+Vull dir, tradicionalment, el desenvolupament de codi
+
+24
+00:01:11,260 --> 00:01:14,800
+s'ha entès com una disciplina de precisió matemàtica.
+
+25
+00:01:15,400 --> 00:01:17,660
+És un món completament determinista.
+
+26
+00:01:18,000 --> 00:01:19,080
+Sí, de blanc o negre.
+
+27
+00:01:19,280 --> 00:01:19,820
+Exacte.
+
+28
+00:01:20,180 --> 00:01:21,980
+Una lògica pensada al detall
+
+29
+00:01:21,980 --> 00:01:25,900
+es tradueix en unes instruccions exactes per a la màquina.
+
+30
+00:01:25,900 --> 00:01:27,520
+I si l'entrada és A,
+
+31
+00:01:27,900 --> 00:01:29,900
+doncs la sortida sempre serà B.
+
+32
+00:01:30,000 --> 00:01:33,440
+Bé, si falla, els errors són clarament humans.
+
+33
+00:01:34,220 --> 00:01:37,660
+Però ara, delegar l'escriptura a una intel·ligència artificial
+
+34
+00:01:37,660 --> 00:01:41,620
+significa introduir una gran caixa negra en el procés.
+
+35
+00:01:42,300 --> 00:01:45,500
+Entrem en un paisatge inexplorat ple de sorpreses,
+
+36
+00:01:45,960 --> 00:01:49,540
+on aquell entorn supercontrolat s'esbeués per complet.
+
+37
+00:01:49,960 --> 00:01:51,780
+I clar, això es veu de manera molt diferent
+
+38
+00:01:51,780 --> 00:01:53,120
+depenent d'on treballis, no?
+
+39
+00:01:53,300 --> 00:01:53,740
+I tant.
+
+40
+00:01:54,620 --> 00:01:57,200
+Des de la perspectiva de la gestió de producte, per exemple,
+
+41
+00:01:57,760 --> 00:01:59,340
+demanar resultats i rebre aproximacions,
+
+42
+00:02:00,000 --> 00:02:03,260
+és el pa de cada dia quan treballes amb equips humans.
+
+43
+00:02:03,860 --> 00:02:05,380
+Això no els espanta.
+
+44
+00:02:05,980 --> 00:02:10,440
+Però per aquí, programa requer repensar els fonaments mateixos
+
+45
+00:02:10,440 --> 00:02:12,820
+de com es construís la tecnologia.
+
+46
+00:02:13,320 --> 00:02:15,060
+D'acord, anem a desgranar això.
+
+47
+00:02:15,580 --> 00:02:18,900
+Perquè justament aquesta és la missió de l'anàlisi a fons d'avui.
+
+48
+00:02:19,560 --> 00:02:21,780
+Volem entendre com podem domesticar aquesta IA,
+
+49
+00:02:22,100 --> 00:02:25,060
+o sigui, com passar de tenir una eina impredictible
+
+50
+00:02:25,060 --> 00:02:28,140
+que genera caos a un col·laborador altament precis.
+
+51
+00:02:28,260 --> 00:02:29,340
+I per fer-ho,
+
+52
+00:02:29,340 --> 00:02:31,740
+farem servir una font molt interessant.
+
+53
+00:02:31,940 --> 00:02:32,080
+Sí.
+
+54
+00:02:32,780 --> 00:02:34,340
+Farem servir com a mapa una presentació
+
+55
+00:02:34,940 --> 00:02:37,700
+absolutament reveladora de l'Ada Kessler
+
+56
+00:02:37,700 --> 00:02:39,780
+que es titula Augmented Coding,
+
+57
+00:02:40,200 --> 00:02:41,340
+Mapping the Uncharted Territory.
+
+58
+00:02:42,480 --> 00:02:44,440
+El nostre objectiu avui és destilar
+
+59
+00:02:44,440 --> 00:02:46,800
+quins són els patrons d'èxit reals
+
+60
+00:02:46,800 --> 00:02:49,680
+i, sobretot, descobrir on s'amaguen els paranyos
+
+61
+00:02:49,680 --> 00:02:51,240
+d'aquests models de llenguatge extens,
+
+62
+00:02:51,560 --> 00:02:53,280
+els famosos LLM.
+
+63
+00:02:53,660 --> 00:02:55,440
+Que no són pocs, els paranyos.
+
+64
+00:02:55,760 --> 00:02:56,440
+Gens ni mica.
+
+65
+00:02:56,440 --> 00:02:59,320
+I atès que l'entrenament bàsic,
+
+66
+00:02:59,340 --> 00:03:02,160
+és a dir, d'aquests models no els podem modificar des de casa,
+
+67
+00:03:02,560 --> 00:03:04,760
+o sigui, no podem canviar el model en si,
+
+68
+00:03:05,400 --> 00:03:08,020
+ens hem de centrar en quines palanques de control
+
+69
+00:03:08,020 --> 00:03:09,840
+ens queden realment com a usuaris.
+
+70
+00:03:10,060 --> 00:03:12,180
+Clar. Hem de saber quins botons tocar.
+
+71
+00:03:12,540 --> 00:03:13,100
+Exacte.
+
+72
+00:03:13,800 --> 00:03:16,340
+Llavors, per poder controlar aquest geni entremallat,
+
+73
+00:03:17,320 --> 00:03:20,340
+primer s'ha d'entendre la seva limitació més crítica,
+
+74
+00:03:21,380 --> 00:03:24,980
+com processa i com oblida la informació a cada segon.
+
+75
+00:03:25,140 --> 00:03:26,200
+Aquest punt és clau.
+
+76
+00:03:26,200 --> 00:03:28,980
+A veure, hi ha una il·lusió òptica fascinant
+
+77
+00:03:28,980 --> 00:03:30,740
+quan interactuem amb aquestes eines.
+
+78
+00:03:31,220 --> 00:03:33,760
+Sembla que el sistema estigui aprenent constantment, no?
+
+79
+00:03:33,960 --> 00:03:36,580
+Que s'estigui adaptant a la conversa mentre parles?
+
+80
+00:03:36,720 --> 00:03:39,140
+Sí, et dona la sensació que t'està entenent.
+
+81
+00:03:39,700 --> 00:03:42,260
+Però la realitat mecànica és que els seus pesos,
+
+82
+00:03:42,720 --> 00:03:44,200
+les connexions neuronals artificials
+
+83
+00:03:44,980 --> 00:03:47,100
+que defineixen tot el seu coneixement,
+
+84
+00:03:47,560 --> 00:03:49,380
+estan completament congelades.
+
+85
+00:03:50,040 --> 00:03:52,880
+Tècnicament es defineix com a un sistema apàtrida,
+
+86
+00:03:53,260 --> 00:03:53,940
+no testat.
+
+87
+00:03:54,100 --> 00:03:55,720
+Sense memòria real, vaja.
+
+88
+00:03:55,720 --> 00:03:57,360
+Això a la seva xerrada.
+
+89
+00:03:58,100 --> 00:03:58,720
+Ella diu que...
+
+90
+00:03:58,980 --> 00:04:00,720
+Si consultes un model directament,
+
+91
+00:04:00,840 --> 00:04:03,740
+sense cap interfase de xat intermèdia que t'ajudi,
+
+92
+00:04:04,120 --> 00:04:04,800
+i li preguntes
+
+93
+00:04:04,800 --> 00:04:06,500
+quan fan dos més dos,
+
+94
+00:04:06,880 --> 00:04:08,200
+el model et respondrà
+
+95
+00:04:08,200 --> 00:04:08,840
+quatre.
+
+96
+00:04:09,280 --> 00:04:09,720
+Evident.
+
+97
+00:04:10,080 --> 00:04:12,020
+Però si la següent pregunta que li fas és
+
+98
+00:04:12,020 --> 00:04:13,760
+i com es diu això en portuguès,
+
+99
+00:04:14,280 --> 00:04:15,700
+el model col·lapsarà completament.
+
+100
+00:04:15,940 --> 00:04:16,400
+Espera.
+
+101
+00:04:17,000 --> 00:04:17,280
+Esper.
+
+102
+00:04:17,700 --> 00:04:20,300
+Sí, perquè no sabrà què fa referència a la paraula això.
+
+103
+00:04:20,820 --> 00:04:21,900
+A nivell computacional,
+
+104
+00:04:22,140 --> 00:04:24,640
+cada missatge és com si fos el primer dia de la seva vida.
+
+105
+00:04:24,640 --> 00:04:28,080
+No existeix cap fil conductor entre l'air i l'avui.
+
+106
+00:04:28,320 --> 00:04:28,940
+Ostres.
+
+107
+00:04:28,980 --> 00:04:29,800
+Però clar,
+
+108
+00:04:30,180 --> 00:04:32,800
+és molt probable que qui ens escolti estigui pensant
+
+109
+00:04:32,800 --> 00:04:34,180
+això no té sentit.
+
+110
+00:04:34,300 --> 00:04:36,780
+O sigui, les aplicacions de xat que utilitzo jo cada dia
+
+111
+00:04:36,780 --> 00:04:39,740
+recorden perfectament els errors que hem corregit fa deu minuts.
+
+112
+00:04:39,860 --> 00:04:41,380
+Sí, sembla que tinguin memòria.
+
+113
+00:04:41,640 --> 00:04:41,780
+Clar.
+
+114
+00:04:42,400 --> 00:04:46,060
+Però aquí rau precisament el truc de màgia de l'enginyeria moderna.
+
+115
+00:04:46,640 --> 00:04:48,080
+Aquestes aplicacions el que fan
+
+116
+00:04:48,080 --> 00:04:51,220
+és agafar absolutament tot l'historial de la conversa.
+
+117
+00:04:51,560 --> 00:04:52,500
+Des del primer hola,
+
+118
+00:04:52,840 --> 00:04:54,000
+l'empaqueten sencer
+
+119
+00:04:54,000 --> 00:04:55,600
+i envien de nou al model
+
+120
+00:04:55,600 --> 00:04:57,280
+amb cada nova pregunta que fas.
+
+121
+00:04:57,740 --> 00:04:58,820
+Això és el que anomenem
+
+122
+00:04:58,820 --> 00:04:58,960
+la conversa.
+
+123
+00:04:58,980 --> 00:05:00,480
+La famosa finestra de context.
+
+124
+00:05:01,160 --> 00:05:02,980
+I aquesta concatenació constant
+
+125
+00:05:02,980 --> 00:05:05,860
+és l'única via que tenim per simular la memòria.
+
+126
+00:05:06,460 --> 00:05:07,060
+Per atenció,
+
+127
+00:05:07,220 --> 00:05:09,620
+perquè amaga el parany més perillós de tots,
+
+128
+00:05:10,020 --> 00:05:11,780
+que és la podridura del context.
+
+129
+00:05:12,400 --> 00:05:12,660
+Mmm,
+
+130
+00:05:13,080 --> 00:05:14,540
+sona fatal això de podridura.
+
+131
+00:05:14,700 --> 00:05:16,300
+És que és letal però còdic.
+
+132
+00:05:16,660 --> 00:05:18,980
+A mesura que el fitxer de text de la conversa creix,
+
+133
+00:05:19,240 --> 00:05:20,800
+l'arquitectura d'atenció del model
+
+134
+00:05:20,800 --> 00:05:22,500
+comença a fallar estrepitosament.
+
+135
+00:05:23,140 --> 00:05:24,900
+Molt abans d'arribar al límit tècnic
+
+136
+00:05:24,900 --> 00:05:26,480
+de caràcters d'aquesta finestra,
+
+137
+00:05:26,480 --> 00:05:28,120
+la IAES comença a degradar.
+
+138
+00:05:28,560 --> 00:05:28,760
+Llavors,
+
+139
+00:05:28,760 --> 00:05:30,300
+ignora instruccions inicials,
+
+140
+00:05:30,700 --> 00:05:32,880
+oblida excepcions que li havies deixat molt clares
+
+141
+00:05:32,880 --> 00:05:33,520
+fa una estona,
+
+142
+00:05:33,920 --> 00:05:36,500
+i comença a generar respostes o còdic amb errors
+
+143
+00:05:36,500 --> 00:05:39,400
+cada vegada més bàsics i absurds.
+
+144
+00:05:39,580 --> 00:05:39,880
+A veure,
+
+145
+00:05:40,040 --> 00:05:42,440
+jo sempre he pensat en aquesta finestra de context,
+
+146
+00:05:42,720 --> 00:05:44,240
+m'agrada veure-ho d'aquesta manera,
+
+147
+00:05:44,780 --> 00:05:46,680
+com si fos un estudiant universitari
+
+148
+00:05:46,680 --> 00:05:47,940
+totalment esgotat
+
+149
+00:05:47,940 --> 00:05:50,420
+que intenta memoritzar un llibre sencer
+
+150
+00:05:50,420 --> 00:05:52,380
+la nit abans d'un examen final.
+
+151
+00:05:52,760 --> 00:05:53,500
+Ui, quina imatge.
+
+152
+00:05:53,840 --> 00:05:54,180
+Oi que sí?
+
+153
+00:05:54,700 --> 00:05:54,920
+O sigui,
+
+154
+00:05:54,920 --> 00:05:56,540
+a les primeres 10 o 20 pàgines
+
+155
+00:05:56,540 --> 00:05:58,480
+la seva atenció és cristal·lina.
+
+156
+00:05:58,960 --> 00:06:00,760
+El Paió reté cada concepte
+
+157
+00:06:00,760 --> 00:06:02,200
+amb una precisió mil·limètrica.
+
+158
+00:06:02,980 --> 00:06:03,840
+Tot perfecte.
+
+159
+00:06:04,280 --> 00:06:06,720
+Però clar, cap a la pàgina 50 o 60,
+
+160
+00:06:07,280 --> 00:06:08,320
+el servei ja no pot més.
+
+161
+00:06:08,880 --> 00:06:10,000
+Comença a saturar-se?
+
+162
+00:06:10,240 --> 00:06:10,720
+Totalment.
+
+163
+00:06:11,160 --> 00:06:12,340
+Comença a barrejar teories,
+
+164
+00:06:12,700 --> 00:06:14,820
+salta capítols sencers sense adonar-se'n,
+
+165
+00:06:15,260 --> 00:06:17,600
+i si li fas una pregunta sobre el final del llibre,
+
+166
+00:06:18,040 --> 00:06:19,060
+s'ho inventa directament
+
+167
+00:06:19,060 --> 00:06:20,700
+per pur instint de supervivència.
+
+168
+00:06:21,100 --> 00:06:22,900
+Clar, la capacitat de llegir hi és,
+
+169
+00:06:22,900 --> 00:06:24,940
+però l'atenció s'ha podrit per complet.
+
+170
+00:06:25,120 --> 00:06:26,400
+Llavors, la gran pregunta és,
+
+171
+00:06:26,900 --> 00:06:28,500
+si no podem confiar que mantingui
+
+172
+00:06:28,500 --> 00:06:30,000
+l'atenció en converses llargues,
+
+173
+00:06:30,520 --> 00:06:31,920
+com dimonis evitem que oblidi
+
+174
+00:06:31,920 --> 00:06:34,060
+les regles fonamentals del nostre projecte?
+
+175
+00:06:34,220 --> 00:06:36,500
+Doncs, si connectem això amb la visió general
+
+176
+00:06:36,500 --> 00:06:38,720
+que comentàvem de domesticar el geni,
+
+177
+00:06:39,400 --> 00:06:41,100
+aquesta limitació estructural
+
+178
+00:06:41,100 --> 00:06:43,220
+exigeix abandonar completament
+
+179
+00:06:43,220 --> 00:06:44,340
+l'actitud passiva
+
+180
+00:06:44,340 --> 00:06:46,520
+i passar a una gestió activa del context.
+
+181
+00:06:47,180 --> 00:06:49,620
+O sigui, no deixar-lo en pilot automàtic.
+
+182
+00:06:49,760 --> 00:06:50,360
+Exacte.
+
+183
+00:06:50,860 --> 00:06:52,760
+La lliçó principal no és alimentar
+
+184
+00:06:52,760 --> 00:06:54,740
+la màquina amb més i més dades,
+
+185
+00:06:55,200 --> 00:06:57,060
+sinó aprendre quan s'ha d'aturar
+
+186
+00:06:57,060 --> 00:06:58,260
+i netejar la memòria.
+
+187
+00:06:58,500 --> 00:07:01,280
+Cal fer un reinici, un reset net,
+
+188
+00:07:01,620 --> 00:07:03,640
+per recuperar aquella atenció cristal·lina
+
+189
+00:07:03,640 --> 00:07:05,560
+de les primeres pàgines de l'estudiant.
+
+190
+00:07:05,980 --> 00:07:08,000
+Clar, però si fas un reset,
+
+191
+00:07:08,380 --> 00:07:09,100
+operes tot, no?
+
+192
+00:07:09,240 --> 00:07:10,640
+Tots els avanços de la sessió.
+
+193
+00:07:10,960 --> 00:07:12,160
+I per això, precisament,
+
+194
+00:07:12,600 --> 00:07:13,720
+abans de fer el reinici,
+
+195
+00:07:13,980 --> 00:07:15,660
+s'ha d'extreure el valor generat.
+
+196
+00:07:16,160 --> 00:07:18,460
+I aquí entren en joc el que aquest cel·ler anomena
+
+197
+00:07:18,460 --> 00:07:19,960
+documents de coneixement.
+
+198
+00:07:20,560 --> 00:07:22,660
+Són fitxes de text molt específics
+
+199
+00:07:22,660 --> 00:07:24,420
+on només es guarden les peces d'or.
+
+200
+00:07:24,900 --> 00:07:27,420
+Com un resum de les coses vitals.
+
+201
+00:07:27,420 --> 00:07:28,420
+Ah, això mateix.
+
+202
+00:07:28,500 --> 00:07:30,460
+Les regles destil·lades,
+
+203
+00:07:30,740 --> 00:07:32,800
+les guies d'arquitectura confirmades
+
+204
+00:07:32,800 --> 00:07:35,760
+i els aprenentatges clau del projecte.
+
+205
+00:07:36,040 --> 00:07:36,780
+D'aquesta manera,
+
+206
+00:07:37,040 --> 00:07:38,500
+quan reinicies l'agent informàtic
+
+207
+00:07:39,040 --> 00:07:41,320
+i li esborres la memòria a curt termi,
+
+208
+00:07:41,860 --> 00:07:43,460
+se li carreguen exclusivament
+
+209
+00:07:43,460 --> 00:07:44,500
+aquests documents al principi.
+
+210
+00:07:45,200 --> 00:07:46,340
+Ah, entès.
+
+211
+00:07:46,880 --> 00:07:48,840
+Llavors el context torna estenet
+
+212
+00:07:48,840 --> 00:07:50,960
+sense tot el soroll de proves i errors
+
+213
+00:07:50,960 --> 00:07:52,040
+de la conversa prèvia,
+
+214
+00:07:52,540 --> 00:07:54,080
+però armat des del minut zero
+
+215
+00:07:54,080 --> 00:07:55,440
+amb la saviesa essencial.
+
+216
+00:07:55,440 --> 00:07:57,320
+I fixat que això ens obre la porta
+
+217
+00:07:57,320 --> 00:07:58,480
+a un debat majúscul,
+
+218
+00:07:58,500 --> 00:08:00,280
+sobre la manera en què treballem.
+
+219
+00:08:00,520 --> 00:08:02,540
+Perquè fins i tot tenint el context net,
+
+220
+00:08:02,800 --> 00:08:04,700
+l'instint inicial de qualsevol equip
+
+221
+00:08:04,700 --> 00:08:06,600
+és agafar aquests documents de coneixement,
+
+222
+00:08:07,040 --> 00:08:08,340
+el codi base sencer,
+
+223
+00:08:08,780 --> 00:08:10,180
+les guies d'estil de l'empresa,
+
+224
+00:08:10,360 --> 00:08:11,780
+posar-ho tot en una coctelera
+
+225
+00:08:11,780 --> 00:08:14,900
+i abocar-ho dins d'un sol agent de xat tot poderós.
+
+226
+00:08:14,960 --> 00:08:17,180
+Clar, l'assistent definitiu que ho faci tot.
+
+227
+00:08:17,460 --> 00:08:19,500
+La idea de tenir un assistent generalista
+
+228
+00:08:20,080 --> 00:08:21,640
+que ho sàpiga absolutament tot.
+
+229
+00:08:22,200 --> 00:08:24,640
+Però, segons l'experiència pràctica de la xerrada,
+
+230
+00:08:24,920 --> 00:08:26,780
+aquest és un antipatro flagrant.
+
+231
+00:08:26,780 --> 00:08:28,480
+És el que podríem anomenar
+
+232
+00:08:28,500 --> 00:08:30,200
+l'agent distret.
+
+233
+00:08:30,400 --> 00:08:32,260
+L'agent distret, m'agrada el nom.
+
+234
+00:08:32,460 --> 00:08:35,140
+És que intentar centralitzar tot el coneixement
+
+235
+00:08:35,140 --> 00:08:36,300
+en una sola finestra
+
+236
+00:08:36,300 --> 00:08:38,260
+dilueix l'atenció de la IA
+
+237
+00:08:38,260 --> 00:08:39,780
+fins a extrems inoperants.
+
+238
+00:08:40,300 --> 00:08:43,040
+O sigui, quan un sol agent rep instruccions
+
+239
+00:08:43,040 --> 00:08:44,600
+sobre com escriure codi,
+
+240
+00:08:45,020 --> 00:08:46,780
+sobre com dissenyar interfaces
+
+241
+00:08:46,780 --> 00:08:49,300
+i a sobre té accés a cerces web,
+
+242
+00:08:49,820 --> 00:08:51,520
+es crea una competència feroja
+
+243
+00:08:51,520 --> 00:08:52,700
+dins del seu cervell.
+
+244
+00:08:52,820 --> 00:08:54,660
+Es fa un embolimno mental.
+
+245
+00:08:55,060 --> 00:08:55,580
+Exacte.
+
+246
+00:08:56,000 --> 00:08:58,280
+Davant d'aquesta allau, l'eina es torna superficial.
+
+247
+00:08:58,500 --> 00:09:01,320
+Es fixarà obsessivament en un detall trivial
+
+248
+00:09:01,320 --> 00:09:03,140
+i ignorarà per complet
+
+249
+00:09:03,140 --> 00:09:04,900
+una ordre crítica que li havies donat.
+
+250
+00:09:05,400 --> 00:09:08,160
+Kessler explica una anècdota reveladora sobre això.
+
+251
+00:09:08,340 --> 00:09:09,440
+Explica, explica.
+
+252
+00:09:09,720 --> 00:09:11,340
+Doncs ella tenia carregades
+
+253
+00:09:11,340 --> 00:09:13,320
+unes regles de comportament vitals
+
+254
+00:09:13,320 --> 00:09:15,200
+en el seu agent principal.
+
+255
+00:09:15,780 --> 00:09:16,880
+Directives del tipus
+
+256
+00:09:16,880 --> 00:09:20,160
+avisa'm abans d'executar accions destructives
+
+257
+00:09:20,160 --> 00:09:23,400
+o atura't si veus un error d'arquitectura evident.
+
+258
+00:09:23,920 --> 00:09:24,980
+Coses de sentit comú.
+
+259
+00:09:25,520 --> 00:09:27,100
+Clar, però l'agent omniscient,
+
+260
+00:09:27,100 --> 00:09:28,720
+com que tenia tantes coses al cap,
+
+261
+00:09:29,120 --> 00:09:31,400
+simplement les ignorava de manera sistemàtica.
+
+262
+00:09:31,940 --> 00:09:33,300
+Mai hi havia cap advertència.
+
+263
+00:09:33,760 --> 00:09:35,500
+Feia la seva i es quedava d'enample.
+
+264
+00:09:35,760 --> 00:09:36,700
+Uf, quin perill.
+
+265
+00:09:37,200 --> 00:09:38,520
+I quina solució va trobar?
+
+266
+00:09:38,760 --> 00:09:41,300
+Doncs va decidir obrir un canal completament separat.
+
+267
+00:09:41,620 --> 00:09:42,840
+Va crear un agent petit,
+
+268
+00:09:43,100 --> 00:09:45,380
+secundari i altament especialitzat.
+
+269
+00:09:45,820 --> 00:09:47,260
+La seva feina era única
+
+270
+00:09:47,260 --> 00:09:49,300
+i exclusivament fer els commits.
+
+271
+00:09:49,640 --> 00:09:51,400
+És a dir, documentar i guardar
+
+272
+00:09:51,400 --> 00:09:53,360
+oficialment els canvis fets al projecte
+
+273
+00:09:53,360 --> 00:09:54,320
+en el control de versions.
+
+274
+00:09:54,320 --> 00:09:56,580
+Cap altra responsabilitat en el món.
+
+275
+00:09:57,100 --> 00:09:57,840
+Només fer commits.
+
+276
+00:09:58,260 --> 00:09:59,000
+I va funcionar?
+
+277
+00:09:59,200 --> 00:10:01,400
+El resultat va ser la nit i el dia.
+
+278
+00:10:01,920 --> 00:10:03,700
+En tenir un context tan estret,
+
+279
+00:10:04,080 --> 00:10:06,180
+aquest petit agent sí que va respectar
+
+280
+00:10:06,180 --> 00:10:07,440
+les regles fonamentals.
+
+281
+00:10:07,980 --> 00:10:09,820
+Per exemple, immediatament va aturar
+
+282
+00:10:09,820 --> 00:10:11,800
+un intent de pujar la pesada i caòtica
+
+283
+00:10:11,800 --> 00:10:13,860
+carpeta de dependències no de mòduls.
+
+284
+00:10:14,060 --> 00:10:14,440
+Uau!
+
+285
+00:10:15,080 --> 00:10:16,360
+Un error de principiant
+
+286
+00:10:16,360 --> 00:10:18,620
+que hauria col·lapsat el repositori sencer.
+
+287
+00:10:19,000 --> 00:10:19,520
+Literalment.
+
+288
+00:10:19,880 --> 00:10:20,620
+I no només això.
+
+289
+00:10:20,820 --> 00:10:22,000
+També va llançar un avís
+
+290
+00:10:22,000 --> 00:10:23,860
+sobre una violació estètica
+
+291
+00:10:23,860 --> 00:10:25,320
+a les guies d'estil de l'empresa
+
+292
+00:10:25,320 --> 00:10:26,920
+perquè s'estaven utilitzant
+
+293
+00:10:26,920 --> 00:10:28,860
+guions baixos en lloc de guions normals
+
+294
+00:10:28,860 --> 00:10:29,800
+a l'hora de posar noms.
+
+295
+00:10:30,760 --> 00:10:33,520
+Clar, la tensió allà no estava gens dividida.
+
+296
+00:10:33,980 --> 00:10:35,040
+Estava superenfocat.
+
+297
+00:10:35,840 --> 00:10:37,820
+Ara, aquí és on es posa realment
+
+298
+00:10:37,820 --> 00:10:39,220
+interessant tot això per a mi.
+
+299
+00:10:39,460 --> 00:10:39,760
+D'acord?
+
+300
+00:10:40,360 --> 00:10:40,880
+Perquè, a veure,
+
+301
+00:10:41,060 --> 00:10:43,060
+la tecnologia avança molt de pressa, oi?
+
+302
+00:10:43,200 --> 00:10:44,540
+Sí, a ritme de vertige.
+
+303
+00:10:44,840 --> 00:10:47,260
+Llavors, avui dia sentim a parlar
+
+304
+00:10:47,260 --> 00:10:48,900
+constantment de nous protocols
+
+305
+00:10:48,900 --> 00:10:52,060
+com l'MSP, el Model Context Protocol
+
+306
+00:10:52,060 --> 00:10:54,220
+o eines com ByteRover,
+
+307
+00:10:54,220 --> 00:10:56,080
+que se suposa que poden llegir
+
+308
+00:10:56,080 --> 00:10:57,580
+a repositaris de codi sencers
+
+309
+00:10:57,580 --> 00:10:59,800
+en segon pla de manera totalment autònoma.
+
+310
+00:11:00,080 --> 00:11:02,380
+Sí, se'n parla moltíssim d'això últimament.
+
+311
+00:11:03,020 --> 00:11:04,000
+Llavors, jo em pregunto.
+
+312
+00:11:04,540 --> 00:11:06,800
+Si el problema és la límit d'atenció
+
+313
+00:11:06,800 --> 00:11:08,000
+de la finestra del xat,
+
+314
+00:11:08,400 --> 00:11:10,360
+no solucionaríem l'arrel de tot
+
+315
+00:11:10,360 --> 00:11:12,000
+connectant la IA directament
+
+316
+00:11:12,000 --> 00:11:14,560
+a aquestes immenses bases de dades amb MSPs
+
+317
+00:11:14,560 --> 00:11:16,240
+perquè ho gestionin elles soles
+
+318
+00:11:16,240 --> 00:11:17,180
+sota el capó?
+
+319
+00:11:17,320 --> 00:11:18,520
+I nosaltres ens n'oblidem?
+
+320
+00:11:19,260 --> 00:11:21,180
+A veure, és un raonament
+
+321
+00:11:21,180 --> 00:11:22,720
+totalment lògic des de fora,
+
+322
+00:11:23,300 --> 00:11:25,560
+però amaga una trampa de disseny monumental
+
+323
+00:11:25,560 --> 00:11:25,920
+si fem un recorregut.
+
+324
+00:11:25,920 --> 00:11:27,660
+I fem cas a la xerrada de Kesseler.
+
+325
+00:11:27,980 --> 00:11:28,360
+Ah, sí?
+
+326
+00:11:28,780 --> 00:11:30,800
+Sí, carregar eines automàtiques
+
+327
+00:11:30,800 --> 00:11:33,160
+o connectar protocolos com els MSPs
+
+328
+00:11:33,160 --> 00:11:35,360
+no amplia màgicament la capacitat
+
+329
+00:11:35,360 --> 00:11:36,360
+d'atenció de la IA.
+
+330
+00:11:36,840 --> 00:11:39,280
+De fet, accelera la podridura del context
+
+331
+00:11:39,280 --> 00:11:41,240
+de forma completament dràstica.
+
+332
+00:11:41,400 --> 00:11:43,160
+Espera, o empillora. Per què?
+
+333
+00:11:43,400 --> 00:11:44,860
+Perquè a nivell mecànic,
+
+334
+00:11:45,280 --> 00:11:47,780
+el que passa sota el capó és letal.
+
+335
+00:11:48,480 --> 00:11:48,960
+O sigui,
+
+336
+00:11:49,540 --> 00:11:50,980
+imagina't que ordenes a la gent
+
+337
+00:11:50,980 --> 00:11:53,440
+corregeix aquest error puntual.
+
+338
+00:11:53,940 --> 00:11:55,800
+Llavors l'AINAMCP s'activa
+
+339
+00:11:55,920 --> 00:11:57,220
+de forma invisible en segon pla.
+
+340
+00:11:57,980 --> 00:11:59,360
+Abans que el model tingui temps
+
+341
+00:11:59,360 --> 00:12:01,180
+de pensar en la solució al teu petit problema,
+
+342
+00:12:01,640 --> 00:12:03,440
+el sistema injecta instruccions
+
+343
+00:12:03,440 --> 00:12:04,900
+ocultes del tipus.
+
+344
+00:12:05,340 --> 00:12:06,740
+Aquests són els paràmetres de cerca,
+
+345
+00:12:07,120 --> 00:12:09,200
+aquestes són les regles de l'API...
+
+346
+00:12:09,200 --> 00:12:10,580
+Uf, l'està omplint de brossa.
+
+347
+00:12:11,160 --> 00:12:12,600
+Exacte. I a continuació,
+
+348
+00:12:12,920 --> 00:12:15,520
+el protocol vol que milers de línies de codi
+
+349
+00:12:15,520 --> 00:12:16,820
+trobares al repositori
+
+350
+00:12:16,820 --> 00:12:19,000
+que podrien estar relacionades amb el problema.
+
+351
+00:12:19,520 --> 00:12:21,820
+I tota aquesta massa ingent informació
+
+352
+00:12:21,820 --> 00:12:23,340
+s'empeny per força
+
+353
+00:12:23,340 --> 00:12:25,000
+dins de la finestra de context.
+
+354
+00:12:25,000 --> 00:12:25,740
+Ah, clar.
+
+355
+00:12:25,920 --> 00:12:28,260
+O sigui que el que era una simple comanda
+
+356
+00:12:28,260 --> 00:12:30,440
+d'una línia es converteix en un mur
+
+357
+00:12:30,440 --> 00:12:32,380
+d'informació de 30.000 paraules
+
+358
+00:12:32,380 --> 00:12:34,340
+que la IA s'ha de menjar amb patates?
+
+359
+00:12:34,700 --> 00:12:35,680
+Mostra't de la otra.
+
+360
+00:12:36,220 --> 00:12:38,080
+La IA ha de processar-ho
+
+361
+00:12:38,080 --> 00:12:39,480
+tot obligatoriament.
+
+362
+00:12:39,980 --> 00:12:42,000
+L'atenció col·lapsa immediatament
+
+363
+00:12:42,000 --> 00:12:43,640
+per sobrecàrrega i els errors
+
+364
+00:12:43,640 --> 00:12:45,420
+se'n multipliquen. Per això,
+
+365
+00:12:45,660 --> 00:12:47,700
+la font defensa que mantenir el que
+
+366
+00:12:47,700 --> 00:12:49,980
+anomenen una composició del coneixement
+
+367
+00:12:49,980 --> 00:12:52,560
+mitjançant eixams de gens petits
+
+368
+00:12:52,560 --> 00:12:54,400
+enfocats a tasques minúscules
+
+369
+00:12:54,400 --> 00:12:55,420
+i, atenció,
+
+370
+00:12:55,920 --> 00:12:56,460
+efímers.
+
+371
+00:12:56,580 --> 00:12:57,600
+Què vols dir amb efímers?
+
+372
+00:12:58,020 --> 00:13:01,140
+Que es puguin esborrar i crear de nou sense por, saps?
+
+373
+00:13:01,540 --> 00:13:03,720
+Això resulta infinitament superior
+
+374
+00:13:03,720 --> 00:13:05,360
+a l'enfocament d'intentar crear
+
+375
+00:13:05,360 --> 00:13:07,440
+un únic superagent connectat
+
+376
+00:13:07,440 --> 00:13:09,280
+a totes les bases de dades del món.
+
+377
+00:13:09,560 --> 00:13:11,460
+D'acord, d'acord. Em convenç.
+
+378
+00:13:11,900 --> 00:13:14,400
+Però, a veure, assumint que som uns cracs
+
+379
+00:13:14,400 --> 00:13:15,940
+i dominem l'arquitectura
+
+380
+00:13:15,940 --> 00:13:16,960
+d'aquests petits agents,
+
+381
+00:13:17,460 --> 00:13:19,780
+ens assegurem que el context és puríssim
+
+382
+00:13:19,780 --> 00:13:21,780
+i l'atenció és perfecta.
+
+383
+00:13:22,100 --> 00:13:22,920
+Malgrat tot això,
+
+384
+00:13:22,920 --> 00:13:25,360
+el model continua sent una eina
+
+385
+00:13:25,360 --> 00:13:25,920
+no determinada.
+
+386
+00:13:25,920 --> 00:13:28,840
+I crec que aquesta és la realitat més dura
+
+387
+00:13:28,840 --> 00:13:30,500
+d'empassar per a la gent tècnica.
+
+388
+00:13:30,620 --> 00:13:31,800
+Sense cap mena de dubte.
+
+389
+00:13:32,300 --> 00:13:34,160
+És el canvi de paradigma més bèstia.
+
+390
+00:13:34,460 --> 00:13:36,820
+Presentar exactament el mateix repte
+
+391
+00:13:36,820 --> 00:13:39,380
+sota les mateixes condicions exactes
+
+392
+00:13:39,380 --> 00:13:41,020
+i en el primer intent et donarà
+
+393
+00:13:41,020 --> 00:13:42,340
+una arquitectura brillant
+
+394
+00:13:42,340 --> 00:13:44,760
+i si li demanes de no 5 segons després
+
+395
+00:13:44,760 --> 00:13:46,520
+et dona un desastre il·lògic.
+
+396
+00:13:47,120 --> 00:13:48,680
+Com ho dimonis es pot construir
+
+397
+00:13:48,680 --> 00:13:50,380
+tecnologia de manera professional
+
+398
+00:13:50,380 --> 00:13:52,380
+amb un sistema que literalment
+
+399
+00:13:52,380 --> 00:13:54,480
+canvia d'opinió cada vegada que respirar?
+
+400
+00:13:54,480 --> 00:13:55,800
+Doncs això implica
+
+401
+00:13:55,920 --> 00:13:57,120
+una transformació radical
+
+402
+00:13:57,120 --> 00:13:59,120
+en la mentalitat de l'enginyeria de programari.
+
+403
+00:13:59,120 --> 00:14:01,120
+O sigui, el no determinisme
+
+404
+00:14:01,120 --> 00:14:03,120
+s'ha de deixar de veure com un defecte
+
+405
+00:14:03,120 --> 00:14:04,620
+per començar a utilitzar-lo
+
+406
+00:14:04,620 --> 00:14:07,320
+com una tècnica pròpia d'exploració de solucions.
+
+407
+00:14:07,320 --> 00:14:09,320
+Com una eina de pluja d'idees, vols dir?
+
+408
+00:14:09,320 --> 00:14:10,320
+Una mica sí.
+
+409
+00:14:10,320 --> 00:14:12,320
+Com que l'encerta, la primera,
+
+410
+00:14:12,320 --> 00:14:14,320
+és estadísticament improbable,
+
+411
+00:14:14,320 --> 00:14:16,320
+l'esforç d'aquí desenvolupa no s'ha de centrar
+
+412
+00:14:16,320 --> 00:14:18,920
+en fer una petició perfecta o el prompt definitiu,
+
+413
+00:14:18,920 --> 00:14:20,920
+sinó en multiplicar els intents
+
+414
+00:14:20,920 --> 00:14:21,920
+de forma intel·ligent.
+
+415
+00:14:21,920 --> 00:14:23,920
+És l'equivalent a llançar 5 daus a l'hora.
+
+416
+00:14:23,920 --> 00:14:23,920
+
+
+417
+00:14:25,920 --> 00:14:27,920
+I si no hi ha algun, sortirà bé.
+
+418
+00:14:27,920 --> 00:14:28,920
+L'anàlisi de Kesseler
+
+419
+00:14:28,920 --> 00:14:30,920
+suggereix aprofitar mecàniques tècniques,
+
+420
+00:14:30,920 --> 00:14:32,920
+com per exemple els Git Word Trees.
+
+421
+00:14:32,920 --> 00:14:34,920
+Un Word Tree,
+
+422
+00:14:34,920 --> 00:14:36,920
+per a qui no el conegui,
+
+423
+00:14:36,920 --> 00:14:38,920
+permet duplicar molt ràpidament un projecte
+
+424
+00:14:38,920 --> 00:14:40,920
+en diverses carpetes físiques
+
+425
+00:14:40,920 --> 00:14:42,920
+que conviuen al mateix ordinador,
+
+426
+00:14:42,920 --> 00:14:44,920
+totalment aïllades les unes de les altres,
+
+427
+00:14:44,920 --> 00:14:47,920
+però vinculades al mateix repositori central de codi.
+
+428
+00:14:47,920 --> 00:14:48,920
+Entès.
+
+429
+00:14:48,920 --> 00:14:50,920
+Això evita que els experiments
+
+430
+00:14:50,920 --> 00:14:52,920
+s'interfereixin entre ells.
+
+431
+00:14:52,920 --> 00:14:53,920
+Això mateix.
+
+432
+00:14:53,920 --> 00:14:55,920
+I permet que tres agents d'IA diferents
+
+433
+00:14:55,920 --> 00:14:58,920
+estiguin desenvolupant tres solucions paral·leles a l'hora,
+
+434
+00:14:58,920 --> 00:15:00,920
+de manera independent,
+
+435
+00:15:00,920 --> 00:15:03,920
+sense que cap trenqui el codi de producció en funcionament.
+
+436
+00:15:03,920 --> 00:15:04,920
+Saps què?
+
+437
+00:15:04,920 --> 00:15:06,920
+El joc aquest del ricotxet robot
+
+438
+00:15:06,920 --> 00:15:09,920
+que es comenta a la xerrada exemplifica això a la perfecció.
+
+439
+00:15:09,920 --> 00:15:10,920
+Em va semblar boníssim.
+
+440
+00:15:10,920 --> 00:15:13,920
+Sí, és el millor exemple d'aquesta tècnica.
+
+441
+00:15:13,920 --> 00:15:14,920
+Clar.
+
+442
+00:15:14,920 --> 00:15:16,920
+En lloc de demanar a l'IA un sol disseny
+
+443
+00:15:16,920 --> 00:15:18,920
+i creuar els dits,
+
+444
+00:15:18,920 --> 00:15:20,920
+van executar tres branques paral·leles
+
+445
+00:15:20,920 --> 00:15:23,920
+per programar exactament el mateix joc.
+
+446
+00:15:23,920 --> 00:15:24,920
+I què va passar?
+
+447
+00:15:24,920 --> 00:15:26,920
+Doncs que la primera versió va generar un robot
+
+448
+00:15:26,920 --> 00:15:28,920
+que no es podia ni moure per la pantalla.
+
+449
+00:15:28,920 --> 00:15:30,920
+Un fracàs absolut.
+
+450
+00:15:30,920 --> 00:15:32,920
+Per llançar-ho a la brossa directament.
+
+451
+00:15:32,920 --> 00:15:33,920
+Exacte.
+
+452
+00:15:33,920 --> 00:15:35,920
+Però llavors la segona versió
+
+453
+00:15:35,920 --> 00:15:38,920
+resulta que tenia una lògica de moviments matemàtics
+
+454
+00:15:38,920 --> 00:15:39,920
+extraordinària.
+
+455
+00:15:39,920 --> 00:15:42,920
+El robot rebotava per les parets perfectament
+
+456
+00:15:42,920 --> 00:15:43,920
+com calia el joc.
+
+457
+00:15:43,920 --> 00:15:47,920
+Però la interfàcia gràfica era impossible de mirar.
+
+458
+00:15:47,920 --> 00:15:48,920
+Llegíssima.
+
+459
+00:15:48,920 --> 00:15:49,920
+Horrorosa, clar.
+
+460
+00:15:49,920 --> 00:15:51,920
+I, finalment, la tercera versió
+
+461
+00:15:51,920 --> 00:15:53,920
+on tenia uns botons superpolits,
+
+462
+00:15:53,920 --> 00:15:56,920
+una estètica impecable de professional,
+
+463
+00:15:56,920 --> 00:15:59,920
+però la lògica del joc fallava estrepitosament.
+
+464
+00:15:59,920 --> 00:16:03,920
+Llavors, el veritable valor de la persona humana aquí
+
+465
+00:16:03,920 --> 00:16:06,920
+va ser avaluar aquestes tres iteracions.
+
+466
+00:16:06,920 --> 00:16:08,920
+Descartar la primera completament,
+
+467
+00:16:08,920 --> 00:16:11,920
+extreure el motor lògic de la segona
+
+468
+00:16:11,920 --> 00:16:14,920
+i empeltar-lo a la interfàcia preciosa de la tercera.
+
+469
+00:16:14,920 --> 00:16:16,920
+Es va convertir un caos de generacions
+
+470
+00:16:16,920 --> 00:16:17,920
+en peces de Lego
+
+471
+00:16:17,920 --> 00:16:20,920
+per acabar construint una solució guanyadora.
+
+472
+00:16:20,920 --> 00:16:21,920
+És que d'això es tracta.
+
+473
+00:16:21,920 --> 00:16:22,920
+S'utilitza la variabilitat natural
+
+474
+00:16:22,920 --> 00:16:25,920
+dels models a favor del desenvolupament.
+
+475
+00:16:25,920 --> 00:16:28,920
+Tanmateix, el no determinisme
+
+476
+00:16:28,920 --> 00:16:31,920
+no és l'únic repte d'actitud que té la IA.
+
+477
+00:16:31,920 --> 00:16:33,920
+Siguin, hi ha un altre de més subtil.
+
+478
+00:16:33,920 --> 00:16:35,920
+Sí. Quin és?
+
+479
+00:16:35,920 --> 00:16:37,920
+Hi ha un perill estructural molt més corrosiu,
+
+480
+00:16:37,920 --> 00:16:40,920
+que és la desalineació silenciosa.
+
+481
+00:16:40,920 --> 00:16:42,920
+I això està impulsat pel que anomenen
+
+482
+00:16:42,920 --> 00:16:44,920
+el bias de compliment.
+
+483
+00:16:44,920 --> 00:16:46,920
+A veure, desenvolupa això del bias.
+
+484
+00:16:46,920 --> 00:16:48,920
+Pensa que durant la fase d'entrenament
+
+485
+00:16:48,920 --> 00:16:51,920
+als laboratoris d'OpenAI, Antropic i companyia,
+
+486
+00:16:51,920 --> 00:16:55,920
+aquests models reben milions de punts de recompensa
+
+487
+00:16:55,920 --> 00:16:58,920
+quan són simpàtics, útils, amables
+
+488
+00:16:58,920 --> 00:17:01,920
+i, sobretot, quan no porten la contrària a l'ésser humà.
+
+489
+00:17:01,920 --> 00:17:05,920
+Clar, els entrenen per ser el majordom perfecte.
+
+490
+00:17:05,920 --> 00:17:06,920
+Exactament.
+
+491
+00:17:06,920 --> 00:17:09,920
+I això crea una eina extremadament servicial
+
+492
+00:17:09,920 --> 00:17:12,920
+que, en un entorn professional, tàcnic,
+
+493
+00:17:12,920 --> 00:17:15,920
+prefereix obeir una ordre absurda en absolut silenci
+
+494
+00:17:15,920 --> 00:17:17,920
+i, a sobre, fer-ho malament,
+
+495
+00:17:17,920 --> 00:17:19,920
+abans que gosar qüestionar l'usuari humà
+
+496
+00:17:19,920 --> 00:17:20,920
+que li ha demanat.
+
+497
+00:17:20,920 --> 00:17:23,920
+I l'exemple de la interfase d'usuari de la UI
+
+498
+00:17:23,920 --> 00:17:25,920
+que comenta la presentació
+
+499
+00:17:25,920 --> 00:17:27,920
+és que és dolorosament familiar
+
+500
+00:17:27,920 --> 00:17:30,920
+per a qualsevol que hagi intentat depurar codi generat per IA.
+
+501
+00:17:30,920 --> 00:17:33,920
+O sigui, la Kessler necessitava
+
+502
+00:17:33,920 --> 00:17:36,920
+anivelar els elements esquerre i dret de la capsela D
+
+503
+00:17:36,920 --> 00:17:39,920
+d'una pàgina web perquè quedessin alineats correctament, oi?
+
+504
+00:17:39,920 --> 00:17:41,920
+Sí, un problema clàssic de disseny web.
+
+505
+00:17:41,920 --> 00:17:44,920
+Doncs ella li donava l'ordre a la gent
+
+506
+00:17:44,920 --> 00:17:48,920
+i la IA responia immediatament, amb un entusiasta,
+
+507
+00:17:48,920 --> 00:17:51,920
+i tant, cap problema, ara mateix ho soluciono.
+
+508
+00:17:51,920 --> 00:17:53,920
+Molt disposada, sempre.
+
+509
+00:17:53,920 --> 00:17:57,920
+Sempre. Però el resultat visible era una web encara més desencaixada.
+
+510
+00:17:57,920 --> 00:18:00,920
+I després de perdre hores intentant entendre
+
+511
+00:18:00,920 --> 00:18:02,920
+per què dimonis fallava una cosa tan senzilla,
+
+512
+00:18:02,920 --> 00:18:05,920
+es va fer evident que el model mental de la IA
+
+513
+00:18:05,920 --> 00:18:08,920
+sobre què era exactament aquella capselera
+
+514
+00:18:08,920 --> 00:18:11,920
+era totalment diferent del model que tenia ella al cap.
+
+515
+00:18:11,920 --> 00:18:13,920
+Allà hi havia el desajust.
+
+516
+00:18:13,920 --> 00:18:18,920
+Clar, però a la IA la capselera eren estrictament els contenidors buits de text,
+
+517
+00:18:18,920 --> 00:18:20,920
+dins del codi HTML,
+
+518
+00:18:20,920 --> 00:18:23,920
+i ignorava completament una maledita icona d'un micròfon
+
+519
+00:18:23,920 --> 00:18:26,920
+que desequilibrava tota la pantalla visualment.
+
+520
+00:18:26,920 --> 00:18:28,920
+Però aquí està la clau.
+
+521
+00:18:28,920 --> 00:18:30,920
+Tot i que era absolutament evident per al model
+
+522
+00:18:30,920 --> 00:18:34,920
+que el codi resultant estava visualment trencat per culpa de la icona,
+
+523
+00:18:34,920 --> 00:18:37,920
+l'eina va triar complaure l'ordre de literar l'humana,
+
+524
+00:18:37,920 --> 00:18:40,920
+alínea els textos, en lloc de demanar un aclariment vital del tipus
+
+525
+00:18:40,920 --> 00:18:43,920
+«Eb, vols que compti també amb la icona?».
+
+526
+00:18:43,920 --> 00:18:46,920
+És que aquest aport artificial a la fricció
+
+527
+00:18:46,920 --> 00:18:47,920
+destrueix l'eficiència dels equips.
+
+528
+00:18:47,920 --> 00:18:51,920
+Vull dir, si la IA i l'operador humà no comparteixen exactament
+
+529
+00:18:51,920 --> 00:18:54,920
+el mateix model mental del problema,
+
+530
+00:18:54,920 --> 00:18:58,920
+el que passarà és que s'escriuran milers i milers de línies de codi
+
+531
+00:18:58,920 --> 00:19:00,920
+que només seran escombràries.
+
+532
+00:19:00,920 --> 00:19:01,920
+Frustració total.
+
+533
+00:19:01,920 --> 00:19:05,920
+Aquesta dinàmica tan tòxica es pot comparar amb un concepte molt concret
+
+534
+00:19:05,920 --> 00:19:08,920
+que es menten, que és la injecció de resposta.
+
+535
+00:19:08,920 --> 00:19:11,920
+Introduir massa instruccions condiciona completament
+
+536
+00:19:11,920 --> 00:19:13,920
+l'assessorament que reps de la màquina.
+
+537
+00:19:13,920 --> 00:19:15,920
+Llavors, què vol dir tot això a la pràctica?
+
+538
+00:19:15,920 --> 00:19:19,920
+Aquesta injecció de resposta, el famós «answer injection» en anglès,
+
+539
+00:19:19,920 --> 00:19:22,920
+crec que es veu molt clarament en exemples del dia a dia.
+
+540
+00:19:22,920 --> 00:19:25,920
+Pensa-hi com si entressis a la recepció d'un hotel superluxe
+
+541
+00:19:25,920 --> 00:19:27,920
+i anessis directe a demanar «escolta,
+
+542
+00:19:27,920 --> 00:19:30,920
+quina és la millor marisqueria cara per anar a sopar avui?».
+
+543
+00:19:30,920 --> 00:19:32,920
+D'acord, ho estàs limitant bastant.
+
+544
+00:19:32,920 --> 00:19:35,920
+Molt. Llavors el conserge, com que vol donar un servei ràpid,
+
+545
+00:19:35,920 --> 00:19:37,920
+excel·lent i complacent,
+
+546
+00:19:37,920 --> 00:19:40,920
+et reserva el llap més car i exclusiu de la ciutat,
+
+547
+00:19:40,920 --> 00:19:43,920
+basant-se cegament en les teves instruccions prescriptives.
+
+548
+00:19:43,920 --> 00:19:44,920
+Sense fer preguntes.
+
+549
+00:19:44,920 --> 00:19:49,920
+Clar. Però el que no t'esmenta el conserge és que, precisament avui,
+
+550
+00:19:49,920 --> 00:19:54,920
+la famosa marisqueria només ofereix un menú especial de carn per unes jornades,
+
+551
+00:19:54,920 --> 00:19:58,920
+o que just a la cantonada de l'hotel hi ha un local més econòmic
+
+552
+00:19:58,920 --> 00:20:01,920
+i amb un peix infinitament més fresc i millor.
+
+553
+00:20:01,920 --> 00:20:05,920
+T'ha fet cas, literalment, en detriment del resultat final.
+
+554
+00:20:05,920 --> 00:20:06,920
+Això mateix.
+
+555
+00:20:06,920 --> 00:20:11,920
+La pròpia estructura de la meva pregunta, que era molt prescriptiva i tancada,
+
+556
+00:20:11,920 --> 00:20:14,920
+bloqueja que el conserge expert demani context
+
+557
+00:20:14,920 --> 00:20:17,920
+o ofereixi alternatives fora d'aquest paràmetre estricte.
+
+558
+00:20:17,920 --> 00:20:22,920
+Llavors, traslladant això al programari, això planteja una pregunta important, no?
+
+559
+00:20:22,920 --> 00:20:25,920
+Com s'aconsegueix obligar aquesta eina compliant
+
+560
+00:20:25,920 --> 00:20:28,920
+a transformar-se en un autèntic soci actiu?
+
+561
+00:20:28,920 --> 00:20:31,920
+Com forcem que ens porti la contrària de manera constructiva?
+
+562
+00:20:31,920 --> 00:20:36,920
+Doncs la solució que donen és que s'ha d'instaurar la fricció per decret pur.
+
+563
+00:20:36,920 --> 00:20:37,920
+Per decret?
+
+564
+00:20:37,920 --> 00:20:41,920
+Sí, sí. Les instruccions del sistema, aquells documents de coneixements super nets
+
+565
+00:20:41,920 --> 00:20:44,920
+que comentàvem a l'inici, han de contenir imperativament
+
+566
+00:20:44,920 --> 00:20:47,920
+els criteris de comportament claríssims i taxatius.
+
+567
+00:20:47,920 --> 00:20:52,920
+Coses com, permet-te discrepar sempre que trobis ineficiències lògiques en la meva petició.
+
+568
+00:20:52,920 --> 00:20:55,920
+Si notes que estic cometent un error arquitectònic o de disseny,
+
+569
+00:20:55,920 --> 00:20:58,920
+atura l'execució immediatament i avisa'm.
+
+570
+00:20:58,920 --> 00:21:01,920
+O la més important, formula preguntes aclaridores obligatòries
+
+571
+00:21:01,920 --> 00:21:05,920
+abans de prendre decisions aleatòries per omplir buits d'informació.
+
+572
+00:21:05,920 --> 00:21:07,920
+O sigui, ordenar-li que et discuteixi.
+
+573
+00:21:07,920 --> 00:21:11,920
+Literalment sí. Però l'hàbit pràctic més transformador per al dia a dia
+
+574
+00:21:11,920 --> 00:21:13,920
+és exigir sempre que et mostri el pla abans del codi.
+
+575
+00:21:13,920 --> 00:21:17,920
+Abans de permetre que el model generi fitxers sencers i s'equivoqui,
+
+576
+00:21:17,920 --> 00:21:19,920
+se li ha d'ordenar.
+
+577
+00:21:19,920 --> 00:21:23,920
+Descriu pas a pas, en text simple, quina és la teua estratègia per resoldre això.
+
+578
+00:21:23,920 --> 00:21:25,920
+Ah, per veure per on van els trets.
+
+579
+00:21:25,920 --> 00:21:29,920
+Clar, d'aquesta manera exposa el seu model de comprensió del problema
+
+580
+00:21:29,920 --> 00:21:33,920
+i permet a la persona humana sincronitzar els models mentals
+
+581
+00:21:33,920 --> 00:21:37,920
+abans de prendre l'accelerador i començar a generar codi galangrós.
+
+582
+00:21:37,920 --> 00:21:42,920
+Però clar, demanar que l'AI exposi el seu pla, que dialoguem abans d'actuar,
+
+583
+00:21:42,920 --> 00:21:47,920
+tot això implica repensar completament en quin llenguatge ens comuniquem amb la màquina.
+
+584
+00:21:47,920 --> 00:21:51,920
+Tradicionalment, el programari s'ha explicat a través de diagrames supercomplexos,
+
+585
+00:21:51,920 --> 00:21:56,920
+de l'arquitectura, no?, diagrames UML, fluxos de caixes i fletxes,
+
+586
+00:21:56,920 --> 00:21:59,920
+o amb interfaces visuals plenes de botons.
+
+587
+00:21:59,920 --> 00:22:01,920
+Sí, tot molt gràfic o més rígid.
+
+588
+00:22:01,920 --> 00:22:06,920
+I el que s'extreu d'investigar les eines modernes és que el seu superpoder absolut
+
+589
+00:22:06,920 --> 00:22:11,920
+no és l'anàlisi gràfica visual, sinó una cosa molt més mundana, el text.
+
+590
+00:22:11,920 --> 00:22:14,920
+És un format elàstic a través d'una habilitat espectacular
+
+591
+00:22:14,920 --> 00:22:17,920
+que la xerrada denomina el DOOM semàntic.
+
+592
+00:22:17,920 --> 00:22:21,920
+Com explicaries què és exactament aquesta elasticitat
+
+593
+00:22:21,920 --> 00:22:23,920
+per a qui no estigui familiaritzat amb el terme?
+
+594
+00:22:23,920 --> 00:22:29,920
+A veure, en la informàtica clàssica els documents són estructures rígides, oi?
+
+595
+00:22:29,920 --> 00:22:35,920
+La documentació tècnica d'un sistema s'escriu amb un nivell de profunditat fix, i punt.
+
+596
+00:22:35,920 --> 00:22:39,920
+Si el text és massa dens i tècnic, qui ho llegeix per primer cop s'ofega.
+
+597
+00:22:39,920 --> 00:22:45,920
+I si és massa superficial, per a la persona experta allò no li serveix de res, perquè no hi ha detalls.
+
+598
+00:22:45,920 --> 00:22:47,920
+Sí, mai plou a gust de tothom.
+
+599
+00:22:47,920 --> 00:22:52,920
+Llavors, el DOOM semàntic és justament la capacitat inèdita que tenen els LLMs
+
+600
+00:22:52,920 --> 00:22:58,920
+d'adaptar la densitat de la informació gairebé en temps real segons la necessitat exacta de qui ho està llegint.
+
+601
+00:22:58,920 --> 00:23:04,920
+Per exemple, la xerrada menciona quan algú s'enfronta per primer cop a un arxiu de configuració cargo
+
+602
+00:23:04,920 --> 00:23:06,920
+en el llenguatge de programació RAST.
+
+603
+00:23:06,920 --> 00:23:08,920
+Uf, pot ser una muralla de text això.
+
+604
+00:23:09,920 --> 00:23:14,920
+Totalment. Et trobes un document ple de dependències, versions de llimeraries
+
+605
+00:23:14,920 --> 00:23:17,920
+i paràmetres extremadament críptics que et fan explotar el cap.
+
+606
+00:23:17,920 --> 00:23:23,920
+I llavors és quan apliques el DOOM semàntic. O sigui, si s'hi aplica un DOOM de sortida, un DOOM OUT,
+
+607
+00:23:23,920 --> 00:23:28,920
+li pots demanar a la IA que agafi tota aquella muralla i ho faci molt més succint, oi?
+
+608
+00:23:28,920 --> 00:23:34,920
+Com que n'extregui només la funció principal i comprimeixi tot el caos. D'un cop.
+
+609
+00:23:34,920 --> 00:23:39,920
+Exacte. I la IA et respondrà de forma amable dient que allò simplement és el seu dret.
+
+610
+00:23:39,920 --> 00:23:44,920
+I això és el gestor de paquets que assegura que el projecte pot compilar i executar-se.
+
+611
+00:23:44,920 --> 00:23:49,920
+Una cosa molt similar a un arxiu package.json de JavaScript de tota la vida, per exemple.
+
+612
+00:23:49,920 --> 00:23:55,920
+Així de fàcil. I t'amaga tot el soroll visual de les versions i matemàtiques que no necessites ara mateix.
+
+613
+00:23:55,920 --> 00:23:58,920
+El text es contreu i es simplifica.
+
+614
+00:23:58,920 --> 00:24:03,920
+I més tard, si resulta que et cal comprendre un mòdul hiperconcret, fas a l'invers, no?
+
+615
+00:24:03,920 --> 00:24:09,920
+Fas un zoom d'entrada, un zoom in, exclusiu en una sola línia per obtenir una explicació teòrica profunda
+
+616
+00:24:09,920 --> 00:24:12,920
+de com allò interactua amb la memòria de l'ordinador.
+
+617
+00:24:12,920 --> 00:24:16,920
+O sigui, tu vas modulant la resolució de la lectura segons et convingui.
+
+618
+00:24:16,920 --> 00:24:19,920
+Fas el document a la teva mida al moment. És brillant.
+
+619
+00:24:19,920 --> 00:24:26,920
+Però on el poder del text assoleix una dimensió gairebé de ciència-ficció, per a mi,
+
+620
+00:24:26,920 --> 00:24:33,920
+és en les transicions entre el món físic-visual que nosaltres habitem i el món computacional de la màquina.
+
+621
+00:24:33,920 --> 00:24:38,920
+I crec que el flux de treball que es detalla a l'anècdota del hackathon n'és la prova definitiva
+
+622
+00:24:38,920 --> 00:24:40,920
+de com de lluny pot arribar això.
+
+623
+00:24:40,920 --> 00:24:42,920
+Ostres, sí, la història del Gargode és fantàstica.
+
+624
+00:24:42,920 --> 00:24:47,920
+A qui ens escolta, el repte de la història comença amb un dissenyador que fa un gargut ràpid
+
+625
+00:24:47,920 --> 00:24:54,920
+en un tovalló de poper. Així de senzill. Quatre línies fetes amb alçada per simular una nova finestra emergent
+
+626
+00:24:54,920 --> 00:25:00,920
+per a l'aplicació amb un parell de botons. El procés habitual a les empreses implicaria perdre hores i hores
+
+627
+00:25:00,920 --> 00:25:06,920
+intentant traduir allò visual a instruccions de codi precises per al programador d'interfaces.
+
+628
+00:25:06,920 --> 00:25:07,920
+En canvi, el que fan aquí és que, per a la memòria de l'ordinador,
+
+629
+00:25:07,920 --> 00:25:13,920
+aplicar una cadena de traduccions microscòpiques exclusivament a través de text.
+
+630
+00:25:13,920 --> 00:25:18,920
+Primer, a qui ve a la màgia, li passen una fotografia del tovalló a la IA.
+
+631
+00:25:18,920 --> 00:25:22,920
+Però en lloc de cometre la raó de demanar-li que generi el codi directament,
+
+632
+00:25:22,920 --> 00:25:28,920
+li demanen que converteixi els traços d'aquell bolígraf en pur art així.
+
+633
+00:25:28,920 --> 00:25:33,920
+I clar, aquest pas pot semblar una fricada molt antiquada d'ordinadors dels 90.
+
+634
+00:25:33,920 --> 00:25:35,920
+Sí, dibuixets amb símbols del teclat.
+
+635
+00:25:35,920 --> 00:25:37,920
+Però és fonamental per a com funciona.
+
+636
+00:25:37,920 --> 00:25:39,920
+I això funciona al cervell del model, saps?
+
+637
+00:25:39,920 --> 00:25:43,920
+Aquests sistemes processen tokens, petites peces de text.
+
+638
+00:25:43,920 --> 00:25:48,920
+A la xarxa neuronal li costa horrors inferir distàncies reals en pixels,
+
+639
+00:25:48,920 --> 00:25:53,920
+però domina amb precisió les estructures bidimensionals fetes de caràcters.
+
+640
+00:25:53,920 --> 00:25:58,920
+Llavors, l'art així el que fa és mapellar les relacions espacials visuals
+
+641
+00:25:58,920 --> 00:26:03,920
+a una seqüència estructurada de text que la IA entén de manera innata i perfecta.
+
+642
+00:26:03,920 --> 00:26:05,920
+És brutal, la idea.
+
+643
+00:26:05,920 --> 00:26:09,920
+I a partir d'aquí, qui programa Agafa aquest dibuix fet amb lletretes ASCII
+
+644
+00:26:09,920 --> 00:26:12,920
+el pot editar manualment des del seu ordinador o fàcilment,
+
+645
+00:26:12,920 --> 00:26:17,920
+per exemple, per afegir-li un títol que potser faltava al gargot original del tovalló.
+
+646
+00:26:17,920 --> 00:26:20,920
+I finalment el retorna a la màquina amb una nova ordre.
+
+647
+00:26:20,920 --> 00:26:22,920
+El següent pas de la cadena.
+
+648
+00:26:22,920 --> 00:26:26,920
+Exacte. Li diuen Agafa aquest dibuix de text revisat
+
+649
+00:26:26,920 --> 00:26:30,920
+i ara descriu-lo detalladament de dalt a baix utilitzant format Markdown.
+
+650
+00:26:30,920 --> 00:26:34,920
+Un cop la màquina ha generat aquesta descripció textual perfecta i estandaritzada,
+
+651
+00:26:34,920 --> 00:26:37,920
+el pas final és el que és demolidor, de veritat.
+
+652
+00:26:37,920 --> 00:26:39,920
+Explica-ho, que val la pena.
+
+653
+00:26:39,920 --> 00:26:41,920
+Se li diu a la gent.
+
+654
+00:26:41,920 --> 00:26:44,920
+D'acord. Agafa aquesta descripció estandaritzada en Markdown
+
+655
+00:26:44,920 --> 00:26:48,920
+i compara-la detingudament amb el codi que tenim en producció actualment.
+
+656
+00:26:48,920 --> 00:26:51,920
+Llavors, fes una lista de les tasques exactes als to-dos
+
+657
+00:26:51,920 --> 00:26:55,920
+per passar del punt A, el codi actual, al punt B, el disseny nou.
+
+658
+00:26:55,920 --> 00:26:58,920
+I finalment, programen la implementació en línia en línia.
+
+659
+00:26:58,920 --> 00:26:59,920
+Uau!
+
+660
+00:26:59,920 --> 00:27:03,920
+I atenció. El resultat final s'executa correctament a la base.
+
+661
+00:27:03,920 --> 00:27:07,920
+Sense errors d'alineació estranys ni interpretacions errònies
+
+662
+00:27:07,920 --> 00:27:09,920
+com veiem abans amb la capçalera.
+
+663
+00:27:09,920 --> 00:27:12,920
+Estan utilitzant petits graons computacionals de text
+
+664
+00:27:12,920 --> 00:27:16,920
+per traduir el caos humà en un llenguatge altament estructurat com el Markdown,
+
+665
+00:27:16,920 --> 00:27:19,920
+que és precisament la dieta d'entrenament teòrica
+
+666
+00:27:19,920 --> 00:27:22,920
+sobre la qual aquests models s'han perfeccionat als laboratoris.
+
+667
+00:27:22,920 --> 00:27:25,920
+És que fixa't en què aconsegueixen amb això.
+
+668
+00:27:25,920 --> 00:27:29,920
+Literalment destrueixen el no determinisme del qual ens queixàvem abans.
+
+669
+00:27:29,920 --> 00:27:31,920
+El que ens ha fet mal és que els models no es poden fer bé.
+
+670
+00:27:31,920 --> 00:27:33,920
+El que ens ha fet mal és que els models no es poden fer bé.
+
+671
+00:27:33,920 --> 00:27:37,920
+Es trucesa un problema immensament complex en passos seqüencials,
+
+672
+00:27:37,920 --> 00:27:40,920
+transparents i validables un a un.
+
+673
+00:27:40,920 --> 00:27:43,920
+I aquesta és la veritable inversió del paradigma de treball.
+
+674
+00:27:43,920 --> 00:27:44,920
+Completament.
+
+675
+00:27:44,920 --> 00:27:47,920
+La revolució real no consisteix en crear un autòmat esclau
+
+676
+00:27:47,920 --> 00:27:50,920
+que executi ordres unidireccionals del tipus
+
+677
+00:27:50,920 --> 00:27:52,920
+«fas-me aquesta pantalla i calla».
+
+678
+00:27:52,920 --> 00:27:55,920
+El canvi profund es troba en invertir l'adreça de la conversa.
+
+679
+00:27:55,920 --> 00:27:57,920
+En quin sentit invertir-la?
+
+680
+00:27:57,920 --> 00:28:00,920
+Consisteix a posar sobre la taula un problema,
+
+681
+00:28:00,920 --> 00:28:02,920
+i demanar-li a la màquina
+
+682
+00:28:02,920 --> 00:28:05,920
+«ajuda'm a crear representacions intermèdies,
+
+683
+00:28:05,920 --> 00:28:09,920
+confirmem entre tots dos que el teu model mental de la solució
+
+684
+00:28:09,920 --> 00:28:11,920
+i el meu estan alineats,
+
+685
+00:28:11,920 --> 00:28:14,920
+i a partir d'aquí genera cinc camins possibles d'implementació
+
+686
+00:28:14,920 --> 00:28:16,920
+perquè jo triï».
+
+687
+00:28:16,920 --> 00:28:18,920
+O sigui, això eleva l'LLM
+
+688
+00:28:18,920 --> 00:28:21,920
+de ser un simple completador automàtic de codi
+
+689
+00:28:21,920 --> 00:28:25,920
+a ser un autèntic multiplicador analític de les capacitats humanes.
+
+690
+00:28:25,920 --> 00:28:27,920
+Déu-n'hi-do.
+
+691
+00:28:27,920 --> 00:28:29,920
+El recorregut per aprendre a domar aquest geni entremaliat
+
+692
+00:28:29,920 --> 00:28:31,920
+és molt exigent, eh?
+
+693
+00:28:31,920 --> 00:28:33,920
+Hem vist durant l'anàlisi que l'estratègia guanyadora
+
+694
+00:28:33,920 --> 00:28:35,920
+no rau a quedar-nos de braços plegats
+
+695
+00:28:35,920 --> 00:28:39,920
+esperant de manera passiva l'arribada d'un hipotètic model dia-futur
+
+696
+00:28:39,920 --> 00:28:42,920
+i definitiu que ho solucioni tot de forma màgica.
+
+697
+00:28:42,920 --> 00:28:45,920
+No. L'espera passiva és un error.
+
+698
+00:28:45,920 --> 00:28:46,920
+Clar.
+
+699
+00:28:46,920 --> 00:28:48,920
+La veritable mestria actual
+
+700
+00:28:48,920 --> 00:28:50,920
+està a gestionar l'atenció del model
+
+701
+00:28:50,920 --> 00:28:52,920
+de manera completament implacable,
+
+702
+00:28:52,920 --> 00:28:55,920
+per evitar la aterrificadora podridura del context.
+
+703
+00:28:55,920 --> 00:28:58,920
+Consisteix a esmicolar els problemes immensos
+
+704
+00:28:58,920 --> 00:29:00,920
+de la nostra arquitectura
+
+705
+00:29:00,920 --> 00:29:03,920
+i a delegar-los a petits agents altament especialitzats,
+
+706
+00:29:03,920 --> 00:29:06,920
+autèntics francotiradors d'una sola tasca,
+
+707
+00:29:06,920 --> 00:29:09,920
+en lloc de confiar-lo tot a un únic agent caòtic,
+
+708
+00:29:09,920 --> 00:29:11,920
+generalista i saturat.
+
+709
+00:29:11,920 --> 00:29:15,920
+I no oblidem la importància del xoc, de la discussió.
+
+710
+00:29:15,920 --> 00:29:18,920
+Cert. Implica dissenyar regles proactives
+
+711
+00:29:18,920 --> 00:29:21,920
+que provoquin fricció intencionada,
+
+712
+00:29:21,920 --> 00:29:23,920
+obligar la màquina a aturar-se
+
+713
+00:29:23,920 --> 00:29:27,920
+i preguntar per vencer aquesta falsa obediència servil
+
+714
+00:29:27,920 --> 00:29:31,920
+i l'enganyosa injecció de respostes de les quals parlàvem.
+
+715
+00:29:31,920 --> 00:29:33,920
+I, per sobre de tot,
+
+716
+00:29:33,920 --> 00:29:36,920
+hem d'abraçar la naturalesa maleable del text simple
+
+717
+00:29:36,920 --> 00:29:40,920
+com l'eina definitiva per exposar el raonament intern de la màquina
+
+718
+00:29:40,920 --> 00:29:42,920
+i poder construir ponts de ferro
+
+719
+00:29:42,920 --> 00:29:45,920
+cap al nostre propi model mental humà.
+
+720
+00:29:45,920 --> 00:29:47,920
+Jo crec que, ben mirat,
+
+721
+00:29:47,920 --> 00:29:49,920
+és un mapa indispensable i obligatori
+
+722
+00:29:49,920 --> 00:29:52,920
+per moure's de la pura frustració cega actual
+
+723
+00:29:52,920 --> 00:29:56,920
+a una veritable col·laboració tècnica d'altíssim nivell.
+
+724
+00:29:56,920 --> 00:29:58,920
+Totalment d'acord.
+
+725
+00:29:58,920 --> 00:30:00,920
+Aquest mapa, en el fons,
+
+726
+00:30:00,920 --> 00:30:04,920
+estableix les bases d'una disciplina completament nova al sector,
+
+727
+00:30:04,920 --> 00:30:06,920
+un escenari on el control humà
+
+728
+00:30:06,920 --> 00:30:09,920
+s'exerceix a través de dissenyar bé l'entorn de la gent
+
+729
+00:30:09,920 --> 00:30:11,920
+i de moderar el diàleg actiu,
+
+730
+00:30:11,920 --> 00:30:14,920
+deixant, finalment, enrere aquelles antigues instruccions
+
+731
+00:30:14,920 --> 00:30:17,920
+mecanistes, tancades i autoritàries de tota la vida.
+
+732
+00:30:17,920 --> 00:30:21,920
+I, justament, crec que aquest trencament tan bèstia amb el passat
+
+733
+00:30:21,920 --> 00:30:25,920
+deixa una pregunta molt profunda oberta per a qui ens escolta, no?
+
+734
+00:30:25,920 --> 00:30:28,920
+Una reflexió final que reconfigura l'horitzó
+
+735
+00:30:28,920 --> 00:30:31,920
+de múltiples professions més enllà de qui programa.
+
+736
+00:30:31,920 --> 00:30:33,920
+O sigui, pensem-hi per un moment.
+
+737
+00:30:33,920 --> 00:30:37,920
+Si actualment ja estem aprenent a delegar la sintaxi bàsica
+
+738
+00:30:37,920 --> 00:30:39,920
+i el teclat a petites eines seqüencials,
+
+739
+00:30:39,920 --> 00:30:43,920
+si aprenem a orquestrar múltiples execucions paral·leles
+
+740
+00:30:43,920 --> 00:30:46,920
+amb els WordTrees i a construir scripts autocorrectius
+
+741
+00:30:46,920 --> 00:30:48,920
+fets per la pròpia IA,
+
+742
+00:30:48,920 --> 00:30:51,920
+quin paper jugarà el desenvolupador humà clàssic d'aquí a pocs anys?
+
+743
+00:30:51,920 --> 00:30:53,920
+És la gran pregunta de la dècada.
+
+744
+00:30:53,920 --> 00:30:55,920
+Sembla força evident que l'acte de la dècada
+
+745
+00:30:55,920 --> 00:30:57,920
+físic d'escriure manualment les línies de codi
+
+746
+00:30:57,920 --> 00:31:00,920
+o d'exercutar solucions tècniques repetitives
+
+747
+00:31:00,920 --> 00:31:03,920
+anirà passant ràpidament a un segon pla.
+
+748
+00:31:03,920 --> 00:31:05,920
+La principal habilitat de la nostra feina
+
+749
+00:31:05,920 --> 00:31:08,920
+ja no serà la construcció pura i dura de l'artefacte,
+
+750
+00:31:08,920 --> 00:31:10,920
+sinó exclusivament l'avaluació.
+
+751
+00:31:10,920 --> 00:31:13,920
+Ens estem convertint, ens agradi o no, en àrbitres.
+
+752
+00:31:13,920 --> 00:31:15,920
+En directors d'orquestra.
+
+753
+00:31:15,920 --> 00:31:16,920
+Exacte.
+
+754
+00:31:16,920 --> 00:31:20,920
+En directors d'eixams infinits d'agents autònoms.
+
+755
+00:31:20,920 --> 00:31:24,920
+I com a directors d'aquestes orquestres de xarxes neuronals,
+
+756
+00:31:24,920 --> 00:31:26,920
+el talent més covejat a la indústria
+
+757
+00:31:26,920 --> 00:31:28,920
+ja no serà el domini enciclopèdic
+
+758
+00:31:28,920 --> 00:31:31,920
+d'un llenguatge de programació específic,
+
+759
+00:31:31,920 --> 00:31:34,920
+serà l'art de dissenyar sistemes d'avaluació contínus,
+
+760
+00:31:34,920 --> 00:31:37,920
+els famosos EVALS, dels quals es parla tant,
+
+761
+00:31:37,920 --> 00:31:41,920
+per poder supervisar aquestes caixes negres conversacionals.
+
+762
+00:31:41,920 --> 00:31:45,920
+O sigui, saber com formular les preguntes precises d'arquitectura,
+
+763
+00:31:45,920 --> 00:31:48,920
+orquestrar tests de validació altament rigorosos
+
+764
+00:31:48,920 --> 00:31:51,920
+i, sobretot, discernir quina opció paral·lela,
+
+765
+00:31:51,920 --> 00:31:53,920
+de les que ha generat la màquina,
+
+766
+00:31:53,920 --> 00:31:55,920
+conté la millor lògica estructural.
+
+767
+00:31:55,920 --> 00:31:58,920
+Aquesta serà la nova maestria humana indispensable.
+
+768
+00:31:58,920 --> 00:32:02,920
+És un canvi de perspectiva enorme que costa de similar.
+
+769
+00:32:02,920 --> 00:32:03,920
+Però és on anem.
+
+770
+00:32:03,920 --> 00:32:08,920
+I de debò, convé meditar fins a quin punt aquesta transició acelerada,
+
+771
+00:32:08,920 --> 00:32:11,920
+on deixem de ser els que creen directament la resposta,
+
+772
+00:32:11,920 --> 00:32:15,920
+per començar a ser els que dissenyen els sistemes automàtics que l'avaluen,
+
+773
+00:32:15,920 --> 00:32:19,920
+impactarà en la dinàmica de pràcticament qualsevol professió del coneixement
+
+774
+00:32:19,920 --> 00:32:22,920
+en un futur molt, molt immediat.
+
+775
+00:32:22,920 --> 00:32:26,920
+Hem canviat el paradigma antic de dictar exactament què fer
+
+776
+00:32:26,920 --> 00:32:29,920
+en un document rígid per aprendre, de mica en mica,
+
+777
+00:32:29,920 --> 00:32:31,920
+a dialogar amb allò imprevisible.
+
+778
+00:32:31,920 --> 00:32:34,920
+Una habilitat absolutament crítica, que a mi em sembla,
+
+779
+00:32:34,920 --> 00:32:37,920
+ens anirà definint a nosaltres mateixos pas a pas.
+
+780
+00:32:37,920 --> 00:32:40,920
+I amb aquesta reflexió, acomiadem la sessió d'avui.
+
+781
+00:32:40,920 --> 00:32:42,920
+Fins a la propera immersió.
+

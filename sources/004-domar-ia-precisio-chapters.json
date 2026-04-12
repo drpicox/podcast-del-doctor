@@ -1,0 +1,47 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 004: Domar la IA per programar amb precisió",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introducció: El geni de la làmpada entremallat"
+    },
+    {
+      "startTime": 45,
+      "title": "El xoc entre IA i precisió: més o menys funciona"
+    },
+    {
+      "startTime": 180,
+      "title": "Entendre l'IA: la finestra de context i la podridura"
+    },
+    {
+      "startTime": 360,
+      "title": "Gestió activa del context: documents de coneixement"
+    },
+    {
+      "startTime": 480,
+      "title": "El perill del superagent generalista"
+    },
+    {
+      "startTime": 600,
+      "title": "Fricció intencional i alineació de models mentals"
+    },
+    {
+      "startTime": 720,
+      "title": "Elasticitat del text: DOOM semàntic"
+    },
+    {
+      "startTime": 1080,
+      "title": "Del gargut al codi: traducció visual"
+    },
+    {
+      "startTime": 1560,
+      "title": "El nou paradigma: del creador al director d'orquestra"
+    },
+    {
+      "startTime": 1860,
+      "title": "Conclusions: cap a una col·laboració genuïna"
+    }
+  ]
+}
