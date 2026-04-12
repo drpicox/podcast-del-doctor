@@ -11,7 +11,7 @@ description: "Podcast sobre programació i tecnologia. Contingut generat amb IA 
             <li><a href="#about">Sobre el podcast</a></li>
             <li><a href="#disclaimer">Disclaimer</a></li>
             <li><a href="#subscribe">Subscriu-te</a></li>
-            <li><a href="{{ '/episodis' | relative_url }}">Episodis</a></li>
+            <li><a href="{{ '/episodis' | relative_url }}"><i data-feather="play"></i> Episodis</a></li>
         </ul>
         <button class="hamburger" onclick="toggleMobileMenu()" aria-label="Menú">
             <span></span>
