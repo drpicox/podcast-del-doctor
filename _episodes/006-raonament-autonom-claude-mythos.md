@@ -10,6 +10,7 @@ season: 1
 soundbite_start: 353.1
 soundbite_duration: 66.0
 soundbite_title: "D'autocompletar a pensador continu: USAMO 97.6% i ciberseguretat autònoma"
+thumbnail: "/assets/thumbnails/006-raonament-autonom-claude-mythos.png"
 sources:
 - title: "NotebookLM: El raonament autònom de Claude Mythos"
   url: "https://notebooklm.google.com/notebook/535089a4-af65-4cf0-87f2-82f8dbafc18a"

@@ -10,6 +10,7 @@ season: 1
 soundbite_start: 702.5
 soundbite_duration: 42.0
 soundbite_title: "La democratització real de la IA avançada: raonament profund al teu telèfon"
+thumbnail: "/assets/thumbnails/005-ouro-ia-pensa-en-bucle.png"
 sources:
 - title: "Scaling Latent Reasoning via Looped Language Models (arxiv:2510.25741)"
   url: "https://arxiv.org/abs/2510.25741"
