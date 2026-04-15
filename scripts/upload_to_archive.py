@@ -80,6 +80,16 @@ EPISODIS = [
         "duration": "13:58",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "ia", "llm", "claude", "anthropic", "mixture of experts", "moe", "recurrència latent", "raonament autònom", "ciberseguretat", "zero-day", "espai latent", "claude mythos"]
     },
+    {
+        "num": "007",
+        "fitxer": "007-com-domar-el-geni-trampos.mp3",
+        "identifier": "podcast-del-doctor-007-com-domar-el-geni-trampos",
+        "title": "Episodi 007: Com domar el geni trampós",
+        "description": "La intel·ligència artificial és com un geni dels contes antics: immensament poderós, però trampós, descuidat i perillosament literal. Basant-nos en 'El geni trampós', una adaptació accessible dels patrons Augmented Coding de Lada Kessler, explorem per quin motiu la IA pateix amnèsia digital, per què una conversa es 'podreix', com evitar el biaix de complacència i les al·lucinacions, i com aplicar l'enginyeria de la conversa pas a pas.",
+        "date": "2026-04-15",
+        "duration": "37:21",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "ia", "intel·ligència artificial", "llm", "lada kessler", "augmented coding", "prompt engineering", "context window", "biaix de complacença", "amnèsia digital", "enginyeria de conversa", "productivitat"]
+    },
 ]
 
 

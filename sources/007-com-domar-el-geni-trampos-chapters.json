@@ -1,0 +1,14 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 007: Com domar el geni trampós",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: El geni trampós" },
+    { "startTime": 150, "title": "L'amnèsia digital i la finestra de context" },
+    { "startTime": 488, "title": "La hiperactivitat: un sol tema per conversa" },
+    { "startTime": 760, "title": "El biaix de complacència i les al·lucinacions" },
+    { "startTime": 1107, "title": "L'enginyeria de la conversa pas a pas" },
+    { "startTime": 1517, "title": "La direcció inversa: descriu problemes, no solucions" },
+    { "startTime": 1927, "title": "Reflexió final: la IA com a mirall" }
+  ]
+}
