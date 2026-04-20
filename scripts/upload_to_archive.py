@@ -90,6 +90,16 @@ EPISODIS = [
         "duration": "37:21",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "ia", "intel·ligència artificial", "llm", "lada kessler", "augmented coding", "prompt engineering", "context window", "biaix de complacença", "amnèsia digital", "enginyeria de conversa", "productivitat"]
     },
+    {
+        "num": "008",
+        "fitxer": "008-colmap-reconstrueix-mon-3d.mp3",
+        "identifier": "podcast-del-doctor-008-colmap-reconstrueix-mon-3d",
+        "title": "Episodi 008: Com COLMAP reconstrueix el món en 3D",
+        "description": "Com pot un ordinador reconstruir un espai tridimensional a partir de simples fotografies planes? Analitzem a fons COLMAP, el programari de codi obert creat per Johannes Schönberger que s'ha convertit en l'estàndard de la indústria per a la reconstrucció 3D a partir d'imatges. Des de l'algorisme SIFT fins al bundle adjustment, passant pel drama CPU vs GPU i l'alternativa moderna GLOMAP.",
+        "date": "2026-04-19",
+        "duration": "16:03",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "colmap", "reconstrucció 3d", "fotogrametria", "sift", "bundle adjustment", "glomap", "gaussian splatting", "visió per computador", "estructura from motion", "sfm"]
+    },
 ]
 
 

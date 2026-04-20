@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 008: Com COLMAP reconstrueix el món en 3D",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 84.9, "title": "Què és COLMAP i el seu origen" },
+    { "startTime": 150.3, "title": "Extracció de característiques: SIFT" },
+    { "startTime": 240.1, "title": "Emparellament i matching d'imatges" },
+    { "startTime": 353.7, "title": "Verificació geomètrica i models de càmera" },
+    { "startTime": 457.8, "title": "El salt al 3D: reconstrucció incremental" },
+    { "startTime": 550.0, "title": "Bundle Adjustment: l'ajust de feixos" },
+    { "startTime": 639.6, "title": "El drama CPU vs GPU" },
+    { "startTime": 717.6, "title": "GLOMAP: la solució global moderna" },
+    { "startTime": 866.7, "title": "Reflexió final" }
+  ]
+}
