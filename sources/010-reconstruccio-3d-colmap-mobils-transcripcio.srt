@@ -1,0 +1,1648 @@
+1
+00:00:00,000 --> 00:00:04,560
+Quan una persona camina per una gran plaça a l'aire lliure
+
+2
+00:00:04,560 --> 00:00:08,120
+o, no sé, fa la volta a una font monumental de pedra,
+
+3
+00:00:08,740 --> 00:00:12,360
+el cervell humà fa una feina absolutament extraordinària
+
+4
+00:00:12,360 --> 00:00:14,360
+i gairebé sense que ens n'adonem,
+
+5
+00:00:14,980 --> 00:00:18,040
+deduïm de manera immediata què és a prop, què és lluny
+
+6
+00:00:18,040 --> 00:00:21,340
+i, bueno, com s'estructura tot aquest espai en tres dimensions.
+
+7
+00:00:21,720 --> 00:00:24,600
+Clar, i tant. És un procés evolutiu increïble.
+
+8
+00:00:25,120 --> 00:00:28,460
+O sigui, el nostre sistema visual està processant contínuament
+
+9
+00:00:28,460 --> 00:00:33,140
+micromoviments, la paral·làxia, la perspectiva de les línies
+
+10
+00:00:33,140 --> 00:00:35,340
+i fins i tot el joc de llums i ombres.
+
+11
+00:00:35,840 --> 00:00:36,280
+Exacte.
+
+12
+00:00:36,380 --> 00:00:39,900
+I tot això ens permet entendre la profunditat amb un simple cop d'ull.
+
+13
+00:00:40,440 --> 00:00:43,520
+Per això podem moure'ns per la ciutat sense xocar amb els fanals, saps?
+
+14
+00:00:43,720 --> 00:00:44,680
+Sí, sí, totalment.
+
+15
+00:00:45,120 --> 00:00:49,540
+Però clar, aquí és on topem amb un mur enorme quan parlem de tecnologia.
+
+16
+00:00:49,800 --> 00:00:52,420
+Perquè un ordinador parteix absolutament de zero.
+
+17
+00:00:52,620 --> 00:00:53,700
+De zero absolut, sí.
+
+18
+00:00:53,900 --> 00:00:56,660
+Si li donem una fotografia d'aquesta mateixa plaça,
+
+19
+00:00:57,240 --> 00:00:58,440
+la màquina no veu l'espai.
+
+20
+00:00:58,460 --> 00:01:02,140
+El que veu és una grella plana, bidimensional,
+
+21
+00:01:02,860 --> 00:01:06,280
+amb una mena de fulla de càlcul gegant plena de números.
+
+22
+00:01:06,740 --> 00:01:10,920
+Això mateix. Només valors numèrics per als colors de cada píxel.
+
+23
+00:01:11,360 --> 00:01:14,560
+I no té cap noció de què és el cel, on comença el terra,
+
+24
+00:01:14,980 --> 00:01:17,640
+o a quina distància física de la lenta està l'estàtua.
+
+25
+00:01:18,180 --> 00:01:21,480
+Llavors, el que avui explorarem a fons és precisament d'això.
+
+26
+00:01:21,980 --> 00:01:24,940
+Com aconseguim que una màquina arribi a veure la profunditat
+
+27
+00:01:24,940 --> 00:01:26,320
+a partir d'aquests píxels plans?
+
+28
+00:01:26,820 --> 00:01:27,840
+És el gran repte.
+
+29
+00:01:27,840 --> 00:01:29,880
+I el que és més fascinant encara,
+
+30
+00:01:30,380 --> 00:01:33,060
+com podem capturar espais exteriors gegantins
+
+31
+00:01:33,060 --> 00:01:35,120
+només caminant-hi amb un telèfon mòbil,
+
+32
+00:01:35,580 --> 00:01:39,100
+sense necessitat d'utilitzar drons ni equipament topogràfic caríssim.
+
+33
+00:01:39,380 --> 00:01:44,280
+I aquest és justament el repte tècnic que resol la reconstrucció 3D moderna
+
+34
+00:01:44,280 --> 00:01:46,400
+fent servir programari de codi obert.
+
+35
+00:01:46,940 --> 00:01:50,960
+Avui desgranem les mecanismes d'això que a molta gent li sembla màgia negra.
+
+36
+00:01:51,640 --> 00:01:53,500
+Ens basarem en un material molt bo,
+
+37
+00:01:54,000 --> 00:01:55,640
+un vídeo del canal Everypoint,
+
+38
+00:01:55,640 --> 00:01:57,640
+on parlen amb un expert en visió per comunicació,
+
+39
+00:01:57,840 --> 00:02:01,780
+computador, sobre un programa que és l'estàndard absolut, el Colmap.
+
+40
+00:02:02,240 --> 00:02:03,980
+D'acord, doncs anem al gra.
+
+41
+00:02:04,580 --> 00:02:06,080
+Per on comença l'ordinador?
+
+42
+00:02:06,520 --> 00:02:09,740
+Perquè, a veure, si jo miro una foto d'un cel blau,
+
+43
+00:02:10,060 --> 00:02:13,400
+el meu cervell entén a l'instant el concepte cel.
+
+44
+00:02:13,960 --> 00:02:18,620
+Però per a la màquina són només milers de píxels iguals.
+
+45
+00:02:19,120 --> 00:02:22,120
+Com trobar punts de referència per començar a mesurar res?
+
+46
+00:02:22,520 --> 00:02:26,060
+Aquest primer pas s'anomena extracció de característiques,
+
+47
+00:02:26,060 --> 00:02:27,600
+o feature extraction.
+
+48
+00:02:27,840 --> 00:02:32,600
+Com deies, l'ordinador no entén conceptes semàntics com cel o pedra.
+
+49
+00:02:32,920 --> 00:02:33,120
+Ja.
+
+50
+00:02:33,380 --> 00:02:36,820
+El que fa és utilitzar algoritmes matemàtics complexos
+
+51
+00:02:36,820 --> 00:02:39,440
+com un de molt formós, que es diu SIFT,
+
+52
+00:02:39,780 --> 00:02:44,180
+per buscar gradients, o sigui, rastreja tota la quadrícula de píxels
+
+53
+00:02:44,180 --> 00:02:48,960
+buscant llocs on hi ha un canvi brusc de color, de textura o de llum.
+
+54
+00:02:49,240 --> 00:02:53,160
+Com, per exemple, una línia foscada que de cop es creu en una zona clara.
+
+55
+00:02:53,320 --> 00:02:53,880
+Exacte.
+
+56
+00:02:53,880 --> 00:02:57,420
+O la vora esmolada d'una finestra contra una paret llisa.
+
+57
+00:02:57,840 --> 00:03:00,140
+Allà on detecta un contraste fort, pam,
+
+58
+00:03:00,380 --> 00:03:03,580
+i planta un marcador geomètric que anomenem punt clau.
+
+59
+00:03:03,820 --> 00:03:04,340
+Ostres, clar.
+
+60
+00:03:04,640 --> 00:03:07,860
+Això em recorda a l'exemple de la font del Capitoli d'Òregon
+
+61
+00:03:07,860 --> 00:03:09,220
+que surt al material d'avui.
+
+62
+00:03:09,700 --> 00:03:10,780
+Allà es veu molt evident.
+
+63
+00:03:11,340 --> 00:03:14,500
+L'ordinador s'obsessiona literalment amb les motllures de la pedra
+
+64
+00:03:14,500 --> 00:03:16,520
+o amb el relleu d'un pom d'una porta.
+
+65
+00:03:16,720 --> 00:03:19,540
+Clar, perquè allà hi ha petites ombres i llums barrejades.
+
+66
+00:03:19,860 --> 00:03:20,740
+Hi ha molt contrast.
+
+67
+00:03:21,100 --> 00:03:24,080
+Però, en canvi, quan l'algoritme mira al cel clar
+
+68
+00:03:24,080 --> 00:03:26,560
+o a una carretera d'asfalt que és superplana,
+
+69
+00:03:26,960 --> 00:03:27,820
+no troba contrast.
+
+70
+00:03:27,840 --> 00:03:29,100
+I es queda sec.
+
+71
+00:03:29,420 --> 00:03:30,280
+No hi ha res a marcar.
+
+72
+00:03:31,160 --> 00:03:34,900
+Però, què fa l'ordinador un cop troba un d'aquests punts clau?
+
+73
+00:03:35,440 --> 00:03:38,000
+Simplement anota a les coordonades la X i la Y?
+
+74
+00:03:38,620 --> 00:03:39,380
+Ui, no, no.
+
+75
+00:03:40,060 --> 00:03:42,880
+Si només guardés la ubicació del píxel, seria inútil.
+
+76
+00:03:43,440 --> 00:03:47,960
+El que fa realment és analitzar tots els píxels del voltant d'aquest punt clau
+
+77
+00:03:47,960 --> 00:03:49,980
+i crear un descriptor.
+
+78
+00:03:50,320 --> 00:03:51,160
+Un descriptor.
+
+79
+00:03:51,600 --> 00:03:52,020
+D'acord.
+
+80
+00:03:52,360 --> 00:03:52,560
+Sí.
+
+81
+00:03:52,960 --> 00:03:55,020
+És com un vector matemàtic molt robust.
+
+82
+00:03:55,020 --> 00:03:56,820
+Per exemple, amb el SIFT,
+
+83
+00:03:56,820 --> 00:03:59,220
+es crea un vector de 128 dimensions.
+
+84
+00:03:59,760 --> 00:04:00,200
+Uau.
+
+85
+00:04:01,140 --> 00:04:03,660
+128 dimensions per a un sol punt?
+
+86
+00:04:04,100 --> 00:04:04,340
+Sí.
+
+87
+00:04:04,700 --> 00:04:06,620
+I això codifica de manera molt precisa
+
+88
+00:04:06,620 --> 00:04:10,000
+com es distribueixen les gradients de llum en aquell petit radi.
+
+89
+00:04:10,620 --> 00:04:15,100
+En el fons, és com si el programa generés una empremta dactilar numèrica única
+
+90
+00:04:15,100 --> 00:04:17,060
+per a cada recu de la fotografia.
+
+91
+00:04:17,380 --> 00:04:23,000
+Una empremta dactilar de 128 dimensions només per un puntet
+
+92
+00:04:23,000 --> 00:04:25,900
+i en traiem millers per fotografia.
+
+93
+00:04:25,900 --> 00:04:26,800
+Déu-n'hi-do.
+
+94
+00:04:26,820 --> 00:04:28,320
+Dó el volum de dades inicial.
+
+95
+00:04:28,980 --> 00:04:30,540
+Ara entenc l'evolució del Colmap.
+
+96
+00:04:30,960 --> 00:04:31,220
+Clar.
+
+97
+00:04:31,880 --> 00:04:33,300
+Recareix molta potència.
+
+98
+00:04:33,820 --> 00:04:35,960
+El seu creador, en Johannes Schoenberger,
+
+99
+00:04:36,460 --> 00:04:40,780
+inicialment havia dissenyat un sistema diferent que es deia MapMap, oi?
+
+100
+00:04:41,140 --> 00:04:43,840
+I estava pensat exclusivament per a drons.
+
+101
+00:04:44,300 --> 00:04:44,920
+Exactament.
+
+102
+00:04:45,440 --> 00:04:50,920
+Però la fotografia aèria amb drons té un avantatge enorme respecte a caminar amb un mòbil.
+
+103
+00:04:51,360 --> 00:04:52,800
+Que miren cap avall.
+
+104
+00:04:53,120 --> 00:04:53,780
+Això mateix.
+
+105
+00:04:53,780 --> 00:04:56,780
+La càmera sol mirar cap avall en un angle constant.
+
+106
+00:04:56,820 --> 00:05:00,080
+De manera que les línies de visió són ordenades.
+
+107
+00:05:00,740 --> 00:05:05,060
+Schoenberger es va adonar que el repte real era generalitzar aquest procés
+
+108
+00:05:05,060 --> 00:05:09,720
+per a imatges completament desordenades, fetes a peu de carrer des de qualsevol angle.
+
+109
+00:05:10,120 --> 00:05:12,060
+I d'aquí va néixer el projecte Colmap.
+
+110
+00:05:12,400 --> 00:05:15,580
+Sí, que de fet és l'acrònim de Collection Mapper.
+
+111
+00:05:16,200 --> 00:05:20,200
+La idea era que qualsevol col·lecció d'imatges capturades lliurement
+
+112
+00:05:20,200 --> 00:05:22,900
+pogués convertir-se en una rèplica en 3D.
+
+113
+00:05:22,900 --> 00:05:26,800
+Però aquí hi ha un detall que em grinyola una mica.
+
+114
+00:05:26,820 --> 00:05:30,140
+Un dron porta una lent calibrada i d'alta qualitat.
+
+115
+00:05:30,740 --> 00:05:34,100
+Però si jo vull fer servir el meu telèfon caminant per una plaça
+
+116
+00:05:34,100 --> 00:05:37,220
+o una càmera d'acció, tipus GoPro, enganxada al pit,
+
+117
+00:05:37,640 --> 00:05:40,460
+aquestes lents deformen l'espai d'una manera brutal.
+
+118
+00:05:40,680 --> 00:05:41,880
+I tant, moltíssim.
+
+119
+00:05:42,160 --> 00:05:45,820
+Jo he vist fotos meves on els edificis dels cantons semblen caure cap endins.
+
+120
+00:05:46,460 --> 00:05:49,460
+Llavors, com pot l'ordinador calcular una geometria precisa
+
+121
+00:05:49,460 --> 00:05:52,740
+si la meva lent li està falsejant que és recte que no ho és?
+
+122
+00:05:52,740 --> 00:05:55,520
+Aquesta deformació en la distorsió de la lent
+
+123
+00:05:55,520 --> 00:05:58,880
+destrossaria qualsevol càlcul si l'ordinador l'ignoreix.
+
+124
+00:05:59,440 --> 00:06:02,340
+Així que, abans de relacionar les fotos a l'espai,
+
+125
+00:06:02,720 --> 00:06:06,300
+el programa necessita modelar matemàticament el comportament d'aquest vidre.
+
+126
+00:06:06,520 --> 00:06:12,180
+O sigui, literalment, aplica una correcció per desdoblegar la imatge i posar-la plana.
+
+127
+00:06:12,240 --> 00:06:17,340
+Bueno, no la desdoblega visualment creant un fitxe nou, com si fossis al Photoshop.
+
+128
+00:06:17,920 --> 00:06:22,520
+El que fa és incorporar els factors de distorsió directament a les seves equacions.
+
+129
+00:06:22,720 --> 00:06:24,800
+Ah, d'acord, ho entenc matemàticament.
+
+130
+00:06:24,800 --> 00:06:25,800
+Exacte.
+
+131
+00:06:25,800 --> 00:06:30,760
+Si fas servir un mòbil normal, potser només aplica un paràmetre radial anomenat K,
+
+132
+00:06:31,120 --> 00:06:32,720
+que compensa la curva del vidre.
+
+133
+00:06:33,260 --> 00:06:37,240
+Però si grabes amb un gran angular o un ull de peix per capturar més espai,
+
+134
+00:06:37,600 --> 00:06:41,660
+la fórmula s'encareix, ha d'afegir paràmetres tangencials complexos.
+
+135
+00:06:42,500 --> 00:06:44,040
+Sense saber com la llum es dobla,
+
+136
+00:06:44,180 --> 00:06:47,920
+els reis que l'ordinador projecta mai es creuarien a l'espai 3D.
+
+137
+00:06:48,320 --> 00:06:49,200
+Val, val, ho tinc.
+
+138
+00:06:49,860 --> 00:06:54,680
+Llavors, assumim que ja tenim milers d'aquestes empremtes dactilars identificades per cada foto.
+
+139
+00:06:54,800 --> 00:06:58,200
+I sabem exactament com la gent ha filtrat la llum.
+
+140
+00:06:58,500 --> 00:06:59,340
+Perfecte, sí.
+
+141
+00:06:59,620 --> 00:07:05,360
+Però si jo em moc al voltant d'aquesta gran font i faig 50 fotos des de diferents angles,
+
+142
+00:07:06,180 --> 00:07:11,520
+com dimonis relaciona la màquina els punts de la foto número 1 amb els de la foto número 15?
+
+143
+00:07:12,200 --> 00:07:19,580
+I recordem, sense fer servir dades de satèl·lit que el GPS del mòbil rebota entre els edificis i és super imprecís.
+
+144
+00:07:20,000 --> 00:07:21,640
+Clar, ens oblidem del GPS.
+
+145
+00:07:22,240 --> 00:07:23,420
+Entrem a la segona fase.
+
+146
+00:07:23,420 --> 00:07:24,620
+L'emparellament de capítols.
+
+147
+00:07:24,800 --> 00:07:33,520
+El programa ha de comparar cadascuna d'aquestes empremtes matemàtiques de 128 dimensions amb les de les altres fotos,
+
+148
+00:07:33,920 --> 00:07:37,760
+per trobar les que siguin prou semblants per confirmar que és el mateix objecte físic.
+
+149
+00:07:38,060 --> 00:07:38,900
+A veure, a veure.
+
+150
+00:07:39,380 --> 00:07:42,900
+Frena un moment perquè m'està explotant el cap amb les matemàtiques.
+
+151
+00:07:43,780 --> 00:07:46,900
+Si tinc 100.000 fotos d'una plaça per cobrir-la tota,
+
+152
+00:07:47,480 --> 00:07:53,700
+el programa comprova els milers de punts de la foto 1 contra els de les altres 9.999 fotos.
+
+153
+00:07:53,700 --> 00:07:54,300
+Eh...
+
+154
+00:07:54,300 --> 00:07:56,420
+Sí, d'entrada podria fer-ho.
+
+155
+00:07:56,620 --> 00:07:59,300
+I després la foto 2 contra totes les altres.
+
+156
+00:07:59,760 --> 00:08:01,240
+Això és exponencial.
+
+157
+00:08:01,860 --> 00:08:05,480
+Estem demanant buscar una agulla amb milions de pallers alhora.
+
+158
+00:08:05,960 --> 00:08:07,260
+El meu ordinador es fundria.
+
+159
+00:08:07,780 --> 00:08:09,000
+I tens tota la raó.
+
+160
+00:08:09,560 --> 00:08:11,140
+Estic segura que es fundria.
+
+161
+00:08:11,720 --> 00:08:15,100
+Això és el que s'anomena l'estratègia de cerca exhaustiva.
+
+162
+00:08:15,580 --> 00:08:18,240
+Si tens 50 fotos, cap problema, es fan minuts.
+
+163
+00:08:18,240 --> 00:08:23,200
+Però amb milers de fotos pot trigar setmanes només a calcular quina foto va amb quina,
+
+164
+00:08:23,420 --> 00:08:24,240
+abans de construir...
+
+165
+00:08:24,300 --> 00:08:25,520
+Ostres.
+
+166
+00:08:26,220 --> 00:08:28,280
+I llavors, si trigues setmanes,
+
+167
+00:08:28,880 --> 00:08:31,300
+per què tants cops escollim aquesta opció exhaustiva
+
+168
+00:08:32,020 --> 00:08:33,660
+quan fem servir aquests programes?
+
+169
+00:08:34,160 --> 00:08:35,120
+Què estem ignorant?
+
+170
+00:08:35,900 --> 00:08:37,660
+És un error de plantejament brutal.
+
+171
+00:08:38,220 --> 00:08:40,460
+No està aprofitant com hem recollit les dades.
+
+172
+00:08:41,120 --> 00:08:42,520
+Si grabes la font caminant,
+
+173
+00:08:42,740 --> 00:08:44,580
+fas un recorregut al seu voltant, oi?
+
+174
+00:08:44,940 --> 00:08:46,340
+Un vídeo o fotos seguides.
+
+175
+00:08:46,640 --> 00:08:48,960
+Clar, vaig donant la volta a poc a poc.
+
+176
+00:08:49,180 --> 00:08:51,300
+Doncs pots escollir l'estratègia seqüencial,
+
+177
+00:08:52,340 --> 00:08:53,300
+li dius a la màquina.
+
+178
+00:08:53,300 --> 00:08:54,020
+Escolta,
+
+179
+00:08:54,020 --> 00:08:58,960
+la foto 30 només l'has de comparar amb les 3 o 4 fotos d'abans i de després.
+
+180
+00:08:59,260 --> 00:09:00,420
+Ah, clar.
+
+181
+00:09:00,560 --> 00:09:03,900
+D'aquesta manera, t'estalvies comparar la cara nord de la font
+
+182
+00:09:03,900 --> 00:09:05,620
+amb les fotos de la cara sud.
+
+183
+00:09:06,200 --> 00:09:08,680
+Estalvies milions d'operacions inútils.
+
+184
+00:09:08,880 --> 00:09:09,320
+D'acord.
+
+185
+00:09:09,600 --> 00:09:12,020
+O sigui que el context cronològic és clau.
+
+186
+00:09:12,840 --> 00:09:14,400
+Però i si no tinc aquest luxe?
+
+187
+00:09:14,880 --> 00:09:18,320
+Imagina un grup d'arquitectes que vol reconstruir una plaça històrica
+
+188
+00:09:18,320 --> 00:09:20,880
+a partir de fotografies d'arxiu desordenades
+
+189
+00:09:20,880 --> 00:09:24,000
+o de turistes que les han pujat a internet en diferents estats.
+
+190
+00:09:24,020 --> 00:09:27,740
+Sense seqüència lògica, tornem a l'infern exhaustiu.
+
+191
+00:09:28,060 --> 00:09:28,800
+No del tot.
+
+192
+00:09:29,360 --> 00:09:33,900
+Aquí entra una solució genial que es diu arbre de vocabulari, o vocabtri.
+
+193
+00:09:34,440 --> 00:09:36,120
+En lloc de fer-ho a la força bruta,
+
+194
+00:09:36,380 --> 00:09:38,320
+agrupa els vectors en paraules visuals,
+
+195
+00:09:39,020 --> 00:09:42,900
+crea etiquetes tipus textura de tot això, o reixa de ferro,
+
+196
+00:09:43,200 --> 00:09:45,720
+i resumeix la foto en un catàleg de paraules.
+
+197
+00:09:46,000 --> 00:09:47,760
+Espera, a veure si ho entenc.
+
+198
+00:09:48,540 --> 00:09:52,760
+És com si l'algoritme creés un índex temàtic al final d'un llibre gegant.
+
+199
+00:09:53,100 --> 00:09:53,580
+Mmm.
+
+200
+00:09:54,020 --> 00:09:55,120
+Sí, bona analogia.
+
+201
+00:09:55,420 --> 00:09:58,620
+En lloc de llegir cada pàgina buscant arquitectura romana,
+
+202
+00:09:59,160 --> 00:10:03,180
+va directament a l'índex, veu quines 5 pàgines tenen aquesta paraula clau,
+
+203
+00:10:03,620 --> 00:10:05,300
+i només comparar aquestes 5 pàgines.
+
+204
+00:10:05,940 --> 00:10:09,340
+Exacte. Actua com un motor de cerca intern ultraràpid.
+
+205
+00:10:09,740 --> 00:10:11,600
+Colmap filtra l'índex i et diu
+
+206
+00:10:11,600 --> 00:10:15,540
+d'aquestes 10.000 fotos, només aquestes 50 tenen els mateixos elements.
+
+207
+00:10:16,140 --> 00:10:19,820
+I només fa l'emparellament pesat, pixel a pixel, contra aquesta 50.
+
+208
+00:10:20,120 --> 00:10:20,820
+És magistral.
+
+209
+00:10:21,120 --> 00:10:22,340
+Molt intel·ligent, sí senyor.
+
+210
+00:10:22,980 --> 00:10:24,000
+Però bé, fem un parellament.
+
+211
+00:10:24,020 --> 00:10:24,460
+Un pas més.
+
+212
+00:10:24,860 --> 00:10:27,380
+Perquè ara mateix encara estem en el món dosdí de les fotos.
+
+213
+00:10:27,920 --> 00:10:29,340
+Com saltem a l'espai 3D?
+
+214
+00:10:30,120 --> 00:10:32,280
+Em fascina això de la reconstrucció incremental.
+
+215
+00:10:32,960 --> 00:10:36,040
+Com decideix la màquina on col·locar la primera peça d'aquest món?
+
+216
+00:10:36,600 --> 00:10:39,240
+Suposo que no comença per la foto 1 i la foto 2, oi?
+
+217
+00:10:39,560 --> 00:10:41,740
+Sobretot si es van fer des del matgexloco exacte.
+
+218
+00:10:42,000 --> 00:10:43,420
+Vas molt bé encaminat.
+
+219
+00:10:43,640 --> 00:10:45,880
+El programa depèn d'un principi fonamental.
+
+220
+00:10:46,540 --> 00:10:47,520
+La triangulació.
+
+221
+00:10:48,260 --> 00:10:52,880
+Hi ha encerrats imaginaris des de les càmeres calculades perquè es creuin a l'espai.
+
+222
+00:10:52,880 --> 00:10:53,420
+Clar.
+
+223
+00:10:54,020 --> 00:10:57,880
+Si fes servir dues fotos fetes a 3 centímetres de distància,
+
+224
+00:10:58,340 --> 00:11:02,400
+els raig sortirien gairebé paral·lels i no es creuarien nítidament.
+
+225
+00:11:02,980 --> 00:11:05,420
+El càlcul de profunditat seria un desastre.
+
+226
+00:11:05,760 --> 00:11:06,160
+Lògic.
+
+227
+00:11:06,820 --> 00:11:11,140
+És la mateixa raó biològica per la qual els humans tenim dos ulls separats a la cara.
+
+228
+00:11:11,820 --> 00:11:15,560
+Si em tapo un ull i intento omplir un got d'aigua, acabo mullant la taula, saps?
+
+229
+00:11:15,920 --> 00:11:16,460
+Totalment.
+
+230
+00:11:17,040 --> 00:11:21,420
+Necessites paral·laci, necessites que l'ordinador tingui els ulls separats.
+
+231
+00:11:21,420 --> 00:11:23,860
+Llavors intento emparellar dos fotogrames.
+
+232
+00:11:23,860 --> 00:11:28,540
+Seguits d'un vídeo, és com si l'ordinador tingués els ulls enganxats al mateix lloc.
+
+233
+00:11:28,720 --> 00:11:29,540
+Això mateix.
+
+234
+00:11:30,320 --> 00:11:33,800
+Així que, per col·locar la primera llavor del model 3D,
+
+235
+00:11:34,280 --> 00:11:37,080
+el programa busca una bona línia base.
+
+236
+00:11:37,720 --> 00:11:41,060
+Busca dos fotos que tinguin milers de punts en comú,
+
+237
+00:11:41,520 --> 00:11:44,660
+però amb una distància física entre elles prou gran
+
+238
+00:11:44,660 --> 00:11:47,380
+per oferir un bon angle per la triangulació.
+
+239
+00:11:47,900 --> 00:11:50,960
+Pot ser començar aparellant la foto 12 amb la 90.
+
+240
+00:11:50,960 --> 00:11:52,980
+I un cop té aquesta base,
+
+241
+00:11:52,980 --> 00:11:57,080
+va afegint la resta una a una, avaluant noves càmeres.
+
+242
+00:11:57,600 --> 00:12:00,160
+Però m'imagino que això acumula errors, oi?
+
+243
+00:12:00,740 --> 00:12:03,060
+He vist que el material parla d'un procés que es diu
+
+244
+00:12:03,060 --> 00:12:05,840
+bundle adjustment, l'ajust de feixos.
+
+245
+00:12:06,360 --> 00:12:07,860
+I sentint això de feixos,
+
+246
+00:12:08,280 --> 00:12:10,960
+només m'imagino algú lligant branques de llenya al bosc.
+
+247
+00:12:11,280 --> 00:12:12,440
+Oblida't de la llenya.
+
+248
+00:12:12,880 --> 00:12:15,300
+Fa referència als feixos de raix de llum.
+
+249
+00:12:15,860 --> 00:12:17,800
+Quan vas afegint fotos una a una,
+
+250
+00:12:18,220 --> 00:12:21,400
+l'algoritme va arrossegant petits errors minúsculs.
+
+251
+00:12:21,400 --> 00:12:22,680
+Això es diu drift.
+
+252
+00:12:22,980 --> 00:12:26,540
+Si la càmera 18 es col·loca malament uns mil·límetres,
+
+253
+00:12:26,860 --> 00:12:30,160
+la 19 es basarà en aquest error i s'anirà desviant.
+
+254
+00:12:30,440 --> 00:12:33,640
+Ah, o sigui que el carrer que jo he gravat totalment recte,
+
+255
+00:12:33,900 --> 00:12:36,860
+a la pantalla s'aniria corbant fins a acabar mirant el cel
+
+256
+00:12:36,860 --> 00:12:38,100
+com a la pel·lícula Origin.
+
+257
+00:12:38,640 --> 00:12:41,380
+Literalment, sí. Una corba totalment grotesca.
+
+258
+00:12:41,600 --> 00:12:43,020
+Això de l'ajust m'intriga.
+
+259
+00:12:43,380 --> 00:12:45,280
+Si jo munto una cadira de fusta a casa
+
+260
+00:12:45,280 --> 00:12:48,560
+i en lloc de collar-me els cargols d'una pota els deixo mig sols,
+
+261
+00:12:48,560 --> 00:12:52,520
+quan posi el cent tot tronxollarà i la cadira acabarà trencant-se.
+
+262
+00:12:52,980 --> 00:12:54,840
+Aquest procés seria com tenir un muntador
+
+263
+00:12:54,840 --> 00:12:58,040
+que constantment està repassant i apretant mil·límetre a mil·límetre
+
+264
+00:12:58,040 --> 00:13:02,040
+cadascun dels cargols de les potes alhora, fins que la cadira és sòlida.
+
+265
+00:13:02,500 --> 00:13:03,840
+És una bona idea visual,
+
+266
+00:13:04,040 --> 00:13:06,700
+però hi afegiré una capa més de bogeria per ser rigorosa.
+
+267
+00:13:07,160 --> 00:13:09,660
+Imagina que mentre s'ajusten les potes de la cadira,
+
+268
+00:13:10,080 --> 00:13:12,980
+paral·lelament el muntador està reavaluant i modificant
+
+269
+00:13:12,980 --> 00:13:15,800
+la inclinació de les rajoles del terra de tota l'habitació.
+
+270
+00:13:16,020 --> 00:13:16,660
+Què dius ara?
+
+271
+00:13:17,340 --> 00:13:22,320
+Modifica a la vegada les coordenades X, Y i Z de milions de punts.
+
+272
+00:13:22,320 --> 00:13:24,600
+La rotació de totes les càmeres.
+
+273
+00:13:24,800 --> 00:13:28,560
+I fins i tot recalcula retroactivament la distorció de l'alent,
+
+274
+00:13:28,700 --> 00:13:30,080
+que hem comentat al principi.
+
+275
+00:13:30,640 --> 00:13:33,720
+Tot per trobar l'equilibri matemàtic global perfecte.
+
+276
+00:13:34,160 --> 00:13:37,100
+Modificar les rajoles mentre es canvia el vidre del mòbil?
+
+277
+00:13:37,600 --> 00:13:37,840
+Tela.
+
+278
+00:13:38,280 --> 00:13:41,420
+Això és una quantitat d'operacions matemàtiques absolutament obscena.
+
+279
+00:13:41,880 --> 00:13:45,700
+I clar, això m'explica una de les grans queixes que es llegeixen per internet.
+
+280
+00:13:46,040 --> 00:13:47,020
+A veure, quina queixa?
+
+281
+00:13:47,320 --> 00:13:48,220
+Doncs gent que diu
+
+282
+00:13:48,220 --> 00:13:52,220
+M'he gastat 3.000 euros en una targeta gràfica d'última generació matemàtica.
+
+283
+00:13:52,320 --> 00:13:53,540
+Brutal. Una GPU.
+
+284
+00:13:53,960 --> 00:13:57,300
+I el procés d'afegir fotos triga 15 hores per una plaça petita.
+
+285
+00:13:57,920 --> 00:14:01,220
+Per què una GPU caríssima no es cruspeix aquest procés a l'instant?
+
+286
+00:14:01,220 --> 00:14:04,820
+És una confusió molt típica de com funciona el hardware.
+
+287
+00:14:05,480 --> 00:14:08,340
+Les GPUs estan dissenyades amb milers de nuclis petits
+
+288
+00:14:08,340 --> 00:14:10,740
+per fer tasques senzilles i simultànies.
+
+289
+00:14:11,440 --> 00:14:13,300
+Són genials per a la primera fase,
+
+290
+00:14:13,480 --> 00:14:16,540
+la d'extracció de punts clau o les comparacions a l'engròs,
+
+291
+00:14:16,960 --> 00:14:20,000
+perquè poden enviar feina a cada nucli de manera paral·lela.
+
+292
+00:14:20,440 --> 00:14:22,240
+Però clar, aquest ajust de feixos
+
+293
+00:14:22,240 --> 00:14:24,280
+que m'has descrit és seqüencial, oi?
+
+294
+00:14:24,660 --> 00:14:28,040
+És a dir, jo no puc calcular on va el MAO-80 de la paret
+
+295
+00:14:28,040 --> 00:14:30,420
+si no sé del cert com ha quedat el MAO-79.
+
+296
+00:14:31,240 --> 00:14:33,040
+Exacte. Dependent l'un de l'altre.
+
+297
+00:14:33,380 --> 00:14:37,000
+Per tant, tot aquest procés forma una coa gegant de procés.
+
+298
+00:14:37,460 --> 00:14:40,620
+És com... A veure, si la GPU és un exèrcit sencer
+
+299
+00:14:40,620 --> 00:14:43,260
+de policies de trànsit buscant pistes separades
+
+300
+00:14:43,260 --> 00:14:44,460
+per tota una ciutat alhora,
+
+301
+00:14:44,960 --> 00:14:48,020
+l'ajust incremental és la feina d'un sol detectiu solitari
+
+302
+00:14:48,020 --> 00:14:51,560
+que ha de relacionar les pistes cronològicament al seu despatx
+
+303
+00:14:51,560 --> 00:14:51,760
+abans de donar l'ajust.
+
+304
+00:14:51,760 --> 00:14:51,800
+I això és el que fa que la GPU no es cruspeix.
+
+305
+00:14:51,800 --> 00:14:53,080
+Abans de donar el cas per tancat.
+
+306
+00:14:53,300 --> 00:14:56,000
+Molt bona metàfora. Estic totalment d'acord.
+
+307
+00:14:56,760 --> 00:14:58,780
+La naturalesa seqüencial de l'ajust
+
+308
+00:14:58,780 --> 00:15:01,280
+fa que la GPU perdi tota l'eficàcia.
+
+309
+00:15:01,920 --> 00:15:05,700
+Aquesta feina pesada acaba derivant-se a la CPU de l'ordinador
+
+310
+00:15:05,700 --> 00:15:08,440
+que té menys nuclis però molta més força
+
+311
+00:15:08,440 --> 00:15:10,300
+per càlculs lògics encadenats
+
+312
+00:15:10,300 --> 00:15:12,540
+i per això es creen els colls d'ampolla
+
+313
+00:15:12,540 --> 00:15:14,800
+que poden durar dies sencers d'espera.
+
+314
+00:15:15,080 --> 00:15:18,060
+O sigui que ens hem de resignar a l'espera per sempre,
+
+315
+00:15:18,180 --> 00:15:19,200
+per als espais oberts?
+
+316
+00:15:19,520 --> 00:15:21,780
+No. I aquí ve la gran revolució.
+
+317
+00:15:21,800 --> 00:15:25,920
+Per evitar aquest infern d'hores encadenant càmeres una per una
+
+318
+00:15:25,920 --> 00:15:28,580
+ha sorgit un nou enfocament de global mappers,
+
+319
+00:15:28,880 --> 00:15:29,860
+com ara el GiloMap.
+
+320
+00:15:30,120 --> 00:15:31,920
+GiloMap. Què fa d'especial?
+
+321
+00:15:32,140 --> 00:15:34,680
+Totalment assumint error i corregint,
+
+322
+00:15:35,080 --> 00:15:37,860
+intenta calcular-lo tota l'hora, de manera global.
+
+323
+00:15:38,480 --> 00:15:42,000
+Utilitza una tècnica anomenada promig de rotació.
+
+324
+00:15:42,740 --> 00:15:45,680
+Abans d'ubicar cap càmera en l'espai XYZ,
+
+325
+00:15:46,220 --> 00:15:48,420
+primer mira els punts clau croats
+
+326
+00:15:48,420 --> 00:15:51,560
+i calcula exclusivament cap on estan mirant
+
+327
+00:15:51,560 --> 00:15:51,620
+tot el temps.
+
+328
+00:15:51,620 --> 00:15:51,780
+I això és el que fa que la GPU perdi tota l'eficàcia.
+
+329
+00:15:51,800 --> 00:16:21,780
+I això és el que fa que la GPU perdi tota l'eficàcia.
+
+330
+00:16:21,780 --> 00:16:25,200
+Ai, exigeixo obligatoriament que hagis tancat el cercle.
+
+331
+00:16:25,440 --> 00:16:27,600
+El que en diuen fer un loop closure.
+
+332
+00:16:27,960 --> 00:16:30,060
+Tancar el cercle logísticament.
+
+333
+00:16:30,600 --> 00:16:33,920
+Si començo a gravar a la porta de la catedral,
+
+334
+00:16:34,380 --> 00:16:36,340
+dones tota la volta a la catedral.
+
+335
+00:16:36,740 --> 00:16:39,840
+Caminant per les esglésies i els carrerons de darrere,
+
+336
+00:16:40,220 --> 00:16:42,940
+has de tornar al punt exacte i gravar de nou
+
+337
+00:16:42,940 --> 00:16:45,360
+la porta frontal des de l'angle on vas començar.
+
+338
+00:16:46,260 --> 00:16:48,960
+Aquesta sobreposició del final amb el principi
+
+339
+00:16:48,960 --> 00:16:51,600
+obliga l'algoritme a quadrar tota la roda metàforal
+
+340
+00:16:51,600 --> 00:16:52,760
+i matemàtica perfectament.
+
+341
+00:16:53,240 --> 00:16:55,620
+Si no ho fas, el model se'n pot anar en orris.
+
+342
+00:16:55,860 --> 00:16:58,320
+Clar, fa del cinturó de seguretat logístic, no?
+
+343
+00:16:58,720 --> 00:17:01,520
+Fixa tota l'òrbita de les dades perquè no s'escapi res.
+
+344
+00:17:01,860 --> 00:17:03,860
+Sí, i quan aprens a fer això,
+
+345
+00:17:04,080 --> 00:17:05,940
+les possibilitats sobren massivament
+
+346
+00:17:05,940 --> 00:17:07,980
+per a qualsevol que no sigui topògraf.
+
+347
+00:17:08,320 --> 00:17:10,260
+Doncs precisament d'això vull destacar
+
+348
+00:17:10,260 --> 00:17:12,200
+com a conclusió d'aquesta exploració.
+
+349
+00:17:12,780 --> 00:17:14,140
+Per a tota la gent que ens escolta,
+
+350
+00:17:14,220 --> 00:17:15,880
+si destilem aquesta tecnologia,
+
+351
+00:17:16,420 --> 00:17:18,600
+el que veiem és un apoderament espectacular
+
+352
+00:17:18,600 --> 00:17:19,920
+per al ciutadà del carrer.
+
+353
+00:17:20,480 --> 00:17:21,580
+Avui en dia, no he tingut la possibilitat
+
+354
+00:17:21,600 --> 00:17:23,840
+que calen certificats de vol per a drons cars
+
+355
+00:17:23,840 --> 00:17:25,360
+ni aparells complexos.
+
+356
+00:17:25,720 --> 00:17:27,720
+Pots generar captures hiperrealistes
+
+357
+00:17:27,720 --> 00:17:29,880
+d'espais públics o de patrimoni en perill
+
+358
+00:17:29,880 --> 00:17:31,960
+només amb la que portes a la butaca.
+
+359
+00:17:32,200 --> 00:17:34,240
+Si tries bé l'estratègia del programari,
+
+360
+00:17:34,600 --> 00:17:36,360
+com ara evitar la cerca sexiva,
+
+361
+00:17:36,700 --> 00:17:39,180
+o fer servir GeloMap per processar globalment.
+
+362
+00:17:39,560 --> 00:17:41,620
+I aquí enllaçom el consell clau
+
+363
+00:17:41,620 --> 00:17:43,820
+de l'expert que vam extraure del vídeo d'avui.
+
+364
+00:17:44,380 --> 00:17:46,220
+Perd la por i surt al carrer.
+
+365
+00:17:46,700 --> 00:17:49,020
+Molta gent vol aprendre visió per computador
+
+366
+00:17:49,020 --> 00:17:51,580
+usant conjunts de fotos estèrils d'internet.
+
+367
+00:17:51,600 --> 00:17:54,360
+Preparats i nets perquè tot funcioni
+
+368
+00:17:54,360 --> 00:17:55,720
+a la primera des del despatx.
+
+369
+00:17:55,900 --> 00:17:56,840
+I això és un error.
+
+370
+00:17:57,360 --> 00:17:57,800
+Monumental.
+
+371
+00:17:58,460 --> 00:18:00,760
+L'única manera d'entendre la fragilitat
+
+372
+00:18:00,760 --> 00:18:03,320
+d'aquesta tecnologia és anar a gravar
+
+373
+00:18:03,320 --> 00:18:04,440
+una font de veritat.
+
+374
+00:18:04,860 --> 00:18:06,900
+Trobar-te que el sol t'ha canviat les ombres
+
+375
+00:18:06,900 --> 00:18:09,080
+o que una finestra de vidre de l'edifici
+
+376
+00:18:09,080 --> 00:18:10,640
+del costat ha reflectit el cel
+
+377
+00:18:10,640 --> 00:18:12,740
+i t'ha destrossat la línia ciuchreomètrica.
+
+378
+00:18:13,060 --> 00:18:15,000
+Clar. Lluitant contra la realitat.
+
+379
+00:18:15,160 --> 00:18:16,760
+Bé, tot això és molt inspirador.
+
+380
+00:18:17,160 --> 00:18:18,540
+Però vull acabar plantejant
+
+381
+00:18:18,540 --> 00:18:20,020
+un pensament provocador.
+
+382
+00:18:20,020 --> 00:18:22,320
+Perquè, si ara mateix
+
+383
+00:18:22,320 --> 00:18:25,180
+absolutament qualsevol persona anònima
+
+384
+00:18:25,180 --> 00:18:26,760
+pot començar a caminar
+
+385
+00:18:26,760 --> 00:18:27,640
+amb un telèfon,
+
+386
+00:18:28,140 --> 00:18:30,140
+fer una volta per una plaça turística
+
+387
+00:18:30,140 --> 00:18:32,020
+i generar un model tridimensional
+
+388
+00:18:32,620 --> 00:18:34,820
+pràcticament perfecte de tot l'entorn,
+
+389
+00:18:35,260 --> 00:18:37,140
+què vol dir això per a la nostra privacitat?
+
+390
+00:18:37,460 --> 00:18:38,740
+Uf, això és un gran tema.
+
+391
+00:18:39,020 --> 00:18:39,880
+És que, fins ara,
+
+392
+00:18:40,100 --> 00:18:42,100
+un vídeo d'un turista només era
+
+393
+00:18:42,100 --> 00:18:43,540
+una perspectiva limitada,
+
+394
+00:18:43,860 --> 00:18:45,020
+una gravació fugida.
+
+395
+00:18:45,420 --> 00:18:46,760
+Però amb aquests algoritmes,
+
+396
+00:18:46,760 --> 00:18:48,840
+milers de fotos anònimes d'una plaça
+
+397
+00:18:48,840 --> 00:18:50,240
+poden processar-se juntes
+
+398
+00:18:50,240 --> 00:18:52,060
+per crear un volum interactiu.
+
+399
+00:18:52,560 --> 00:18:54,220
+La gent que estava caminant en aquell moment
+
+400
+00:18:54,220 --> 00:18:56,600
+quedarà congelada com a figures en tres dimensions,
+
+401
+00:18:57,180 --> 00:18:58,280
+sense haver donat permís
+
+402
+00:18:58,280 --> 00:19:00,620
+per aquest tipus de modelat omnidireccional.
+
+403
+00:19:01,180 --> 00:19:02,880
+I qualsevol podrà inspeccionar-los
+
+404
+00:19:02,880 --> 00:19:05,140
+lliurement des de la pantalla de casa seva
+
+405
+00:19:05,140 --> 00:19:07,000
+i des de qualsevol angle impossible.
+
+406
+00:19:07,520 --> 00:19:09,120
+És una idea absolutament fascinant,
+
+407
+00:19:09,420 --> 00:19:10,580
+però també força inquietant
+
+408
+00:19:10,580 --> 00:19:12,520
+sobre el pes amagat que pot arribar a tenir
+
+409
+00:19:12,520 --> 00:19:14,480
+una simple col·lecció de fotografies.
+
+410
+00:19:14,480 --> 00:19:16,180
+I tant que sí, totalment.
+
+411
+00:19:16,360 --> 00:19:18,680
+O deixem aquí perquè hi doneu unes quantes voltes.
+
+412
+00:19:18,840 --> 00:19:18,970
+Ein moment, que fa tres comevos d' patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarchal patriarch
+

@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 010: Reconstrucció 3D amb COLMAP i mòbils",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 142.5, "title": "Extracció de característiques amb SIFT" },
+    { "startTime": 352.7, "title": "Model de càmera i distorsió de lents" },
+    { "startTime": 443.4, "title": "Estratègies d'emparellament d'imatges" },
+    { "startTime": 630.1, "title": "Triangulació i reconstrucció incremental" },
+    { "startTime": 723.0, "title": "Bundle adjustment: l'ajust de feixos" },
+    { "startTime": 832.3, "title": "El drama CPU vs GPU" },
+    { "startTime": 928.9, "title": "GLOMAP: reconstrucció global i loop closures" },
+    { "startTime": 1030.3, "title": "Conclusions i crida a l'acció" },
+    { "startTime": 1115.3, "title": "Reflexió: privacitat i reconstrucció 3D" }
+  ]
+}

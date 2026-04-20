@@ -110,6 +110,16 @@ EPISODIS = [
         "duration": "45:35",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "colmap", "reconstrucció 3d", "fotogrametria", "sift", "bundle adjustment", "glomap", "captura terrestre", "vocab tree", "matching", "verificació geomètrica", "cpu vs gpu", "loop closure"]
     },
+    {
+        "num": "010",
+        "fitxer": "010-reconstruccio-3d-colmap-mobils.mp3",
+        "identifier": "podcast-del-doctor-010-reconstruccio-3d-colmap-mobils",
+        "title": "Episodi 010: Reconstrucció 3D amb COLMAP i mòbils",
+        "description": "Com pot un simple telèfon mòbil capturar espais exteriors gegantins en 3D sense drons ni GPS? Tercer episodi de la sèrie sobre COLMAP — en català — repassant tot el pipeline: extracció SIFT, distorsió radial, estratègies d'emparellament, triangulació, bundle adjustment, CPU vs GPU, GLOMAP amb loop closures, i una reflexió sobre privacitat.",
+        "date": "2026-04-20",
+        "duration": "19:18",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "colmap", "reconstrucció 3d", "fotogrametria", "sift", "bundle adjustment", "glomap", "mòbil", "privacitat", "vocab tree", "cpu vs gpu", "loop closure", "català"]
+    },
 ]
 
 
