@@ -100,6 +100,16 @@ EPISODIS = [
         "duration": "16:03",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "colmap", "reconstrucció 3d", "fotogrametria", "sift", "bundle adjustment", "glomap", "gaussian splatting", "visió per computador", "estructura from motion", "sfm"]
     },
+    {
+        "num": "009",
+        "fitxer": "009-construir-mons-3d-sense-drons.mp3",
+        "identifier": "podcast-del-doctor-009-construir-mons-3d-sense-drons",
+        "title": "Episodi 009: Construir mons 3D sense drons",
+        "description": "Podem construir mons tridimensionals a partir de simples fotos fetes amb el mòbil, sense drons ni GPS? Aprofundim en el pipeline complet de COLMAP des de la perspectiva de la captura a peu: extracció SIFT, mascarament de soroll dinàmic, model de càmera amb distorsió radial, estratègies de matching, verificació geomètrica, reconstrucció incremental, bundle adjustment, el drama CPU vs GPU, i la revolució de GLOMAP amb les seves espectaculars fallades en forma de Borg cubes.",
+        "date": "2026-04-20",
+        "duration": "45:35",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "colmap", "reconstrucció 3d", "fotogrametria", "sift", "bundle adjustment", "glomap", "captura terrestre", "vocab tree", "matching", "verificació geomètrica", "cpu vs gpu", "loop closure"]
+    },
 ]
 
 
