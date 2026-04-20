@@ -59,5 +59,3 @@ El nostre cervell biològic entén l'espai tridimensional en mil·lisegons, gast
 ---
 
 **Important:** Aquest episodi ha estat generat amb intel·ligència artificial basant-se en fonts públiques. La transcripció s'ha generat automàticament amb OpenAI Whisper (model large-v3). Consulta sempre les fonts originals per obtenir la informació completa.
-
-**Important:** Aquest episodi ha estat generat amb intel·ligència artificial basant-se en fonts públiques. La transcripció s'ha generat automàticament amb OpenAI Whisper. Consulta sempre les fonts originals per obtenir la informació completa.
