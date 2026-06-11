@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 011: El parany dels acomiadaments per IA",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 74.86, "title": "El context: Block i el 80% de feines exposades" },
+    { "startTime": 179.08, "title": "L'efecte de reinstauració s'esquerda" },
+    { "startTime": 255.86, "title": "L'analogia de l'estadi" },
+    { "startTime": 321.22, "title": "L'externalitat de la demanda" },
+    { "startTime": 459.46, "title": "El dilema del presoner i la cursa armamentística" },
+    { "startTime": 521.98, "title": "La fal·làcia de la IA superior: l'efecte de la Reina Vermella" },
+    { "startTime": 691.56, "title": "Per què fallen els salaris, la renda bàsica i els pactes" },
+    { "startTime": 996.54, "title": "La solució: l'impost pigouvià amb upskilling" },
+    { "startTime": 1273.32, "title": "Reflexió final: el límit postlaboral" }
+  ]
+}

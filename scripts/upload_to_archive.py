@@ -120,6 +120,16 @@ EPISODIS = [
         "duration": "19:18",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "colmap", "reconstrucció 3d", "fotogrametria", "sift", "bundle adjustment", "glomap", "mòbil", "privacitat", "vocab tree", "cpu vs gpu", "loop closure", "català"]
     },
+    {
+        "num": "011",
+        "fitxer": "011-parany-acomiadaments-ia.mp3",
+        "identifier": "podcast-del-doctor-011-parany-acomiadaments-ia",
+        "title": "Episodi 011: El parany dels acomiadaments per IA",
+        "description": "Per què les empreses que acomiaden treballadors per estalviar costos amb IA podrien estar destruint els seus propis beneficis? Basat en el paper 'The AI Layoff Trap' de Falk i Tsoukalas (2026): l'externalitat de la demanda, el dilema del presoner de l'automatització, per què fallen els salaris flexibles, la renda bàsica i els pactes voluntaris — i com un impost pigouvià sobre l'automatització pot corregir la fallada de coordinació.",
+        "date": "2026-06-11",
+        "duration": "23:34",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "acomiadaments", "automatització", "economia", "externalitat", "dilema del presoner", "impost pigouvià", "renda bàsica", "upskilling", "teoria de jocs", "català"]
+    },
 ]
 
 

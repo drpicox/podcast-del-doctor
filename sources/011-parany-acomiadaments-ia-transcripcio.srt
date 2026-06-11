@@ -1,0 +1,2480 @@
+1
+00:00:00,000 --> 00:00:06,740
+L'any 2025, unes 55.000 persones als Estats Units van perdre la feina.
+
+2
+00:00:07,000 --> 00:00:12,000
+I ho van fer de manera explícita i directa per culpa de la intel·ligència artificial.
+
+3
+00:00:13,040 --> 00:00:15,260
+I a veure, això només era el principi.
+
+4
+00:00:16,180 --> 00:00:16,980
+Sí, sí, totalment.
+
+5
+00:00:16,980 --> 00:00:20,720
+Però el detall més sorprenent no és aquesta xifra, saps?
+
+6
+00:00:21,100 --> 00:00:25,480
+Sinó que les mateixes empreses que els estan acomiadant per estalvir costos laborals,
+
+7
+00:00:25,480 --> 00:00:30,320
+doncs podrien estar destruint els seus propis beneficis matemàticament.
+
+8
+00:00:30,620 --> 00:00:32,040
+És una paradoxa brutal.
+
+9
+00:00:32,240 --> 00:00:36,980
+O sigui, estem presenciant una cursa on tothom acelera de cap cap a un abisme financer.
+
+10
+00:00:37,480 --> 00:00:41,160
+I el més fascinant és que, encara que ho vegin venir, no poden premre el fre.
+
+11
+00:00:41,440 --> 00:00:42,440
+No, és que no poden.
+
+12
+00:00:42,680 --> 00:00:44,900
+Benvinguts a la nostra immersió a fons d'avui.
+
+13
+00:00:45,260 --> 00:00:50,400
+Ens capvusem en un article d'investigació publicat aquest mateix juny de 2026.
+
+14
+00:00:50,520 --> 00:00:50,940
+Exacte.
+
+15
+00:00:50,940 --> 00:00:54,940
+Es titula The AI Lay of Trap, o El parany dels acomiadaments.
+
+16
+00:00:55,480 --> 00:00:56,200
+El parany dels acomiadaments per IA.
+
+17
+00:00:56,640 --> 00:01:00,660
+Elaborat pels investigadors Brad Hemingway Falk i Jerry Tsoukalas.
+
+18
+00:01:01,280 --> 00:01:04,700
+I vaja, les dades que aporten ens obliguen a replantejar-nos
+
+19
+00:01:04,700 --> 00:01:07,520
+tot el que creiem saber sobre l'eficiència corporativa.
+
+20
+00:01:07,980 --> 00:01:11,080
+És que són dades que defineixen un canvi d'era, sense dubte.
+
+21
+00:01:11,640 --> 00:01:14,140
+Jo estic convençuda que marcaran un abans i un després.
+
+22
+00:01:14,300 --> 00:01:14,500
+Clar.
+
+23
+00:01:14,860 --> 00:01:17,100
+Per entendre la magnitud del que estem parlant,
+
+24
+00:01:17,580 --> 00:01:21,880
+ens podem fixar en el que va passar a febrer d'aquest mateix 2026.
+
+25
+00:01:22,240 --> 00:01:24,700
+L'empresa Block, el gegant dels pagaments,
+
+26
+00:01:24,700 --> 00:01:29,020
+doncs va reduir pràcticament a la meitat la seva plantilla de 10.000 persones.
+
+27
+00:01:29,220 --> 00:01:29,680
+Déu-n'hi-do.
+
+28
+00:01:29,940 --> 00:01:30,340
+I tant.
+
+29
+00:01:30,780 --> 00:01:33,500
+Però el que va ressonar no va ser només l'acomiadament massiu.
+
+30
+00:01:33,860 --> 00:01:34,360
+Què va ser?
+
+31
+00:01:34,700 --> 00:01:37,300
+La declaració del seu CEO, Jack Dorsey.
+
+32
+00:01:37,920 --> 00:01:40,140
+Ell va afirmar de manera totalment oberta
+
+33
+00:01:40,140 --> 00:01:44,920
+que la gran majoria d'empreses arribarien a aquesta mateixa conclusió en qüestió d'un any.
+
+34
+00:01:45,260 --> 00:01:45,520
+Tela.
+
+35
+00:01:45,680 --> 00:01:47,620
+I el context és encara més ampli.
+
+36
+00:01:48,200 --> 00:01:51,700
+L'estudi assenyala que un 80% dels treballadors nord-americans
+
+37
+00:01:51,700 --> 00:01:54,680
+ocupen posicions altament exposades a l'impacte de la pandèmia.
+
+38
+00:01:54,700 --> 00:01:56,220
+80% dels grans models de llenguatge.
+
+39
+00:01:57,060 --> 00:01:57,580
+80%.
+
+40
+00:01:57,580 --> 00:02:03,100
+Sí. O sigui, estem parlant de la immensa majoria de la força laboral estructural.
+
+41
+00:02:03,420 --> 00:02:07,080
+I clar, aquí és on topem amb la paradoxa macroeconòmica
+
+42
+00:02:07,080 --> 00:02:09,960
+que fa de fil conductor d'aquesta investigació.
+
+43
+00:02:10,360 --> 00:02:14,140
+Perquè l'estudi planteja una premissa que, d'entrada, sembla suïcida.
+
+44
+00:02:14,840 --> 00:02:19,300
+Si les empreses acomiadien els treballadors a un ritme molt més ràpid
+
+45
+00:02:19,300 --> 00:02:23,240
+del que l'economia és capaç de reabsorbir-los cap a altres sectors,
+
+46
+00:02:23,820 --> 00:02:24,680
+el que s'acomiada és que, en el moment en què es fa això,
+
+47
+00:02:24,700 --> 00:02:28,700
+s'està fent de gran escala, és fulminar el poder adquisitiu global.
+
+48
+00:02:29,160 --> 00:02:29,680
+Exactament.
+
+49
+00:02:29,880 --> 00:02:34,340
+Vull dir, el consumidor que ahir comprava el teu producte, avui ja no té sou.
+
+50
+00:02:34,740 --> 00:02:39,180
+Llavors, si les grans corporacions tenen aquests departaments d'anàlisi de riscos
+
+51
+00:02:39,180 --> 00:02:43,540
+plens de ments brillants que entenen perfectament aquesta caiguda de la demanda,
+
+52
+00:02:44,200 --> 00:02:46,460
+per què continuen aplicant la mateixa recepta?
+
+53
+00:02:46,640 --> 00:02:50,940
+Clar, per entendre aquesta aparent irracionalitat, hem de mirar una mica la història.
+
+54
+00:02:50,940 --> 00:02:52,840
+D'acord. Desgranem-ho, llavors.
+
+55
+00:02:52,840 --> 00:02:56,260
+Perquè vull posar una analogia sobre la taula d'aquí un moment,
+
+56
+00:02:56,640 --> 00:02:58,860
+però explica'm primer això de la història.
+
+57
+00:02:59,080 --> 00:03:01,560
+Doncs, des de l'inici de la revolució industrial,
+
+58
+00:03:01,840 --> 00:03:04,740
+l'economia ha operat sota una premissa de seguretat,
+
+59
+00:03:05,280 --> 00:03:07,560
+el que anomenem l'efecte de reinstauració.
+
+60
+00:03:07,960 --> 00:03:09,100
+Efecte de reinstauració?
+
+61
+00:03:09,240 --> 00:03:14,520
+Sí. Quan una nova tecnologia, ja fos, no sé, el taler mecànic o l'ordinador personal,
+
+62
+00:03:15,160 --> 00:03:17,080
+destruïa una categoria de llocs de treball,
+
+63
+00:03:17,640 --> 00:03:21,040
+simultàniament abaratia costos, generava noves necessitats
+
+64
+00:03:21,040 --> 00:03:21,960
+i, eventualment, creava noves necessitats.
+
+65
+00:03:21,960 --> 00:03:21,960
+
+
+66
+00:03:21,960 --> 00:03:21,960
+
+
+67
+00:03:21,960 --> 00:03:25,020
+I, eventualment, creava noves tasques que requerien intervenció humana.
+
+68
+00:03:25,120 --> 00:03:27,560
+O sigui, el sistema s'autocorregia.
+
+69
+00:03:27,940 --> 00:03:28,740
+Això mateix.
+
+70
+00:03:29,360 --> 00:03:34,420
+Però, en l'era de la IA autònoma, això planteja una qüestió important.
+
+71
+00:03:34,940 --> 00:03:37,860
+Els indicadors macroeconòmics d'aquest 2026
+
+72
+00:03:37,860 --> 00:03:42,400
+ens alerten que aquest mecanisme estabilitzador s'està escardant.
+
+73
+00:03:42,760 --> 00:03:43,580
+Ja no funciona.
+
+74
+00:03:43,980 --> 00:03:47,380
+No. Hem arribat a un punt on el creixement del PIB
+
+75
+00:03:47,380 --> 00:03:51,380
+està sostingut gairebé exclusivament per la inversió empresarial en tecnologia.
+
+76
+00:03:51,960 --> 00:03:52,580
+Ostres.
+
+77
+00:03:52,840 --> 00:03:55,480
+Mentre que la despesa del consumidor s'estanca
+
+78
+00:03:55,480 --> 00:04:00,840
+i la taxa d'estalvi personal s'ha desplomat a un 3,6%.
+
+79
+00:04:00,840 --> 00:04:03,140
+Hi ha una tensió estructural molt greu
+
+80
+00:04:03,140 --> 00:04:06,160
+entre el capital que s'inverteix en automatitzar
+
+81
+00:04:06,160 --> 00:04:10,520
+i la capacitat real de la societat per consumir allò que s'automatitza.
+
+82
+00:04:10,580 --> 00:04:13,120
+D'acord. I, abans de passar al mecanisme d'això,
+
+83
+00:04:13,400 --> 00:04:15,440
+deixa'm utilitzar aquella analogia que deia.
+
+84
+00:04:15,860 --> 00:04:18,560
+És com estar en un estadi ple de gom a gom mirant un partit.
+
+85
+00:04:18,640 --> 00:04:18,920
+A veure.
+
+86
+00:04:18,920 --> 00:04:21,800
+Sí. Imagina que algú, a les primeres files,
+
+87
+00:04:21,960 --> 00:04:24,880
+decideix posar-se dret per veure-hi una mica millor.
+
+88
+00:04:25,060 --> 00:04:26,600
+Clar, el del darrere no hi veu.
+
+89
+00:04:26,880 --> 00:04:27,320
+Exacte.
+
+90
+00:04:27,900 --> 00:04:30,580
+Lògicament, la persona del darrere també s'ha d'aixecar
+
+91
+00:04:30,580 --> 00:04:31,940
+si no es vol perdre la jugada.
+
+92
+00:04:32,540 --> 00:04:34,180
+L'efecte cascada és inevitable.
+
+93
+00:04:35,000 --> 00:04:37,700
+I al cap d'uns minuts, tothom a l'estadi està dret.
+
+94
+00:04:37,960 --> 00:04:38,660
+Tothom de dret.
+
+95
+00:04:38,860 --> 00:04:40,120
+Quin és el resultat final?
+
+96
+00:04:40,620 --> 00:04:44,220
+Doncs que ningú té un angle de visió millor que quan van començar.
+
+97
+00:04:44,900 --> 00:04:47,680
+Però ara a tothom li fan mal les cames.
+
+98
+00:04:48,360 --> 00:04:51,240
+Tothom hi ha perdut, però ningú es pot asseure,
+
+99
+00:04:51,240 --> 00:04:53,300
+perquè si ho fas, deixes de veure el partit.
+
+100
+00:04:53,360 --> 00:04:54,700
+És boníssima aquesta imatge.
+
+101
+00:04:55,120 --> 00:04:58,140
+O sigui, il·lustra perfectament el que els economistes
+
+102
+00:04:58,140 --> 00:05:01,800
+anomenen una pèrdua d'eficiència neta o deadweight loss.
+
+103
+00:05:01,980 --> 00:05:02,240
+Això.
+
+104
+00:05:02,580 --> 00:05:05,040
+Però la qüestió clau continua sent el mecanisme.
+
+105
+00:05:05,640 --> 00:05:10,000
+Si els CEOs saben que l'efecte de reinstauració potser ja no el salvarà
+
+106
+00:05:10,000 --> 00:05:12,880
+i que els seus clients s'estan quedant sense estalvis,
+
+107
+00:05:13,280 --> 00:05:15,480
+què els empenya a continuar per aquest camí?
+
+108
+00:05:15,680 --> 00:05:19,240
+Bé, el nucli teòric de l'estudi de Falk i Tsoukalas
+
+109
+00:05:19,240 --> 00:05:21,220
+descansa sobre el tema de la vida.
+
+110
+00:05:21,220 --> 00:05:23,900
+Sobre un concepte microeconòmic fonamental,
+
+111
+00:05:24,520 --> 00:05:26,220
+l'externalitat de la demanda.
+
+112
+00:05:27,440 --> 00:05:28,780
+Externalitat de la demanda.
+
+113
+00:05:28,860 --> 00:05:30,420
+Sí. Anem a disseccionar-lo.
+
+114
+00:05:30,900 --> 00:05:35,340
+Quan una empresa pren la decisió d'automatitzar una tasca específica,
+
+115
+00:05:35,820 --> 00:05:38,220
+posem per cas el servei d'atenció al client...
+
+116
+00:05:38,860 --> 00:05:39,260
+Típic.
+
+117
+00:05:39,500 --> 00:05:40,060
+Exacte.
+
+118
+00:05:40,500 --> 00:05:43,260
+Doncs es queda de manera immediata i exclusiva
+
+119
+00:05:43,260 --> 00:05:45,960
+amb el 100% de l'estalvi d'aquell salari.
+
+120
+00:05:46,420 --> 00:05:49,860
+El benefici d'aquesta acció és totalment privat per a ells.
+
+121
+00:05:49,860 --> 00:05:50,220
+Mhm.
+
+122
+00:05:51,220 --> 00:05:51,660
+Fins aquí, clar.
+
+123
+00:05:51,880 --> 00:05:54,640
+Ara bé, el dany que genera aquella decisió,
+
+124
+00:05:54,820 --> 00:05:59,600
+o sigui, el fet que aquell extreballador deixarà de gastar diners en restaurants,
+
+125
+00:06:00,080 --> 00:06:02,260
+en roba, cotxes o programari,
+
+126
+00:06:02,760 --> 00:06:06,260
+aquest dany no el pateix pas només l'empresa que l'ha acomiadat.
+
+127
+00:06:06,500 --> 00:06:07,460
+Es reparteix.
+
+128
+00:06:07,640 --> 00:06:08,360
+Això mateix.
+
+129
+00:06:08,780 --> 00:06:12,580
+Aquesta pèrdua de demanda es dilueix i es reparteix
+
+130
+00:06:12,580 --> 00:06:15,060
+entre totes les empreses que formen el mercat.
+
+131
+00:06:15,300 --> 00:06:16,720
+Espera. Espera un moment.
+
+132
+00:06:17,200 --> 00:06:20,940
+Se suposa que el lliure mercat es basa precisament en el fet que,
+
+133
+00:06:21,220 --> 00:06:24,540
+la competència força a trobar l'eficiència òptima, oi?
+
+134
+00:06:24,880 --> 00:06:26,220
+Sí, en teoria.
+
+135
+00:06:26,960 --> 00:06:29,560
+Llavors m'estàs dient que, en aquest cas concret,
+
+136
+00:06:30,100 --> 00:06:32,360
+la competència entre moltes empreses
+
+137
+00:06:32,360 --> 00:06:35,460
+és precisament el que provoca que el sistema es trenqui.
+
+138
+00:06:35,920 --> 00:06:36,780
+Com s'explica això?
+
+139
+00:06:37,620 --> 00:06:38,140
+Totalment.
+
+140
+00:06:38,600 --> 00:06:41,020
+I és un concepte contraintuitiu, ho sé.
+
+141
+00:06:41,460 --> 00:06:44,360
+Però com més fragmentat i competitiu és un mercat,
+
+142
+00:06:44,880 --> 00:06:47,820
+més destructiva es torna aquesta dinàmica.
+
+143
+00:06:48,780 --> 00:06:50,180
+Pensem en l'extrem oposat.
+
+144
+00:06:50,340 --> 00:06:51,140
+Quin seria?
+
+145
+00:06:51,220 --> 00:06:54,380
+Imaginem que existís una sola empresa global,
+
+146
+00:06:54,580 --> 00:06:57,580
+un monopoli absolut que vengués tots els productes del món.
+
+147
+00:06:57,980 --> 00:06:59,220
+D'acord, l'empresa definitiva.
+
+148
+00:07:00,220 --> 00:07:00,740
+Exacte.
+
+149
+00:07:01,220 --> 00:07:03,040
+Si aquest monopoli acomiada un treballador,
+
+150
+00:07:03,520 --> 00:07:07,320
+aquest extravellador només pot deixar de comprar productes d'aquest mateix monopoli.
+
+151
+00:07:07,860 --> 00:07:11,580
+Per tant, l'empresa interioritza tota la pèrdua de demanda de cop.
+
+152
+00:07:11,880 --> 00:07:14,500
+Clar, perquè tots els diners van a parar al mateix lloc.
+
+153
+00:07:14,780 --> 00:07:16,500
+I el monopoli, falia als números,
+
+154
+00:07:16,920 --> 00:07:20,260
+veuria que la caiguda en les vendes supera l'estalvi en sedaris
+
+155
+00:07:20,260 --> 00:07:23,340
+i deixaria d'automatitzar abans d'arribar al precipici.
+
+156
+00:07:23,820 --> 00:07:28,160
+Sí, perquè el seu benefici depèn de mantenir l'ecosistema sense reviu.
+
+157
+00:07:28,600 --> 00:07:31,060
+Però com que no tenim un sol monopoli,
+
+158
+00:07:31,340 --> 00:07:35,240
+sinó milers d'empreses competint per esgarrapar dècimes de marge,
+
+159
+00:07:35,740 --> 00:07:37,660
+doncs l'ecosistema salta pels aires.
+
+160
+00:07:38,100 --> 00:07:38,800
+Això mateix.
+
+161
+00:07:39,460 --> 00:07:41,500
+En un mercat altament competitiu,
+
+162
+00:07:41,500 --> 00:07:44,300
+la situació es converteix en l'exemple de llibre
+
+163
+00:07:44,300 --> 00:07:47,320
+del dilema del presoner de la teoria de jocs.
+
+164
+00:07:47,340 --> 00:07:48,540
+Ah, el clàssic?
+
+165
+00:07:48,900 --> 00:07:49,620
+Analitzem-ho.
+
+166
+00:07:49,620 --> 00:07:52,880
+Si l'empresa A decideix mantenir els seus treballadors humans
+
+167
+00:07:52,880 --> 00:07:54,180
+per protegir l'economia,
+
+168
+00:07:54,520 --> 00:07:56,180
+però l'empresa B automatitza,
+
+169
+00:07:56,520 --> 00:07:59,060
+la B tindrà uns costos dràsticament inferiors.
+
+170
+00:07:59,400 --> 00:08:00,400
+A baixarà els preus?
+
+171
+00:08:00,500 --> 00:08:03,740
+A baixarà els preus i farà fora del mercat a l'empresa A.
+
+172
+00:08:04,200 --> 00:08:06,240
+Per tant, per a qualsevol empresa individual,
+
+173
+00:08:06,720 --> 00:08:09,180
+la decisió racional i l'estratègia dominant
+
+174
+00:08:09,180 --> 00:08:13,540
+és sempre, sempre automatitzar primer i preguntar després.
+
+175
+00:08:13,800 --> 00:08:18,660
+Ostres, o sigui que l'incentiu de la supervivència individual a curt termi
+
+176
+00:08:18,660 --> 00:08:22,660
+esborra completament la supervivència col·lectiva a llarg termi?
+
+177
+00:08:22,920 --> 00:08:23,540
+Exacte.
+
+178
+00:08:24,000 --> 00:08:25,400
+I per això és crucial,
+
+179
+00:08:25,740 --> 00:08:28,460
+perquè desmunta completament la narrativa simplista
+
+180
+00:08:28,460 --> 00:08:32,060
+d'una lluita entre empresaris avariciosos i treballadors oprimits.
+
+181
+00:08:32,520 --> 00:08:34,320
+Aquí les matemàtiques demostren
+
+182
+00:08:34,320 --> 00:08:36,460
+que els mateixos propietaris del capital
+
+183
+00:08:36,460 --> 00:08:39,300
+estan mimbant els seus propis beneficis globals
+
+184
+00:08:39,300 --> 00:08:41,540
+perquè estan col·lapsant la seva base de clients.
+
+185
+00:08:41,980 --> 00:08:46,220
+Però, permeta'm que faci d'advocat del diable un moment.
+
+186
+00:08:46,220 --> 00:08:49,520
+Perquè la premissa tecnològica actual
+
+187
+00:08:49,520 --> 00:08:51,920
+no es basa només en reduir costos.
+
+188
+00:08:52,640 --> 00:08:55,700
+Vull dir, l'argument que ens arriba contínuament de Silicon Valley
+
+189
+00:08:55,700 --> 00:08:59,740
+és que la IA és molt superior en termes de rendiment brut.
+
+190
+00:08:59,900 --> 00:09:01,080
+Sí, és el que venen.
+
+191
+00:09:01,300 --> 00:09:05,720
+Si una empresa té una IA que li permet produir el doble de ràpid,
+
+192
+00:09:05,940 --> 00:09:06,880
+amb zero errors,
+
+193
+00:09:07,380 --> 00:09:10,560
+els seus marges creixen tant que pot abaixar preus dràsticament,
+
+194
+00:09:11,060 --> 00:09:13,240
+captar tota la demanda restant del mercat
+
+195
+00:09:13,240 --> 00:09:16,060
+i, essencialment, fer créixer el pastís econòmic.
+
+196
+00:09:16,220 --> 00:09:16,820
+A tothom, oi?
+
+197
+00:09:16,980 --> 00:09:18,180
+Aquesta és la teoria?
+
+198
+00:09:18,540 --> 00:09:21,620
+Llavors, com rebat l'estudi aquesta lògica de l'abundància
+
+199
+00:09:21,620 --> 00:09:23,740
+impulsada per una IA que és molt millor?
+
+200
+00:09:24,020 --> 00:09:25,520
+És una deducció atractiva, sí,
+
+201
+00:09:25,920 --> 00:09:29,920
+però les dades macroeconòmiques revelen que això és una fal·làcia de composició.
+
+202
+00:09:30,460 --> 00:09:33,360
+El que és fascinant d'aquí és que, matemàticament,
+
+203
+00:09:33,600 --> 00:09:36,600
+una IA que dispara la productivitat de manera extrema
+
+204
+00:09:36,600 --> 00:09:40,140
+no frena l'accés d'automatització, sinó que l'empitzarà.
+
+205
+00:09:40,580 --> 00:09:43,260
+Com? A veure, com pot ser que una eina superior
+
+206
+00:09:43,260 --> 00:09:44,920
+generi un escenari econòmic inferior?
+
+207
+00:09:45,420 --> 00:09:46,080
+No té sentit.
+
+208
+00:09:46,220 --> 00:09:49,860
+Perquè el salt en productivitat actua com un multiplicador
+
+209
+00:09:49,860 --> 00:09:51,240
+de l'incentiu per a com a diar.
+
+210
+00:09:51,800 --> 00:09:52,280
+Pensa-lo.
+
+211
+00:09:52,860 --> 00:09:55,560
+Si un CEO creu que implementant aquesta IA
+
+212
+00:09:55,560 --> 00:09:57,520
+serà un 30% més eficient,
+
+213
+00:09:58,060 --> 00:10:01,100
+assumeix que podrà robar quota de mercat a la competència.
+
+214
+00:10:01,560 --> 00:10:03,000
+Clar, i quedar-se amb més pastís.
+
+215
+00:10:03,320 --> 00:10:06,440
+Però el problema és que aquesta informació no és pas cap secret.
+
+216
+00:10:07,100 --> 00:10:09,640
+Totes i cadascuna de les empreses competidores
+
+217
+00:10:09,640 --> 00:10:12,080
+estan comprant els mateixos models d'IA,
+
+218
+00:10:12,580 --> 00:10:13,820
+exactament al mateix temps.
+
+219
+00:10:13,820 --> 00:10:14,800
+Ah, clar.
+
+220
+00:10:15,280 --> 00:10:16,200
+Tothom fa el mateix.
+
+221
+00:10:16,220 --> 00:10:17,000
+Exacte.
+
+222
+00:10:17,420 --> 00:10:20,220
+Com que totes fan exactament el mateix moviment estratègic,
+
+223
+00:10:20,620 --> 00:10:23,380
+els increments d'eficiència es cancel·len mútuament.
+
+224
+00:10:23,900 --> 00:10:24,940
+Al final del cicle,
+
+225
+00:10:25,280 --> 00:10:27,960
+cap empresa ha guanyat quota de mercatres que te les altres.
+
+226
+00:10:28,060 --> 00:10:31,140
+Vaja, això és literalment l'efecte de la reina vermella,
+
+227
+00:10:31,400 --> 00:10:33,680
+del llibre de l'Alicia a Terra de Maravelles.
+
+228
+00:10:34,240 --> 00:10:37,340
+Has de córrer a tota velocitat, esgotar-te al màxim,
+
+229
+00:10:37,740 --> 00:10:40,160
+simplement per aconseguir mantenir-te en el mateix lloc.
+
+230
+00:10:40,280 --> 00:10:42,780
+M'agrada aquesta referència, sí. És exactament això.
+
+231
+00:10:42,780 --> 00:10:46,100
+I si extrapolem això, vol dir que l'únic resultat
+
+232
+00:10:46,100 --> 00:10:48,780
+tangible al final d'aquest cicle de millora tecnològica
+
+233
+00:10:49,320 --> 00:10:51,240
+no és pas més riquesa compartida,
+
+234
+00:10:51,560 --> 00:10:53,400
+sinó el mateix repartiment de mercat
+
+235
+00:10:53,400 --> 00:10:56,640
+però amb milions de llocs de treball destruïts de manera accelerada.
+
+236
+00:10:57,100 --> 00:10:57,620
+Totalment.
+
+237
+00:10:57,940 --> 00:11:00,240
+És una cursa armamentística clàssica.
+
+238
+00:11:00,660 --> 00:11:02,760
+Inventar una arma més destructiva i precisa
+
+239
+00:11:02,760 --> 00:11:04,600
+no fa que la guerra s'acabi abans,
+
+240
+00:11:04,900 --> 00:11:06,680
+només garanteix que la devastació mutua
+
+241
+00:11:06,680 --> 00:11:08,780
+sigui molt més gran quan esclati el conflicte.
+
+242
+00:11:09,380 --> 00:11:12,420
+Aquesta és precisament la conclusió rigorosa de l'estudi.
+
+243
+00:11:12,420 --> 00:11:14,740
+La millora tecnològica per si sola,
+
+244
+00:11:14,940 --> 00:11:16,020
+deixada purament a l'escola,
+
+245
+00:11:16,100 --> 00:11:17,340
+les forces del lliure mercat,
+
+246
+00:11:17,620 --> 00:11:19,720
+no corregués la fallada de coordinació?
+
+247
+00:11:19,960 --> 00:11:20,780
+L'aprofundés?
+
+248
+00:11:21,100 --> 00:11:22,740
+A una velocitat encara més alta.
+
+249
+00:11:23,100 --> 00:11:26,440
+Doncs, si el mercat s'empenya a si mateix cap a aquest forat,
+
+250
+00:11:26,760 --> 00:11:28,620
+la reacció natural és buscar solucions
+
+251
+00:11:28,620 --> 00:11:31,020
+en la teoria econòmica tradicional o en l'estat.
+
+252
+00:11:31,560 --> 00:11:33,200
+Analitzem primer la via del mercat pur.
+
+253
+00:11:33,660 --> 00:11:35,180
+Què passa amb la flexibilitat salarial?
+
+254
+00:11:35,900 --> 00:11:37,680
+Perquè l'argument clàssic dictaria
+
+255
+00:11:37,680 --> 00:11:39,680
+que si l'automatització genera atur,
+
+256
+00:11:39,680 --> 00:11:42,540
+l'accés de mà d'obra farà baixar els salaris.
+
+257
+00:11:42,700 --> 00:11:44,760
+Sí, la llei de l'oferta i la demanda.
+
+258
+00:11:44,900 --> 00:11:45,380
+Exacte.
+
+259
+00:11:46,100 --> 00:11:47,420
+Llavors, arribaria a un punt
+
+260
+00:11:47,420 --> 00:11:50,040
+on contractar humans tornaria a ser prou barat
+
+261
+00:11:50,040 --> 00:11:52,000
+com per frenar l'adopció de la IA, no?
+
+262
+00:11:52,480 --> 00:11:53,520
+Equilibrant la balança.
+
+263
+00:11:54,580 --> 00:11:56,420
+L'estudi valida aquesta via teòrica.
+
+264
+00:11:56,800 --> 00:11:59,420
+L'estudi l'analitza i confirma que, bé,
+
+265
+00:11:59,660 --> 00:12:00,900
+matemàticament funciona,
+
+266
+00:12:01,420 --> 00:12:04,560
+però adverteix d'un preu humà absolutament inassumible.
+
+267
+00:12:04,740 --> 00:12:05,160
+Quin preu?
+
+268
+00:12:05,320 --> 00:12:08,560
+Segons el model, els salaris només s'estabilitzarien
+
+269
+00:12:08,560 --> 00:12:10,120
+i frenaria l'automatització
+
+270
+00:12:10,120 --> 00:12:12,260
+quan el cost de contractar una persona
+
+271
+00:12:12,260 --> 00:12:14,260
+caigués fins a igualar el cost marginal
+
+272
+00:12:14,260 --> 00:12:15,940
+de mantenir la intel·ligència artificial.
+
+273
+00:12:16,100 --> 00:12:16,500
+Uf!
+
+274
+00:12:16,940 --> 00:12:19,940
+I estem parlant, bàsicament, del cost de l'electricitat
+
+275
+00:12:19,940 --> 00:12:22,160
+i l'amortització dels servidors al núvol.
+
+276
+00:12:22,300 --> 00:12:23,860
+Aleshores, què vol dir tot això?
+
+277
+00:12:24,400 --> 00:12:25,400
+A veure si ho tradueixo bé.
+
+278
+00:12:26,080 --> 00:12:29,100
+Vol dir que la solució que ofereix l'ajust salarial orgànic
+
+279
+00:12:29,100 --> 00:12:31,880
+és empobrir tota la classe treballadora global
+
+280
+00:12:31,880 --> 00:12:34,900
+fins a un nivell de pura subsistència energètica.
+
+281
+00:12:35,120 --> 00:12:35,920
+Això mateix.
+
+282
+00:12:36,120 --> 00:12:38,280
+O sigui, anar a la feina 8 hores al dia
+
+283
+00:12:38,280 --> 00:12:41,120
+per cobrar literalment l'equivalent del rebut de la llum
+
+284
+00:12:41,120 --> 00:12:42,220
+d'un centre de dades.
+
+285
+00:12:42,920 --> 00:12:43,480
+És fort, eh?
+
+286
+00:12:43,960 --> 00:12:45,120
+Això no és salvar l'economia.
+
+287
+00:12:45,120 --> 00:12:47,940
+És institucionalitzar la precarietat absoluta
+
+288
+00:12:47,940 --> 00:12:49,920
+i garantir que la demanda de les empreses
+
+289
+00:12:49,920 --> 00:12:51,020
+no es recuperarà mai,
+
+290
+00:12:51,340 --> 00:12:53,020
+perquè ningú tindrà excedent per gastar.
+
+291
+00:12:53,100 --> 00:12:54,240
+Presumit a la perfecció?
+
+292
+00:12:54,620 --> 00:12:56,960
+O sigui, l'ajust salarial només distribueix
+
+293
+00:12:56,960 --> 00:12:58,820
+la pèrdua de demanda de manera diferent.
+
+294
+00:12:59,260 --> 00:13:00,580
+Erosiona els sols de tothom
+
+295
+00:13:00,580 --> 00:13:02,800
+en lloc de concentrar-la en aturats absoluts,
+
+296
+00:13:03,100 --> 00:13:05,340
+però el volum de consum destruïts manté igual.
+
+297
+00:13:05,700 --> 00:13:06,160
+Molt bé.
+
+298
+00:13:06,640 --> 00:13:08,880
+Doncs si el mercat no es pot arreglar sol
+
+299
+00:13:08,880 --> 00:13:11,480
+sense recórrer a la misèria col·lectiva,
+
+300
+00:13:12,160 --> 00:13:13,840
+mirem cap a l'administració pública.
+
+301
+00:13:14,000 --> 00:13:14,960
+Què passa amb les empreses?
+
+302
+00:13:14,960 --> 00:13:17,020
+Amb les grans solucions redistributives.
+
+303
+00:13:17,600 --> 00:13:19,720
+Parlo d'implementar un ingrés mínim vital,
+
+304
+00:13:20,140 --> 00:13:21,500
+la famosa renda bàsica,
+
+305
+00:13:21,880 --> 00:13:24,640
+i finançar-la pujant dels impostos corporatius.
+
+306
+00:13:25,020 --> 00:13:27,600
+Sembla el descut social perfecte, oi?
+
+307
+00:13:28,080 --> 00:13:29,180
+Sí, el primer cop d'ahir
+
+308
+00:13:29,180 --> 00:13:31,320
+sembla ideal per aturar la sàncnia.
+
+309
+00:13:31,480 --> 00:13:32,900
+I ho sembla precisament
+
+310
+00:13:32,900 --> 00:13:35,520
+perquè confonem el nivell macroeconòmic
+
+311
+00:13:35,520 --> 00:13:37,460
+amb la decisió microeconòmica.
+
+312
+00:13:38,000 --> 00:13:38,980
+És vital entendre
+
+313
+00:13:38,980 --> 00:13:41,440
+perquè l'estudi demostra que l'ingrés mínim vital
+
+314
+00:13:41,440 --> 00:13:43,040
+fracassa estrepitosament
+
+315
+00:13:43,040 --> 00:13:44,880
+a l'hora de frenar l'arrel del problema.
+
+316
+00:13:44,960 --> 00:13:46,080
+Per què fracassa?
+
+317
+00:13:46,600 --> 00:13:48,400
+L'ingrés mínim vital és fantàstic
+
+318
+00:13:48,400 --> 00:13:50,760
+per apujar el fons financer de supervivència
+
+319
+00:13:50,760 --> 00:13:51,740
+de la població, sí.
+
+320
+00:13:52,220 --> 00:13:53,980
+Posa un sol a la pobresa extrema.
+
+321
+00:13:54,420 --> 00:13:56,280
+Però l'empresa que ha de prendre la decisió
+
+322
+00:13:56,280 --> 00:13:57,700
+no mira el coixí social.
+
+323
+00:13:58,120 --> 00:13:59,700
+Mira el seu compte de resultats.
+
+324
+00:14:00,060 --> 00:14:03,400
+Exacte. Mira el seu compte d'explotació marginal.
+
+325
+00:14:04,000 --> 00:14:07,040
+Si l'empresa A s'estalvia 50.000 euros
+
+326
+00:14:07,040 --> 00:14:09,420
+acomodant una analista de dades avui,
+
+327
+00:14:09,920 --> 00:14:10,700
+aquest estalvi
+
+328
+00:14:10,700 --> 00:14:13,380
+continua sent de 50.000 euros demà,
+
+329
+00:14:13,760 --> 00:14:14,940
+independentment de si l'anàlisi
+
+330
+00:14:14,960 --> 00:14:16,940
+rebu una ajuda de l'Estat o no.
+
+331
+00:14:17,380 --> 00:14:19,220
+L'incentiu privat per automatitzar
+
+332
+00:14:19,220 --> 00:14:20,140
+la següent tasca
+
+333
+00:14:20,140 --> 00:14:22,960
+continua exactament igual de desproporcionat.
+
+334
+00:14:24,240 --> 00:14:24,860
+Ja ho entenc.
+
+335
+00:14:25,500 --> 00:14:26,360
+Per fer-ho visual,
+
+336
+00:14:26,820 --> 00:14:29,080
+és com intentar arreglar una galleda
+
+337
+00:14:29,080 --> 00:14:30,960
+que té desenes de forats al fons,
+
+338
+00:14:31,120 --> 00:14:32,820
+que representarien
+
+339
+00:14:32,820 --> 00:14:34,880
+la pèrdua constant de demanda laboral.
+
+340
+00:14:35,260 --> 00:14:36,740
+Aplicar un ingrés mínim vital
+
+341
+00:14:36,740 --> 00:14:39,120
+és com col·locar una manga a la part superior
+
+342
+00:14:39,120 --> 00:14:40,900
+i abocar milions de litres
+
+343
+00:14:40,900 --> 00:14:42,580
+d'aigua pública contínuament.
+
+344
+00:14:42,580 --> 00:14:43,900
+Per intentar que no es quedi buida.
+
+345
+00:14:44,060 --> 00:14:44,420
+Però clar,
+
+346
+00:14:44,420 --> 00:14:46,340
+podràs mantenir un cert nivell d'aigua
+
+347
+00:14:46,340 --> 00:14:48,320
+si dediques un pressupost infinit,
+
+348
+00:14:48,640 --> 00:14:50,500
+però els forats de sota continuen oberts
+
+349
+00:14:50,500 --> 00:14:52,400
+i cada cop es fan més grans.
+
+350
+00:14:52,600 --> 00:14:54,660
+És una analogia il·luminadora.
+
+351
+00:14:55,140 --> 00:14:56,740
+L'impost corporatiu genèric
+
+352
+00:14:56,740 --> 00:14:58,160
+té el mateix defecte.
+
+353
+00:14:58,760 --> 00:15:00,180
+Li prens aigua a l'empresa
+
+354
+00:15:00,180 --> 00:15:01,400
+al final de l'any,
+
+355
+00:15:02,000 --> 00:15:04,480
+però no tapas el forat de la decisió concreta
+
+356
+00:15:04,480 --> 00:15:06,100
+de substituir l'analista.
+
+357
+00:15:06,640 --> 00:15:07,820
+I els acords privats?
+
+358
+00:15:08,240 --> 00:15:10,120
+Entre sindicats i patronals?
+
+359
+00:15:10,380 --> 00:15:10,840
+Tampoc.
+
+360
+00:15:10,840 --> 00:15:13,100
+L'economia ho denomina
+
+361
+00:15:13,100 --> 00:15:14,400
+la negociació de COE.
+
+362
+00:15:14,420 --> 00:15:16,920
+La idea és que les empreses,
+
+363
+00:15:17,100 --> 00:15:19,440
+en veure que destrueixen el seu ecosistema,
+
+364
+00:15:19,820 --> 00:15:21,520
+pactaran no automatitzar tant.
+
+365
+00:15:21,860 --> 00:15:22,780
+Són arraonables.
+
+366
+00:15:23,080 --> 00:15:25,740
+Sí, però el model de Falk i Zucales
+
+367
+00:15:25,740 --> 00:15:28,320
+demostra que això sempre col·lapsa
+
+368
+00:15:28,320 --> 00:15:29,400
+a causa del problema
+
+369
+00:15:29,400 --> 00:15:31,140
+de l'aprofitat o freerider.
+
+370
+00:15:31,660 --> 00:15:32,580
+Detalla'ns una mica
+
+371
+00:15:32,580 --> 00:15:34,400
+com funciona això del freerider
+
+372
+00:15:34,400 --> 00:15:36,880
+i per què fa saltar pels aires
+
+373
+00:15:36,880 --> 00:15:38,480
+qualsevol pacte de cavallers.
+
+374
+00:15:38,940 --> 00:15:41,200
+Doncs imaginem que 9 empreses del sector
+
+375
+00:15:41,200 --> 00:15:43,220
+pacten mantenir plantilles humanes
+
+376
+00:15:43,220 --> 00:15:44,400
+per sostenir la demanda.
+
+377
+00:15:44,420 --> 00:15:46,780
+La d'una empresa,
+
+378
+00:15:47,060 --> 00:15:47,800
+l'Aprofitada,
+
+379
+00:15:48,240 --> 00:15:49,900
+signa l'acord, però en secret
+
+380
+00:15:49,900 --> 00:15:52,420
+l'incompleix i automatitza agressivament.
+
+381
+00:15:52,880 --> 00:15:54,660
+Com que les altres 9
+
+382
+00:15:54,660 --> 00:15:56,160
+mantenen la demanda viva
+
+383
+00:15:56,160 --> 00:15:57,400
+pagant sous alts,
+
+384
+00:15:57,740 --> 00:16:00,300
+l'empresa Aprofitada gaudeix d'una base de clients
+
+385
+00:16:00,300 --> 00:16:01,820
+forta, però ella opera
+
+386
+00:16:01,820 --> 00:16:03,780
+amb costos ridículs basats en IA.
+
+387
+00:16:04,300 --> 00:16:05,980
+S'endú tots els beneficis.
+
+388
+00:16:06,140 --> 00:16:07,680
+S'endú el mercat sencer.
+
+389
+00:16:08,160 --> 00:16:09,860
+Aquesta empresa enfonsarà els preus
+
+390
+00:16:09,860 --> 00:16:12,140
+i arruïnarà les altres 9 en qüestió de mesos.
+
+391
+00:16:12,140 --> 00:16:13,660
+Com que totes ho saben,
+
+392
+00:16:13,660 --> 00:16:15,280
+la confiança no existeix
+
+393
+00:16:15,280 --> 00:16:17,800
+i el pacte mai arriba a materialitzar-se.
+
+394
+00:16:18,020 --> 00:16:20,060
+O sigui, la flexibilitat salarial
+
+395
+00:16:20,060 --> 00:16:20,960
+ens empobreix,
+
+396
+00:16:21,360 --> 00:16:23,920
+l'ingrés mínim vital és una manega ineficient
+
+397
+00:16:23,920 --> 00:16:25,540
+i els acords voluntaris
+
+398
+00:16:25,540 --> 00:16:27,320
+fracassen per la desconfiança.
+
+399
+00:16:28,100 --> 00:16:30,020
+Llavors, si les solucions genèriques
+
+400
+00:16:30,020 --> 00:16:31,720
+fallen, quina és l'eina
+
+401
+00:16:31,720 --> 00:16:33,760
+de precisió, el bisturí financer
+
+402
+00:16:33,760 --> 00:16:35,720
+que proposa l'estudi per tapar els forats
+
+403
+00:16:35,720 --> 00:16:36,260
+de la galleda?
+
+404
+00:16:36,540 --> 00:16:39,020
+La solució és una eina clàssica originada
+
+405
+00:16:39,020 --> 00:16:41,000
+en l'economia ambiental, però aplicada
+
+406
+00:16:41,000 --> 00:16:42,140
+al mercat laboral d'avui.
+
+407
+00:16:42,140 --> 00:16:42,700
+A veure?
+
+408
+00:16:43,660 --> 00:16:45,900
+Impost pigubià sobre l'automatització.
+
+409
+00:16:46,860 --> 00:16:48,260
+La diferència fonamental
+
+410
+00:16:48,260 --> 00:16:49,720
+amb un impost de societats
+
+411
+00:16:49,720 --> 00:16:51,900
+és que l'impost pigubià no grava
+
+412
+00:16:51,900 --> 00:16:54,160
+la riquesa genèrica, sinó que grava
+
+413
+00:16:54,160 --> 00:16:56,760
+directament la externalitat negativa
+
+414
+00:16:56,760 --> 00:16:58,920
+en el moment exacte en què es produeix.
+
+415
+00:16:59,400 --> 00:17:00,820
+Aquí és on es posa
+
+416
+00:17:00,820 --> 00:17:02,000
+realment interessant.
+
+417
+00:17:02,620 --> 00:17:03,840
+Baixem aquest concepte
+
+418
+00:17:03,840 --> 00:17:06,000
+al terreny de les matemàtiques financeres.
+
+419
+00:17:06,480 --> 00:17:08,220
+Vull veure el moment eureca
+
+420
+00:17:08,220 --> 00:17:10,460
+que pateix el director financer d'una empresa.
+
+421
+00:17:10,460 --> 00:17:12,060
+Som-hi, fem el càlcul.
+
+422
+00:17:12,620 --> 00:17:13,460
+Suposem que una corporació
+
+423
+00:17:13,660 --> 00:17:15,420
+decideix automatitzar
+
+424
+00:17:15,420 --> 00:17:16,420
+una línia de treball
+
+425
+00:17:16,420 --> 00:17:18,940
+i s'estalvia 50.000 euros en nòmines.
+
+426
+00:17:19,520 --> 00:17:21,460
+Però el model econòmic de l'Estat
+
+427
+00:17:21,460 --> 00:17:23,400
+ha calculat que posar aquella gent
+
+428
+00:17:23,400 --> 00:17:25,320
+al carrer provocarà una caiguda
+
+429
+00:17:25,320 --> 00:17:27,260
+de demanda agregada de 8.000 euros
+
+430
+00:17:27,260 --> 00:17:28,620
+a tota l'economia.
+
+431
+00:17:28,940 --> 00:17:31,220
+De quart, 8.000 euros menys de consum.
+
+432
+00:17:31,460 --> 00:17:32,780
+Abans, l'empresa
+
+433
+00:17:32,780 --> 00:17:34,840
+ignograva aquest dany perquè només
+
+434
+00:17:34,840 --> 00:17:37,440
+perdia una fracció mínima d'aquests 8.000 euros
+
+435
+00:17:37,440 --> 00:17:38,820
+i es quedava amb un guany massiu.
+
+436
+00:17:39,220 --> 00:17:40,880
+Ara, el govern no intervé
+
+437
+00:17:40,880 --> 00:17:42,720
+amb l'impost pigubià i l'imposa
+
+438
+00:17:42,720 --> 00:17:44,400
+aquesta corporació una taxa exacta
+
+439
+00:17:44,400 --> 00:17:46,200
+de 8.000 euros pel dret d'automatitzar
+
+440
+00:17:46,200 --> 00:17:47,440
+aquella posició concreta.
+
+441
+00:17:47,880 --> 00:17:50,160
+De cop i volta, l'empresa ha de pagar
+
+442
+00:17:50,160 --> 00:17:52,200
+tot el cost social que abans carregava
+
+443
+00:17:52,200 --> 00:17:53,600
+a l'esquina dels seus competidors.
+
+444
+00:17:53,600 --> 00:17:55,680
+Clar, i l'efecte immediat d'això
+
+445
+00:17:55,680 --> 00:17:57,800
+és que l'algoritme de decisió de l'empresa
+
+446
+00:17:57,800 --> 00:17:59,480
+canvia del tot. L'impost
+
+447
+00:17:59,480 --> 00:18:01,360
+força que la matemàtica privada
+
+448
+00:18:01,360 --> 00:18:04,200
+coincideixi exactament amb la matemàtica social.
+
+449
+00:18:04,580 --> 00:18:05,100
+Exactament.
+
+450
+00:18:05,220 --> 00:18:07,580
+Si l'automatització era només una mica
+
+451
+00:18:07,580 --> 00:18:09,580
+més rentable que l'humà, amb l'impost
+
+452
+00:18:09,580 --> 00:18:10,920
+ja no surt a compte i s'atura.
+
+453
+00:18:11,340 --> 00:18:12,600
+Però, si l'economia,
+
+454
+00:18:12,720 --> 00:18:15,140
+realment genera un salt d'eficiència
+
+455
+00:18:15,140 --> 00:18:17,340
+estratosfèric, doncs sí que s'adopta,
+
+456
+00:18:17,600 --> 00:18:19,620
+però pagant el peatge pel dany col·lateral.
+
+457
+00:18:20,060 --> 00:18:21,600
+És una arquitectura d'incentius
+
+458
+00:18:21,600 --> 00:18:22,940
+brillant. O és.
+
+459
+00:18:23,200 --> 00:18:25,700
+Però clar, això obre una altra
+
+460
+00:18:25,700 --> 00:18:27,080
+qüestió logística.
+
+461
+00:18:27,960 --> 00:18:29,460
+Què en fa l'estat d'aquesta
+
+462
+00:18:29,460 --> 00:18:31,420
+muntanya de milions recaptats?
+
+463
+00:18:32,060 --> 00:18:33,340
+Perquè si només s'ho queda
+
+464
+00:18:33,340 --> 00:18:35,600
+la burocràcia, l'extreballador
+
+465
+00:18:36,120 --> 00:18:37,220
+segueix a l'atur.
+
+466
+00:18:37,740 --> 00:18:39,920
+Ah, aquí és on la proposta
+
+467
+00:18:39,920 --> 00:18:41,560
+tanca el cercle magistralment.
+
+468
+00:18:41,560 --> 00:18:43,560
+Aquesta recaptació està blindada.
+
+469
+00:18:44,680 --> 00:18:46,140
+No pot anar a la caixa comuna
+
+470
+00:18:46,140 --> 00:18:48,280
+de l'estat per gastar en qualsevol cosa.
+
+471
+00:18:48,580 --> 00:18:49,320
+On va llavors?
+
+472
+00:18:49,760 --> 00:18:51,280
+S'ha de reinvertir directament,
+
+473
+00:18:51,520 --> 00:18:53,740
+dòlar per dòlar, en el reciclança
+
+474
+00:18:53,740 --> 00:18:56,020
+professional o upskilling dels treballadors
+
+475
+00:18:56,020 --> 00:18:57,420
+afectats. Ah, formació?
+
+476
+00:18:57,840 --> 00:18:59,860
+Sí, capacitant-los per a tasques
+
+477
+00:18:59,860 --> 00:19:01,480
+i sectors del valor afegit
+
+478
+00:19:01,480 --> 00:19:03,660
+on la IAA encara pateixi mancances.
+
+479
+00:19:04,280 --> 00:19:05,880
+I aquest mecanisme té un efecte
+
+480
+00:19:05,880 --> 00:19:07,220
+multiplicador sorprenent.
+
+481
+00:19:07,760 --> 00:19:09,840
+Com més inverteixes a formar aquestes persones,
+
+482
+00:19:09,840 --> 00:19:11,440
+més ràpid troben feines
+
+483
+00:19:11,440 --> 00:19:13,640
+ben remunerades. I si recuperen
+
+484
+00:19:13,640 --> 00:19:15,780
+el seu sou ràpidament, el dany
+
+485
+00:19:15,780 --> 00:19:17,460
+a la demanda global es redueix.
+
+486
+00:19:17,660 --> 00:19:19,760
+Entenc on vols arribar. O sigui,
+
+487
+00:19:20,460 --> 00:19:22,300
+si el dany a la demanda es redueix
+
+488
+00:19:22,300 --> 00:19:23,660
+perquè els treballadors
+
+489
+00:19:23,660 --> 00:19:25,560
+es reincorporen velozament,
+
+490
+00:19:26,220 --> 00:19:27,640
+l'externalitat negativa
+
+491
+00:19:27,640 --> 00:19:29,740
+es fa més petita. Exacte.
+
+492
+00:19:29,900 --> 00:19:31,300
+I si l'externalitat baixa,
+
+493
+00:19:31,800 --> 00:19:33,480
+el nivell de l'impost Pigou-Diviar
+
+494
+00:19:33,480 --> 00:19:35,360
+també baixa de manera proporcional.
+
+495
+00:19:36,280 --> 00:19:38,080
+Uau! Estem davant d'una mesura
+
+496
+00:19:38,080 --> 00:19:40,500
+dissenyada explícitament per autodestruir-se
+
+497
+00:19:40,500 --> 00:19:40,980
+amb el temps.
+
+498
+00:19:41,440 --> 00:19:44,000
+És un cicle de retroalimentació positiu.
+
+499
+00:19:44,080 --> 00:19:45,860
+Treballa incansablement per a fer-se
+
+500
+00:19:45,860 --> 00:19:47,840
+innecessària a si mateix, a mesura
+
+501
+00:19:47,840 --> 00:19:49,880
+que l'economia absorbeix la transició.
+
+502
+00:19:50,260 --> 00:19:51,760
+No estem posant pagats,
+
+503
+00:19:52,040 --> 00:19:53,820
+estem redissenyant la topologia
+
+504
+00:19:53,820 --> 00:19:55,660
+del mercat perquè el capitalisme es
+
+505
+00:19:55,660 --> 00:19:57,400
+coordini eficaçment. Llavors,
+
+506
+00:19:57,940 --> 00:19:59,760
+arribats a aquest punt, crec que cal
+
+507
+00:19:59,760 --> 00:20:01,760
+consolidar tot aquest trajecte intel·lectual
+
+508
+00:20:01,760 --> 00:20:03,700
+que hem fet. Si desgranem les
+
+509
+00:20:03,700 --> 00:20:06,020
+llaçons de l'article, el que emergeix
+
+510
+00:20:06,020 --> 00:20:08,220
+és un missatge d'una claritat radical.
+
+511
+00:20:08,920 --> 00:20:09,780
+Ens passem el dia
+
+512
+00:20:09,780 --> 00:20:11,220
+escoltant de relats fatalistes,
+
+513
+00:20:11,440 --> 00:20:13,400
+sobre l'apocalipsi laboral
+
+514
+00:20:13,400 --> 00:20:15,760
+impulsada per la IA, com si fos
+
+515
+00:20:15,760 --> 00:20:18,100
+una mena de llei immutable de la física.
+
+516
+00:20:18,360 --> 00:20:20,200
+Sí, com si no s'hi pogués fer res.
+
+517
+00:20:20,360 --> 00:20:21,820
+Exacte. Un destí
+
+518
+00:20:21,820 --> 00:20:23,600
+predeterminat davant del qual
+
+519
+00:20:23,600 --> 00:20:25,800
+només podem rendir-nos. Però
+
+520
+00:20:25,800 --> 00:20:27,660
+aquest estudi demostra, amb
+
+521
+00:20:27,660 --> 00:20:29,340
+models matemàtics rigorosos,
+
+522
+00:20:29,780 --> 00:20:31,700
+que l'amenaça real no és la tecnologia
+
+523
+00:20:31,700 --> 00:20:33,880
+en si. És una fallada de coordinació
+
+524
+00:20:33,880 --> 00:20:35,560
+clàssica en el mercat. Un problema
+
+525
+00:20:35,560 --> 00:20:37,360
+pur d'incentius desalineats
+
+526
+00:20:37,360 --> 00:20:39,400
+que porta empresaris racionals
+
+527
+00:20:39,400 --> 00:20:41,400
+a destruir col·lectivament el mercat
+
+528
+00:20:41,400 --> 00:20:43,800
+de consumidors del qual ells mateixos
+
+529
+00:20:43,800 --> 00:20:44,920
+depenen per sobreviure.
+
+530
+00:20:45,240 --> 00:20:47,360
+Efectivament. Si connectem això
+
+531
+00:20:47,360 --> 00:20:49,540
+amb la visió general, veiem que el dany
+
+532
+00:20:49,540 --> 00:20:51,720
+no recau només en una classe treballadora
+
+533
+00:20:51,720 --> 00:20:53,420
+abstracta, sinó que erodeix
+
+534
+00:20:53,420 --> 00:20:55,640
+els mateixos beneficis de les empreses que adopten
+
+535
+00:20:55,640 --> 00:20:57,840
+la IA. Tothom hi perd si no s'intervé.
+
+536
+00:20:58,320 --> 00:20:59,440
+I la solució no passa per
+
+537
+00:20:59,440 --> 00:21:01,320
+prohibir la tecnologia. Ni per enfonsar
+
+538
+00:21:01,320 --> 00:21:03,100
+l'economia en la pobresa. Exacte.
+
+539
+00:21:03,220 --> 00:21:05,500
+Sinó per corregir la fallada forçant
+
+540
+00:21:05,500 --> 00:21:07,740
+que els costos privats i els socials
+
+541
+00:21:07,740 --> 00:21:09,720
+s'equilibrin amb aquesta imposició
+
+542
+00:21:09,720 --> 00:21:11,240
+precisa i la inversió
+
+543
+00:21:11,240 --> 00:21:12,940
+focalitzada. Ara bé,
+
+544
+00:21:13,320 --> 00:21:15,360
+abans de tancar, i per deixar
+
+545
+00:21:15,360 --> 00:21:17,240
+una reflexió contundent a tothom
+
+546
+00:21:17,240 --> 00:21:19,340
+que ens estigui escoltant, cal mirar
+
+547
+00:21:19,340 --> 00:21:21,000
+cap a un concepte fascinant
+
+548
+00:21:21,000 --> 00:21:23,320
+i bastant inquietant
+
+549
+00:21:23,320 --> 00:21:25,460
+que els autors mencionen a les pàgines
+
+550
+00:21:25,460 --> 00:21:26,420
+finals de l'estudi.
+
+551
+00:21:27,400 --> 00:21:28,740
+El límit postlaboral.
+
+552
+00:21:29,120 --> 00:21:31,300
+Uf, sí, el límit postlaboral.
+
+553
+00:21:31,680 --> 00:21:33,020
+Aquesta estructura de l'impost
+
+554
+00:21:33,020 --> 00:21:35,260
+pigoviar i el reciclatge funciona
+
+555
+00:21:35,260 --> 00:21:36,920
+perfectament durant una transició.
+
+556
+00:21:37,480 --> 00:21:39,080
+Però imaginem per un moment l'oritzó
+
+557
+00:21:39,080 --> 00:21:40,660
+d'aquí a 40 o 50 anys.
+
+558
+00:21:41,240 --> 00:21:42,920
+Què passa si l'evolució de la IA
+
+559
+00:21:42,920 --> 00:21:44,760
+realment trenca el sostre de vidre
+
+560
+00:21:44,760 --> 00:21:46,660
+i assoleix una capacitat total?
+
+561
+00:21:47,140 --> 00:21:49,160
+Et refereixes a que substitueixi
+
+562
+00:21:49,160 --> 00:21:51,740
+absolutament qualsevol tasca humana.
+
+563
+00:21:52,240 --> 00:21:53,500
+Física i intel·lectual.
+
+564
+00:21:53,880 --> 00:21:55,820
+Sí. Sense excepcions.
+
+565
+00:21:56,200 --> 00:21:57,440
+Fasional deixa de tenir
+
+566
+00:21:57,440 --> 00:21:59,420
+cap sentit. No hi ha cap altre
+
+567
+00:21:59,420 --> 00:22:01,520
+sector cap on forma i desplaçar el treballador
+
+568
+00:22:01,520 --> 00:22:03,320
+perquè no existeixen tasques
+
+569
+00:22:03,320 --> 00:22:04,620
+exclusivament humanes.
+
+570
+00:22:04,940 --> 00:22:07,320
+Això mateix. L'externalitat de la
+
+571
+00:22:07,320 --> 00:22:09,260
+pèrdua de demanda per acomiadaments
+
+572
+00:22:09,260 --> 00:22:09,320
+ocuparia literalment el 100%
+
+573
+00:22:09,320 --> 00:22:09,320
+
+
+574
+00:22:09,320 --> 00:22:09,320
+
+
+575
+00:22:09,320 --> 00:22:09,360
+la ciutat.
+
+576
+00:22:09,360 --> 00:22:09,360
+
+
+577
+00:22:09,360 --> 00:22:09,420
+la ciutat.
+
+578
+00:22:09,420 --> 00:22:11,220
+I això és el que ens ha fet
+
+579
+00:22:11,240 --> 00:22:13,260
+de l'economia. I l'impost
+
+580
+00:22:13,260 --> 00:22:15,460
+pigoviar hauria d'absorbir tota l'activitat.
+
+581
+00:22:15,680 --> 00:22:17,280
+Cal pensar profundament sobre
+
+582
+00:22:17,280 --> 00:22:19,320
+aquest escenari si arribem a aquest
+
+583
+00:22:19,320 --> 00:22:21,040
+límit absolut on el treball
+
+584
+00:22:21,040 --> 00:22:22,660
+desapareix del tot. O sigui,
+
+585
+00:22:23,080 --> 00:22:25,280
+si ens trobem en un món on corporacions
+
+586
+00:22:25,280 --> 00:22:27,040
+automatitzades fabriquen
+
+587
+00:22:27,040 --> 00:22:28,960
+tota la riquesa i tots els béns
+
+588
+00:22:28,960 --> 00:22:31,280
+a un cost marginal pràcticament zero.
+
+589
+00:22:31,560 --> 00:22:33,180
+Gràcies a màquines inesgotables.
+
+590
+00:22:33,660 --> 00:22:35,200
+Exacte. Però
+
+591
+00:22:35,200 --> 00:22:37,000
+per ser els únics consumidors
+
+592
+00:22:37,000 --> 00:22:39,240
+possibles, són persones que
+
+593
+00:22:39,240 --> 00:22:41,120
+només poden sobreviure gràcies
+
+594
+00:22:41,240 --> 00:22:43,480
+a una renda universal provenient
+
+595
+00:22:43,480 --> 00:22:45,260
+precisament dels impostos massius
+
+596
+00:22:45,260 --> 00:22:47,300
+extrets a aquestes mateixes corporacions.
+
+597
+00:22:48,200 --> 00:22:49,300
+Llavors la pregunta és
+
+598
+00:22:49,300 --> 00:22:51,160
+estem realment davant
+
+599
+00:22:51,160 --> 00:22:52,880
+d'una economia de llibre mercat?
+
+600
+00:22:53,300 --> 00:22:54,520
+És una gran pregunta.
+
+601
+00:22:54,840 --> 00:22:57,200
+D'algun sentit lingüístic o econòmic
+
+602
+00:22:57,200 --> 00:22:59,320
+continuar anomenant empreses
+
+603
+00:22:59,320 --> 00:23:01,640
+privades a entitats que produeixen
+
+604
+00:23:01,640 --> 00:23:03,040
+tot el que necessita l'Estat
+
+605
+00:23:03,040 --> 00:23:05,080
+per mantenir la població? Amb diners
+
+606
+00:23:05,080 --> 00:23:07,480
+que tornen a elles en un cicle tancat?
+
+607
+00:23:07,720 --> 00:23:09,180
+O s'hauran convertit a
+
+608
+00:23:09,180 --> 00:23:11,180
+efectes pràctics en infraestructures
+
+609
+00:23:11,240 --> 00:23:13,480
+estatals autònomes que s'alimenten
+
+610
+00:23:13,480 --> 00:23:14,360
+a si mateixes?
+
+611
+00:23:14,560 --> 00:23:17,100
+Si el canvi tecnològic arriba a la seva conclusió
+
+612
+00:23:17,100 --> 00:23:19,120
+lògica, potser la pregunta no és
+
+613
+00:23:19,120 --> 00:23:20,620
+com ens asseurem a l'estadi,
+
+614
+00:23:21,100 --> 00:23:23,060
+vull dir, sinó si l'estadi del
+
+615
+00:23:23,060 --> 00:23:25,120
+capitalisme tradicional, tal com el
+
+616
+00:23:25,120 --> 00:23:27,420
+coneixem, ja s'haurà evaporat
+
+617
+00:23:27,420 --> 00:23:28,920
+al nostre voltant. Us deixem a
+
+618
+00:23:28,920 --> 00:23:31,180
+aquesta paradoxa estructural per donar-li
+
+619
+00:23:31,180 --> 00:23:33,200
+voltes i desafiar tot el que doneu
+
+620
+00:23:33,200 --> 00:23:34,280
+per fet sobre el futur.
+
