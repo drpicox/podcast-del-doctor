@@ -212,6 +212,8 @@ thumbnail: "/assets/thumbnails/XXX-nom-episodi.png"
 
 ### PAS 6: Personalitzar el markdown de l'episodi
 
+⚠️ **IMPORTANT:** El markdown que genera `transcribe_episode.py` al PAS 2 conté la **transcripció sencera al body** i ja inclou un **disclaimer final**. Cal **REESCRIURE el fitxer sencer** (frontmatter + body), no afegir-hi contingut al final — si no, queden disclaimers duplicats (va passar a l'episodi 008) i la transcripció al body. El camp `audio_file` auto-generat conté el nom del fitxer local (ex: `XXX-nom-episodi.mp3`); substituir-lo segons el format de sota.
+
 Editar `_episodes/XXX-nom-episodi.md` amb el format definitiu:
 
 ```yaml
@@ -262,8 +264,11 @@ Paràgraf curt que resumeix l'episodi i el context.
 - Secció "Introducció" amb resum curt
 - Secció "Temes tractats" amb bullets detallats extrets de la transcripció
 - Secció "Fonts" amb enllaços
-- Disclaimer final
-- **Referències creuades** a episodis anteriors si temes es repeteixen
+- Disclaimer final (UN de sol, al final del body)
+- **Referències creuades** a episodis anteriors si temes es repeteixen, amb aquest format d'enllaç:
+  ```markdown
+  [Episodi XXX: Títol](/podcast-del-doctor/episodis/XXX-nom-episodi)
+  ```
 
 ---
 
