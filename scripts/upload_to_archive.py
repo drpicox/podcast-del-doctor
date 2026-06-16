@@ -130,6 +130,16 @@ EPISODIS = [
         "duration": "23:34",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "acomiadaments", "automatització", "economia", "externalitat", "dilema del presoner", "impost pigouvià", "renda bàsica", "upskilling", "teoria de jocs", "català"]
     },
+    {
+        "num": "012",
+        "fitxer": "012-especificacio-nou-codi.mp3",
+        "identifier": "podcast-del-doctor-012-especificacio-nou-codi",
+        "title": "Episodi 012: L'especificació és el nou codi",
+        "description": "Per què una IA capaç d'escriure codi a la velocitat de la llum no ens estalvia la part difícil de programar? Basant-nos en un vídeo del canal Modern Software Engineering de Dave Farley, amb Stefan Ellisdorfer i Christian Gassel, explorem el desenvolupament dirigit per especificacions amb IA agèntica: la manca de determinisme com a verí, l'ATDD i el BDD que converteixen les proves en el contracte executable de la IA, l'efecte mirall, l'índex Farley i el pas de programadors a enginyers de comportaments.",
+        "date": "2026-06-16",
+        "duration": "14:03",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "agentic ai", "dave farley", "spec-driven development", "atdd", "bdd", "tdd", "especificacions executables", "enginyeria de programari", "índex farley", "català"]
+    },
 ]
 
 

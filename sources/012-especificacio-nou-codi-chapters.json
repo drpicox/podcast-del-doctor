@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 012: L'especificació és el nou codi",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: IA agèntica i les fonts (Dave Farley)" },
+    { "startTime": 71.52, "title": "El xef ultraràpid: la IA no resol la part difícil" },
+    { "startTime": 146.24, "title": "La manca de determinisme i el llenguatge natural com a codi" },
+    { "startTime": 207.78, "title": "ATDD i BDD: les proves com a contracte de la IA" },
+    { "startTime": 327.94, "title": "L'objecció de la caixa negra i els guardrails de titani" },
+    { "startTime": 385.9, "title": "L'efecte mirall i el TDD de doble bucle" },
+    { "startTime": 455.36, "title": "El geni literal: ser impecable amb els desitjos" },
+    { "startTime": 548.78, "title": "L'índex Farley: puntuar les proves automàtiques" },
+    { "startTime": 654.82, "title": "El futur: assistents amb criteri i enginyers de comportaments" },
+    { "startTime": 778.42, "title": "Reflexió final: i si la IA escriu les especificacions?" }
+  ]
+}
