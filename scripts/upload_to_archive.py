@@ -7,7 +7,10 @@ Configuració: ia configure (només primera vegada)
 
 import os
 import sys
+import time
 from pathlib import Path
+
+import requests
 from internetarchive import upload, get_item
 
 # Configuració del podcast
@@ -194,8 +197,38 @@ def cover_path(episodi, project_dir):
     return path if path.exists() else None
 
 
-def pujar_cover(episodi, project_dir, dry_run=False):
-    """Puja només la caràtula a un ítem d'archive.org que ja existeix."""
+def cover_arribada(identifier, nom_fitxer):
+    """Comprova que la caràtula és realment descarregable des d'archive.org.
+
+    Cal fer-ho: si l'ítem té un derive en curs, upload() pot retornar 200 i
+    descartar el fitxer en silenci. El codi de resposta NO és garantia.
+    """
+    url = f"https://archive.org/download/{identifier}/{nom_fitxer}"
+    try:
+        r = requests.head(url, allow_redirects=True, timeout=30)
+        return r.status_code == 200
+    except requests.RequestException:
+        return False
+
+
+def esperar_sense_tasques(identifier, timeout=900, interval=30):
+    """Espera que l'ítem no tingui tasques en curs (derive, archive...)."""
+    limit = time.time() + timeout
+    while time.time() < limit:
+        try:
+            md = requests.get(f"https://archive.org/metadata/{identifier}",
+                              timeout=30).json()
+            if not md.get('pending_tasks'):
+                return True
+        except (requests.RequestException, ValueError):
+            pass
+        print(f"      ⏳ tasques en curs a l'ítem, esperant {interval}s…")
+        time.sleep(interval)
+    return False
+
+
+def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=90):
+    """Puja la caràtula a un ítem existent i verifica que hi ha arribat."""
 
     identifier = episodi['identifier']
     cover = cover_path(episodi, project_dir)
@@ -218,32 +251,46 @@ def pujar_cover(episodi, project_dir, dry_run=False):
         if not item.exists:
             print(f"   ⚠️  L'ítem no existeix encara a archive.org — puja primer l'MP3")
             return False
-
-        r = upload(
-            identifier,
-            files=[str(cover)],
-            verify=True,
-            verbose=True,
-            queue_derive=True,
-            retries=3
-        )
-
-        if r and r[0].status_code == 200:
-            print(f"   ✅ Caràtula pujada!")
-            print(f"   🌐 Pàgina: https://archive.org/details/{identifier}")
-            return True
-
-        # Si el fitxer ja hi és amb el mateix checksum, la llibreria no retorna resposta
-        if not r:
-            print(f"   ⏭️  La caràtula ja hi era (mateix checksum)")
-            return True
-
-        print(f"   ❌ Error en pujar: {r[0].status_code}")
-        return False
-
     except Exception as e:
-        print(f"   ❌ Error: {e}")
+        print(f"   ❌ Error consultant l'ítem: {e}")
         return False
+
+    if cover_arribada(identifier, cover.name):
+        print(f"   ⏭️  La caràtula ja hi és")
+        return True
+
+    for intent in range(1, intents + 1):
+        print(f"   🔄 Intent {intent}/{intents}")
+
+        # Un derive en curs fa que la pujada es perdi silenciosament
+        esperar_sense_tasques(identifier)
+
+        try:
+            r = upload(
+                identifier,
+                files=[str(cover)],
+                verify=True,
+                verbose=True,
+                queue_derive=True,
+                retries=3
+            )
+            codi = r[0].status_code if r else None
+            print(f"      resposta: {codi if codi else 'cap (res a pujar)'}")
+        except Exception as e:
+            print(f"      ⚠️  Error en pujar: {e}")
+
+        # Verificació real: el codi 200 no és garantia
+        print(f"      🔎 verificant que el fitxer hi és…")
+        time.sleep(espera)
+        if cover_arribada(identifier, cover.name):
+            print(f"   ✅ Caràtula confirmada a archive.org!")
+            print(f"   🌐 https://archive.org/details/{identifier}")
+            return True
+
+        print(f"      ❌ el fitxer encara no hi és")
+
+    print(f"   ❌ No s'ha pogut confirmar la caràtula després de {intents} intents")
+    return False
 
 
 def pujar_episodi(episodi, episodes_dir, dry_run=False, project_dir=None):
