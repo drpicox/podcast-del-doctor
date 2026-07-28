@@ -197,18 +197,33 @@ def cover_path(episodi, project_dir):
     return path if path.exists() else None
 
 
-def cover_arribada(identifier, nom_fitxer):
-    """Comprova que la caràtula és realment descarregable des d'archive.org.
+def cover_arribada(identifier, nom_fitxer, mida_local=None):
+    """Comprova que la NOSTRA caràtula és realment a l'ítem d'archive.org.
 
-    Cal fer-ho: si l'ítem té un derive en curs, upload() pot retornar 200 i
-    descartar el fitxer en silenci. El codi de resposta NO és garantia.
+    Dues trampes que cal esquivar:
+
+    1) Si l'ítem té un derive en curs, upload() retorna 200 i archive.org
+       descarta el fitxer en silenci. El codi de resposta NO és garantia.
+    2) archive.org genera un derivat de l'MP3 que es diu EXACTAMENT igual que
+       el nostre thumbnail (<nom>.png) — la forma d'ona. Per això no n'hi ha
+       prou de comprovar que el fitxer existeix: ha de ser 'source: original'
+       (pujat per nosaltres) i no 'derivative'.
     """
-    url = f"https://archive.org/download/{identifier}/{nom_fitxer}"
     try:
-        r = requests.head(url, allow_redirects=True, timeout=30)
-        return r.status_code == 200
-    except requests.RequestException:
+        md = requests.get(f"https://archive.org/metadata/{identifier}",
+                          timeout=30).json()
+    except (requests.RequestException, ValueError):
         return False
+
+    for f in md.get('files', []):
+        if f.get('name') != nom_fitxer:
+            continue
+        if f.get('source') != 'original':
+            return False  # és el derivat d'archive.org, no el nostre
+        if mida_local is not None and int(f.get('size', 0)) != mida_local:
+            return False  # hi ha un fitxer nostre però desactualitzat
+        return True
+    return False
 
 
 def esperar_sense_tasques(identifier, timeout=900, interval=30):
@@ -255,8 +270,9 @@ def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=90):
         print(f"   ❌ Error consultant l'ítem: {e}")
         return False
 
-    if cover_arribada(identifier, cover.name):
-        print(f"   ⏭️  La caràtula ja hi és")
+    mida = cover.stat().st_size
+    if cover_arribada(identifier, cover.name, mida):
+        print(f"   ⏭️  La caràtula ja hi és (nostra, {mida} bytes)")
         return True
 
     for intent in range(1, intents + 1):
@@ -282,7 +298,7 @@ def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=90):
         # Verificació real: el codi 200 no és garantia
         print(f"      🔎 verificant que el fitxer hi és…")
         time.sleep(espera)
-        if cover_arribada(identifier, cover.name):
+        if cover_arribada(identifier, cover.name, mida):
             print(f"   ✅ Caràtula confirmada a archive.org!")
             print(f"   🌐 https://archive.org/details/{identifier}")
             return True
