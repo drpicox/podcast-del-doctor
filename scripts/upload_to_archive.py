@@ -183,28 +183,100 @@ Podcast: {PODCAST_URL}"""
     return metadata
 
 
-def pujar_episodi(episodi, episodes_dir, dry_run=False):
-    """Puja un episodi a archive.org"""
-    
+def cover_path(episodi, project_dir):
+    """Retorna el path del thumbnail de l'episodi, o None si no existeix.
+
+    La caràtula ha de dir-se com l'ítem perquè archive.org la trii com a imatge
+    principal de l'ítem (genera __ia_thumb.jpg a partir seu en fer el derive).
+    """
+    nom = episodi['fitxer'].rsplit('.', 1)[0]
+    path = project_dir / 'assets' / 'thumbnails' / f"{nom}.png"
+    return path if path.exists() else None
+
+
+def pujar_cover(episodi, project_dir, dry_run=False):
+    """Puja només la caràtula a un ítem d'archive.org que ja existeix."""
+
+    identifier = episodi['identifier']
+    cover = cover_path(episodi, project_dir)
+
+    print(f"\n🖼️  Caràtula episodi {episodi['num']}: {episodi['title']}")
+
+    if cover is None:
+        print(f"   ⚠️  No s'ha trobat el thumbnail a assets/thumbnails/ — saltat")
+        return False
+
+    print(f"   Fitxer: {cover.name}")
+    print(f"   Identifier: {identifier}")
+
+    if dry_run:
+        print("   🔍 MODE DRY-RUN: No es puja realment")
+        return True
+
+    try:
+        item = get_item(identifier)
+        if not item.exists:
+            print(f"   ⚠️  L'ítem no existeix encara a archive.org — puja primer l'MP3")
+            return False
+
+        r = upload(
+            identifier,
+            files=[str(cover)],
+            verify=True,
+            verbose=True,
+            queue_derive=True,
+            retries=3
+        )
+
+        if r and r[0].status_code == 200:
+            print(f"   ✅ Caràtula pujada!")
+            print(f"   🌐 Pàgina: https://archive.org/details/{identifier}")
+            return True
+
+        # Si el fitxer ja hi és amb el mateix checksum, la llibreria no retorna resposta
+        if not r:
+            print(f"   ⏭️  La caràtula ja hi era (mateix checksum)")
+            return True
+
+        print(f"   ❌ Error en pujar: {r[0].status_code}")
+        return False
+
+    except Exception as e:
+        print(f"   ❌ Error: {e}")
+        return False
+
+
+def pujar_episodi(episodi, episodes_dir, dry_run=False, project_dir=None):
+    """Puja un episodi a archive.org (MP3 + caràtula)"""
+
     fitxer_path = episodes_dir / episodi['fitxer']
-    
+
     if not fitxer_path.exists():
         print(f"❌ ERROR: No s'ha trobat el fitxer {fitxer_path}")
         return None
-    
+
     identifier = episodi['identifier']
     metadata = crear_metadata(episodi)
-    
+
+    if project_dir is None:
+        project_dir = episodes_dir.parent
+    cover = cover_path(episodi, project_dir)
+
+    fitxers = [str(fitxer_path)]
+    if cover:
+        fitxers.append(str(cover))
+
     print(f"\n📦 Pujant episodi {episodi['num']}: {episodi['title']}")
     print(f"   Fitxer: {fitxer_path}")
+    print(f"   Caràtula: {cover.name if cover else '(cap trobada)'}")
     print(f"   Identifier: {identifier}")
-    
+
     if dry_run:
         print("   🔍 MODE DRY-RUN: No es puja realment")
         print(f"   Metadades: {metadata}")
         url = f"https://archive.org/download/{identifier}/{episodi['fitxer']}"
         return url
-    
+
     try:
         # Comprovar si ja existeix
         item = get_item(identifier)
@@ -215,18 +287,18 @@ def pujar_episodi(episodi, episodes_dir, dry_run=False):
                 print("   ⏭️  Saltat")
                 url = f"https://archive.org/download/{identifier}/{episodi['fitxer']}"
                 return url
-        
-        # Pujar el fitxer
+
+        # Pujar els fitxers
         r = upload(
             identifier,
-            files=[str(fitxer_path)],
+            files=fitxers,
             metadata=metadata,
             verify=True,
             verbose=True,
             queue_derive=True,
             retries=3
         )
-        
+
         if r[0].status_code == 200:
             url = f"https://archive.org/download/{identifier}/{episodi['fitxer']}"
             print(f"   ✅ Pujat correctament!")
@@ -283,7 +355,9 @@ def main():
                        help='Pujar només un episodi específic (ex: 001)')
     parser.add_argument('--no-update-md', action='store_true',
                        help='No actualitzar els fitxers markdown')
-    
+    parser.add_argument('--nomes-cover', action='store_true',
+                       help='Pujar només la caràtula a ítems que ja existeixen (no re-puja l\'MP3)')
+
     args = parser.parse_args()
     
     # Directoris del projecte
@@ -307,17 +381,30 @@ def main():
     if args.dry_run:
         print("\n🔍 MODE DRY-RUN ACTIVAT - No es pujarà res realment\n")
     
+    # Mode caràtula: només pujar la imatge a ítems existents
+    if args.nomes_cover:
+        ok = 0
+        for episodi in episodis_a_pujar:
+            if pujar_cover(episodi, project_dir, dry_run=args.dry_run):
+                ok += 1
+        print("\n" + "=" * 60)
+        print("📊 RESUM")
+        print("=" * 60)
+        print(f"✅ Caràtules processades: {ok}/{len(episodis_a_pujar)}")
+        return
+
     # Processar cada episodi
     urls_generades = {}
     for episodi in episodis_a_pujar:
-        url = pujar_episodi(episodi, episodes_dir, dry_run=args.dry_run)
-        
+        url = pujar_episodi(episodi, episodes_dir, dry_run=args.dry_run,
+                            project_dir=project_dir)
+
         if url:
             urls_generades[episodi['num']] = url
-            
+
             if not args.no_update_md and not args.dry_run:
                 actualitzar_markdown(episodi, url, episodes_md_dir)
-    
+
     # Resum final
     print("\n" + "=" * 60)
     print("📊 RESUM")

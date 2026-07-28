@@ -64,7 +64,16 @@ description: "Podcast sobre programació i tecnologia. Contingut generat amb IA 
             <div class="latest-grid">
                 {% for episode in latest_episodes %}
                 <article class="latest-card">
+                    {% if episode.thumbnail %}
+                    <div class="latest-thumb">
+                        <a href="{{ episode.url | relative_url }}">
+                            <img src="{{ episode.thumbnail | relative_url }}" alt="{{ episode.title }}" loading="lazy" width="120" height="120">
+                        </a>
+                        <span class="latest-number latest-number-badge">{{ episode.episode_number | default: forloop.index }}</span>
+                    </div>
+                    {% else %}
                     <div class="latest-number">{{ episode.episode_number | default: forloop.index }}</div>
+                    {% endif %}
                     <div class="latest-content">
                         <h3><a href="{{ episode.url | relative_url }}">{{ episode.title }}</a></h3>
                         <div class="latest-meta">

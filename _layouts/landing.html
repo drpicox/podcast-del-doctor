@@ -184,6 +184,14 @@
             border-radius: 50%; display: flex; align-items: center; justify-content: center;
             font-weight: bold; font-size: 1.2rem; flex-shrink: 0;
         }
+        .latest-thumb { position: relative; width: 120px; height: 120px; flex-shrink: 0; }
+        .latest-thumb a { display: block; width: 100%; height: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 14px var(--shadow-color); }
+        .latest-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.3s ease; }
+        .latest-card:hover .latest-thumb img { transform: scale(1.05); }
+        .latest-number-badge {
+            position: absolute; bottom: -8px; left: -8px; width: 36px; height: 36px;
+            font-size: 0.95rem; border: 3px solid var(--bg-primary);
+        }
         .latest-content { flex: 1; min-width: 0; }
         .latest-content h3 { margin: 0 0 0.5rem 0; font-size: 1.3rem; }
         .latest-content h3 a { color: var(--tardis-blue); text-decoration: none; transition: color 0.3s ease; }
@@ -261,8 +269,10 @@
             .cta-buttons { flex-direction: column; align-items: center; }
             .latest-episodes { padding: 3rem 1rem; }
             .section-subtitle { margin-top: -1.5rem; margin-bottom: 2rem; font-size: 1rem; }
-            .latest-card { flex-direction: column; text-align: center; }
+            .latest-card { flex-direction: column; text-align: center; align-items: center; }
             .latest-number { margin: 0 auto; }
+            .latest-thumb { width: 160px; height: 160px; margin: 0 auto 0.5rem; }
+            .latest-number-badge { margin: 0; }
             .latest-content h3 { font-size: 1.1rem; }
             .btn-large { padding: 1rem 2rem; font-size: 1rem; }
             .subscribe-main-options { grid-template-columns: 1fr; gap: 1rem; }
