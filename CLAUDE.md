@@ -106,10 +106,31 @@ python scripts/upload_to_archive.py --episodi XXX
 
 **Què fa l'script:**
 - ✅ Puja l'MP3 a archive.org amb totes les metadades
+- ✅ Puja `assets/thumbnails/XXX-nom-episodi.png` com a caràtula de l'ítem
 - ✅ Genera la URL pública automàticament
 - ✅ Actualitza el camp `audio_file` del markdown
 
 **IMPORTANT:** Si reps error de "rate limit", espera 30-60 minuts i torna a intentar.
+
+**Caràtula a episodis ja publicats** (no re-puja l'MP3):
+```bash
+python scripts/upload_to_archive.py --nomes-cover              # tots
+python scripts/upload_to_archive.py --episodi XXX --nomes-cover # un de sol
+```
+
+⚠️ **Dos paranys d'archive.org** (ja resolts a l'script, però convé saber-los):
+1. `upload()` pot retornar **200 i descartar el fitxer en silenci** si l'ítem té
+   un *derive* en curs. Per això l'script espera que no hi hagi tasques pendents
+   i després **verifica** amb l'API de metadades.
+2. archive.org genera un derivat de l'MP3 anomenat **exactament igual** que el
+   nostre thumbnail (`XXX-nom-episodi.png`): la forma d'ona. Comprovar només que
+   el fitxer existeix dona fals positiu — cal exigir `source: original` i que la
+   mida coincideixi amb la del fitxer local.
+
+Un cop pujada la caràtula, archive.org ha de refer el *derive* per regenerar
+`__ia_thumb.jpg`, que és la imatge que surt als llistats. Pot trigar una estona.
+Comprovació ràpida: `curl -sIL https://archive.org/services/img/<identifier>`
+(la tira d'ona fa 180×45 en escala de grisos; una caràtula bona, 180×180 en color).
 
 **Més detalls:** Consulta [ARCHIVE_ORG.md](ARCHIVE_ORG.md) o [scripts/README_UPLOAD.md](scripts/README_UPLOAD.md)
 
