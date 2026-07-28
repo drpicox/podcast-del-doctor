@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 013: Per què ningú llegeix el que escrius",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 133.4, "title": "L'eix horitzontal i l'eix vertical" },
+    { "startTime": 264.9, "title": "La il·lusió escolar: la paret de tenis" },
+    { "startTime": 339.7, "title": "El valor només existeix dins del lector" },
+    { "startTime": 638.1, "title": "Els 100 errors: el valor eclipsa la forma" },
+    { "startTime": 805.3, "title": "La copa de martini i l'odi a l'estabilitat" },
+    { "startTime": 956.7, "title": "Assenyalar un error, no un buit" },
+    { "startTime": 1171.9, "title": "Focus i estrès: l'arquitectura de la frase" },
+    { "startTime": 1554.9, "title": "L'advocat i el camaleó Myerson" },
+    { "startTime": 1962.2, "title": "Reflexió final" }
+  ]
+}

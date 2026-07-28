@@ -140,6 +140,16 @@ EPISODIS = [
         "duration": "14:03",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "agentic ai", "dave farley", "spec-driven development", "atdd", "bdd", "tdd", "especificacions executables", "enginyeria de programari", "índex farley", "català"]
     },
+    {
+        "num": "013",
+        "fitxer": "013-per-que-ningu-llegeix-el-que-escrius.mp3",
+        "identifier": "podcast-del-doctor-013-per-que-ningu-llegeix-el-que-escrius",
+        "title": "Episodi 013: Per què ningú llegeix el que escrius",
+        "description": "I si tot allò que ens feia treure excel·lents en redacció a l'escola fos exactament la raó per la qual ningú llegeix els nostres informes a la feina? Basant-nos en dues conferències mítiques del Leadership Lab de la Universitat de Chicago, impartides per Larry McEnerney, explorem per què el valor d'un text no viu mai a les seves pàgines sinó dins del cervell de qui llegeix: la il·lusió del lector pagat, la metàfora de la paret de tenis, l'experiment dels 100 errors gramaticals que ningú va detectar, per què assenyalar un buit no serveix i cal assenyalar un error, i com el focus i l'estrès d'una frase decideixen si t'acaben llegint o et descarten.",
+        "date": "2026-07-28",
+        "duration": "35:22",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "escriptura", "comunicació", "larry mcenerney", "university of chicago", "leadership lab", "escriptura professional", "escriptura acadèmica", "retòrica", "comunicació efectiva", "català"]
+    },
 ]
 
 
