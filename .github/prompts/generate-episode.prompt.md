@@ -295,6 +295,10 @@ Afegir una nova entrada al final de la llista `EPISODIS`:
 
 ### PAS 8: Pujar MP3 + caràtula a archive.org
 
+⛔ **Requisit:** el thumbnail del PAS 5d ha d'existir. Si no hi és, l'script
+s'atura i NO puja res. No facis servir `--sense-cover` per esquivar-ho sense
+preguntar-ho abans a l'usuari.
+
 ```bash
 source .venv/bin/activate && python scripts/upload_to_archive.py --episodi XXX
 ```

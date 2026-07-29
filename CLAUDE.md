@@ -107,8 +107,13 @@ python scripts/upload_to_archive.py --episodi XXX
 **Què fa l'script:**
 - ✅ Puja l'MP3 a archive.org amb totes les metadades
 - ✅ Puja `assets/thumbnails/XXX-nom-episodi.png` com a caràtula de l'ítem
+- ✅ **Verifica** que la caràtula hi ha arribat i la reintenta si cal
 - ✅ Genera la URL pública automàticament
 - ✅ Actualitza el camp `audio_file` del markdown
+
+⛔ **Sense caràtula NO puja res.** Si `assets/thumbnails/XXX-nom-episodi.png` no
+existeix, l'script s'atura i no toca archive.org. Genera-la primer (PAS 5d). Per
+publicar igualment sense imatge cal demanar-ho explícitament amb `--sense-cover`.
 
 **IMPORTANT:** Si reps error de "rate limit", espera 30-60 minuts i torna a intentar.
 

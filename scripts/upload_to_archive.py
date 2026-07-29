@@ -309,8 +309,13 @@ def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=90):
     return False
 
 
-def pujar_episodi(episodi, episodes_dir, dry_run=False, project_dir=None):
-    """Puja un episodi a archive.org (MP3 + caràtula)"""
+def pujar_episodi(episodi, episodes_dir, dry_run=False, project_dir=None,
+                  exigir_cover=True):
+    """Puja un episodi a archive.org (MP3 + caràtula).
+
+    Per defecte s'atura si no hi ha caràtula: val més no publicar que publicar
+    un episodi sense imatge. Amb exigir_cover=False (--sense-cover) es força.
+    """
 
     fitxer_path = episodes_dir / episodi['fitxer']
 
@@ -336,10 +341,18 @@ def pujar_episodi(episodi, episodes_dir, dry_run=False, project_dir=None):
     if cover:
         print(f"   Caràtula: {cover.name}")
     else:
-        esperat = project_dir / 'assets' / 'thumbnails' / f"{episodi['fitxer'].rsplit('.', 1)[0]}.png"
-        print(f"   ⚠️  ATENCIÓ: NO hi ha caràtula, l'episodi es publicarà sense imatge")
-        print(f"      Esperava trobar-la a: {esperat}")
-        print(f"      Genera-la amb scripts/generate_thumbnail.py i després executa:")
+        nom = episodi['fitxer'].rsplit('.', 1)[0]
+        esperat = project_dir / 'assets' / 'thumbnails' / f"{nom}.png"
+        if exigir_cover:
+            print(f"   ❌ ATURAT: no hi ha caràtula, no es puja res")
+            print(f"      Esperava trobar-la a: {esperat}")
+            print(f"      Genera-la amb:")
+            print(f"      python scripts/generate_thumbnail.py --episodi {episodi['num']} \\")
+            print(f"          --nom {nom} --prompt-suffix 'element visual en anglès'")
+            print(f"      Si realment vols publicar sense imatge: afegeix --sense-cover")
+            return None
+        print(f"   ⚠️  ATENCIÓ: NO hi ha caràtula i s'ha demanat --sense-cover")
+        print(f"      L'episodi es publicarà sense imatge. Per posar-la-hi més tard:")
         print(f"      python scripts/upload_to_archive.py --episodi {episodi['num']} --nomes-cover")
 
     if dry_run:
@@ -441,6 +454,8 @@ def main():
                        help='No actualitzar els fitxers markdown')
     parser.add_argument('--nomes-cover', action='store_true',
                        help='Pujar només la caràtula a ítems que ja existeixen (no re-puja l\'MP3)')
+    parser.add_argument('--sense-cover', action='store_true',
+                       help='Permetre publicar un episodi sense caràtula (per defecte s\'atura)')
 
     args = parser.parse_args()
     
@@ -481,7 +496,8 @@ def main():
     urls_generades = {}
     for episodi in episodis_a_pujar:
         url = pujar_episodi(episodi, episodes_dir, dry_run=args.dry_run,
-                            project_dir=project_dir)
+                            project_dir=project_dir,
+                            exigir_cover=not args.sense_cover)
 
         if url:
             urls_generades[episodi['num']] = url
