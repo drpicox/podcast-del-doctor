@@ -293,7 +293,7 @@ Afegir una nova entrada al final de la llista `EPISODIS`:
 
 ---
 
-### PAS 8: Pujar MP3 a archive.org
+### PAS 8: Pujar MP3 + caràtula a archive.org
 
 ```bash
 source .venv/bin/activate && python scripts/upload_to_archive.py --episodi XXX
@@ -324,6 +324,10 @@ Abans de fer deploy, comprovar:
 8. El JSON de capítols existeix a `sources/` i `chapters_file` coincideix
 9. `soundbite_start`, `soundbite_duration` i `soundbite_title` estan definits
 10. El thumbnail existeix a `assets/thumbnails/` i `thumbnail` coincideix
+10b. **La caràtula ha arribat a archive.org**. L'script ho verifica sol al PAS 8,
+     però si veus l'avís "NO hi ha caràtula" o "no ha arribat", comprova-ho amb:
+     `python scripts/upload_to_archive.py --episodi XXX --nomes-cover`
+     (és idempotent: si ja hi és, no fa res)
 11. El contingut del body és correcte (introducció, temes, fonts, disclaimer)
 12. `scripts/upload_to_archive.py` conté el nou episodi a la llista
 

@@ -331,8 +331,16 @@ def pujar_episodi(episodi, episodes_dir, dry_run=False, project_dir=None):
 
     print(f"\n📦 Pujant episodi {episodi['num']}: {episodi['title']}")
     print(f"   Fitxer: {fitxer_path}")
-    print(f"   Caràtula: {cover.name if cover else '(cap trobada)'}")
     print(f"   Identifier: {identifier}")
+
+    if cover:
+        print(f"   Caràtula: {cover.name}")
+    else:
+        esperat = project_dir / 'assets' / 'thumbnails' / f"{episodi['fitxer'].rsplit('.', 1)[0]}.png"
+        print(f"   ⚠️  ATENCIÓ: NO hi ha caràtula, l'episodi es publicarà sense imatge")
+        print(f"      Esperava trobar-la a: {esperat}")
+        print(f"      Genera-la amb scripts/generate_thumbnail.py i després executa:")
+        print(f"      python scripts/upload_to_archive.py --episodi {episodi['num']} --nomes-cover")
 
     if dry_run:
         print("   🔍 MODE DRY-RUN: No es puja realment")
@@ -362,15 +370,28 @@ def pujar_episodi(episodi, episodes_dir, dry_run=False, project_dir=None):
             retries=3
         )
 
-        if r[0].status_code == 200:
-            url = f"https://archive.org/download/{identifier}/{episodi['fitxer']}"
-            print(f"   ✅ Pujat correctament!")
-            print(f"   📍 URL: {url}")
-            print(f"   🌐 Pàgina: https://archive.org/details/{identifier}")
-            return url
-        else:
+        if r[0].status_code != 200:
             print(f"   ❌ Error en pujar: {r[0].status_code}")
             return None
+
+        url = f"https://archive.org/download/{identifier}/{episodi['fitxer']}"
+        print(f"   ✅ MP3 pujat correctament!")
+        print(f"   📍 URL: {url}")
+        print(f"   🌐 Pàgina: https://archive.org/details/{identifier}")
+
+        # El status_code de dalt és el de l'MP3: no diu res de la caràtula.
+        # I un 200 tampoc garanteix que el fitxer hagi arribat (mira
+        # cover_arribada). Cal verificar-ho i reintentar-ho a part.
+        if cover:
+            print(f"   🔎 verificant la caràtula…")
+            time.sleep(30)
+            if cover_arribada(identifier, cover.name, cover.stat().st_size):
+                print(f"   ✅ Caràtula confirmada!")
+            else:
+                print(f"   ⚠️  La caràtula no ha arribat — reintentant a part")
+                pujar_cover(episodi, project_dir)
+
+        return url
             
     except Exception as e:
         print(f"   ❌ Error: {e}")
