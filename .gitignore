@@ -1,5 +1,8 @@
-# Claude Code settings
-.claude/
+# Claude Code: les comandes del projecte sí que es versionen
+# (el /generate-episode ha de viatjar amb el repo); la resta no,
+# perquè settings.local.json són permisos personals de cada màquina.
+.claude/*
+!.claude/commands/
 
 # Jekyll build files
 _site/
