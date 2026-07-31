@@ -39,7 +39,7 @@ def extract_episode_info_from_filename(mp3_path):
 
     return None
 
-def transcribe_audio_whisper_original(audio_path, model_size="medium"):
+def transcribe_audio_whisper_original(audio_path, model_size="medium", language="ca"):
     """Transcriu l'audio amb openai-whisper (CPU/CUDA)."""
     import torch
 
@@ -62,11 +62,11 @@ def transcribe_audio_whisper_original(audio_path, model_size="medium"):
     model = whisper.load_model(model_size, device=device)
 
     print(f"🎙️  Transcrivint {audio_path}...")
-    result = model.transcribe(audio_path, language="ca")
+    result = model.transcribe(audio_path, language=language)
 
     return result
 
-def transcribe_audio_mlx(audio_path, model_size="large-v3"):
+def transcribe_audio_mlx(audio_path, model_size="large-v3", language="ca"):
     """Transcriu l'audio amb mlx-whisper (GPU Apple Silicon)."""
     try:
         import mlx_whisper
@@ -94,13 +94,13 @@ def transcribe_audio_mlx(audio_path, model_size="large-v3"):
     result = mlx_whisper.transcribe(
         audio_path,
         path_or_hf_repo=model_id,
-        language='ca',
+        language=language,
         verbose=True
     )
 
     return result
 
-def transcribe_audio_lightning(audio_path, model_size="large-v3"):
+def transcribe_audio_lightning(audio_path, model_size="large-v3", language="ca"):
     """Transcriu l'audio amb lightning-whisper-mlx (ultra-ràpid)."""
     try:
         from lightning_whisper_mlx import LightningWhisperMLX
@@ -119,17 +119,18 @@ def transcribe_audio_lightning(audio_path, model_size="large-v3"):
     )
 
     print(f"🎙️  Transcrivint {audio_path}...")
-    result = whisper_model.transcribe(audio_path, language='ca')
+    result = whisper_model.transcribe(audio_path, language=language)
 
     return result
 
-def transcribe_audio(audio_path, model_size="large-v3", backend="auto"):
+def transcribe_audio(audio_path, model_size="large-v3", backend="auto", language="ca"):
     """Transcriu l'audio amb el backend especificat.
 
     Args:
         audio_path: Ruta al fitxer d'audio
         model_size: Model de Whisper (tiny, base, small, medium, large, large-v3)
         backend: Backend a utilitzar (auto, mlx, lightning, whisper)
+        language: Codi ISO de l'idioma de l'àudio (ca per defecte)
 
     Returns:
         Diccionari amb el resultat de la transcripció
@@ -154,11 +155,11 @@ def transcribe_audio(audio_path, model_size="large-v3", backend="auto"):
 
     # Seleccionar backend
     if backend == "mlx":
-        return transcribe_audio_mlx(audio_path, model_size)
+        return transcribe_audio_mlx(audio_path, model_size, language)
     elif backend == "lightning":
-        return transcribe_audio_lightning(audio_path, model_size)
+        return transcribe_audio_lightning(audio_path, model_size, language)
     elif backend == "whisper":
-        return transcribe_audio_whisper_original(audio_path, model_size)
+        return transcribe_audio_whisper_original(audio_path, model_size, language)
     else:
         print(f"❌ Error: Backend desconegut '{backend}'")
         print("Backends disponibles: auto, mlx, lightning, whisper")
@@ -275,6 +276,8 @@ def main():
     parser.add_argument('--backend', default='auto',
                        choices=['auto', 'mlx', 'lightning', 'whisper'],
                        help='Backend de transcripció: auto (detecció automàtica), mlx (GPU Apple Silicon), lightning (ultra-ràpid), whisper (CPU/CUDA)')
+    parser.add_argument('--language', default='ca',
+                       help="Codi ISO de l'idioma de l'àudio (per defecte: ca). Ex: en per a episodis en anglès")
     parser.add_argument('--output-episode', default='_episodes',
                        help='Directori per al fitxer markdown')
     parser.add_argument('--output-transcript', default='sources',
@@ -298,7 +301,7 @@ def main():
     print(f"📝 Processant episodi {episode_info['number']}: {episode_info['title']}")
 
     # Transcriure
-    result = transcribe_audio(args.audio_file, args.model, args.backend)
+    result = transcribe_audio(args.audio_file, args.model, args.backend, args.language)
     transcript = result["text"]
     segments = result.get("segments", [])
 

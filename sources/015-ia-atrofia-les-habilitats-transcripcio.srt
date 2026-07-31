@@ -1,0 +1,2220 @@
+1
+00:00:00,000 --> 00:00:04,640
+Fa anys que el GPS va entrar a les nostres vides
+
+2
+00:00:04,640 --> 00:00:09,740
+i, bé, tot i ser una eina innegablement meravellosa,
+
+3
+00:00:10,620 --> 00:00:14,720
+ha tingut un efecte secundari una mica curiós.
+
+4
+00:00:14,720 --> 00:00:20,100
+O sigui, ens ha atrofiat bastant el nostre propi sentit de l'orientació.
+
+5
+00:00:20,300 --> 00:00:23,600
+Clar, ens hem acostumat a que ens portin de la mà a tot arreu.
+
+6
+00:00:24,060 --> 00:00:24,540
+Exacte.
+
+7
+00:00:24,860 --> 00:00:28,380
+Vull dir, hi ha aquell estudi clàssic molt famós a la neurociència
+
+8
+00:00:28,380 --> 00:00:30,500
+sobre els taxistes de Londres.
+
+9
+00:00:31,120 --> 00:00:32,480
+Abans de l'era del GPS,
+
+10
+00:00:33,160 --> 00:00:37,400
+aquests conductors havien de memoritzar literalment milers de carrers.
+
+11
+00:00:37,600 --> 00:00:37,940
+I tant.
+
+12
+00:00:38,640 --> 00:00:41,520
+Les famoses rutes d'aquella ciutat que són un laberint.
+
+13
+00:00:41,520 --> 00:00:45,500
+Sí, sí, i els escàners cerebrals demostraven que el seu hipocamp,
+
+14
+00:00:46,120 --> 00:00:49,340
+que és la part del cervell associada a la memòria espacial,
+
+15
+00:00:49,880 --> 00:00:50,920
+creixia físicament.
+
+16
+00:00:51,260 --> 00:00:53,360
+Era com un múscul que s'entrenava cada dia.
+
+17
+00:00:53,560 --> 00:00:57,580
+Un múscul que ara, per la majoria de nosaltres, està en hores baixes, oi?
+
+18
+00:00:58,000 --> 00:00:58,360
+Totalment.
+
+19
+00:00:58,380 --> 00:01:03,400
+I, evidentment, avui dia ens hem acostumat tant a seguir una fletxa blaua en una pantalla
+
+20
+00:01:03,400 --> 00:01:08,340
+que el nostre cervell ja no fa aquest esforç de crear mapes mentals.
+
+21
+00:01:08,840 --> 00:01:13,080
+És una comoditat increïble, clar, però té un cost cognitiu real.
+
+22
+00:01:13,740 --> 00:01:18,220
+Llavors, la gran pregunta que ens fem en l'anàlisi a fons d'avui és, precisament, aquesta.
+
+23
+00:01:18,760 --> 00:01:22,800
+Ens està passant exactament el mateix amb les nostres habilitats intel·lectuals a la feina
+
+24
+00:01:22,800 --> 00:01:24,720
+a causa de la intel·ligència artificial?
+
+25
+00:01:25,200 --> 00:01:27,720
+És que, a veure, és una analogia absolutament enzima.
+
+26
+00:01:28,380 --> 00:01:28,860
+Encertada.
+
+27
+00:01:29,480 --> 00:01:34,700
+I, de fet, aquest paral·lelisme neurològic és el punt de partida perfecte.
+
+28
+00:01:34,760 --> 00:01:39,420
+Perquè, fins ara, el debat públic s'ha centrat, de manera gairebé obsessiva,
+
+29
+00:01:39,880 --> 00:01:42,100
+en com la IA canvia el producte final, no?
+
+30
+00:01:42,340 --> 00:01:44,200
+Clar, només ens fixem en el resultat.
+
+31
+00:01:44,340 --> 00:01:48,660
+Exacte. Ens fixem en si aconsegueix redactar un correu més persuasiu,
+
+32
+00:01:49,160 --> 00:01:53,640
+si genera una imatge hiperrealista en qüestió de segons, o si...
+
+33
+00:01:53,640 --> 00:01:56,600
+O si fa un codi informàtic que funciona a la primera, no?
+
+34
+00:01:56,800 --> 00:01:57,600
+Això mateix.
+
+35
+00:01:57,740 --> 00:01:58,060
+Però, clar,
+
+36
+00:01:58,380 --> 00:02:01,400
+estem ignorant la part més vital de tota aquesta equació,
+
+37
+00:02:01,520 --> 00:02:03,200
+que és la part humana.
+
+38
+00:02:03,580 --> 00:02:07,980
+Avui posarem el focus, exclusivament, en el procés intern.
+
+39
+00:02:08,400 --> 00:02:12,040
+És a dir, què li passa a la ment, a les connexions neuronals,
+
+40
+00:02:12,440 --> 00:02:16,080
+mentre un professional reba aquesta assistència constant de la IA?
+
+41
+00:02:16,420 --> 00:02:18,780
+Què perdem quan deixem d'esforçar-nos, vaja?
+
+42
+00:02:19,400 --> 00:02:19,920
+Exactament.
+
+43
+00:02:20,020 --> 00:02:22,420
+Doncs, per respondre a aquesta incògnita amb rigor,
+
+44
+00:02:22,880 --> 00:02:24,920
+tenim sobre la taula un estudi fascinant.
+
+45
+00:02:25,300 --> 00:02:26,560
+I, a més, molt recent.
+
+46
+00:02:26,560 --> 00:02:28,820
+És de febrer de 2026,
+
+47
+00:02:29,260 --> 00:02:31,840
+publicat per l'equip d'investigadors d'Antròpic.
+
+48
+00:02:32,460 --> 00:02:33,700
+L'estudi es titula
+
+49
+00:02:33,700 --> 00:02:36,300
+How AI impacts skill formation.
+
+50
+00:02:36,540 --> 00:02:39,780
+Que vindria a ser com la IA impacta en la formació d'habilitats.
+
+51
+00:02:39,920 --> 00:02:40,780
+Sí, exacte.
+
+52
+00:02:41,120 --> 00:02:43,060
+I la missió d'aquesta sessió és esbrinar,
+
+53
+00:02:43,340 --> 00:02:44,620
+amb les dades empíriques a la mà,
+
+54
+00:02:45,060 --> 00:02:47,200
+si delegar tasques a la IA en el nostre dia a dia
+
+55
+00:02:47,200 --> 00:02:49,900
+ens fa realment professionals més complets,
+
+56
+00:02:50,420 --> 00:02:53,820
+o si, per contra, estem sabotejant de manera silenciosa
+
+57
+00:02:53,820 --> 00:02:55,440
+la nostra capacitat d'aprendre
+
+58
+00:02:55,440 --> 00:02:56,540
+i de ser veritables.
+
+59
+00:02:56,560 --> 00:02:58,480
+I ja et faig un espòiler.
+
+60
+00:02:58,980 --> 00:03:00,600
+Les conclusions d'aquesta recerca
+
+61
+00:03:00,600 --> 00:03:02,720
+obliguen a replantejar, bueno,
+
+62
+00:03:02,940 --> 00:03:05,280
+pràcticament tot el disseny corporatiu modern.
+
+63
+00:03:05,880 --> 00:03:07,540
+Sobretot per a qualsevol departament
+
+64
+00:03:07,540 --> 00:03:08,900
+que es dediqui a la formació.
+
+65
+00:03:09,580 --> 00:03:10,100
+Totalment.
+
+66
+00:03:10,460 --> 00:03:12,240
+A veure, els investigadors van triar
+
+67
+00:03:12,240 --> 00:03:14,040
+el camp de la enginyeria de programari
+
+68
+00:03:14,040 --> 00:03:15,460
+com a entorn de proves.
+
+69
+00:03:15,880 --> 00:03:18,780
+És perfecte perquè és un sector on la IA generativa
+
+70
+00:03:18,780 --> 00:03:20,840
+ja s'utilitza massivament des de fa anys, clar?
+
+71
+00:03:21,280 --> 00:03:23,560
+I, a més, has d'aprendre eines noves cada dia.
+
+72
+00:03:23,960 --> 00:03:26,460
+O sigui que, si volem veure l'impacte real,
+
+73
+00:03:26,460 --> 00:03:27,840
+és el lloc ideal.
+
+74
+00:03:28,160 --> 00:03:28,720
+Exacte.
+
+75
+00:03:29,060 --> 00:03:31,420
+Si hi ha un laboratori perfecte per això, és aquest.
+
+76
+00:03:31,620 --> 00:03:32,040
+D'acord.
+
+77
+00:03:32,340 --> 00:03:34,360
+Doncs analitzem el disseny de l'experiment
+
+78
+00:03:34,360 --> 00:03:37,740
+perquè, sincerament, està pensat amb molta precisió
+
+79
+00:03:37,740 --> 00:03:39,520
+per forçar el servei d'aquesta gent.
+
+80
+00:03:40,220 --> 00:03:42,260
+Van reclutar 52 programadors
+
+81
+00:03:42,260 --> 00:03:44,700
+barrejant perfils juniors i sèniors
+
+82
+00:03:44,700 --> 00:03:46,300
+i els van donar una tasca
+
+83
+00:03:46,300 --> 00:03:48,720
+que cap d'ells havia fet mai en la seva vida.
+
+84
+00:03:49,660 --> 00:03:51,320
+Havien d'aprendre a utilitzar
+
+85
+00:03:51,320 --> 00:03:53,660
+una nova biblioteca de Python anomenada Trio.
+
+86
+00:03:54,280 --> 00:03:55,460
+Que, per a qui no estigui familiaritzat
+
+87
+00:03:55,460 --> 00:03:56,440
+amb el que està fent,
+
+88
+00:03:56,440 --> 00:03:58,600
+el tema Trio és una eina
+
+89
+00:03:58,600 --> 00:04:00,400
+per a fer programació assíncrona.
+
+90
+00:04:00,820 --> 00:04:02,240
+I això és un detall vital.
+
+91
+00:04:02,440 --> 00:04:04,040
+Clar, perquè aquí cal fer un incís.
+
+92
+00:04:04,440 --> 00:04:06,220
+La programació assíncrona no és com
+
+93
+00:04:06,220 --> 00:04:08,940
+aprendre una fórmula de mates senzilla.
+
+94
+00:04:09,480 --> 00:04:11,600
+Requereix un canvi de paradigma mental bestial.
+
+95
+00:04:12,000 --> 00:04:14,160
+Obliga l'ordinador a gestionar diverses tasques
+
+96
+00:04:14,160 --> 00:04:15,640
+alhora sense encallar-se.
+
+97
+00:04:16,060 --> 00:04:17,920
+Jo sempre ho penso com una metàfora de la cuina.
+
+98
+00:04:18,100 --> 00:04:18,820
+No sé com ho veus.
+
+99
+00:04:19,180 --> 00:04:20,800
+A veure, explica-me això de la cuina.
+
+100
+00:04:21,060 --> 00:04:21,620
+Clar, val.
+
+101
+00:04:21,820 --> 00:04:22,820
+Poso l'aigua a bullir
+
+102
+00:04:22,820 --> 00:04:25,120
+i, mentrestant, tallo la ceba,
+
+103
+00:04:25,320 --> 00:04:26,240
+responso un correu de la cuina
+
+104
+00:04:26,240 --> 00:04:28,740
+i, quan sona una alarma
+
+105
+00:04:28,740 --> 00:04:30,100
+que diu que l'aigua hi ha bull,
+
+106
+00:04:30,300 --> 00:04:31,780
+llavors torno a la pasta.
+
+107
+00:04:32,880 --> 00:04:35,320
+Trasladar aquesta lògica al codi informàtic
+
+108
+00:04:35,320 --> 00:04:38,200
+requereix una càrrega cognitiva molt alta.
+
+109
+00:04:38,420 --> 00:04:39,120
+Sí, sí.
+
+110
+00:04:39,380 --> 00:04:41,740
+T'obliga a tenir un model mental molt sòlid
+
+111
+00:04:41,740 --> 00:04:43,160
+d'allò que estàs construint.
+
+112
+00:04:43,860 --> 00:04:45,780
+Doncs bé, els investigadors van dividir
+
+113
+00:04:45,780 --> 00:04:48,040
+aquests 52 professionals en dos grups.
+
+114
+00:04:48,540 --> 00:04:49,960
+A la meitat se'ls va donar accés
+
+115
+00:04:49,960 --> 00:04:52,420
+a un assistent d'IA d'última generació,
+
+116
+00:04:52,840 --> 00:04:54,300
+un model tipus GPT-4
+
+117
+00:04:54,300 --> 00:04:55,820
+o integrat allà mateix.
+
+118
+00:04:55,820 --> 00:04:56,100
+Sí.
+
+119
+00:04:56,240 --> 00:04:58,120
+Que podien demanar-li qualsevol cosa, eh?
+
+120
+00:04:58,320 --> 00:04:58,840
+Exacte.
+
+121
+00:04:59,380 --> 00:05:01,080
+Escriu-me codi, expliquem això,
+
+122
+00:05:01,380 --> 00:05:02,160
+el que volguessin.
+
+123
+00:05:02,700 --> 00:05:04,880
+Però a l'altra meitat, el grup de control,
+
+124
+00:05:05,280 --> 00:05:06,740
+se'ls va dir que res d'IA.
+
+125
+00:05:07,260 --> 00:05:08,780
+Només podien fer servir internet
+
+126
+00:05:08,780 --> 00:05:09,920
+com s'ha fet tota la vida.
+
+127
+00:05:10,340 --> 00:05:12,540
+O sigui, fòrums, documentació oficial,
+
+128
+00:05:13,000 --> 00:05:14,440
+llegir articles i prou.
+
+129
+00:05:14,920 --> 00:05:17,920
+Amb dos grups tenien només 35 minuts
+
+130
+00:05:17,920 --> 00:05:19,600
+per completar dos exercicis
+
+131
+00:05:19,600 --> 00:05:21,960
+fent servir aquesta llibreria nova, Trio,
+
+132
+00:05:22,560 --> 00:05:23,600
+i un cop acabaven,
+
+133
+00:05:23,900 --> 00:05:25,120
+arribava la prova de foc,
+
+134
+00:05:25,120 --> 00:05:27,060
+un test de 14 preguntes
+
+135
+00:05:27,060 --> 00:05:28,880
+per avaluar què havien retingut.
+
+136
+00:05:29,320 --> 00:05:30,480
+I no només de memòria, eh?
+
+137
+00:05:30,920 --> 00:05:33,120
+Era capacitat real per comprendre els conceptes,
+
+138
+00:05:34,100 --> 00:05:35,320
+llegir codi d'altra gent
+
+139
+00:05:35,320 --> 00:05:37,300
+i, el més important, el debugging,
+
+140
+00:05:37,740 --> 00:05:39,140
+que és trobar i arreglar errors.
+
+141
+00:05:39,520 --> 00:05:41,000
+Clar, i llegint l'estudi,
+
+142
+00:05:41,220 --> 00:05:43,120
+la meva primera reacció instintiva
+
+143
+00:05:43,740 --> 00:05:45,620
+com a gestora de projectes va ser pensar,
+
+144
+00:05:46,060 --> 00:05:47,420
+bé, doncs estava convençuda
+
+145
+00:05:47,420 --> 00:05:49,900
+que el grup de l'IA trauria una nota excel·lent
+
+146
+00:05:49,900 --> 00:05:51,120
+i, a més, acabarien superràpid.
+
+147
+00:05:51,800 --> 00:05:53,640
+Tenien un copilot expert al costat.
+
+148
+00:05:54,000 --> 00:05:54,900
+Però els números,
+
+149
+00:05:54,900 --> 00:05:56,900
+aquí, ostres, són completament contraintuitius.
+
+150
+00:05:58,000 --> 00:05:58,860
+És que són dades
+
+151
+00:05:58,860 --> 00:06:00,900
+que trenquen tots els esquemes de la productivitat.
+
+152
+00:06:02,260 --> 00:06:03,760
+El grup que va utilitzar l'IA
+
+153
+00:06:03,760 --> 00:06:05,100
+va obtenir,
+
+154
+00:06:05,620 --> 00:06:06,220
+atenció,
+
+155
+00:06:06,620 --> 00:06:09,060
+un 17% menys de puntuació
+
+156
+00:06:09,060 --> 00:06:11,100
+al test teòric i pràctic.
+
+157
+00:06:11,720 --> 00:06:13,560
+Déu-n'hi-do, un 17%!
+
+158
+00:06:13,960 --> 00:06:15,520
+Un 17% de caiguda
+
+159
+00:06:15,520 --> 00:06:17,780
+no és un marge d'error estadístic,
+
+160
+00:06:17,860 --> 00:06:17,920
+eh?
+
+161
+00:06:18,360 --> 00:06:20,420
+És baixar dos graus sencers de nota,
+
+162
+00:06:20,780 --> 00:06:22,580
+com si passis d'un notable alt
+
+163
+00:06:22,580 --> 00:06:23,960
+a aprovar pèls.
+
+164
+00:06:24,900 --> 00:06:26,820
+Aquesta gent va entendre pitjor
+
+165
+00:06:26,820 --> 00:06:28,380
+la base de la sincronia
+
+166
+00:06:28,380 --> 00:06:31,060
+i van ser incapaços de trobar solucions
+
+167
+00:06:31,060 --> 00:06:32,960
+quan se'ls presentava un codi trencat.
+
+168
+00:06:33,580 --> 00:06:34,480
+Però, a veure,
+
+169
+00:06:34,740 --> 00:06:35,880
+aturem-nos aquí un moment.
+
+170
+00:06:36,620 --> 00:06:37,940
+Fent d'advocada del diable,
+
+171
+00:06:38,400 --> 00:06:39,860
+si jo dirigeix una empresa,
+
+172
+00:06:40,540 --> 00:06:42,940
+potser acceptaria aquesta baixada
+
+173
+00:06:42,940 --> 00:06:44,860
+del 17% en aprenentatge
+
+174
+00:06:44,860 --> 00:06:46,800
+si, a canvi, la meva gent enllestaix
+
+175
+00:06:46,800 --> 00:06:49,040
+la feina en 10 minuts en lloc de 35.
+
+176
+00:06:49,520 --> 00:06:50,700
+Vull dir, l'IA
+
+177
+00:06:50,700 --> 00:06:53,000
+et fa 60 línies de codi perfectes
+
+178
+00:06:53,000 --> 00:06:53,760
+en 5 segons.
+
+179
+00:06:54,040 --> 00:06:54,400
+Ja.
+
+180
+00:06:54,900 --> 00:06:56,200
+El problema és que...
+
+181
+00:06:56,200 --> 00:06:59,120
+Llavors, clar, la pregunta és com potser
+
+182
+00:06:59,120 --> 00:07:01,580
+que no hi hagués un guany de temps significatiu
+
+183
+00:07:01,580 --> 00:07:02,600
+segons les dades.
+
+184
+00:07:03,300 --> 00:07:05,960
+Zero temps estallat i resultats pitjors.
+
+185
+00:07:06,420 --> 00:07:07,480
+Quin sentit té?
+
+186
+00:07:08,020 --> 00:07:09,820
+El misteri es resol molt ràpid
+
+187
+00:07:09,820 --> 00:07:12,220
+quan mirem en què es gastaven el temps.
+
+188
+00:07:12,900 --> 00:07:14,180
+Van analitzar les gravacions
+
+189
+00:07:14,180 --> 00:07:15,560
+de pantalla, minut a minut,
+
+190
+00:07:16,020 --> 00:07:18,240
+i van descobrir una transferència massiva
+
+191
+00:07:18,240 --> 00:07:19,120
+del temps de treball.
+
+192
+00:07:19,680 --> 00:07:21,780
+L'esforç que el grup tradicional dedicava
+
+193
+00:07:21,780 --> 00:07:24,060
+a picar codi, llegint i provant coses,
+
+194
+00:07:24,060 --> 00:07:25,520
+doncs el grup de l'IA
+
+195
+00:07:25,520 --> 00:07:27,940
+el dedicava a interactuar amb la màquina.
+
+196
+00:07:28,260 --> 00:07:28,580
+Uau!
+
+197
+00:07:29,080 --> 00:07:31,760
+Alguns participants es van passar fins a 11 minuts
+
+198
+00:07:31,760 --> 00:07:33,740
+només redactant les instruccions,
+
+199
+00:07:34,140 --> 00:07:35,280
+els famosos prompts.
+
+200
+00:07:36,000 --> 00:07:38,360
+Escrivien, l'IA els donava una cosa rara,
+
+201
+00:07:38,580 --> 00:07:40,500
+s'enfadaven, demanaven canvis,
+
+202
+00:07:40,780 --> 00:07:41,940
+intentaven entendre-ho,
+
+203
+00:07:42,320 --> 00:07:43,240
+tornaven a escriure.
+
+204
+00:07:43,520 --> 00:07:45,340
+...digital, mentre el del costat,
+
+205
+00:07:45,500 --> 00:07:46,840
+amb una paella i dos ous,
+
+206
+00:07:47,280 --> 00:07:48,480
+en 5 minuts ja s'ho ha menjat.
+
+207
+00:07:48,720 --> 00:07:50,780
+Tal qual. És una imatge perfecta.
+
+208
+00:07:50,780 --> 00:07:52,580
+Hem canviat el temps productiu
+
+209
+00:07:52,580 --> 00:07:54,140
+pel temps de gestió de la màquina
+
+210
+00:07:54,140 --> 00:07:55,080
+que ens havia de salvar.
+
+211
+00:07:55,680 --> 00:07:56,160
+Increïble.
+
+212
+00:07:56,460 --> 00:07:58,320
+Però escolta, per entendre bé
+
+213
+00:07:58,320 --> 00:07:59,760
+la diferència d'aprenentatge,
+
+214
+00:08:00,160 --> 00:08:02,400
+hem de mirar què passava al cap de l'altre grup,
+
+215
+00:08:02,840 --> 00:08:05,240
+els que només tenien els fòrums i la documentació.
+
+216
+00:08:05,820 --> 00:08:06,960
+Per què van aprendre tan bé?
+
+217
+00:08:07,560 --> 00:08:09,860
+Doncs la resposta és la frustració.
+
+218
+00:08:10,220 --> 00:08:12,700
+Parlem d'això. Parlem d'aquesta fricció.
+
+219
+00:08:13,240 --> 00:08:14,760
+Perquè l'estudi mostra
+
+220
+00:08:14,760 --> 00:08:16,320
+que el grup sense IA
+
+221
+00:08:16,320 --> 00:08:19,220
+va topar amb una mitjana de 3 errors severts
+
+222
+00:08:19,220 --> 00:08:20,360
+durant l'exercici.
+
+223
+00:08:20,820 --> 00:08:22,380
+En canvi, els de l'IA,
+
+224
+00:08:22,580 --> 00:08:24,820
+només van ensopegar un sol cop.
+
+225
+00:08:25,060 --> 00:08:27,300
+Clar, perquè l'IA els donava el codinet.
+
+226
+00:08:27,940 --> 00:08:29,640
+Llavors, què aporten aquests errors
+
+227
+00:08:29,640 --> 00:08:30,620
+a l'aprenentatge?
+
+228
+00:08:31,280 --> 00:08:32,240
+Ho aporten tot
+
+229
+00:08:32,240 --> 00:08:34,700
+i no parlem de deixar-se una coma.
+
+230
+00:08:35,540 --> 00:08:36,580
+Eren errors estructurals,
+
+231
+00:08:37,760 --> 00:08:39,440
+com un run-time warning
+
+232
+00:08:39,440 --> 00:08:41,380
+o un type error
+
+233
+00:08:41,380 --> 00:08:43,840
+molt específic d'aquest entorn nou.
+
+234
+00:08:45,040 --> 00:08:47,260
+Quan un professional es menja aquest error,
+
+235
+00:08:47,620 --> 00:08:48,960
+el seu cervell detecta
+
+236
+00:08:48,960 --> 00:08:50,420
+una anomalia severa.
+
+237
+00:08:50,420 --> 00:08:52,420
+La realitat no quadra
+
+238
+00:08:52,580 --> 00:08:53,500
+amb la seva lògica.
+
+239
+00:08:53,960 --> 00:08:55,020
+I han d'aturar-se.
+
+240
+00:08:55,220 --> 00:08:57,140
+Exacte. S'han d'aturar,
+
+241
+00:08:57,640 --> 00:08:59,700
+anar a llegir paràgrafs avorrits,
+
+242
+00:09:00,320 --> 00:09:01,380
+entendre què falla
+
+243
+00:09:01,380 --> 00:09:03,580
+i corregir-ho ells mateixos.
+
+244
+00:09:04,520 --> 00:09:06,540
+Aquest procés crea vies neuronals
+
+245
+00:09:06,540 --> 00:09:07,500
+molt fortes.
+
+246
+00:09:08,300 --> 00:09:10,340
+És el que en diem metacognició,
+
+247
+00:09:10,780 --> 00:09:12,980
+o sigui, adonar-te del que no saps
+
+248
+00:09:12,980 --> 00:09:14,760
+i reconstruir la teva idea.
+
+249
+00:09:15,960 --> 00:09:16,300
+L'IA,
+
+250
+00:09:16,860 --> 00:09:18,700
+com que t'elimina el problema d'arrell
+
+251
+00:09:18,700 --> 00:09:20,660
+i et dona la solució mastegada,
+
+252
+00:09:21,260 --> 00:09:22,560
+es roba tot aquest procés.
+
+253
+00:09:22,580 --> 00:09:23,900
+Això és vital.
+
+254
+00:09:24,680 --> 00:09:26,900
+Però posem per cas
+
+255
+00:09:26,900 --> 00:09:28,580
+que em plantejo una objecció
+
+256
+00:09:29,260 --> 00:09:31,500
+pensant d'aquí a uns anys.
+
+257
+00:09:31,860 --> 00:09:33,880
+Si sabem que acabarem tenint
+
+258
+00:09:33,880 --> 00:09:35,720
+un GPT-5
+
+259
+00:09:35,720 --> 00:09:36,820
+o un GPT-6
+
+260
+00:09:36,820 --> 00:09:38,900
+que seran perfectes
+
+261
+00:09:38,900 --> 00:09:40,640
+i no faran mai errors
+
+262
+00:09:40,640 --> 00:09:42,540
+i et donaran l'aplicació feta
+
+263
+00:09:42,540 --> 00:09:43,640
+amb un sol clic.
+
+264
+00:09:44,400 --> 00:09:45,560
+Llavors, quin problema hi ha
+
+265
+00:09:45,560 --> 00:09:47,260
+si el treballador no entén la base?
+
+266
+00:09:47,800 --> 00:09:49,920
+Si la màquina ho fa perfecte,
+
+267
+00:09:49,920 --> 00:09:51,460
+per què m'hauria de preocupar?
+
+268
+00:09:51,760 --> 00:09:52,120
+Ostres!
+
+269
+00:09:52,580 --> 00:09:53,760
+Doncs aquí tenim potser
+
+270
+00:09:53,760 --> 00:09:55,300
+l'amenaça més gran de l'estudi.
+
+271
+00:09:55,860 --> 00:09:57,560
+És el problema de la verificació.
+
+272
+00:09:58,280 --> 00:09:59,600
+Tothom està d'acord que l'IA
+
+273
+00:09:59,600 --> 00:10:01,380
+revolucionarà la feina, sí.
+
+274
+00:10:01,780 --> 00:10:03,660
+Però sempre es diu que hi haurà
+
+275
+00:10:03,660 --> 00:10:05,220
+una supervisió humana, oi?
+
+276
+00:10:05,680 --> 00:10:08,000
+Un professional que editarà el codi
+
+277
+00:10:08,000 --> 00:10:09,720
+abans de posar-lo a producció.
+
+278
+00:10:10,020 --> 00:10:11,720
+Sí, el famós humà en el bucle.
+
+279
+00:10:11,920 --> 00:10:14,040
+Clar. Però la paradoxa és enorme.
+
+280
+00:10:14,760 --> 00:10:16,060
+Per verificar si un codi
+
+281
+00:10:16,060 --> 00:10:18,040
+per a un banc o per a l'ordinador
+
+282
+00:10:18,040 --> 00:10:19,380
+d'un avió és correcte,
+
+283
+00:10:19,840 --> 00:10:22,060
+necessites un ull clínic espectacular.
+
+284
+00:10:22,580 --> 00:10:23,800
+Una habilitat per a trobar
+
+285
+00:10:23,800 --> 00:10:25,520
+errors minúsculs.
+
+286
+00:10:25,760 --> 00:10:27,800
+Si els treballadors aprenen la professió
+
+287
+00:10:27,800 --> 00:10:29,800
+delegant tota la feina bruta
+
+288
+00:10:29,800 --> 00:10:31,660
+a l'IA des del primer dia,
+
+289
+00:10:32,380 --> 00:10:34,020
+mai, repeteixo, mai,
+
+290
+00:10:34,400 --> 00:10:36,140
+construiran aquest ull crític.
+
+291
+00:10:36,420 --> 00:10:36,620
+Ja.
+
+292
+00:10:37,940 --> 00:10:38,740
+És terrorífic.
+
+293
+00:10:39,920 --> 00:10:41,560
+Estaríem formant literalment
+
+294
+00:10:41,560 --> 00:10:43,220
+generacions de supervisors
+
+295
+00:10:43,220 --> 00:10:45,060
+incapaços de supervisar res.
+
+296
+00:10:45,660 --> 00:10:47,800
+Quan la màquina s'inventi
+
+297
+00:10:47,800 --> 00:10:49,720
+alguna cosa o al·lucini un concepte
+
+298
+00:10:49,720 --> 00:10:51,780
+de manera subtil, l'humà ho mirarà
+
+299
+00:10:51,780 --> 00:10:52,540
+per sobre i dirà,
+
+300
+00:10:52,580 --> 00:10:53,960
+bueno, té bona pinta.
+
+301
+00:10:54,500 --> 00:10:56,780
+I ho aprovarà. Simplement perquè no té el bagatge
+
+302
+00:10:56,780 --> 00:10:58,680
+de donar-se cops de cap contra la paret,
+
+303
+00:10:59,100 --> 00:11:00,220
+que és el que et dona el criteri.
+
+304
+00:11:00,360 --> 00:11:02,580
+És una vulnerabilitat sistèmica brutal.
+
+305
+00:11:03,040 --> 00:11:03,940
+I mira, tu has d'estudiar.
+
+306
+00:11:04,360 --> 00:11:06,500
+És tan bo perquè no es queda només en dir
+
+307
+00:11:06,500 --> 00:11:08,760
+escolteu, que l'IA és dolenta
+
+308
+00:11:08,760 --> 00:11:11,020
+per aprendre. No. Va més enllà.
+
+309
+00:11:11,320 --> 00:11:13,300
+I demostra que el problema real
+
+310
+00:11:13,300 --> 00:11:14,700
+és com s'utilitza.
+
+311
+00:11:15,160 --> 00:11:17,380
+L'eina és una cosa, però el comportament
+
+312
+00:11:17,380 --> 00:11:18,560
+humà és el que mana.
+
+313
+00:11:19,020 --> 00:11:21,340
+Sí, sí. I això és la part que em va agradar més.
+
+314
+00:11:21,340 --> 00:11:23,760
+Van classificar els usuaris en sis
+
+315
+00:11:23,760 --> 00:11:26,360
+persones o perfils d'interacció
+
+316
+00:11:26,360 --> 00:11:28,380
+segons la seva implicació cognitiva.
+
+317
+00:11:29,000 --> 00:11:30,140
+I hi havia tres patrons
+
+318
+00:11:30,140 --> 00:11:32,060
+concrets que traien notes per sota
+
+319
+00:11:32,060 --> 00:11:34,300
+del 40%. Un fracàs total.
+
+320
+00:11:34,740 --> 00:11:36,200
+Exacte. I la constant
+
+321
+00:11:36,200 --> 00:11:38,420
+en aquests tres era renunciar
+
+322
+00:11:38,420 --> 00:11:40,280
+a pensar per ells mateixos.
+
+323
+00:11:40,480 --> 00:11:42,260
+El primer era la delegació
+
+324
+00:11:42,260 --> 00:11:44,320
+a l'IA. Aquests actuaven
+
+325
+00:11:44,320 --> 00:11:46,120
+com si fossin un simple missatger.
+
+326
+00:11:46,420 --> 00:11:47,480
+Un rúter humà, vaja.
+
+327
+00:11:47,700 --> 00:11:49,880
+Això mateix. Copiaven la instrucció,
+
+328
+00:11:49,880 --> 00:11:50,980
+l'enganxaven a l'IA,
+
+329
+00:11:51,340 --> 00:11:53,840
+demanaven el resultat final i ho llibraven.
+
+330
+00:11:54,180 --> 00:11:55,680
+Desconexió total de la feina.
+
+331
+00:11:56,020 --> 00:11:57,660
+I bueno, suposo que també hi ha
+
+332
+00:11:57,660 --> 00:11:59,580
+la temptació de rendir-se quan es posa
+
+333
+00:11:59,580 --> 00:12:01,700
+difícil la cosa, no? Totalment.
+
+334
+00:12:02,120 --> 00:12:03,000
+I d'això en deien
+
+335
+00:12:03,000 --> 00:12:05,040
+dependència progressiva.
+
+336
+00:12:05,660 --> 00:12:07,580
+Començaven llegint una mica, intentant
+
+337
+00:12:07,580 --> 00:12:10,140
+entendre-ho, però quan l'exercici es complicava
+
+338
+00:12:10,140 --> 00:12:12,160
+o s'acabava el temps, claudicaven.
+
+339
+00:12:12,600 --> 00:12:13,260
+Deien a l'IA,
+
+340
+00:12:13,660 --> 00:12:15,740
+mira, acaba-ho tu i deixa'm en pau.
+
+341
+00:12:16,280 --> 00:12:17,400
+I l'últim patró dolent
+
+342
+00:12:17,400 --> 00:12:19,100
+és el més enganyós,
+
+343
+00:12:19,100 --> 00:12:21,100
+que és la depuració intertítica.
+
+344
+00:12:21,340 --> 00:12:22,820
+A veure, com era aquest?
+
+345
+00:12:22,900 --> 00:12:24,940
+Doncs aquests generaven el codi,
+
+346
+00:12:25,200 --> 00:12:26,780
+però cada cop que els donava error,
+
+347
+00:12:27,140 --> 00:12:28,560
+no pensaven per què fallava.
+
+348
+00:12:28,980 --> 00:12:30,960
+Copiaven l'error vermell de la pantalla,
+
+349
+00:12:31,380 --> 00:12:33,340
+ho llençaven a l'IA i li deien
+
+350
+00:12:33,340 --> 00:12:35,200
+arregla-ho. Feien servir
+
+351
+00:12:35,200 --> 00:12:37,640
+la intel·ligència artificial com si fos
+
+352
+00:12:37,640 --> 00:12:38,900
+el corrector del Word.
+
+353
+00:12:39,580 --> 00:12:40,700
+Zero esforç teòric.
+
+354
+00:12:41,040 --> 00:12:43,040
+O sigui, força bruta d'assetjar error.
+
+355
+00:12:43,660 --> 00:12:45,260
+I sobre aquest esforç cognitiu,
+
+356
+00:12:45,740 --> 00:12:47,460
+hi ha una dada a l'estudi que crec
+
+357
+00:12:47,460 --> 00:12:49,720
+que destrossa totalment un mite popular.
+
+358
+00:12:50,240 --> 00:12:51,320
+Ho van analitzar tot,
+
+359
+00:12:51,340 --> 00:12:53,480
+i van mirar si copiar i enganxar
+
+360
+00:12:53,480 --> 00:12:55,840
+el codi directament donava pitjor nota
+
+361
+00:12:55,840 --> 00:12:57,600
+que teclear el codi manualment
+
+362
+00:12:57,600 --> 00:12:58,940
+lletra a lletra.
+
+363
+00:12:59,020 --> 00:13:01,540
+Des de petits ens diuen allò d'això mateix.
+
+364
+00:13:02,120 --> 00:13:03,780
+Però resulta que a l'estudi
+
+365
+00:13:03,780 --> 00:13:05,780
+transcriure manualment el text
+
+366
+00:13:05,780 --> 00:13:07,380
+de la IA no va millorar
+
+367
+00:13:07,380 --> 00:13:09,060
+absolutament res les notes.
+
+368
+00:13:09,540 --> 00:13:10,380
+Zero diferència.
+
+369
+00:13:10,620 --> 00:13:13,340
+És que això fulmina la idea de la memòria muscular
+
+370
+00:13:13,340 --> 00:13:14,940
+per a tasques intel·lectuals.
+
+371
+00:13:15,300 --> 00:13:17,680
+Premre tecla sense pensar és una acció
+
+372
+00:13:17,680 --> 00:13:19,540
+buida. Copiar un codi
+
+373
+00:13:19,540 --> 00:13:21,320
+generat per IA sense analitzar-lo
+
+374
+00:13:21,340 --> 00:13:23,600
+és com, no sé, com agafar els apunts
+
+375
+00:13:23,600 --> 00:13:25,200
+del company més llest de la classe
+
+376
+00:13:25,200 --> 00:13:27,400
+el dia abans i passar-los mecànicament.
+
+377
+00:13:27,800 --> 00:13:29,160
+Tens els papers, sí, però
+
+378
+00:13:29,160 --> 00:13:31,260
+aprovaràs l'enxament. No, perquè
+
+379
+00:13:31,260 --> 00:13:33,160
+al teu cervell no hi ha res estructurat.
+
+380
+00:13:33,380 --> 00:13:35,660
+Clar. I aquí és on la conversa
+
+381
+00:13:35,660 --> 00:13:37,300
+per sort fa un gir més
+
+382
+00:13:37,300 --> 00:13:39,160
+positiu. Perquè l'estudi
+
+383
+00:13:39,160 --> 00:13:41,160
+no ens diu que haguem de prohibir
+
+384
+00:13:41,160 --> 00:13:42,440
+la IA a les oficines.
+
+385
+00:13:43,100 --> 00:13:45,620
+De fet, van trobar perfils d'usuaris
+
+386
+00:13:45,620 --> 00:13:47,360
+que fent servir exactament
+
+387
+00:13:47,360 --> 00:13:49,140
+la mateixa eina, van treure
+
+388
+00:13:49,140 --> 00:13:50,900
+més d'un 65% al test
+
+389
+00:13:50,900 --> 00:13:52,880
+igualant el grup que no tenia IA.
+
+390
+00:13:53,180 --> 00:13:54,920
+Com ho van fer aquesta gent? Què feien
+
+391
+00:13:54,920 --> 00:13:57,340
+diferent? Doncs van entendre
+
+392
+00:13:57,340 --> 00:13:59,120
+que la IA no és un becari
+
+393
+00:13:59,120 --> 00:14:00,500
+al qual li delegues la feina,
+
+394
+00:14:01,120 --> 00:14:03,240
+sinó un tutor hiperintel·ligent.
+
+395
+00:14:03,660 --> 00:14:05,240
+Van trobar tres patrons bons.
+
+396
+00:14:05,900 --> 00:14:07,160
+Un era la generació
+
+397
+00:14:07,160 --> 00:14:08,780
+i després comprensió.
+
+398
+00:14:09,220 --> 00:14:11,120
+És a dir, demanaven el codi sencer
+
+399
+00:14:11,120 --> 00:14:13,340
+a la IA, però després invertien
+
+400
+00:14:13,340 --> 00:14:15,180
+tot el temps guanyat en interrogar-la.
+
+401
+00:14:15,580 --> 00:14:16,940
+Li preguntaven, a veure,
+
+402
+00:14:16,940 --> 00:14:19,120
+per què has fet servir aquesta funció aquí?
+
+403
+00:14:19,660 --> 00:14:20,860
+O, què passa si canvies?
+
+404
+00:14:20,900 --> 00:14:22,860
+I això. No s'aturaven fins que
+
+405
+00:14:22,860 --> 00:14:24,520
+entenien l'arquitectura del codi.
+
+406
+00:14:24,940 --> 00:14:26,880
+Buscaven intencionadament la fricció
+
+407
+00:14:26,880 --> 00:14:29,160
+que s'havien saltat. Clar, necessitaven
+
+408
+00:14:29,160 --> 00:14:30,360
+el per què de les coses.
+
+409
+00:14:30,740 --> 00:14:32,820
+Això mateix. Un altre perfil era
+
+410
+00:14:32,820 --> 00:14:35,000
+l'híbrid, que demanava el codi i alhora
+
+411
+00:14:35,000 --> 00:14:37,000
+una explicació teòrica. Però el meu
+
+412
+00:14:37,000 --> 00:14:38,560
+preferit, el més efectiu,
+
+413
+00:14:39,000 --> 00:14:40,360
+era la indagació conceptual.
+
+414
+00:14:40,660 --> 00:14:42,200
+Aquests eren els més puristes, no?
+
+415
+00:14:42,420 --> 00:14:44,660
+Sí, sí. Es negaven rotundament
+
+416
+00:14:44,660 --> 00:14:46,980
+de demanar codi. Ho feien servir
+
+417
+00:14:46,980 --> 00:14:48,800
+només com un buscador avançat.
+
+418
+00:14:49,360 --> 00:14:50,820
+Preguntaven, què vol dir
+
+419
+00:14:50,820 --> 00:14:52,780
+exactament assincronia
+
+420
+00:14:52,780 --> 00:14:54,980
+aquí? Com entenc aquest error?
+
+421
+00:14:55,420 --> 00:14:56,500
+I amb el concepte clar,
+
+422
+00:14:56,860 --> 00:14:58,620
+tancaven el xat i escrivien
+
+423
+00:14:58,620 --> 00:15:00,160
+ells mateixos des de zero.
+
+424
+00:15:00,640 --> 00:15:02,820
+Resumem-t'ho a mà. Aquesta gent
+
+425
+00:15:02,820 --> 00:15:04,620
+va combinar la velocitat de la IA
+
+426
+00:15:04,620 --> 00:15:06,140
+amb la retenció profunda.
+
+427
+00:15:06,580 --> 00:15:08,680
+Un èxit absolut. És fascinant.
+
+428
+00:15:09,040 --> 00:15:10,260
+Això ens demostra que
+
+429
+00:15:10,260 --> 00:15:12,900
+al final la màquina és un mirall.
+
+430
+00:15:13,340 --> 00:15:14,760
+Reflexa la teva actitud.
+
+431
+00:15:15,240 --> 00:15:16,540
+Si vols escagecar-te,
+
+432
+00:15:16,800 --> 00:15:18,780
+t'ho posen safata. Si vols ser
+
+433
+00:15:18,780 --> 00:15:20,780
+un expert, és el millor llibre
+
+434
+00:15:20,780 --> 00:15:21,900
+interactiu del món.
+
+435
+00:15:22,220 --> 00:15:24,560
+I aquesta dualitat es nota moltíssim en la part
+
+436
+00:15:24,560 --> 00:15:26,280
+emocional. Quan van acabar,
+
+437
+00:15:26,660 --> 00:15:28,480
+els participants van omplir un qüestionari
+
+438
+00:15:28,480 --> 00:15:29,960
+sobre com s'havien sentit.
+
+439
+00:15:30,540 --> 00:15:32,740
+És molt revelador. Contra murs de codi,
+
+440
+00:15:32,900 --> 00:15:34,320
+trencat tota l'estona,
+
+441
+00:15:34,560 --> 00:15:36,380
+frustrats, perduts, i en canvi
+
+442
+00:15:36,380 --> 00:15:38,560
+valoraven l'experiència amb notes altíssimes
+
+443
+00:15:38,560 --> 00:15:40,500
+de diversió. Havien sentit aquella
+
+444
+00:15:40,500 --> 00:15:42,440
+dopamina de, uau, he resolt
+
+445
+00:15:42,440 --> 00:15:43,720
+el trencacluques jo sol.
+
+446
+00:15:44,360 --> 00:15:46,100
+Mentrestant, el grup de la IA.
+
+447
+00:15:46,360 --> 00:15:48,780
+Bueno, el grup de la IA posa els pèls de punta.
+
+448
+00:15:49,020 --> 00:15:50,600
+Confessaven estar desmotivats.
+
+449
+00:15:50,780 --> 00:15:52,360
+Feien servir la paraula anglesa
+
+450
+00:15:52,360 --> 00:15:54,460
+lazy, que és com dir que se sentien
+
+451
+00:15:54,460 --> 00:15:56,460
+mandrosos. Sabien que estaven fent
+
+452
+00:15:56,460 --> 00:15:58,040
+trampes al solitari, bàsicament.
+
+453
+00:15:58,440 --> 00:16:00,720
+Un deia, tinc la idea general, però em falten
+
+454
+00:16:00,720 --> 00:16:02,700
+massa buits de coneixement. Tenien
+
+455
+00:16:02,700 --> 00:16:04,460
+l'obra acabada, però sense saber on
+
+456
+00:16:04,460 --> 00:16:06,720
+estaven les canonades. Això ens porta
+
+457
+00:16:06,720 --> 00:16:08,880
+a un viatge psicològic molt perillós
+
+458
+00:16:08,880 --> 00:16:10,840
+que anomenen la il·lusió
+
+459
+00:16:10,840 --> 00:16:11,760
+de competència.
+
+460
+00:16:12,680 --> 00:16:14,780
+Et creus que en saps molt, perquè la finestra
+
+461
+00:16:14,780 --> 00:16:16,620
+de xat t'ha donat una resposta bona
+
+462
+00:16:16,620 --> 00:16:18,420
+en dos segons. Però
+
+463
+00:16:18,420 --> 00:16:20,280
+confondre accés a la informació
+
+464
+00:16:20,780 --> 00:16:22,580
+en possessió de coneixement és
+
+465
+00:16:22,580 --> 00:16:24,580
+letal. A l'estudi utilitzen
+
+466
+00:16:24,580 --> 00:16:26,560
+un terme que m'encanta per descriure això.
+
+467
+00:16:27,020 --> 00:16:28,620
+Li diuen l'exosquelet
+
+468
+00:16:28,620 --> 00:16:30,520
+cognitiu. Explica'ns d'això
+
+469
+00:16:30,520 --> 00:16:32,520
+de l'exosquelet, perquè la imatge és
+
+470
+00:16:32,520 --> 00:16:34,920
+boníssima. Imagina't un exosquelet físic,
+
+471
+00:16:35,220 --> 00:16:36,540
+una mena de vestit robòtic.
+
+472
+00:16:37,120 --> 00:16:38,600
+Un operari se'l posa i
+
+473
+00:16:38,600 --> 00:16:40,500
+de sobte pot aixecar tones de pes
+
+474
+00:16:40,500 --> 00:16:42,680
+amb una mà. És superproductiu
+
+475
+00:16:42,680 --> 00:16:44,280
+i ràpid, clar. Però
+
+476
+00:16:44,280 --> 00:16:46,320
+si aquest senyor fa servir la màquina per fer
+
+477
+00:16:46,320 --> 00:16:47,960
+tota la força cada dia durant anys,
+
+478
+00:16:47,960 --> 00:16:50,280
+els seus propis músculs biològics
+
+479
+00:16:50,280 --> 00:16:52,040
+no fan res. Es van atrofiant
+
+480
+00:16:52,040 --> 00:16:53,300
+a poc a poc. Totalment.
+
+481
+00:16:53,900 --> 00:16:55,600
+Si un dia s'enva la lum
+
+482
+00:16:55,600 --> 00:16:57,980
+i s'ha de treure el vestit, no només
+
+483
+00:16:57,980 --> 00:16:59,820
+no és més fort que abans, sinó que està
+
+484
+00:16:59,820 --> 00:17:01,920
+esquelètic i afaiblit. I escolta,
+
+485
+00:17:02,260 --> 00:17:04,080
+la nostra ment funciona exactament
+
+486
+00:17:04,080 --> 00:17:05,720
+amb aquest principi. O sigui,
+
+487
+00:17:05,860 --> 00:17:07,720
+que la incomoditat d'haver de rumiar,
+
+488
+00:17:08,180 --> 00:17:09,780
+d'estar mirant un error fixament
+
+489
+00:17:09,780 --> 00:17:11,780
+una bona estona, resulta que és
+
+490
+00:17:11,780 --> 00:17:14,200
+precisament la fàbrica on el nostre cervell
+
+491
+00:17:14,200 --> 00:17:15,400
+crea el talent real.
+
+492
+00:17:15,760 --> 00:17:17,820
+Si la màquina ens ho dona tot mastegat,
+
+493
+00:17:17,960 --> 00:17:19,660
+estem buidant la nostra pròpia professió
+
+494
+00:17:19,660 --> 00:17:20,260
+de sentit.
+
+495
+00:17:20,280 --> 00:17:22,640
+És la conclusió irrefutable de l'estudi.
+
+496
+00:17:23,080 --> 00:17:24,680
+Si elimines la fricció mental,
+
+497
+00:17:25,160 --> 00:17:26,720
+bloqueges directament el procés
+
+498
+00:17:26,720 --> 00:17:28,220
+d'aprenentatge. No hi ha més.
+
+499
+00:17:28,440 --> 00:17:30,640
+Doncs per anar tancant, hem vist
+
+500
+00:17:30,640 --> 00:17:32,720
+claríssimament que delegar-ho
+
+501
+00:17:32,720 --> 00:17:34,920
+tot a la IA sense posar-hi el cap
+
+502
+00:17:34,920 --> 00:17:36,600
+ens destrueix la comprensió.
+
+503
+00:17:37,660 --> 00:17:38,880
+Hem vist que no hi ha
+
+504
+00:17:38,880 --> 00:17:40,640
+cap guany de temps real a causa
+
+505
+00:17:40,640 --> 00:17:41,960
+de la interacció amb la màquina
+
+506
+00:17:41,960 --> 00:17:44,280
+i sabem que l'única manera
+
+507
+00:17:44,280 --> 00:17:46,500
+de no atrofiar-nos és utilitzar
+
+508
+00:17:46,500 --> 00:17:48,600
+la IA forçant-nos nosaltres mateixos
+
+509
+00:17:48,600 --> 00:17:49,400
+a fer aquesta fricció.
+
+510
+00:17:49,400 --> 00:17:51,100
+Fem preguntes profundes.
+
+511
+00:17:51,280 --> 00:17:53,620
+Després de tot això, jo m'agradaria
+
+512
+00:17:53,620 --> 00:17:55,320
+deixar una reflexió final
+
+513
+00:17:55,320 --> 00:17:57,640
+que va directa a les grans empreses.
+
+514
+00:17:58,440 --> 00:17:59,620
+Avui dia tot es basa
+
+515
+00:17:59,620 --> 00:18:00,660
+en la velocitat, oi?
+
+516
+00:18:01,180 --> 00:18:02,760
+Lliurar resultats ràpid.
+
+517
+00:18:03,440 --> 00:18:05,120
+Si un treballador fa el doble
+
+518
+00:18:05,120 --> 00:18:07,560
+amb la IA, delegant, sense entendre res,
+
+519
+00:18:07,720 --> 00:18:08,300
+el premiaran.
+
+520
+00:18:09,060 --> 00:18:11,600
+Però això està generant el que anomenem
+
+521
+00:18:11,600 --> 00:18:13,400
+deute intel·lectual corporatiu.
+
+522
+00:18:14,520 --> 00:18:15,800
+Deute intel·lectual?
+
+523
+00:18:16,140 --> 00:18:17,880
+Ostres, és un concepte duríssim.
+
+524
+00:18:17,880 --> 00:18:19,380
+Paguen avui per eficiència,
+
+525
+00:18:19,400 --> 00:18:21,560
+a canvi de la ignorància de demà, oi?
+
+526
+00:18:21,820 --> 00:18:23,700
+Exacte. I la pregunta és
+
+527
+00:18:23,700 --> 00:18:25,940
+quant trigarà una gran empresa
+
+528
+00:18:25,940 --> 00:18:28,020
+tecnològica a tenir una caiguda
+
+529
+00:18:28,020 --> 00:18:29,300
+massiva dels seus servidors
+
+530
+00:18:29,300 --> 00:18:31,240
+i a donar-se en aquell moment
+
+531
+00:18:31,240 --> 00:18:33,340
+que no els queda ni un sol humà
+
+532
+00:18:33,340 --> 00:18:35,780
+a l'edifici que sàpiga com funciona
+
+533
+00:18:35,780 --> 00:18:37,860
+l'arquitectura del sistema des de la base.
+
+534
+00:18:38,540 --> 00:18:39,920
+Que només tenen gent experta
+
+535
+00:18:39,920 --> 00:18:41,380
+en parlar amb l'exoesquelet,
+
+536
+00:18:41,760 --> 00:18:43,160
+però que justament aquell dia
+
+537
+00:18:43,160 --> 00:18:44,600
+l'exoesquelet està apagat.
+
+538
+00:18:45,000 --> 00:18:47,820
+És el risc sistèmic més gran de la nova economia.
+
+539
+00:18:47,820 --> 00:18:49,300
+És un autèntic avís,
+
+540
+00:18:49,400 --> 00:18:52,580
+a navegants, des del primer fins a l'últim treballador.
+
+541
+00:18:53,040 --> 00:18:53,440
+O sigui,
+
+542
+00:18:53,860 --> 00:18:55,340
+quan obrim qualsevol aplicació
+
+543
+00:18:55,340 --> 00:18:57,640
+o posem el GPS, un cop més
+
+544
+00:18:57,640 --> 00:18:59,080
+per anar on ja sabem anar.
+
+545
+00:18:59,640 --> 00:19:01,940
+Val la pena aturar-se i pensar si aquesta comoditat
+
+546
+00:19:01,940 --> 00:19:02,640
+ens allibira,
+
+547
+00:19:03,220 --> 00:19:05,720
+o si simplement ens està esborrant
+
+548
+00:19:05,720 --> 00:19:08,280
+lentament el nostre propi mapa intern
+
+549
+00:19:08,280 --> 00:19:09,720
+que ens faria ser sempre
+
+550
+00:19:09,720 --> 00:19:11,260
+capaços de trobar el camí a casa,
+
+551
+00:19:11,400 --> 00:19:12,320
+passés el que passés.
+
+552
+00:19:12,940 --> 00:19:16,000
+Nosaltres ho deixem aquí, perquè cadascú hi doni voltes.
+
+553
+00:19:16,000 --> 00:19:17,620
+Ens retrobem molt aviat
+
+554
+00:19:17,620 --> 00:19:19,380
+en la pròxima anàlisi a fons.
+
+555
+00:19:19,400 --> 00:19:21,400
+Fins demà!
+

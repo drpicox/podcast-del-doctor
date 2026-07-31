@@ -153,6 +153,26 @@ EPISODIS = [
         "duration": "35:22",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "escriptura", "comunicació", "larry mcenerney", "university of chicago", "leadership lab", "escriptura professional", "escriptura acadèmica", "retòrica", "comunicació efectiva", "català"]
     },
+    {
+        "num": "014",
+        "fitxer": "014-impost-ocult-habilitats-ia.mp3",
+        "identifier": "podcast-del-doctor-014-impost-ocult-habilitats-ia",
+        "title": "Episodi 014: L'impost ocult de la IA (càpsula en anglès)",
+        "description": "Càpsula curta —i excepcionalment en anglès— sobre l'estudi «How AI Impacts Skill Formation» de Judy Hanwen Shen i Alex Tamkin. Un assaig aleatoritzat amb desenvolupadors que aprenen una llibreria de programació asíncrona nova mostra que els qui la van aprendre amb ajuda de la IA van acabar entenent pitjor la feina que acabaven de lliurar, i van fallar especialment a l'hora de depurar codi trencat sense assistència. A la pantalla, el projecte està acabat; dins del cap, el mapa mental de com funciona aquell codi es queda buit. La versió llarga i en català d'aquest mateix estudi és l'episodi 015.",
+        "date": "2026-07-31",
+        "duration": "00:54",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "aprenentatge", "habilitats", "desenvolupament de programari", "depuració", "arxiv", "skill formation", "anglès"]
+    },
+    {
+        "num": "015",
+        "fitxer": "015-ia-atrofia-les-habilitats.mp3",
+        "identifier": "podcast-del-doctor-015-ia-atrofia-les-habilitats",
+        "title": "Episodi 015: L'IA ens està atrofiant les habilitats",
+        "description": "El GPS ens ha atrofiat el sentit de l'orientació —els taxistes de Londres tenien un hipocamp físicament més gran— i la pregunta d'aquest episodi és si la IA està fent exactament el mateix amb les nostres habilitats intel·lectuals. Analitzem a fons l'estudi «How AI Impacts Skill Formation» (arXiv:2601.20245), un assaig aleatoritzat amb 52 programadors que havien d'aprendre la llibreria asíncrona Trio: els que van tenir assistent d'IA van treure un 17% menys al test i no van guanyar temps, perquè el van gastar redactant prompts. Parlem de la fricció com a mecanisme d'aprenentatge, del problema de la verificació, dels sis perfils d'interacció (tres que fracassen i tres que funcionen), de la il·lusió de competència, de l'exosquelet cognitiu i del deute intel·lectual corporatiu.",
+        "date": "2026-07-31",
+        "duration": "19:19",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "aprenentatge", "habilitats", "metacognició", "desenvolupament de programari", "depuració", "python", "trio", "programació asíncrona", "arxiv", "skill formation", "català"]
+    },
 ]
 
 

@@ -65,7 +65,7 @@ layout: null
 
       <!-- Podcast 2.0 namespace tags -->
       {% assign ep_slug = episode.path | split: '/' | last | remove: '.md' %}
-      <podcast:transcript url="{{ site.url }}{{ site.baseurl }}/sources/{{ ep_slug }}-transcripcio.srt" type="application/x-subrip" language="ca" rel="captions" />
+      <podcast:transcript url="{{ site.url }}{{ site.baseurl }}/sources/{{ ep_slug }}-transcripcio.srt" type="application/x-subrip" language="{{ episode.transcript_language | default: 'ca' }}" rel="captions" />
       {% if episode.chapters_file %}
       <podcast:chapters url="{{ site.url }}{{ site.baseurl }}/sources/{{ episode.chapters_file }}" type="application/json+chapters" />
       {% endif %}

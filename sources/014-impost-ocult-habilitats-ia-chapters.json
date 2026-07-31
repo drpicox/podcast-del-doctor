@@ -1,0 +1,11 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 014: L'impost ocult de la IA (càpsula en anglès)",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: un 17% pitjors en entendre la feina" },
+    { "startTime": 11.06, "title": "El cas del júnior: la llibreria apresa a mitges" },
+    { "startTime": 29.32, "title": "La fricció que el cervell s'estalvia" },
+    { "startTime": 46.18, "title": "Reflexió final: supervisar els errors de demà" }
+  ]
+}

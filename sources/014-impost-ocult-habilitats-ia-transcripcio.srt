@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:05,880
+We're told AI makes junior workers incredibly productive, but a new trial reveals it actually
+
+2
+00:00:05,880 --> 00:00:10,680
+makes them 17% worse at understanding the exact work they just finished.
+
+3
+00:00:11,060 --> 00:00:12,340
+Meet our junior developer.
+
+4
+00:00:12,660 --> 00:00:15,900
+They're tasked with mastering a brand new programming library on the clock.
+
+5
+00:00:16,360 --> 00:00:20,440
+Instead of struggling through the dense documentation, they just ask an AI to write the logic.
+
+6
+00:00:20,900 --> 00:00:23,220
+On their screen, the project is finished in seconds.
+
+7
+00:00:23,600 --> 00:00:27,980
+But inside the developer's head, the mental blueprint for how that code actually works
+
+8
+00:00:27,980 --> 00:00:29,320
+remains completely empty.
+
+9
+00:00:29,320 --> 00:00:34,600
+By outsourcing the frustration of fixing errors to a bot, the brain skips the exact friction
+
+10
+00:00:34,600 --> 00:00:36,420
+required to build permanent expertise.
+
+11
+00:00:37,000 --> 00:00:41,120
+The real danger hits when the AI is taken away, and they have to fix a broken script
+
+12
+00:00:41,120 --> 00:00:41,460
+alone.
+
+13
+00:00:41,980 --> 00:00:45,700
+Researchers found these AI-assisted workers specifically bombed at debugging.
+
+14
+00:00:46,180 --> 00:00:50,740
+If we use AI to skip the struggle of learning today, we won't have the skills to supervise
+
+15
+00:00:50,740 --> 00:00:51,540
+its mistakes tomorrow.
+

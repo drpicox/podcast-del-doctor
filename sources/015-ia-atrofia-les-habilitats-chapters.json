@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 015: L'IA ens està atrofiant les habilitats",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: el GPS i l'hipocamp dels taxistes de Londres" },
+    { "startTime": 153.7, "title": "L'estudi «How AI Impacts Skill Formation» i el disseny de l'experiment" },
+    { "startTime": 366.6, "title": "El resultat: un 17% menys de puntuació" },
+    { "startTime": 419.1, "title": "On va anar el temps: 11 minuts escrivint prompts" },
+    { "startTime": 496.3, "title": "La fricció, els errors severs i la metacognició" },
+    { "startTime": 595.9, "title": "El problema de la verificació: supervisors incapaços de supervisar" },
+    { "startTime": 683.8, "title": "Els sis perfils: els tres patrons que fracassen" },
+    { "startTime": 843.7, "title": "Els tres patrons que sí que funcionen" },
+    { "startTime": 987.0, "title": "L'exosquelet cognitiu i la il·lusió de competència" },
+    { "startTime": 1073.6, "title": "Reflexió final: el deute intel·lectual corporatiu" }
+  ]
+}

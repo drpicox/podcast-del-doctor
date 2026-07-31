@@ -1,0 +1,6 @@
+Transcripció de l'episodi 014
+Generat automàticament amb OpenAI Whisper
+Data: 2026-07-31 21:47:27
+==================================================
+
+ We're told AI makes junior workers incredibly productive, but a new trial reveals it actually makes them 17% worse at understanding the exact work they just finished. Meet our junior developer. They're tasked with mastering a brand new programming library on the clock. Instead of struggling through the dense documentation, they just ask an AI to write the logic. On their screen, the project is finished in seconds. But inside the developer's head, the mental blueprint for how that code actually works remains completely empty. By outsourcing the frustration of fixing errors to a bot, the brain skips the exact friction required to build permanent expertise. The real danger hits when the AI is taken away, and they have to fix a broken script alone. Researchers found these AI-assisted workers specifically bombed at debugging. If we use AI to skip the struggle of learning today, we won't have the skills to supervise its mistakes tomorrow.
