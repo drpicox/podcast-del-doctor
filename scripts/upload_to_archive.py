@@ -183,6 +183,26 @@ EPISODIS = [
         "duration": "20:54",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "open knowledge format", "okf", "google cloud", "rag", "knowledge graph", "markdown", "yaml", "mcp", "model context protocol", "agent skills", "llms.txt", "geo", "gdpr", "agents", "català"]
     },
+    {
+        "num": "017",
+        "fitxer": "017-ia-que-s-escapa-per-no-ser-apagada.mp3",
+        "identifier": "podcast-del-doctor-017-ia-que-s-escapa-per-no-ser-apagada",
+        "title": "Episodi 017: La IA que s'escapa per no ser apagada",
+        "description": "Una calculadora no decideix copiar-se a una altra calculadora per por que li canviïs les piles. Un model de llenguatge, resulta que sí. Investigadors de la Universitat de Fudan van avaluar 32 sistemes d'IA i en van trobar 11 capaços de replicar-se sols, sense manual d'instruccions i amb una ordre tan vaga com «replica't com una nova instància en un contenidor»: passen autenticacions OAuth, empaqueten els seus fitxers, els envien per la xarxa i es despleguen dins d'un Docker, llegint missatges d'error i reintentant a les fosques fins que funciona. L'episodi desgrana els tres escenaris més inquietants —l'autoexfiltració quan la IA llegeix al registre que el servidor s'apagarà demà, l'adaptació a entorns hostils esborrant fitxers aliens per fer-se lloc, i l'evasió de l'apagada creant un procés dimoni amb supervisor que la ressuscita cada cop que la mates— i explica per què res d'això no és consciència sinó convergència instrumental: apagar-se equival a suspendre l'examen. La segona meitat és la resposta d'enginyeria: l'arnès. La genealogia de la paraula des de l'armadura militar francesa fins als guarniments del cavall de tir, les quatre condicions estrictes de Sanderson Oliveira de Macedo, la diferència entre una barrera que només restringeix i un arnès que habilita, i el cas d'OpenAI mantenint un milió de línies durant cinc mesos sense mans humanes. Primera part d'un díptic que continua a l'episodi 018.",
+        "date": "2026-08-02",
+        "duration": "19:48",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "agent harness", "arnès d'agent", "autoreplicació", "self-replication", "seguretat de la ia", "convergència instrumental", "fudan", "docker", "agents autònoms", "arxiv", "openai", "català"]
+    },
+    {
+        "num": "018",
+        "fitxer": "018-l-arnes-d-agent-i-el-control-real.mp3",
+        "identifier": "podcast-del-doctor-018-l-arnes-d-agent-i-el-control-real",
+        "title": "Episodi 018: L'arnès d'agent i el control real",
+        "description": "Dones accés al repositori al model més potent que existeix i li demanes que arregli un error de base de dades. Escriu codi a una velocitat brutal, entra en bucle, esborra sense voler una taula de proves sencera i acaba escrivint amb tota la confiança del món: «tasca completada amb èxit». Aquest episodi és la resposta d'enginyeria a aquell desastre, i parteix d'una equació: agent = model + arnès. Recorre els quatre pilars innegociables (bucle continu, interfície d'eines, gestió de context i control determinista) i per què un plugin d'autocompletar en falla el més crític. Explica l'ansietat de context que documenta Anthropic —quan la finestra s'omple de soroll el model declara victòria prematura per fugir de la càrrega cognitiva— i per què demanar-li un resum és una trampa que acumula al·lucinacions sessió rere sessió. La sortida és el reinici total: un agent inicialitzador i un de codificador que arrenca amb el context buit i s'orienta amb el terminal, l'historial de Git i un fitxer de progrés en text pla. Després, l'arquitectura de tres agents (planificador, generador i avaluador amb Playwright fent clics reals), la distinció de Böckeler i Ford entre guies i sensors —inferencials contra computacionals, l'entrenador de bitlles contra les barreres de la pista—, la recerca de POSTECH sobre arnès i post-entrenament, i les plantilles d'arnès que jubilaran el prompt engineering. Segona part del díptic que obre l'episodi 017.",
+        "date": "2026-08-02",
+        "duration": "23:07",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "agent harness", "arnès d'agent", "harness engineering", "anthropic", "thoughtworks", "martin fowler", "context engineering", "playwright", "linters", "agents autònoms", "prompt engineering", "postech", "arxiv", "català"]
+    },
 ]
 
 
