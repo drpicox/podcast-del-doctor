@@ -173,6 +173,16 @@ EPISODIS = [
         "duration": "19:19",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "aprenentatge", "habilitats", "metacognició", "desenvolupament de programari", "depuració", "python", "trio", "programació asíncrona", "arxiv", "skill formation", "català"]
     },
+    {
+        "num": "016",
+        "fitxer": "016-com-okf-ordena-la-ia.mp3",
+        "identifier": "podcast-del-doctor-016-com-okf-ordena-la-ia",
+        "title": "Episodi 016: OKF, la carpeta de text que ordena el caos de la IA",
+        "description": "Imagina un agent d'IA que esborra les projeccions d'ingressos trimestrals no per un error de programari, sinó per un problema de lectura: ha trobat una nota oblidada de l'any passat que contradiu la base de dades. Aquest episodi analitza l'Open Knowledge Format (OKF), l'estàndard obert que Google Cloud va llançar el juny de 2026 per posar fi al caos del context. La sorpresa és com n'és, de senzill: un arbre de carpetes amb fitxers Markdown en UTF-8 i un bloc YAML al capdamunt on l'únic camp obligatori és «type». Parlem del patró LLM Wiki de Karpathy, de per què l'OKF passa d'una recuperació probabilística (el RAG i els seus vectors) a una de determinista amb enllaços explícits, dels cinc senyals de confiança de la v0.2 —provinença, generated/verified, estat, data de caducitat absoluta i atestació computacional—, de com encaixa amb MCP, Agent Skills i llms.txt (les canonades, el manual i l'aigua), del GEO i la capa de cervell de marca, de la sobirania de dades sota el GDPR, i d'una idea especulativa: els mercats de coneixement expert empaquetat.",
+        "date": "2026-08-02",
+        "duration": "20:54",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "open knowledge format", "okf", "google cloud", "rag", "knowledge graph", "markdown", "yaml", "mcp", "model context protocol", "agent skills", "llms.txt", "geo", "gdpr", "agents", "català"]
+    },
 ]
 
 
