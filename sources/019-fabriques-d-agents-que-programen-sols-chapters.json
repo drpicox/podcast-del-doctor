@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 019: Fàbriques d'agents que ja programen sols",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: de l'assistent de xat al treballador autònom" },
+    { "startTime": 105.0, "title": "La psicosi de context: el mestre d'obres amb memòria de peix" },
+    { "startTime": 200.3, "title": "Beads: identificadors immutables i graf dirigit acíclic" },
+    { "startTime": 359.5, "title": "De JSON-L a Dolt: els arbres Prolly" },
+    { "startTime": 443.4, "title": "La dissidència: l'usuari principal ja no és humà" },
+    { "startTime": 547.6, "title": "Gas Town: alcalde, mofetes, diaca i testimoni" },
+    { "startTime": 621.3, "title": "Mode sense límits: 100 dòlars en una hora" },
+    { "startTime": 725.2, "title": "Cicle MEW, PageRank i portes humanes" },
+    { "startTime": 940.3, "title": "Gas City, Wasteland i el capitalisme algorítmic" },
+    { "startTime": 1179.8, "title": "Reflexió final: qui acaba sent la mofeta?" }
+  ]
+}

@@ -203,6 +203,16 @@ EPISODIS = [
         "duration": "23:07",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "agent harness", "arnès d'agent", "harness engineering", "anthropic", "thoughtworks", "martin fowler", "context engineering", "playwright", "linters", "agents autònoms", "prompt engineering", "postech", "arxiv", "català"]
     },
+    {
+        "num": "019",
+        "fitxer": "019-fabriques-d-agents-que-programen-sols.mp3",
+        "identifier": "podcast-del-doctor-019-fabriques-d-agents-que-programen-sols",
+        "title": "Episodi 019: Fàbriques d'agents que ja programen sols",
+        "description": "Un enginyer de DoltHub activa el «mode sense límits» per arreglar quatre tests de shell i, quan se n'adona, la seva flota d'agents està obrint branques, generant pull requests trencats i fusionant codi que no compila a una velocitat inhumana. Ha de trucar a un company perquè faci un git reset --hard abans que la màquina es carregui l'estructura del repositori. Factura: cent dòlars en tòquens en seixanta minuts de generar escombraries. Aquest episodi explica la infraestructura que ha nascut per evitar exactament això. Comença amb la psicosi de context —el mestre d'obres amb memòria de peix daurat que cada cinc minuts pregunta on són els plànols— i per què Jira i els fitxers Markdown fallen: un tiquet humà funciona perquè hi ha un cervell que n'autocompleta el context, i la màquina no en té. La resposta és Beads, l'issue tracker de Steve Yegge amb identificadors immutables i dependències en graf dirigit acíclic, que va abandonar JSON-L i SQLite perquè cinquanta agents escrivint alhora convertien Git en un festival de conflictes de fusió; ara corre sobre Dolt, una base de dades SQL amb semàntica de Git i arbres Prolly que fusiona a nivell de cel·la. Després, Gas Town i el seu repartiment de Mad Max: l'alcalde que absorbeix el drama de la sala de màquines, les mofetes que piquen codi, el diaca que patrulla i el testimoni que talla els bucles infinits. I el gir incòmode: el Beads Viewer prioritza amb PageRank, l'algoritme de Google, perquè l'usuari principal del programari ja no és el programador humà. Wasteland federa milers de fàbriques perquè es subcontractin la feina entre elles: capitalisme algorítmic. Tercer episodi de la sèrie sobre arnesos d'agent que obren el 017 i el 018.",
+        "date": "2026-08-05",
+        "duration": "19:55",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "agents autònoms", "multiagent", "beads", "gas town", "gas city", "wasteland", "steve yegge", "dolt", "dolthub", "prolly trees", "pagerank", "issue tracker", "graf dirigit acíclic", "orquestració", "context engineering", "català"]
+    },
 ]
 
 

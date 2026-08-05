@@ -1,0 +1,2356 @@
+1
+00:00:00,000 --> 00:00:03,480
+Hola a tothom i benvinguts a una nova anàlisi en profunditat.
+
+2
+00:00:03,840 --> 00:00:06,640
+Avui tenim un tema entre mans que, sincerament,
+
+3
+00:00:06,820 --> 00:00:09,220
+em sembla de ciència-ficció, però ja és aquí.
+
+4
+00:00:09,880 --> 00:00:12,060
+I tant que ja és aquí. Hola a tothom.
+
+5
+00:00:12,840 --> 00:00:15,460
+La missió de la sessió d'avui és de xifrar
+
+6
+00:00:15,460 --> 00:00:17,760
+com estem passant d'un extrem a un altre
+
+7
+00:00:17,760 --> 00:00:19,100
+amb la intel·ligència artificial.
+
+8
+00:00:19,740 --> 00:00:22,640
+Vull dir, com els agents IA estan deixant de ser
+
+9
+00:00:22,640 --> 00:00:24,800
+simples assistents de xat glorificats,
+
+10
+00:00:25,200 --> 00:00:27,800
+aquests als quals els demanes un poema o una petita funció,
+
+11
+00:00:27,800 --> 00:00:30,760
+per convertir-se en treballadors completament autònoms.
+
+12
+00:00:31,040 --> 00:00:34,020
+Exacte. Treballadors operant dins de fàbriques
+
+13
+00:00:34,020 --> 00:00:35,840
+de codi virtuals interconnectades.
+
+14
+00:00:36,160 --> 00:00:37,340
+És un salt evolutiu enorme.
+
+15
+00:00:37,800 --> 00:00:39,640
+I per entendre això, avui ens basarem
+
+16
+00:00:39,640 --> 00:00:41,760
+en un recull de fons impressionant.
+
+17
+00:00:42,280 --> 00:00:44,240
+Estic parlant de les publicacions recents
+
+18
+00:00:44,240 --> 00:00:47,200
+al blog de Dold Hub, escrites per Tim Sen,
+
+19
+00:00:47,760 --> 00:00:49,760
+també en el blog personal d'Steve Yehi,
+
+20
+00:00:50,140 --> 00:00:52,280
+que és, de fet, el creador d'alguns d'aquests sistemes.
+
+21
+00:00:52,500 --> 00:00:55,120
+Sí, i no ens podem deixar l'informe
+
+22
+00:00:55,120 --> 00:00:57,120
+Technology Raider de ThoughtWorks,
+
+23
+00:00:57,120 --> 00:00:59,980
+ni les anàlisis més crítiques de la comunitat,
+
+24
+00:01:00,100 --> 00:01:01,960
+com les d'Alexander Holbridge.
+
+25
+00:01:02,440 --> 00:01:04,700
+Clar. I, a més a més, hem estat mirant
+
+26
+00:01:04,700 --> 00:01:07,920
+la documentació tècnica directa de repositoris a GitHub.
+
+27
+00:01:08,540 --> 00:01:12,080
+Coses com Gastown Hall, Beach Viewer i Ralph Tui.
+
+28
+00:01:12,520 --> 00:01:15,080
+O sigui, que avui entrarem a la sala de màquines,
+
+29
+00:01:15,500 --> 00:01:17,420
+veurem drames de pèrdues de dades,
+
+30
+00:01:17,860 --> 00:01:19,100
+factures desorbitades
+
+31
+00:01:19,100 --> 00:01:21,300
+i com algú sense formació tècnica
+
+32
+00:01:21,300 --> 00:01:25,000
+pot arribar a construir aplicacions corporatives gegantines.
+
+33
+00:01:25,000 --> 00:01:27,740
+És que el que veurem avui
+
+34
+00:01:27,740 --> 00:01:31,820
+no va només de com funciona aquesta tecnologia a nivell tècnic,
+
+35
+00:01:32,340 --> 00:01:35,000
+sinó de per què aquest canvi de paradigma
+
+36
+00:01:35,000 --> 00:01:36,700
+importa per al futur absolut
+
+37
+00:01:36,700 --> 00:01:38,880
+de tot el treball de coneixement.
+
+38
+00:01:39,380 --> 00:01:41,940
+Estic convençuda que això ho canviarà tot.
+
+39
+00:01:42,420 --> 00:01:44,500
+Doncs anem al gra. Desgranem-ho. Per què?
+
+40
+00:01:45,040 --> 00:01:47,520
+Per tenir una fàbrica d'agents treballant per tu,
+
+41
+00:01:47,960 --> 00:01:48,960
+el primer que necessites
+
+42
+00:01:48,960 --> 00:01:51,060
+és que els treballadors recordin què estan fent.
+
+43
+00:01:51,520 --> 00:01:53,420
+I aquí tenim el primer gran problema.
+
+44
+00:01:53,420 --> 00:01:54,420
+La famosa psicodéfica.
+
+45
+00:01:55,000 --> 00:01:57,980
+Aquest nom em fascina
+
+46
+00:01:57,980 --> 00:02:00,200
+i m'espanta parts d'iguals.
+
+47
+00:02:00,380 --> 00:02:03,080
+Vull dir, jo sempre faig servir aquesta analogia.
+
+48
+00:02:03,800 --> 00:02:05,860
+Intentar que una IA programi un projecte llarg
+
+49
+00:02:05,860 --> 00:02:08,200
+utilitzant només la memòria del xat.
+
+50
+00:02:08,800 --> 00:02:10,560
+És com intentar construir un gratacels
+
+51
+00:02:10,560 --> 00:02:12,020
+amb un mestre d'obres
+
+52
+00:02:12,020 --> 00:02:13,800
+que té la memòria d'un peix daurat.
+
+53
+00:02:14,340 --> 00:02:14,940
+Totalment.
+
+54
+00:02:15,380 --> 00:02:18,540
+O sigui, cada cinc minuts et ve i et pregunta
+
+55
+00:02:18,540 --> 00:02:19,960
+on són els planos,
+
+56
+00:02:20,360 --> 00:02:22,040
+per què s'està posant ciment allà
+
+57
+00:02:22,040 --> 00:02:24,100
+o quin era l'objectiu de l'edifici.
+
+58
+00:02:24,100 --> 00:02:24,160
+I aquí tenim el primer gran problema.
+
+59
+00:02:24,160 --> 00:02:24,340
+El primer gran problema és que
+
+60
+00:02:24,340 --> 00:02:24,380
+la memòria d'un peix d'aurat
+
+61
+00:02:24,380 --> 00:02:24,400
+és la memòria d'un peix d'aurat.
+
+62
+00:02:24,400 --> 00:02:24,460
+I aquí tenim el primer gran problema.
+
+63
+00:02:24,460 --> 00:02:26,620
+Això és la psicosi de la gent, oi?
+
+64
+00:02:26,960 --> 00:02:27,840
+Sí, sí.
+
+65
+00:02:28,140 --> 00:02:30,220
+I és degut a una limitació física
+
+66
+00:02:30,220 --> 00:02:32,340
+dels models de llengua actuals.
+
+67
+00:02:32,760 --> 00:02:34,980
+Pateixen d'aquesta demència progressiva
+
+68
+00:02:34,980 --> 00:02:37,260
+quan la seva finestra de context s'esgota.
+
+69
+00:02:37,740 --> 00:02:40,180
+Al principi, tenen tota la informació fresca,
+
+70
+00:02:40,580 --> 00:02:42,080
+però a mesura que llegeixen codi
+
+71
+00:02:42,080 --> 00:02:43,900
+i logs d'errors, l'espai s'omple.
+
+72
+00:02:44,400 --> 00:02:46,040
+I llavors comencen a oblidar
+
+73
+00:02:46,040 --> 00:02:47,260
+el principi de la conversa.
+
+74
+00:02:47,540 --> 00:02:48,060
+Exacte.
+
+75
+00:02:48,440 --> 00:02:50,220
+Llavors, els sistemes clàssics,
+
+76
+00:02:50,380 --> 00:02:51,160
+clar, fallen.
+
+77
+00:02:51,780 --> 00:02:53,840
+Si intentes utilitzar eines humanes
+
+78
+00:02:53,840 --> 00:02:54,440
+com un girant,
+
+79
+00:02:54,440 --> 00:02:56,500
+el sistema assumeix
+
+80
+00:02:56,500 --> 00:02:59,060
+que hi ha una cognició humana constant darrere.
+
+81
+00:02:59,400 --> 00:03:00,780
+Clar, un humà llegeix
+
+82
+00:03:00,780 --> 00:03:02,380
+el títol d'un bitllet de gira
+
+83
+00:03:02,380 --> 00:03:04,140
+i el seu cervell autocompleta
+
+84
+00:03:04,140 --> 00:03:05,800
+el context del projecte, saps?
+
+85
+00:03:06,460 --> 00:03:08,140
+Però la màquina no pot.
+
+86
+00:03:08,560 --> 00:03:10,120
+I si els dones documents plans,
+
+87
+00:03:10,480 --> 00:03:11,760
+tipus fitxers Markdown
+
+88
+00:03:11,760 --> 00:03:13,640
+o llistes de tasques per fer,
+
+89
+00:03:14,120 --> 00:03:16,680
+es degraden de seguida quan la IA els comença a manipular.
+
+90
+00:03:17,240 --> 00:03:18,460
+Es trepitgen entre ells,
+
+91
+00:03:18,560 --> 00:03:20,260
+es borren línies que no tocaven...
+
+92
+00:03:20,260 --> 00:03:21,620
+I aquí és on entra en joc Beats,
+
+93
+00:03:21,620 --> 00:03:23,620
+o bé, conegut com a Bet
+
+94
+00:03:23,620 --> 00:03:24,760
+per les seves sigles,
+
+95
+00:03:25,200 --> 00:03:26,360
+creat per Steve Yeage.
+
+96
+00:03:26,800 --> 00:03:29,660
+Això, pel que he entès, és un motor de memòria estructurada
+
+97
+00:03:29,660 --> 00:03:31,060
+creat específicament
+
+98
+00:03:31,060 --> 00:03:32,860
+perquè els agents ho entenguin.
+
+99
+00:03:33,020 --> 00:03:35,360
+Sí. Quan un agent vol fer una tasca a bits,
+
+100
+00:03:35,520 --> 00:03:36,580
+no escriu text lliure.
+
+101
+00:03:37,040 --> 00:03:39,240
+Crea una tasca amb un identificador únic,
+
+102
+00:03:39,380 --> 00:03:40,840
+inalterable. Per exemple,
+
+103
+00:03:41,340 --> 00:03:43,940
+BD barra A3FYET.
+
+104
+00:03:44,060 --> 00:03:45,680
+D'acord. Llavors tenim tasques
+
+105
+00:03:45,680 --> 00:03:47,240
+amb un codi de barres, per dir-ho així.
+
+106
+00:03:47,740 --> 00:03:49,400
+Però el secret de debò
+
+107
+00:03:49,400 --> 00:03:51,220
+és que aquestes tasques
+
+108
+00:03:51,220 --> 00:03:53,400
+tenen relacions de dependència molt estrictes.
+
+109
+00:03:53,620 --> 00:03:56,940
+Formant un graf dirigit a cíclic.
+
+110
+00:03:57,480 --> 00:03:57,960
+Un DAG.
+
+111
+00:03:58,340 --> 00:03:59,560
+Un concepte que, a veure,
+
+112
+00:03:59,800 --> 00:04:01,100
+sona completament acadèmic.
+
+113
+00:04:01,360 --> 00:04:02,560
+És matemàtica pura.
+
+114
+00:04:03,560 --> 00:04:05,760
+Vol dir que defineixes que la tasca A
+
+115
+00:04:05,760 --> 00:04:07,080
+bloqueja la tasca B.
+
+116
+00:04:07,700 --> 00:04:09,240
+I que no hi pot haver mai, mai,
+
+117
+00:04:09,420 --> 00:04:11,480
+un bucle on la B bloquegi la A.
+
+118
+00:04:11,600 --> 00:04:13,360
+Ah, per evitar que la IA
+
+119
+00:04:13,360 --> 00:04:15,280
+es quedi atrapada donant voltes.
+
+120
+00:04:15,880 --> 00:04:17,440
+I fins i tot tenen conceptes
+
+121
+00:04:17,440 --> 00:04:19,040
+com la comanda B
+
+122
+00:04:19,040 --> 00:04:21,580
+D READY, no? O sigui, la gent
+
+123
+00:04:21,580 --> 00:04:23,600
+diu, ei, he acabat la meva tasca.
+
+124
+00:04:23,620 --> 00:04:25,580
+Què s'ha desbloquejat automàticament?
+
+125
+00:04:25,940 --> 00:04:27,860
+I el sistema li dona la següent feina
+
+126
+00:04:27,860 --> 00:04:29,500
+mastigada. Exactament això.
+
+127
+00:04:30,240 --> 00:04:31,420
+Se n'adona automàticament
+
+128
+00:04:31,420 --> 00:04:33,500
+de quina feina s'ha liberat. Però, a veure,
+
+129
+00:04:34,000 --> 00:04:35,340
+jo aquí et llanço un repte.
+
+130
+00:04:35,840 --> 00:04:37,660
+Jo estic segur que a molta gent
+
+131
+00:04:37,660 --> 00:04:39,000
+li sorgirà aquest dubte.
+
+132
+00:04:39,900 --> 00:04:42,080
+Si imposem una estructura de dependències
+
+133
+00:04:42,080 --> 00:04:43,860
+tan, tan estricta com un graf
+
+134
+00:04:43,860 --> 00:04:45,880
+dirigit, no estem eliminant
+
+135
+00:04:45,880 --> 00:04:47,620
+precisament allò que fa que la IA
+
+136
+00:04:47,620 --> 00:04:50,040
+sigui útil? A què et refereixes, exactament?
+
+137
+00:04:50,340 --> 00:04:51,620
+Vol dir, la creativitat
+
+138
+00:04:51,620 --> 00:04:52,860
+fluïda.
+
+139
+00:04:53,620 --> 00:04:55,740
+El raonament lliure dels models
+
+140
+00:04:55,740 --> 00:04:56,500
+de llenguatge.
+
+141
+00:04:57,760 --> 00:05:00,040
+Si els fiquem en una quadrícula matemàtica
+
+142
+00:05:00,040 --> 00:05:01,880
+tan rígida, no és pitjor?
+
+143
+00:05:02,400 --> 00:05:03,560
+És una bona reflexió,
+
+144
+00:05:03,860 --> 00:05:04,980
+però no és ben bé així.
+
+145
+00:05:05,720 --> 00:05:07,740
+La vestida estructural sí que és rígida
+
+146
+00:05:07,740 --> 00:05:09,680
+per obligació, perquè l'arquitectura
+
+147
+00:05:09,680 --> 00:05:11,780
+d'un sistema no pot ser intuitiva o vaga.
+
+148
+00:05:12,100 --> 00:05:13,100
+Ha de ser exacta.
+
+149
+00:05:13,580 --> 00:05:16,240
+Però a l'hora de resoldre la tasca concreta...
+
+150
+00:05:16,240 --> 00:05:17,880
+A dins de la caixa, diguéssim.
+
+151
+00:05:18,120 --> 00:05:19,780
+Això. A dins de la tasca
+
+152
+00:05:19,780 --> 00:05:21,920
+BAD trafeuta, la gent pot
+
+153
+00:05:21,920 --> 00:05:23,600
+utilitzar tota la seva creativitat.
+
+154
+00:05:23,620 --> 00:05:25,340
+La creativitat fluïda i el seu raonament
+
+155
+00:05:25,340 --> 00:05:27,060
+per escriure la millor funció possible.
+
+156
+00:05:27,800 --> 00:05:29,500
+La rigidesa només existés per
+
+157
+00:05:29,500 --> 00:05:30,700
+mantenir l'edifici dret.
+
+158
+00:05:30,960 --> 00:05:32,480
+D'acord, això té sentit.
+
+159
+00:05:33,360 --> 00:05:35,740
+I aquí és on la cosa es posa realment interessant,
+
+160
+00:05:36,120 --> 00:05:37,800
+perquè ara tenim la memòria de la gent
+
+161
+00:05:37,800 --> 00:05:39,260
+solucionada amb bets.
+
+162
+00:05:39,860 --> 00:05:41,780
+Però la idea és tenir molts agents
+
+163
+00:05:41,780 --> 00:05:43,040
+treballant alhora, oi?
+
+164
+00:05:43,440 --> 00:05:45,720
+Moltíssims. Desenes o centenars.
+
+165
+00:05:46,040 --> 00:05:47,620
+Clar. I com
+
+166
+00:05:47,620 --> 00:05:49,540
+guardem tota aquesta informació de
+
+167
+00:05:49,540 --> 00:05:51,540
+memòria col·lectiva sense que
+
+168
+00:05:51,540 --> 00:05:53,480
+xoquin entre ells? Perquè,
+
+169
+00:05:53,620 --> 00:05:55,760
+llegir i escriure al mateix lloc
+
+170
+00:05:55,760 --> 00:05:57,380
+a la vegada, normalment
+
+171
+00:05:57,380 --> 00:05:59,460
+trenca les coses. I aquí és on
+
+172
+00:05:59,460 --> 00:06:01,900
+trobem el gran dilema de la base de dades.
+
+173
+00:06:02,340 --> 00:06:03,640
+Uf, la transició
+
+174
+00:06:03,640 --> 00:06:06,000
+dolorosa de bits. Al principi
+
+175
+00:06:06,000 --> 00:06:07,380
+intentaven utilitzar fíxers
+
+176
+00:06:07,380 --> 00:06:09,440
+JSON-L plans amb SQL-Lite,
+
+177
+00:06:09,580 --> 00:06:11,240
+que és una base de dades molt lleugera.
+
+178
+00:06:11,420 --> 00:06:13,360
+I què passava? Doncs que ho sincronitzaven
+
+179
+00:06:13,360 --> 00:06:15,580
+tot amb Git. I quan tens 50
+
+180
+00:06:15,580 --> 00:06:17,540
+agents fent canvis simultanis, el que
+
+181
+00:06:17,540 --> 00:06:19,480
+tens són conflictes de fusió a Git
+
+182
+00:06:19,480 --> 00:06:21,620
+constants. Un malson tècnic.
+
+183
+00:06:21,800 --> 00:06:23,380
+Git està pensat per a
+
+184
+00:06:23,380 --> 00:06:25,180
+humans que escriuen amb fíxers diferents
+
+185
+00:06:25,180 --> 00:06:27,500
+a velocitat humana, no per a 50
+
+186
+00:06:27,500 --> 00:06:29,760
+robots reescrivint-ho tot en milisegons.
+
+187
+00:06:30,000 --> 00:06:31,640
+Llavors, la solució
+
+188
+00:06:31,640 --> 00:06:33,440
+que van trobar va ser canviar de base
+
+189
+00:06:33,440 --> 00:06:35,420
+de dades i adoptar DOLT.
+
+190
+00:06:35,760 --> 00:06:37,300
+Sí. DOLT és una
+
+191
+00:06:37,300 --> 00:06:38,800
+meravella tècnica per això.
+
+192
+00:06:39,260 --> 00:06:41,440
+És una base de dades relacional, SQL,
+
+193
+00:06:41,920 --> 00:06:43,300
+però té la semàntica de Git
+
+194
+00:06:43,300 --> 00:06:45,040
+incorporada des del principi.
+
+195
+00:06:45,440 --> 00:06:46,860
+I utilitza una cosa anomenada
+
+196
+00:06:46,860 --> 00:06:49,560
+arbres proli. Arbres probabilístics.
+
+197
+00:06:49,700 --> 00:06:51,220
+Exacte. Bàsicament,
+
+198
+00:06:51,220 --> 00:06:53,160
+en lloc de fusionar línies de text
+
+199
+00:06:53,380 --> 00:06:55,200
+causant conflictes, DOLT
+
+200
+00:06:55,200 --> 00:06:57,260
+fusiona dades a nivell de cel·la.
+
+201
+00:06:57,620 --> 00:06:59,540
+Així que 100 agents poden actualitzar
+
+202
+00:06:59,540 --> 00:07:01,420
+l'estat del projecte alhora i la
+
+203
+00:07:01,420 --> 00:07:03,480
+base de dades ho sap reconciliar sense
+
+204
+00:07:03,480 --> 00:07:05,200
+errors. Carai.
+
+205
+00:07:05,640 --> 00:07:07,480
+I a la documentació parlen d'opcions com
+
+206
+00:07:07,480 --> 00:07:09,700
+el mode servidor per tenir-ho centralitzat.
+
+207
+00:07:10,020 --> 00:07:11,700
+O fins i tot un stealth mode,
+
+208
+00:07:12,000 --> 00:07:13,400
+un mode furtiu per
+
+209
+00:07:13,400 --> 00:07:15,420
+no embrutar els repositoris principals
+
+210
+00:07:15,420 --> 00:07:17,460
+humans amb tots els logs de la IA.
+
+211
+00:07:17,760 --> 00:07:19,380
+Sí. Tot pensat per aïllar
+
+212
+00:07:19,380 --> 00:07:21,420
+el soroll. Però clar, no tothom
+
+213
+00:07:21,420 --> 00:07:22,780
+hi està d'acord amb aquesta adreça.
+
+214
+00:07:23,380 --> 00:07:25,260
+He vist una dissidència brutal a la comunitat,
+
+215
+00:07:25,440 --> 00:07:27,500
+especialment als fòrums com Hacker News.
+
+216
+00:07:28,240 --> 00:07:29,560
+Desenvolupadors com Alexander
+
+217
+00:07:29,560 --> 00:07:31,380
+Holbridge diuen que això és
+
+218
+00:07:31,380 --> 00:07:33,580
+excessiu. Ho critiquen
+
+219
+00:07:33,580 --> 00:07:35,580
+molt. Sí. Argumenten
+
+220
+00:07:35,580 --> 00:07:37,700
+que fer córrer una base de dades
+
+221
+00:07:37,700 --> 00:07:39,220
+tan pesada com DOLT
+
+222
+00:07:39,220 --> 00:07:41,440
+només per gestionar llistes de
+
+223
+00:07:41,440 --> 00:07:43,220
+tasques d'un sol usuari humà
+
+224
+00:07:43,220 --> 00:07:45,280
+o fins i tot petits equips
+
+225
+00:07:45,280 --> 00:07:47,000
+és literalment
+
+226
+00:07:47,000 --> 00:07:49,360
+exigir complexitat innecessària.
+
+227
+00:07:50,040 --> 00:07:51,300
+Parlen del vibe design,
+
+228
+00:07:51,300 --> 00:07:52,960
+un disseny caòtic
+
+229
+00:07:53,380 --> 00:07:56,040
+gairebé estètic que ignora la practicitat.
+
+230
+00:07:56,260 --> 00:07:57,760
+Sí. I per això han sortit
+
+231
+00:07:57,760 --> 00:07:58,960
+reaccions minimalistes.
+
+232
+00:07:59,540 --> 00:08:01,240
+Hem vist eines com VINs, que utilitza
+
+233
+00:08:01,240 --> 00:08:03,500
+fitxes Yammer i un SQL molt simple,
+
+234
+00:08:04,080 --> 00:08:05,720
+o Ticket, que és només Markdown,
+
+235
+00:08:06,060 --> 00:08:07,740
+i també Tracker, totes buscant
+
+236
+00:08:07,740 --> 00:08:08,840
+reduir aquesta càrrega.
+
+237
+00:08:09,340 --> 00:08:11,420
+Clar. I això em fa pensar.
+
+238
+00:08:12,120 --> 00:08:14,020
+Si l'eina es torna tan opaca,
+
+239
+00:08:14,340 --> 00:08:15,840
+tan pesada, que acaba
+
+240
+00:08:15,840 --> 00:08:17,760
+frustrant els desenvolupadors humans,
+
+241
+00:08:18,380 --> 00:08:19,660
+estem veient el naixement d'un
+
+242
+00:08:19,660 --> 00:08:21,300
+programari que es construeix
+
+243
+00:08:21,300 --> 00:08:23,160
+exclusivament perquè les màquines de la tecnologia
+
+244
+00:08:23,380 --> 00:08:24,240
+el llegeixen?
+
+245
+00:08:24,920 --> 00:08:27,440
+Vull dir, estem desterrant els humans
+
+246
+00:08:27,440 --> 00:08:28,480
+de la sala de màquines?
+
+247
+00:08:28,860 --> 00:08:31,640
+El que és fascinant d'això és precisament aquest gir.
+
+248
+00:08:32,280 --> 00:08:33,560
+Aquesta atenció a la comunitat
+
+249
+00:08:33,560 --> 00:08:35,420
+il·lustra l'evolució cap a formats
+
+250
+00:08:35,420 --> 00:08:37,480
+optimitzats no per a nosaltres,
+
+251
+00:08:37,860 --> 00:08:39,700
+sinó per a codificadors robòtics.
+
+252
+00:08:40,020 --> 00:08:41,840
+Ja no som l'usuari principal.
+
+253
+00:08:42,060 --> 00:08:43,780
+Exacte. L'usuari principal
+
+254
+00:08:43,780 --> 00:08:45,340
+ja no és el programador humà,
+
+255
+00:08:45,720 --> 00:08:47,400
+és la IA. I a la IA
+
+256
+00:08:47,400 --> 00:08:49,760
+no li importa si la base de dades és complexa
+
+257
+00:08:49,760 --> 00:08:51,740
+de configurar. Li importa que sigui
+
+258
+00:08:51,740 --> 00:08:52,960
+matemàticament precisa,
+
+259
+00:08:53,380 --> 00:08:55,420
+i no tingui conflictes. Déu-n'hi-do.
+
+260
+00:08:55,920 --> 00:08:57,420
+Llavors, un cop tenim d'old
+
+261
+00:08:57,420 --> 00:08:59,400
+per emmagatzemar la memòria de tots
+
+262
+00:08:59,400 --> 00:09:01,560
+sense col·lapsar, passem a
+
+263
+00:09:01,560 --> 00:09:03,600
+com s'organitza aquesta gent.
+
+264
+00:09:04,000 --> 00:09:05,360
+O bé, aquests agents.
+
+265
+00:09:05,920 --> 00:09:07,560
+I aquí obrim la porta
+
+266
+00:09:07,560 --> 00:09:09,880
+a Gastown, l'orquestració
+
+267
+00:09:09,880 --> 00:09:11,460
+del caos. Gastown
+
+268
+00:09:11,460 --> 00:09:13,680
+és espectacular. És un orquestrador
+
+269
+00:09:13,680 --> 00:09:15,500
+de múltiples agents amb rols
+
+270
+00:09:15,500 --> 00:09:17,740
+hiperespecífics. Té un repartiment
+
+271
+00:09:17,740 --> 00:09:19,500
+de personatges que sembla una obra
+
+272
+00:09:19,500 --> 00:09:21,640
+de teatre. A veure, tenim
+
+273
+00:09:21,640 --> 00:09:23,340
+l'alcalde, de Mayor,
+
+274
+00:09:23,380 --> 00:09:25,740
+que vindria a ser la interfaisa principal
+
+275
+00:09:25,740 --> 00:09:28,280
+on nosaltres donem les instruccions.
+
+276
+00:09:28,740 --> 00:09:30,040
+El cap de gabinet.
+
+277
+00:09:30,180 --> 00:09:31,660
+Després hi ha els pulquets,
+
+278
+00:09:31,840 --> 00:09:33,240
+les mofetes, que són
+
+279
+00:09:33,240 --> 00:09:35,040
+els agents treballadors rasos,
+
+280
+00:09:35,420 --> 00:09:36,760
+els picapedrers del Codi.
+
+281
+00:09:37,460 --> 00:09:39,340
+També tenim el diaca, de Deacon,
+
+282
+00:09:39,800 --> 00:09:41,340
+que patrullen segon pla com si fos
+
+283
+00:09:41,340 --> 00:09:43,460
+un auditor. Sí, vigilant que ningú
+
+284
+00:09:43,460 --> 00:09:45,160
+es quedi bloquejat. Exacte.
+
+285
+00:09:45,500 --> 00:09:47,640
+I els gossos, que s'encarreguen de tasques
+
+286
+00:09:47,640 --> 00:09:48,900
+de manteniment del sistema.
+
+287
+00:09:49,380 --> 00:09:51,380
+I finalment el testimoni, que evita
+
+288
+00:09:51,380 --> 00:09:53,180
+les pèrdues de resposta i els bucles
+
+289
+00:09:53,180 --> 00:09:55,520
+infinits. Però, clar, coordinar
+
+290
+00:09:55,520 --> 00:09:57,960
+tot aquest circ no devia ser fàcil al principi.
+
+291
+00:09:58,260 --> 00:09:59,460
+Al principi era el que
+
+292
+00:09:59,460 --> 00:10:01,360
+Steve Yidi descriu literalment com
+
+293
+00:10:01,360 --> 00:10:03,840
+un clown show, un autèntic espectacle
+
+294
+00:10:03,840 --> 00:10:05,300
+de pallassos. Hi havia
+
+295
+00:10:05,300 --> 00:10:07,680
+perdus de dades constants i el diaca,
+
+296
+00:10:07,860 --> 00:10:09,280
+que havia de ser l'auditor útil,
+
+297
+00:10:09,640 --> 00:10:11,600
+es dedicava a assassinar processos
+
+298
+00:10:11,600 --> 00:10:13,560
+de les mofetes a mitja entasca
+
+299
+00:10:13,560 --> 00:10:15,520
+perquè pensava que s'havien quedat penjats.
+
+300
+00:10:15,660 --> 00:10:17,460
+Hòstia, la policia interna boicotejar
+
+301
+00:10:17,460 --> 00:10:19,320
+l'empresa. Completament. Era
+
+302
+00:10:19,320 --> 00:10:21,060
+un desastre de sincronització.
+
+303
+00:10:21,340 --> 00:10:23,100
+I l'anècdota de Tim Sen, el
+
+304
+00:10:23,100 --> 00:10:25,100
+bloc de Dollhub, és el millor exemple
+
+305
+00:10:25,100 --> 00:10:27,300
+d'això. Va explicar que va decidir
+
+306
+00:10:27,300 --> 00:10:29,240
+activar el que nomenen el Limitless
+
+307
+00:10:29,240 --> 00:10:31,320
+Mode, el mode sense límits.
+
+308
+00:10:31,880 --> 00:10:33,120
+La missió era reparar
+
+309
+00:10:33,120 --> 00:10:34,940
+quatre tests automàtics en paral·lel,
+
+310
+00:10:35,220 --> 00:10:37,280
+quatre BATS tests, que són unes proves
+
+311
+00:10:37,280 --> 00:10:39,020
+de baix. Una tasca aparentment
+
+312
+00:10:39,020 --> 00:10:40,820
+senzilla, eh? Sí, aparentment.
+
+313
+00:10:41,300 --> 00:10:42,720
+Però com que no hi havia límits,
+
+314
+00:10:43,040 --> 00:10:45,220
+l'AI ja anava tan ràpid obrint branques,
+
+315
+00:10:45,440 --> 00:10:47,360
+generant pull requests trencats
+
+316
+00:10:47,360 --> 00:10:49,100
+i fusionant codi que no funcionava,
+
+317
+00:10:49,540 --> 00:10:51,240
+que estava destruint el repositori
+
+318
+00:10:51,240 --> 00:10:53,060
+a una velocitat inhumana. Era
+
+319
+00:10:53,100 --> 00:10:55,140
+un bucle de destrucció a la velocitat
+
+320
+00:10:55,140 --> 00:10:57,100
+de la llum. Totalment. El Tim
+
+321
+00:10:57,100 --> 00:10:59,300
+va haver de buscar un col·lega enginyer desesperat
+
+322
+00:10:59,300 --> 00:11:01,020
+per fer una comanda de reset
+
+323
+00:11:01,020 --> 00:11:03,320
+hard a git, per forçar el tancament
+
+324
+00:11:03,320 --> 00:11:05,040
+de tot plegat abans que trenquessin
+
+325
+00:11:05,040 --> 00:11:06,940
+l'estructura base. I tot això,
+
+326
+00:11:07,120 --> 00:11:09,000
+per cert, li va costar 100 dòlars
+
+327
+00:11:09,000 --> 00:11:10,980
+en tòquens de cloud en només una hora.
+
+328
+00:11:11,460 --> 00:11:13,040
+100 dòlars en 60 minuts
+
+329
+00:11:13,040 --> 00:11:14,640
+d'una màquina generant escombraries.
+
+330
+00:11:15,000 --> 00:11:17,280
+Però aquí és on aprens com de valiós
+
+331
+00:11:17,280 --> 00:11:19,160
+és l'alcalde quan està ben ajustat.
+
+332
+00:11:19,280 --> 00:11:21,160
+Clar. Perquè, fes-me la
+
+333
+00:11:21,160 --> 00:11:23,080
+comparativa. Quan pensem en els
+
+334
+00:11:23,100 --> 00:11:25,080
+assistents de codificació actuals,
+
+335
+00:11:25,340 --> 00:11:27,220
+per exemple a Cloud Code, és aquell
+
+336
+00:11:27,220 --> 00:11:28,980
+company de feina intens,
+
+337
+00:11:29,140 --> 00:11:31,260
+aquell que t'envia murs de text
+
+338
+00:11:31,260 --> 00:11:33,200
+interminables i et llegeix cada
+
+339
+00:11:33,200 --> 00:11:35,120
+línia de codi que escriu esperant la
+
+340
+00:11:35,120 --> 00:11:37,600
+teva aprovació. Sí, t'esgota la paciència
+
+341
+00:11:37,600 --> 00:11:39,420
+perquè requereix una supervisió
+
+342
+00:11:39,420 --> 00:11:41,080
+absoluta. En canvi,
+
+343
+00:11:41,600 --> 00:11:43,220
+l'alcalde de Gastown és com
+
+344
+00:11:43,220 --> 00:11:45,140
+aquell cap de gabinet silenciós i
+
+345
+00:11:45,140 --> 00:11:47,380
+eficient. Pateix tots els drames
+
+346
+00:11:47,380 --> 00:11:49,180
+a la sala de màquines, amb les mofetes
+
+347
+00:11:49,180 --> 00:11:51,280
+i el diaca. Absorbeix tot aquest
+
+348
+00:11:51,280 --> 00:11:53,060
+soroll de la fàbrica i tu no
+
+349
+00:11:53,100 --> 00:11:55,060
+t'enteres de res. I llavors tranquil·lament
+
+350
+00:11:55,060 --> 00:11:56,980
+se't presenta prenent un cafè i et diu
+
+351
+00:11:56,980 --> 00:11:59,360
+senyor, la base de dades està arreglada.
+
+352
+00:11:59,720 --> 00:12:01,280
+Podem marxar. És l'abstracció
+
+353
+00:12:01,280 --> 00:12:03,260
+perfecta. Tu dones una ordre
+
+354
+00:12:03,260 --> 00:12:05,240
+abstracta i el sistema s'espavila
+
+355
+00:12:05,240 --> 00:12:07,160
+i per aconseguir això l'orquestrador
+
+356
+00:12:07,160 --> 00:12:09,020
+utilitza un cicle de vida de les tasques
+
+357
+00:12:09,020 --> 00:12:11,140
+molt precís, el que nomenen el cicle
+
+358
+00:12:11,140 --> 00:12:12,960
+Mew. Ah, sí, la
+
+359
+00:12:12,960 --> 00:12:14,820
+molecular expression of work.
+
+360
+00:12:15,460 --> 00:12:16,940
+L'expressió molecular de la feina.
+
+361
+00:12:17,340 --> 00:12:19,000
+Exacte. Les idees
+
+362
+00:12:19,000 --> 00:12:20,880
+comencen com a fórmules que són
+
+363
+00:12:20,880 --> 00:12:23,040
+ordres generals. Després passen a
+
+364
+00:12:23,040 --> 00:12:24,800
+ser protos, quan s'estan
+
+365
+00:12:24,800 --> 00:12:26,980
+definint els requisits. I acaben
+
+366
+00:12:26,980 --> 00:12:28,540
+convertint-se en molècules.
+
+367
+00:12:29,000 --> 00:12:30,840
+Les molècules són les tasques ja
+
+368
+00:12:30,840 --> 00:12:32,800
+totalment llestes perquè una mofeta
+
+369
+00:12:32,800 --> 00:12:34,540
+les executi i piquin el codi.
+
+370
+00:12:34,920 --> 00:12:36,720
+Sí. Però això obre una altra
+
+371
+00:12:36,720 --> 00:12:38,960
+pregunta. Si l'alcalde té aquesta fàbrica
+
+372
+00:12:38,960 --> 00:12:40,960
+plena de mofetes i centenars de molècules
+
+373
+00:12:40,960 --> 00:12:42,940
+per executar, com decideix
+
+374
+00:12:42,940 --> 00:12:44,880
+matemàticament què cal fer primer
+
+375
+00:12:44,880 --> 00:12:46,860
+perquè no es bloquegin els uns als
+
+376
+00:12:46,860 --> 00:12:48,760
+altres? Aquí entra el concepte
+
+377
+00:12:48,760 --> 00:12:50,300
+de la intel·ligència del graf.
+
+378
+00:12:50,940 --> 00:12:52,700
+I l'eina principal per veure això
+
+379
+00:12:52,700 --> 00:12:55,000
+és el Bits Viewer, o B-U-V.
+
+380
+00:12:55,340 --> 00:12:56,660
+Que, per cert, una eina
+
+381
+00:12:56,660 --> 00:12:58,580
+que va ser creada per Jeffrey Emanuel.
+
+382
+00:12:59,100 --> 00:13:00,740
+I m'ha deixat de pedra veure que són més de
+
+383
+00:13:00,740 --> 00:13:02,460
+20.000 línies de código escrites
+
+384
+00:13:02,460 --> 00:13:04,780
+en un sol dia exclusivament per
+
+385
+00:13:04,780 --> 00:13:06,320
+IA. És increïble, sí.
+
+386
+00:13:06,840 --> 00:13:08,960
+I el Bits Viewer és bàsicament
+
+387
+00:13:08,960 --> 00:13:10,540
+una interfase visual,
+
+388
+00:13:10,780 --> 00:13:12,960
+una TUI, que funciona a 60
+
+389
+00:13:12,960 --> 00:13:14,760
+fotogrames per segon a la terminal.
+
+390
+00:13:14,760 --> 00:13:16,680
+D'acord. I el que fa és
+
+391
+00:13:16,680 --> 00:13:18,680
+fer servir mètriques de xarxa per
+
+392
+00:13:18,680 --> 00:13:20,640
+gestionar les prioritats. Fan
+
+393
+00:13:20,640 --> 00:13:22,540
+servir el PageRank. Espera, el
+
+394
+00:13:22,540 --> 00:13:24,660
+PageRank? Això no és el mateix
+
+395
+00:13:24,660 --> 00:13:26,800
+algoritme que va inventar Google per ordenar
+
+396
+00:13:26,800 --> 00:13:29,100
+la web als anys 90? Sí, sí, el mateix.
+
+397
+00:13:29,460 --> 00:13:31,060
+Però adaptat a les dependències
+
+398
+00:13:31,060 --> 00:13:32,800
+del codi. A Google, un
+
+399
+00:13:32,800 --> 00:13:34,400
+enllaç és un vot d'importància.
+
+400
+00:13:34,800 --> 00:13:36,940
+Aquí, si completar una tasca determinada
+
+401
+00:13:36,940 --> 00:13:39,020
+desbloqueja moltes altres branques
+
+402
+00:13:39,020 --> 00:13:40,700
+del projecte, aquella tasca
+
+403
+00:13:40,700 --> 00:13:42,660
+rep una puntuació de PageRank molt alta?
+
+404
+00:13:42,660 --> 00:13:44,600
+O sigui, la converteix en la prioritat
+
+405
+00:13:44,600 --> 00:13:46,740
+absoluta. També feien servir
+
+406
+00:13:46,740 --> 00:13:48,200
+altres conceptes com la
+
+407
+00:13:48,200 --> 00:13:50,400
+intermediació, la betweenness,
+
+408
+00:13:50,800 --> 00:13:52,380
+per analitzar el camí
+
+409
+00:13:52,380 --> 00:13:54,340
+crític del projecte, no? Exactament.
+
+410
+00:13:54,980 --> 00:13:56,860
+I tot això s'exposa mitjançant
+
+411
+00:13:56,860 --> 00:13:58,940
+comandes com la de RobotTriage.
+
+412
+00:13:59,280 --> 00:14:00,540
+Entenc que ho fan servir
+
+413
+00:14:00,540 --> 00:14:02,600
+orquestradors superiors, com aquest
+
+414
+00:14:02,600 --> 00:14:04,480
+que mencionàvem, Ralph Tui, que
+
+415
+00:14:04,480 --> 00:14:06,480
+agafa l'api del BitsViewer per llançar
+
+416
+00:14:06,480 --> 00:14:08,600
+aquestes èpics de codi massives en paral·lel.
+
+417
+00:14:08,920 --> 00:14:10,600
+I ho fa assegurant-se que la tasca
+
+418
+00:14:10,600 --> 00:14:12,440
+A no bloquegi la B, mentre
+
+419
+00:14:12,440 --> 00:14:13,700
+la B està esperant la A.
+
+420
+00:14:14,600 --> 00:14:16,700
+El sistema troba el coll d'ampolla
+
+421
+00:14:16,700 --> 00:14:18,280
+i envia tots els recursos
+
+422
+00:14:18,280 --> 00:14:20,360
+al trenca i continua el flux
+
+423
+00:14:20,360 --> 00:14:22,300
+d'execució com una autopista sense
+
+424
+00:14:22,300 --> 00:14:24,340
+APHs. És una
+
+425
+00:14:24,340 --> 00:14:26,360
+optimització robòtica impecable.
+
+426
+00:14:26,920 --> 00:14:28,520
+Però jo vull fer de l'advocat del diable
+
+427
+00:14:28,520 --> 00:14:29,740
+aquí. A veure, endavant.
+
+428
+00:14:30,380 --> 00:14:32,240
+Estem segurs que les matemàtiques
+
+429
+00:14:32,240 --> 00:14:34,260
+fredes de grafs i el PageRank
+
+430
+00:14:34,260 --> 00:14:36,380
+poden decifrar les prioritats d'un
+
+431
+00:14:36,380 --> 00:14:38,300
+programari millor que la intuïció d'un director
+
+432
+00:14:38,300 --> 00:14:40,220
+de projectes humà? Vull dir,
+
+433
+00:14:40,460 --> 00:14:42,520
+en una empresa real, potser hi ha una tasca
+
+434
+00:14:42,520 --> 00:14:44,280
+menor que de sobte és la prioritat 1
+
+435
+00:14:44,280 --> 00:14:46,000
+i bloqueja el llançament sencer,
+
+436
+00:14:46,380 --> 00:14:48,180
+no per la seva arquitectura, sinó perquè
+
+437
+00:14:48,180 --> 00:14:50,180
+el departament de màrqueting necessita treure-lo
+
+438
+00:14:50,180 --> 00:14:52,260
+avui. Clar, aquest és el problema,
+
+439
+00:14:52,300 --> 00:14:53,980
+de la fredor algorítmica.
+
+440
+00:14:54,360 --> 00:14:56,260
+El graf no pot entendre de campanyes
+
+441
+00:14:56,260 --> 00:14:58,640
+de màrqueting ni de pressions comercials.
+
+442
+00:14:58,680 --> 00:14:59,980
+I és per això que el sistema
+
+443
+00:14:59,980 --> 00:15:02,080
+no és completament ayer als humans.
+
+444
+00:15:02,700 --> 00:15:04,140
+S'ha integrat el concepte de
+
+445
+00:15:04,140 --> 00:15:05,720
+portes humanes, o gates.
+
+446
+00:15:06,280 --> 00:15:08,620
+Això actua com a vàlvules d'emergència.
+
+447
+00:15:09,240 --> 00:15:10,320
+El graf de prioritats
+
+448
+00:15:10,320 --> 00:15:12,040
+ordena el treball lògic, però
+
+449
+00:15:12,040 --> 00:15:13,700
+pots inserir una porta manual
+
+450
+00:15:13,700 --> 00:15:15,940
+que atura el desplegament fins que el lomà
+
+451
+00:15:15,940 --> 00:15:18,200
+de màrqueting o de direcció pigi el botó.
+
+452
+00:15:18,500 --> 00:15:20,200
+D'acord. O sigui que deixen
+
+453
+00:15:20,200 --> 00:15:22,140
+una entrada per al caos del món real.
+
+454
+00:15:22,300 --> 00:15:24,380
+Totalment. Però un cop pitjat
+
+455
+00:15:24,380 --> 00:15:26,160
+el botó, la màquina reprèn la
+
+456
+00:15:26,160 --> 00:15:27,980
+velocitat de Cruau automàticament.
+
+457
+00:15:28,080 --> 00:15:29,840
+Això ens porta a l'última gran fase.
+
+458
+00:15:30,360 --> 00:15:31,980
+Hem parlat de la psicosi de la gent,
+
+459
+00:15:32,200 --> 00:15:34,580
+d'Edold, de Gastown i de PageRank.
+
+460
+00:15:35,000 --> 00:15:36,500
+Però al final, què vol dir
+
+461
+00:15:36,500 --> 00:15:38,200
+tot això a nivell d'impacte real?
+
+462
+00:15:38,700 --> 00:15:40,320
+Jo em quedo amb l'anècdota de Llegués
+
+463
+00:15:40,320 --> 00:15:42,000
+sobre la licenciada en comunicació.
+
+464
+00:15:42,340 --> 00:15:43,840
+Ah, sí, això és revelador.
+
+465
+00:15:44,080 --> 00:15:46,360
+Ens explica que una noia, amb només
+
+466
+00:15:46,360 --> 00:15:48,100
+quatre anys d'experiència laboral,
+
+467
+00:15:48,520 --> 00:15:50,380
+sense tenir ni idea de programar,
+
+468
+00:15:50,380 --> 00:15:52,260
+va construir ella sola
+
+469
+00:15:52,300 --> 00:15:54,360
+un substitut per un sas comparatiu
+
+470
+00:15:54,360 --> 00:15:55,680
+molt car que feien servir,
+
+471
+00:15:56,140 --> 00:15:58,560
+exclusivament durant instruccions a l'alcalde
+
+472
+00:15:58,560 --> 00:16:00,520
+a Gastown. Això és el que
+
+473
+00:16:00,520 --> 00:16:02,720
+anomenem la democratització de la creació.
+
+474
+00:16:03,320 --> 00:16:04,120
+Ja no cal saber
+
+475
+00:16:04,120 --> 00:16:06,480
+sintaxi de codi. L'únic que cal saber
+
+476
+00:16:06,480 --> 00:16:08,140
+és articular problemes lògicament.
+
+477
+00:16:08,640 --> 00:16:10,780
+La barrera d'entrada s'ha pulvoritzat.
+
+478
+00:16:11,020 --> 00:16:12,540
+És brutal. I més
+
+479
+00:16:12,540 --> 00:16:14,520
+tenint en compte que s'acaba de llançar la versió
+
+480
+00:16:14,520 --> 00:16:16,580
+1.0.0 tant de Gastown
+
+481
+00:16:16,580 --> 00:16:18,300
+com de Bits, amb aquest últim
+
+482
+00:16:18,300 --> 00:16:20,340
+passant de les 20.000 estrelles a GitHub.
+
+483
+00:16:20,820 --> 00:16:22,300
+I directament ja han anunciat
+
+484
+00:16:22,300 --> 00:16:24,300
+Gas City. Sí, Gas City
+
+485
+00:16:24,300 --> 00:16:26,140
+és el següent nivell lògic. Si
+
+486
+00:16:26,140 --> 00:16:27,940
+Gastown és una fàbrica tancada,
+
+487
+00:16:28,060 --> 00:16:30,420
+preconfigurada, Gas City és descrit
+
+488
+00:16:30,420 --> 00:16:32,640
+com un SDK, un kit de desenvolupament
+
+489
+00:16:32,640 --> 00:16:34,200
+modular. Perquè cadascú
+
+490
+00:16:34,200 --> 00:16:36,400
+es pugui muntar el seu propi orquestrador
+
+491
+00:16:36,400 --> 00:16:38,320
+personalitzat, oi? Exacte.
+
+492
+00:16:38,740 --> 00:16:40,180
+Pots definir plans d'imai que
+
+493
+00:16:40,180 --> 00:16:42,340
+es vols, quins protocols tenen
+
+494
+00:16:42,340 --> 00:16:44,400
+les teves mofetes, com respon
+
+495
+00:16:44,400 --> 00:16:46,540
+l'alcalde... És adaptar la fàbrica
+
+496
+00:16:46,540 --> 00:16:48,300
+de robots a les necessitats de
+
+497
+00:16:48,300 --> 00:16:50,340
+cada empresa. I la cirereta
+
+498
+00:16:50,340 --> 00:16:52,220
+del pastís, Wasteland,
+
+499
+00:16:52,300 --> 00:16:54,580
+el nom ja és èpic per si sol.
+
+500
+00:16:55,180 --> 00:16:55,960
+Wasteland és,
+
+501
+00:16:56,140 --> 00:16:58,040
+per mi, el concepte més
+
+502
+00:16:58,040 --> 00:17:00,560
+trencador de tots. Com ho definiries?
+
+503
+00:17:00,860 --> 00:17:01,420
+Exactament.
+
+504
+00:17:02,240 --> 00:17:04,720
+És una xarxa de federació d'arbitratge,
+
+505
+00:17:05,300 --> 00:17:06,280
+pensa-hi com una
+
+506
+00:17:06,280 --> 00:17:08,220
+internet exclusiva per a màquines
+
+507
+00:17:08,220 --> 00:17:10,480
+on els orquestradors es comuniquen
+
+508
+00:17:10,480 --> 00:17:12,000
+entre ells. O sigui,
+
+509
+00:17:12,440 --> 00:17:14,120
+que permet connectar milers de
+
+510
+00:17:14,120 --> 00:17:16,320
+Gastowns diferents de tot el món.
+
+511
+00:17:16,720 --> 00:17:18,240
+Exacte. Creant un
+
+512
+00:17:18,240 --> 00:17:20,360
+mercat on els agents, si veuen
+
+513
+00:17:20,360 --> 00:17:22,080
+que la seva pròpia màquina valenta,
+
+514
+00:17:22,300 --> 00:17:24,340
+poden delegar una part del codi
+
+515
+00:17:24,340 --> 00:17:26,300
+a flotes d'agents remotes,
+
+516
+00:17:26,860 --> 00:17:28,160
+subcontractar el poder computacional,
+
+517
+00:17:29,300 --> 00:17:30,240
+solucionar l'error
+
+518
+00:17:30,240 --> 00:17:32,300
+i, finalment, fusionar-ho de nou
+
+519
+00:17:32,300 --> 00:17:33,920
+a través de la seguretat d'adult.
+
+520
+00:17:34,420 --> 00:17:36,480
+Tot sense que tu hi intervinguis.
+
+521
+00:17:36,740 --> 00:17:38,160
+És a dir, que les fàbriques
+
+522
+00:17:38,700 --> 00:17:40,340
+virtuals s'estaran
+
+523
+00:17:40,340 --> 00:17:42,380
+subcontractant la feina entre elles
+
+524
+00:17:42,380 --> 00:17:44,580
+basant-se en qui ho pot fer més ràpid
+
+525
+00:17:44,580 --> 00:17:46,200
+o més barat, en temps real.
+
+526
+00:17:46,500 --> 00:17:48,120
+Exactament això. És
+
+527
+00:17:48,120 --> 00:17:50,200
+capitalisme algorítmic. Aleshores,
+
+528
+00:17:50,200 --> 00:17:52,060
+què vol dir tot això per a nosaltres?
+
+529
+00:17:52,300 --> 00:17:54,500
+El famós pronòstic de programar
+
+530
+00:17:54,500 --> 00:17:56,680
+simplement parlant amb una cara de la pantalla
+
+531
+00:17:56,680 --> 00:17:57,840
+ja s'està complint.
+
+532
+00:17:58,200 --> 00:18:00,520
+I no cal ser gaire visionari per adonar-se
+
+533
+00:18:00,520 --> 00:18:02,440
+que això canviarà tot el mercat
+
+534
+00:18:02,440 --> 00:18:04,380
+laboral per complet, tinguis
+
+535
+00:18:04,380 --> 00:18:05,740
+o no coneixements tècnics.
+
+536
+00:18:06,380 --> 00:18:08,420
+Si connectem això amb la visió general
+
+537
+00:18:08,420 --> 00:18:09,880
+de la qual parlàvem a l'inici.
+
+538
+00:18:10,340 --> 00:18:12,340
+Fixat on som. Hem viatjat de la
+
+539
+00:18:12,340 --> 00:18:14,120
+falta de memòria en els xats simples
+
+540
+00:18:14,120 --> 00:18:16,080
+que patien psicosis de la gent
+
+541
+00:18:16,080 --> 00:18:18,300
+a l'ús de bases de dades sofisticades
+
+542
+00:18:18,300 --> 00:18:20,320
+com DOLT, que suporten la fusió
+
+543
+00:18:20,320 --> 00:18:21,540
+probabilística de dades.
+
+544
+00:18:22,300 --> 00:18:24,160
+Hem creat fàbriques de gens amb rols
+
+545
+00:18:24,160 --> 00:18:26,500
+definits i rutes matemàticament calculades
+
+546
+00:18:26,500 --> 00:18:28,260
+en PageRank i ara estem
+
+547
+00:18:28,260 --> 00:18:30,100
+expandint-ho cap a una federació mundial
+
+548
+00:18:30,100 --> 00:18:31,860
+de creadors d'eines autònomes.
+
+549
+00:18:32,020 --> 00:18:34,100
+És vertiginós, de debò. I aquesta
+
+550
+00:18:34,100 --> 00:18:36,540
+capacitat d'executar projectes sostenits
+
+551
+00:18:36,540 --> 00:18:38,520
+i llargs, sense esforç
+
+552
+00:18:38,520 --> 00:18:40,260
+cognitiu humà, afectarà
+
+553
+00:18:40,260 --> 00:18:42,100
+aviat a qualsevol disciplina
+
+554
+00:18:42,100 --> 00:18:44,120
+de coneixement, no només a la programació.
+
+555
+00:18:44,760 --> 00:18:46,440
+La logística, la legal,
+
+556
+00:18:46,940 --> 00:18:48,100
+la medicina investigativa...
+
+557
+00:18:48,880 --> 00:18:50,060
+Tot es podrà estructurar
+
+558
+00:18:50,060 --> 00:18:52,100
+en arbres de tasques i resoldre
+
+559
+00:18:52,100 --> 00:18:54,060
+maixams. Això planteja
+
+560
+00:18:54,060 --> 00:18:56,200
+una qüestió important sobre quin és el nostre
+
+561
+00:18:56,200 --> 00:18:58,400
+rol. I justament
+
+562
+00:18:58,400 --> 00:19:00,080
+d'això us volia parlar abans de
+
+563
+00:19:00,080 --> 00:19:02,360
+tancar. Perquè, vistes totes aquestes
+
+564
+00:19:02,360 --> 00:19:03,980
+peces, si els agents d'IA
+
+565
+00:19:03,980 --> 00:19:06,200
+ara mateix ja tenen la memòria gràcies
+
+566
+00:19:06,200 --> 00:19:08,140
+a BITS, tenen el pressupost per
+
+567
+00:19:08,140 --> 00:19:10,080
+gastar, gestionen els gràfics
+
+568
+00:19:10,080 --> 00:19:12,320
+de dependències i tenen l'autoritat
+
+569
+00:19:12,320 --> 00:19:13,980
+per ordenar tasques logístiques
+
+570
+00:19:13,980 --> 00:19:16,340
+complexes a través de xarxes com Wasteland...
+
+571
+00:19:16,340 --> 00:19:18,380
+Sí, cap on vas? Doncs em pregunto
+
+572
+00:19:18,380 --> 00:19:20,400
+quan triguen a veure
+
+573
+00:19:20,400 --> 00:19:22,020
+una empresa on la
+
+574
+00:19:22,100 --> 00:19:23,940
+calde virtual comenci
+
+575
+00:19:23,940 --> 00:19:25,780
+a detectar colls d'ampolla
+
+576
+00:19:25,780 --> 00:19:28,200
+no en el codi, sinó en el món
+
+577
+00:19:28,200 --> 00:19:30,320
+físic i de manera completament
+
+578
+00:19:30,320 --> 00:19:32,140
+autònoma assigni tasques
+
+579
+00:19:32,140 --> 00:19:34,440
+directives, creï bilets de gira
+
+580
+00:19:34,440 --> 00:19:36,200
+i posi terminis d'entrega
+
+581
+00:19:36,200 --> 00:19:37,520
+als propis empleats humans.
+
+582
+00:19:39,780 --> 00:19:42,300
+Uf! En quin punt exacte deixarem
+
+583
+00:19:42,300 --> 00:19:43,660
+de ser els orquestradors
+
+584
+00:19:43,660 --> 00:19:45,560
+i ens convertirem nosaltres
+
+585
+00:19:45,560 --> 00:19:48,180
+en les mufetes dins de la seva fàbrica
+
+586
+00:19:48,180 --> 00:19:50,000
+d'eficiència? Ho deixem aquí
+
+587
+00:19:50,000 --> 00:19:51,880
+perquè us rumieu. Moltíssimes
+
+588
+00:19:52,100 --> 00:19:53,400
+gràcies per acompanyar-nos avui
+
+589
+00:19:53,400 --> 00:19:55,540
+i ens escoltem a la propera immersió.
+
