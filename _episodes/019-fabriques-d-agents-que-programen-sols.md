@@ -40,7 +40,7 @@ sources:
   description: "Informe periòdic de Thoughtworks que situa aquestes eines d'orquestració multiagent dins del panorama tecnològic actual"
 - title: "Transcripció automàtica de l'episodi"
   url: "/podcast-del-doctor/sources/019-fabriques-d-agents-que-programen-sols-transcripcio.txt"
-  description: "Transcripció completa generada amb OpenAI Whisper (model large-v3)"
+  description: "Transcripció completa generada amb OpenAI Whisper (model large-v3), amb una passada de correcció posterior dels noms propis i termes tècnics (Beads, Gas Town, Dolt, Yegge, Prolly, Jira, Claude Code)"
 thumbnail: "/assets/thumbnails/019-fabriques-d-agents-que-programen-sols.png"
 title: "Episodi 019: Fàbriques d'agents que ja programen sols"
 ---
@@ -105,7 +105,7 @@ Aquest episodi va d'això: de la infraestructura que està naixent perquè aques
 - [DoltHub Blog](https://www.dolthub.com/blog/) — L'experiment del mode sense límits i el funcionament de Dolt
 - [Steve Yegge — blog](https://steve-yegge.blogspot.com/) — Assajos del creador de Beads i Gas Town
 - [Technology Radar — Thoughtworks](https://www.thoughtworks.com/radar) — Context del panorama d'orquestració multiagent
-- Transcripció automàtica (`/podcast-del-doctor/sources/019-fabriques-d-agents-que-programen-sols-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- Transcripció automàtica (`/podcast-del-doctor/sources/019-fabriques-d-agents-que-programen-sols-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3) i corregida després en els noms propis i termes tècnics
 
 ---
 
