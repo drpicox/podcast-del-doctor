@@ -1,0 +1,3644 @@
+1
+00:00:00,000 --> 00:00:04,240
+Normalment, quan pensem en la caiguda d'un gran imperi,
+
+2
+00:00:04,680 --> 00:00:08,100
+la ment humana tendeix a buscar una força externa, oi?
+
+3
+00:00:08,500 --> 00:00:11,100
+Una mena de catàstrofe incontrolable.
+
+4
+00:00:11,920 --> 00:00:12,440
+Totalment.
+
+5
+00:00:12,760 --> 00:00:16,060
+Vull dir, és allò del meteorit impactant contra la Terra
+
+6
+00:00:16,060 --> 00:00:17,600
+i extingint els dinosaures,
+
+7
+00:00:17,940 --> 00:00:20,400
+o un tsunami arrasant una ciutat de sobte.
+
+8
+00:00:21,040 --> 00:00:22,640
+És una imatge dramàtica, clar,
+
+9
+00:00:23,080 --> 00:00:26,120
+però d'alguna manera resulta fins i tot reconfortant.
+
+10
+00:00:26,380 --> 00:00:27,520
+Clar, perquè et treu la culpa.
+
+11
+00:00:27,940 --> 00:00:28,460
+Exacte.
+
+12
+00:00:28,460 --> 00:00:31,260
+I gimeix de culpa els que estaven al comandament.
+
+13
+00:00:31,680 --> 00:00:33,680
+Va ser el destí, no hi podíem fer res.
+
+14
+00:00:34,320 --> 00:00:36,260
+I a veure, en el món dels negocis,
+
+15
+00:00:36,660 --> 00:00:38,340
+el gran meteorit dels últims anys
+
+16
+00:00:38,340 --> 00:00:40,240
+sempre té el mateix nom gravat,
+
+17
+00:00:40,580 --> 00:00:43,080
+que és l'any 2020 i la pandèmia global.
+
+18
+00:00:43,280 --> 00:00:45,720
+Bé, és que és un patró molt recurrent.
+
+19
+00:00:46,000 --> 00:00:51,540
+Aquell període s'ha convertit en el comodí perfecte
+
+20
+00:00:51,540 --> 00:00:53,940
+per a les juntes directives d'arreu del món.
+
+21
+00:00:54,820 --> 00:00:56,620
+Qualsevol balanç negatiu,
+
+22
+00:00:57,020 --> 00:00:58,440
+qualsevol trencament de les xarxes,
+
+23
+00:00:58,460 --> 00:00:58,840
+qualsevol estoc,
+
+24
+00:00:59,160 --> 00:01:01,840
+o vull dir, en els casos més extrems,
+
+25
+00:01:02,180 --> 00:01:03,140
+qualsevol fallida,
+
+26
+00:01:03,460 --> 00:01:05,160
+es justifica automàticament
+
+27
+00:01:05,160 --> 00:01:07,520
+sota el paraigua de la crisi sanitària.
+
+28
+00:01:08,060 --> 00:01:09,960
+I clar, ningú fa més preguntes.
+
+29
+00:01:10,100 --> 00:01:11,520
+I justament aquí és on s'amaga
+
+30
+00:01:11,520 --> 00:01:14,300
+un dels mites més estesos del món empresarial modern.
+
+31
+00:01:14,800 --> 00:01:15,960
+Si algú preguntarà mateix
+
+32
+00:01:15,960 --> 00:01:18,520
+per què el gegant de la cosmètica Revlon,
+
+33
+00:01:18,720 --> 00:01:20,480
+una empresa absolutament llegendària,
+
+34
+00:01:20,840 --> 00:01:22,800
+va fer fallida oficialment l'any 2022,
+
+35
+00:01:23,420 --> 00:01:25,820
+la resposta de gairebé qualsevol analista aficionat
+
+36
+00:01:25,820 --> 00:01:27,140
+serà la pandèmia.
+
+37
+00:01:27,140 --> 00:01:27,500
+I tant.
+
+38
+00:01:28,460 --> 00:01:31,020
+La lògica és seductora.
+
+39
+00:01:31,520 --> 00:01:32,660
+Confinaments globals,
+
+40
+00:01:32,820 --> 00:01:34,260
+ús obligatori de mascaretes,
+
+41
+00:01:34,600 --> 00:01:35,560
+ningú sortia de casa.
+
+42
+00:01:36,100 --> 00:01:38,780
+Per tant, qui havia de comprar pintallavis o maquillatge?
+
+43
+00:01:39,020 --> 00:01:39,440
+Ningú.
+
+44
+00:01:39,600 --> 00:01:42,100
+Llavors les vendes cauen en picat i l'empresa s'enfonsa.
+
+45
+00:01:42,420 --> 00:01:44,440
+A primera vista, sembla una equació imbatible.
+
+46
+00:01:44,720 --> 00:01:46,300
+Sembla una equació de manual, sí.
+
+47
+00:01:46,800 --> 00:01:48,560
+Però en l'anàlisi que farem avui
+
+48
+00:01:48,560 --> 00:01:50,180
+veurem que aquesta narrativa
+
+49
+00:01:50,180 --> 00:01:52,260
+fa aigües pertot arreu.
+
+50
+00:01:52,500 --> 00:01:53,000
+Totalment.
+
+51
+00:01:53,760 --> 00:01:55,800
+La realitat és molt menys poètica
+
+52
+00:01:55,800 --> 00:01:58,000
+i, francament, molt més autodestructiva.
+
+53
+00:01:58,460 --> 00:01:59,900
+O sigui, el vaixell de Revlon
+
+54
+00:01:59,900 --> 00:02:02,100
+ja tenia forats massius al casc
+
+55
+00:02:02,100 --> 00:02:03,960
+molt abans que la paraula mascareta
+
+56
+00:02:03,960 --> 00:02:05,980
+formés part del nostre vocabulari diari.
+
+57
+00:02:06,400 --> 00:02:09,200
+I aquesta és justament la nostra missió d'avui.
+
+58
+00:02:09,800 --> 00:02:12,060
+Gràcies a un vídeo documental revelador
+
+59
+00:02:12,060 --> 00:02:14,400
+de Jorge Monzonís sobre l'ecosistema SAP
+
+60
+00:02:14,400 --> 00:02:16,500
+que hem utilitzat com a eix central
+
+61
+00:02:16,500 --> 00:02:18,140
+de la nostra investigació avui,
+
+62
+00:02:18,640 --> 00:02:20,800
+desmuntarem aquesta excusa del virus.
+
+63
+00:02:21,660 --> 00:02:23,360
+Legint les fonts aportades,
+
+64
+00:02:23,620 --> 00:02:25,340
+el que realment enfonsa una empresa
+
+65
+00:02:25,340 --> 00:02:27,180
+amb gairebé un segle d'història
+
+66
+00:02:27,180 --> 00:02:28,340
+no és un factor extrem.
+
+67
+00:02:28,460 --> 00:02:31,040
+Sinó un còctel letal fet a casa.
+
+68
+00:02:31,480 --> 00:02:33,640
+Un contracte tecnològic precipitat,
+
+69
+00:02:34,020 --> 00:02:36,300
+la destrucció deliberada de talent intern
+
+70
+00:02:36,300 --> 00:02:38,000
+i un sistema informàtic
+
+71
+00:02:38,000 --> 00:02:39,640
+que va paralitzar les fàbriques.
+
+72
+00:02:39,880 --> 00:02:40,580
+Déu-n'hi-do.
+
+73
+00:02:40,880 --> 00:02:42,760
+Perquè cal posar això en perspectiva
+
+74
+00:02:42,760 --> 00:02:44,080
+per a qui ens escolta.
+
+75
+00:02:44,520 --> 00:02:46,560
+A veure, Revlon no era una start-up
+
+76
+00:02:46,560 --> 00:02:48,740
+que intentava trobar el seu lloc al mercat.
+
+77
+00:02:49,200 --> 00:02:51,960
+Va ser fundada el 1932 a Nova York
+
+78
+00:02:51,960 --> 00:02:53,560
+pels germans Revson
+
+79
+00:02:53,560 --> 00:02:55,220
+i el químic Charles Lachman.
+
+80
+00:02:55,660 --> 00:02:57,560
+Estem parlant d'un tità absolut
+
+81
+00:02:57,560 --> 00:02:58,300
+que va arribar a la ciutat
+
+82
+00:02:58,300 --> 00:03:01,360
+i va facturar 3.000 milions de dòlars anuals.
+
+83
+00:03:01,760 --> 00:03:02,540
+Una bravarietat.
+
+84
+00:03:02,860 --> 00:03:05,000
+I no només el volum de facturació, eh?
+
+85
+00:03:05,280 --> 00:03:06,860
+Vull dir, la complexitat operativa.
+
+86
+00:03:07,260 --> 00:03:07,540
+Clar.
+
+87
+00:03:08,000 --> 00:03:10,300
+Tenien presència a 150 països,
+
+88
+00:03:11,380 --> 00:03:12,400
+una plantilla global
+
+89
+00:03:12,400 --> 00:03:14,160
+de gairebé 6.000 empleats
+
+90
+00:03:14,160 --> 00:03:15,760
+i competien cos a cos
+
+91
+00:03:15,760 --> 00:03:17,500
+contra imperis immensos
+
+92
+00:03:17,500 --> 00:03:19,340
+com L'Oréal o Estée Lauder.
+
+93
+00:03:19,740 --> 00:03:22,300
+O sigui, havien sobreviscut a guerres mundials,
+
+94
+00:03:23,240 --> 00:03:24,300
+a crisis del petroli,
+
+95
+00:03:24,760 --> 00:03:26,080
+a la caiguda de Lehman Brothers.
+
+96
+00:03:26,080 --> 00:03:27,140
+I tot i així,
+
+97
+00:03:28,300 --> 00:03:29,340
+els va fer caure va sortir
+
+98
+00:03:29,340 --> 00:03:31,100
+de la seva pròpia sala de juntes.
+
+99
+00:03:31,420 --> 00:03:32,980
+D'acord, anem a desgranar això.
+
+100
+00:03:33,420 --> 00:03:35,460
+Perquè abans d'arribar a l'incendi
+
+101
+00:03:35,460 --> 00:03:38,180
+hem d'entendre com es va començar a pilar la llenya.
+
+102
+00:03:38,600 --> 00:03:40,860
+I tota aquesta història arrenca l'any 2017.
+
+103
+00:03:41,440 --> 00:03:42,440
+No amb una crisi,
+
+104
+00:03:42,520 --> 00:03:44,900
+sinó amb allò que el mercat considerava
+
+105
+00:03:44,900 --> 00:03:46,740
+una decisió dictada
+
+106
+00:03:46,740 --> 00:03:49,060
+per una ambició voraç.
+
+107
+00:03:50,000 --> 00:03:50,520
+Exacte.
+
+108
+00:03:50,900 --> 00:03:52,360
+Ens situem a l'any 2017.
+
+109
+00:03:53,020 --> 00:03:54,880
+Revlon decideix fer un moviment
+
+110
+00:03:54,880 --> 00:03:57,340
+superagressiu per guanyar quota de mercat.
+
+111
+00:03:57,340 --> 00:03:59,660
+Especialment en els sectors de fragances
+
+112
+00:03:59,660 --> 00:04:00,500
+i cura de la pell,
+
+113
+00:04:00,900 --> 00:04:02,420
+on potser no eren tan forts.
+
+114
+00:04:02,740 --> 00:04:03,700
+I què fan?
+
+115
+00:04:04,380 --> 00:04:06,140
+Compren una altra marca històrica,
+
+116
+00:04:06,500 --> 00:04:07,340
+Elizabeth Arden,
+
+117
+00:04:07,720 --> 00:04:09,860
+per 420 milions de dòlars.
+
+118
+00:04:10,100 --> 00:04:11,380
+Ostres, una xifra important.
+
+119
+00:04:11,560 --> 00:04:12,840
+És una adquisició gegantina.
+
+120
+00:04:13,440 --> 00:04:15,260
+Però a veure, en el món corporatiu,
+
+121
+00:04:15,460 --> 00:04:17,360
+signar el xec i fer la roda de premsa
+
+122
+00:04:17,360 --> 00:04:19,380
+amb els somriures és només l'aparador.
+
+123
+00:04:19,540 --> 00:04:20,700
+Clar, la fusta t'ho queda molt bé.
+
+124
+00:04:20,900 --> 00:04:21,380
+Exacte.
+
+125
+00:04:21,860 --> 00:04:23,580
+El veritable malson d'una adquisició
+
+126
+00:04:23,580 --> 00:04:26,400
+és com integres les dues companyies per darrere.
+
+127
+00:04:26,400 --> 00:04:28,400
+Com fas que dues màquines enormes
+
+128
+00:04:28,940 --> 00:04:31,200
+i diferents operen com una de sola?
+
+129
+00:04:31,300 --> 00:04:33,080
+I aquí és on la nova directiva
+
+130
+00:04:33,080 --> 00:04:34,400
+es troba amb un descobriment terrorífic.
+
+131
+00:04:35,700 --> 00:04:36,800
+Després de la fusió,
+
+132
+00:04:37,120 --> 00:04:39,240
+s'adonen d'un petit detall tècnic,
+
+133
+00:04:39,320 --> 00:04:40,400
+i ho dic entre cometes,
+
+134
+00:04:40,960 --> 00:04:43,060
+la nova megaempresa, resultant,
+
+135
+00:04:43,580 --> 00:04:47,220
+està operant amb 21 sistemes ERP diferents.
+
+136
+00:04:47,840 --> 00:04:48,400
+21!
+
+137
+00:04:49,220 --> 00:04:50,020
+Es diu ràpid.
+
+138
+00:04:50,160 --> 00:04:50,480
+Té-la.
+
+139
+00:04:50,900 --> 00:04:53,340
+I per als qui no estiguin familiaritzats
+
+140
+00:04:53,340 --> 00:04:55,440
+amb l'argot corporatiu o tecnològic,
+
+141
+00:04:55,440 --> 00:04:57,040
+un sistema ERP,
+
+142
+00:04:57,280 --> 00:04:58,820
+o Enterprise Resource Planning,
+
+143
+00:04:59,220 --> 00:05:01,480
+és bàsicament el cervell digital de l'empresa.
+
+144
+00:05:02,160 --> 00:05:04,840
+És el software que ho connecta absolutament tot.
+
+145
+00:05:05,220 --> 00:05:06,500
+L'estoc dels magatzems,
+
+146
+00:05:06,640 --> 00:05:07,680
+el pagament de nòmines,
+
+147
+00:05:08,080 --> 00:05:09,180
+la facturació als clients,
+
+148
+00:05:09,480 --> 00:05:10,900
+les comandes als proveïdors,
+
+149
+00:05:11,400 --> 00:05:12,300
+tot passa per aquí.
+
+150
+00:05:12,440 --> 00:05:12,940
+Tot, sí.
+
+151
+00:05:13,180 --> 00:05:13,560
+Doncs bé,
+
+152
+00:05:14,100 --> 00:05:15,500
+Revlon i Elizabeth Arden
+
+153
+00:05:15,500 --> 00:05:18,280
+tenien Microsoft Dynamics funcionant per una banda,
+
+154
+00:05:18,700 --> 00:05:19,760
+Oracle per una altra,
+
+155
+00:05:20,080 --> 00:05:21,760
+i així fins a 19 programes més
+
+156
+00:05:21,760 --> 00:05:23,060
+convivent a la mateixa casa
+
+157
+00:05:23,060 --> 00:05:24,460
+de forma completament aïllada,
+
+158
+00:05:24,460 --> 00:05:25,420
+que és una bogeria,
+
+159
+00:05:25,420 --> 00:05:27,220
+la qual cosa significa
+
+160
+00:05:27,220 --> 00:05:29,600
+que a l'hora de tancar els números a final de mes,
+
+161
+00:05:30,020 --> 00:05:33,160
+algú havia d'agafar dades de 21 llocs diferents,
+
+162
+00:05:33,820 --> 00:05:36,400
+llocs que parlaven formats informàtics diferents,
+
+163
+00:05:36,780 --> 00:05:38,260
+i intentar donar-hi sentit.
+
+164
+00:05:38,560 --> 00:05:39,880
+Uf, quin mal de cap!
+
+165
+00:05:40,460 --> 00:05:42,440
+És una hemorràgia de temps i de diners
+
+166
+00:05:42,440 --> 00:05:45,060
+que no es pot sostenir si vol ser competitiu.
+
+167
+00:05:45,400 --> 00:05:46,600
+Jo m'ho imagino, saps com?
+
+168
+00:05:47,060 --> 00:05:50,420
+Com intentar fusionar 21 cuines de restaurants diferents.
+
+169
+00:05:51,180 --> 00:05:52,520
+Ostres, bona analogia.
+
+170
+00:05:52,620 --> 00:05:55,060
+Imagina tenir una cuina que parla en francès
+
+171
+00:05:55,060 --> 00:05:57,160
+i es dedica exclusivament a la rebosteria.
+
+172
+00:05:57,580 --> 00:05:59,240
+Una altra que fa cuina asiàtica
+
+173
+00:05:59,240 --> 00:06:00,920
+i pesa els ingredients en unces.
+
+174
+00:06:01,360 --> 00:06:02,760
+Una altra de menjar ràpid,
+
+175
+00:06:02,820 --> 00:06:04,280
+on tot està automatitzat.
+
+176
+00:06:04,600 --> 00:06:05,540
+I d'un dia per l'altre,
+
+177
+00:06:05,680 --> 00:06:08,060
+el propietari obre una nau industrial gegant
+
+178
+00:06:08,060 --> 00:06:10,260
+i diu, demà tots cuinareu aquí,
+
+179
+00:06:10,720 --> 00:06:12,040
+junts, amb les mateixes olles,
+
+180
+00:06:12,440 --> 00:06:14,040
+i llegireu les receptes en un idioma
+
+181
+00:06:14,040 --> 00:06:15,120
+que ens acabem d'inventar.
+
+182
+00:06:15,220 --> 00:06:16,500
+És un caos absolut.
+
+183
+00:06:16,860 --> 00:06:18,380
+Però clar, vist des de la barrera,
+
+184
+00:06:18,940 --> 00:06:22,220
+no és precisament la unificació el pas més lògic.
+
+185
+00:06:23,000 --> 00:06:25,040
+Vull dir, la decisió de la directiva,
+
+186
+00:06:25,060 --> 00:06:26,160
+de dir, s'ha acabat,
+
+187
+00:06:26,300 --> 00:06:28,420
+ho passarem tot a un sol sistema mestre,
+
+188
+00:06:28,900 --> 00:06:30,240
+sembla de sentit comú.
+
+189
+00:06:30,260 --> 00:06:30,620
+I tant.
+
+190
+00:06:31,020 --> 00:06:33,320
+I van triar SAP S/4HANA.
+
+191
+00:06:33,900 --> 00:06:35,780
+Llavors, com pot ser que una mesura
+
+192
+00:06:35,780 --> 00:06:38,220
+que qualsevol professor de negocis aplaudiria
+
+193
+00:06:38,220 --> 00:06:41,040
+acabi sent el primer clau del seu taüt?
+
+194
+00:06:41,320 --> 00:06:42,580
+El que resulta fascinant d'aquí
+
+195
+00:06:42,580 --> 00:06:44,020
+és com la teoria de Llobreta
+
+196
+00:06:44,020 --> 00:06:46,840
+de vegades ignora completament la realitat del terreny.
+
+197
+00:06:47,400 --> 00:06:49,040
+La decisió estratègica d'unificar,
+
+198
+00:06:49,200 --> 00:06:51,680
+com tu dius, era 100% correcta.
+
+199
+00:06:51,720 --> 00:06:51,920
+Clar.
+
+200
+00:06:51,920 --> 00:06:53,940
+Tenir 21 serveis descoordinats
+
+201
+00:06:53,940 --> 00:06:54,900
+és totalment inviable.
+
+202
+00:06:55,060 --> 00:06:58,440
+Però l'error catastròfic va reure en el què i el com.
+
+203
+00:06:58,920 --> 00:07:00,060
+El sistema que van triar,
+
+204
+00:07:00,280 --> 00:07:02,460
+aquest famós SAP S/4HANA,
+
+205
+00:07:03,040 --> 00:07:04,300
+no era un programa més
+
+206
+00:07:04,300 --> 00:07:05,520
+o una simple actualització
+
+207
+00:07:05,520 --> 00:07:06,820
+que et descarregues a l'ordinador?
+
+208
+00:07:06,940 --> 00:07:07,140
+No.
+
+209
+00:07:07,800 --> 00:07:10,240
+Era una tecnologia informàtica completament nova
+
+210
+00:07:10,240 --> 00:07:13,280
+que la companyia SAP havia llançat just l'any abans,
+
+211
+00:07:13,540 --> 00:07:14,260
+el 2015.
+
+212
+00:07:14,660 --> 00:07:16,280
+Espera, m'estàs dient
+
+213
+00:07:16,280 --> 00:07:19,120
+que van decidir unificar el sistema nerviós
+
+214
+00:07:19,120 --> 00:07:21,860
+d'una multinacional de 3.000 milions de dòlars
+
+215
+00:07:21,860 --> 00:07:23,720
+utilitzant una tecnologia
+
+216
+00:07:23,720 --> 00:07:24,740
+que només portava
+
+217
+00:07:24,740 --> 00:07:26,080
+mesos al mercat?
+
+218
+00:07:26,400 --> 00:07:27,540
+Literalment mesos, sí.
+
+219
+00:07:28,260 --> 00:07:29,980
+I el gran repte d'S/4HANA
+
+220
+00:07:29,980 --> 00:07:32,920
+és que canviava completament l'arquitectura
+
+221
+00:07:32,920 --> 00:07:34,880
+de com es guarden i es processen les dades
+
+222
+00:07:34,880 --> 00:07:36,900
+respecte a les versions anteriors.
+
+223
+00:07:38,000 --> 00:07:39,380
+Funcionava amb el que s'anomena
+
+224
+00:07:39,380 --> 00:07:40,840
+computació en memòria.
+
+225
+00:07:41,480 --> 00:07:43,340
+Això vol dir que la manera d'ordenar
+
+226
+00:07:43,340 --> 00:07:45,400
+la informació, els diccionaris de dades,
+
+227
+00:07:45,800 --> 00:07:46,940
+tot era un territori
+
+228
+00:07:46,940 --> 00:07:48,460
+completament inexplorat.
+
+229
+00:07:48,460 --> 00:07:49,100
+Déu-n'hi-do!
+
+230
+00:07:49,640 --> 00:07:52,640
+I atenció, no parlo de territori inexplorat
+
+231
+00:07:52,640 --> 00:07:53,560
+només per a Revlon.
+
+232
+00:07:53,560 --> 00:07:55,940
+Era inexplorat per a tot el mercat
+
+233
+00:07:55,940 --> 00:07:56,900
+tecnològic global.
+
+234
+00:07:57,460 --> 00:07:59,420
+Gairebé ningú sabia realment com domar
+
+235
+00:07:59,420 --> 00:08:00,760
+aquella bèstia a gran escala.
+
+236
+00:08:01,440 --> 00:08:03,420
+O sigui, decideixen canviar el motor
+
+237
+00:08:03,420 --> 00:08:05,420
+del seu avió, en ple bal comercial,
+
+238
+00:08:06,100 --> 00:08:07,640
+però, a més a més, es collen
+
+239
+00:08:07,640 --> 00:08:09,220
+un prototip de motor experimental.
+
+240
+00:08:09,740 --> 00:08:10,140
+Tal qual.
+
+241
+00:08:10,340 --> 00:08:12,660
+Però clar, a veure, si no saps instal·lar
+
+242
+00:08:12,660 --> 00:08:14,900
+aquest motor nou, l'opció lògica
+
+243
+00:08:14,900 --> 00:08:16,200
+és buscar algú que en sàpiga.
+
+244
+00:08:17,000 --> 00:08:18,620
+Necessitaven un soci integrador
+
+245
+00:08:18,620 --> 00:08:20,520
+i van trucar la porta de Deloitte,
+
+246
+00:08:20,520 --> 00:08:21,800
+que, per a qui no el sàpiga,
+
+247
+00:08:21,940 --> 00:08:23,300
+és una de les consultores,
+
+248
+00:08:23,300 --> 00:08:26,040
+i auditores més grans i prestigioses del planeta.
+
+249
+00:08:26,840 --> 00:08:27,280
+Efectivament.
+
+250
+00:08:27,640 --> 00:08:29,800
+Tot i això, segons l'anàlisi de Monzonís
+
+251
+00:08:29,800 --> 00:08:31,740
+a les nostres fonts, aquest contracte
+
+252
+00:08:31,740 --> 00:08:33,760
+té una zona molt fosca relacionada
+
+253
+00:08:33,760 --> 00:08:36,020
+amb una pràctica coneguda com l'underbidding.
+
+254
+00:08:36,680 --> 00:08:38,120
+M'agradaria molt que expliquessin bé
+
+255
+00:08:38,120 --> 00:08:40,420
+com funciona això financerament, perquè és clau.
+
+256
+00:08:40,440 --> 00:08:42,640
+Clar, l'underbidding és una tàctica
+
+257
+00:08:42,640 --> 00:08:45,140
+molt agressiva, superagressiva,
+
+258
+00:08:45,500 --> 00:08:47,280
+en el món de la consultoria tecnològica.
+
+259
+00:08:48,140 --> 00:08:50,040
+Bàsicament, consisteix a oferir
+
+260
+00:08:50,040 --> 00:08:52,500
+un pressupost deliberadament a la baixa.
+
+261
+00:08:53,120 --> 00:08:53,280
+D'acord.
+
+262
+00:08:53,300 --> 00:08:53,540
+D'acord.
+
+263
+00:08:53,800 --> 00:08:55,940
+Molt, molt per sota del cos real
+
+264
+00:08:55,940 --> 00:08:58,220
+que suposarà implementar el projecte.
+
+265
+00:08:58,740 --> 00:09:00,080
+La consultora sap perfectament
+
+266
+00:09:00,080 --> 00:09:01,440
+que amb aquest preu que ha donat
+
+267
+00:09:01,440 --> 00:09:04,180
+perdrà diners durant els mesos o anys
+
+268
+00:09:04,180 --> 00:09:05,600
+que duri la instal·lació.
+
+269
+00:09:05,800 --> 00:09:08,080
+Però quin sentit financer això
+
+270
+00:09:08,080 --> 00:09:09,900
+a curt termini per a una empresa
+
+271
+00:09:09,900 --> 00:09:11,200
+gegantina com Deloitte?
+
+272
+00:09:11,800 --> 00:09:14,380
+Per què assumirien un projecte multimilionari
+
+273
+00:09:14,380 --> 00:09:16,200
+sabent des del minut 1
+
+274
+00:09:16,200 --> 00:09:18,240
+que el balanç final serà negatiu?
+
+275
+00:09:18,500 --> 00:09:19,940
+Vull dir, no es llençar els diners
+
+276
+00:09:19,940 --> 00:09:20,660
+per la finestra.
+
+277
+00:09:20,660 --> 00:09:22,540
+A curt termini, us sembla, sí.
+
+278
+00:09:22,540 --> 00:09:25,800
+Però es veu com una inversió de màrqueting.
+
+279
+00:09:26,400 --> 00:09:27,080
+Una de molt cara.
+
+280
+00:09:27,320 --> 00:09:28,080
+Ah, entès.
+
+281
+00:09:28,360 --> 00:09:30,860
+Quan surt una tecnologia absolutament pionera,
+
+282
+00:09:31,220 --> 00:09:33,700
+com era el cas d'aquest S/4HANA
+
+283
+00:09:33,700 --> 00:09:34,680
+el 2007,
+
+284
+00:09:35,180 --> 00:09:36,680
+hi ha una cursa salvatge
+
+285
+00:09:36,680 --> 00:09:38,200
+entre les grans consultores
+
+286
+00:09:38,200 --> 00:09:40,180
+per aconseguir ser les primeres
+
+287
+00:09:40,180 --> 00:09:41,920
+a tenir un cas d'èxit real
+
+288
+00:09:41,920 --> 00:09:43,740
+per ensenyar als futurs clients.
+
+289
+00:09:44,040 --> 00:09:45,680
+Clar, l'aparador que dèiem a mans.
+
+290
+00:09:45,900 --> 00:09:46,460
+Exacte.
+
+291
+00:09:46,860 --> 00:09:49,020
+Si aconsegueixes implementar-lo a Revlon,
+
+292
+00:09:49,480 --> 00:09:50,200
+perds diners avui,
+
+293
+00:09:50,200 --> 00:09:52,480
+però demà vas ensenyar aquest èxit,
+
+294
+00:09:52,540 --> 00:09:54,120
+a 100 multinacionals més,
+
+295
+00:09:54,520 --> 00:09:56,340
+i guanyes contractes immensos
+
+296
+00:09:56,340 --> 00:09:57,540
+gràcies a aquest portafoli.
+
+297
+00:09:57,740 --> 00:09:58,620
+Ja veig la jugada.
+
+298
+00:09:58,820 --> 00:10:01,400
+Ara bé, cal sobrelleu una cosa important.
+
+299
+00:10:02,100 --> 00:10:04,580
+Deloitte mai ha admès haver practicat
+
+300
+00:10:04,580 --> 00:10:06,540
+underbidding en el cas concret
+
+301
+00:10:06,540 --> 00:10:08,220
+de Revlon, i tampoc
+
+302
+00:10:08,220 --> 00:10:10,420
+hi ha hagut cap sentència judicial
+
+303
+00:10:10,420 --> 00:10:11,820
+que ho demostri, d'acord?
+
+304
+00:10:12,280 --> 00:10:13,940
+I aquí és on la cosa es posa
+
+305
+00:10:13,940 --> 00:10:16,140
+realment interessant.
+
+306
+00:10:16,560 --> 00:10:17,620
+Perquè deixant de banda
+
+307
+00:10:17,620 --> 00:10:20,320
+si van oferir el projecte a preu de sal o no,
+
+308
+00:10:20,320 --> 00:10:22,320
+el problema de fons que assenyalen
+
+309
+00:10:22,540 --> 00:10:23,960
+les analistes informàtics
+
+310
+00:10:23,960 --> 00:10:26,020
+és que Deloitte, a l'hora de la veritat,
+
+311
+00:10:26,220 --> 00:10:28,400
+no tenia experiència prèvia demostrable
+
+312
+00:10:28,400 --> 00:10:30,580
+implementant SAP S/4HANA
+
+313
+00:10:30,580 --> 00:10:31,920
+en un entorn tan gran.
+
+314
+00:10:32,320 --> 00:10:33,680
+Exacte, no en tenien.
+
+315
+00:10:34,020 --> 00:10:36,640
+I a mi això, sincerament, em fa explotar una mica el cap.
+
+316
+00:10:37,000 --> 00:10:38,280
+A veure, si tu dirigeixes
+
+317
+00:10:38,280 --> 00:10:40,520
+una corporació global i contractes
+
+318
+00:10:40,520 --> 00:10:42,700
+una firma del prestigi i la mida de Deloitte,
+
+319
+00:10:43,060 --> 00:10:44,300
+no estàs comprant precisament
+
+320
+00:10:44,300 --> 00:10:45,540
+una xarxa de seguretat.
+
+321
+00:10:45,840 --> 00:10:46,720
+Hauria de ser així.
+
+322
+00:10:47,020 --> 00:10:49,000
+El nom i la reputació
+
+323
+00:10:49,000 --> 00:10:50,720
+no avalen la competència tècnica.
+
+324
+00:10:51,660 --> 00:10:52,520
+Com algú pot qualificar-se?
+
+325
+00:10:52,540 --> 00:10:53,600
+Com cal qualificar-se d'inexpert
+
+326
+00:10:53,600 --> 00:10:55,620
+a una consultora d'aquest nivell mundial?
+
+327
+00:10:55,700 --> 00:10:58,660
+La gran lliçó oculta de tota aquesta història
+
+328
+00:10:58,660 --> 00:11:00,960
+per a qualsevol persona de l'audiència
+
+329
+00:11:00,960 --> 00:11:03,280
+que lideri un projecte avui dia.
+
+330
+00:11:03,920 --> 00:11:05,480
+Les juntes directives
+
+331
+00:11:05,480 --> 00:11:06,400
+sovint confonen
+
+332
+00:11:06,400 --> 00:11:08,340
+la mida i el prestigi històric
+
+333
+00:11:08,340 --> 00:11:09,620
+d'una marca corporativa
+
+334
+00:11:09,620 --> 00:11:12,220
+amb la maduresa tecnològica específica
+
+335
+00:11:12,220 --> 00:11:13,280
+d'un producte concret.
+
+336
+00:11:13,660 --> 00:11:14,600
+Que no és el mateix.
+
+337
+00:11:15,020 --> 00:11:17,860
+Exacte. No importa gens si una consultora
+
+338
+00:11:17,860 --> 00:11:20,760
+porta 60 anys dissenyant estratègies financeres
+
+339
+00:11:20,760 --> 00:11:22,500
+o reorganitzant empreses.
+
+340
+00:11:22,540 --> 00:11:24,400
+Si la tecnologia que han d'instal·lar
+
+341
+00:11:24,400 --> 00:11:27,040
+té menys de 24 mesos de vida útil al mercat,
+
+342
+00:11:27,480 --> 00:11:28,700
+tothom és un principiant.
+
+343
+00:11:28,740 --> 00:11:29,180
+Carai.
+
+344
+00:11:29,520 --> 00:11:30,220
+Sense excepció.
+
+345
+00:11:31,020 --> 00:11:33,260
+Quan no hi ha un històric d'errors previs d'un aprendre,
+
+346
+00:11:33,660 --> 00:11:35,500
+l'aprenentatge es farà amb els teus diners
+
+347
+00:11:35,500 --> 00:11:37,240
+i assumint-ho tot el risc.
+
+348
+00:11:37,420 --> 00:11:39,220
+Sobretot tenint en compte que
+
+349
+00:11:39,220 --> 00:11:41,540
+no estem parlant d'implementar
+
+350
+00:11:41,540 --> 00:11:43,980
+un petit sistema de cobrament en una botiga de barri.
+
+351
+00:11:44,420 --> 00:11:46,380
+Revlon fabricava milers i milers
+
+352
+00:11:46,380 --> 00:11:48,040
+de referències de cosmètics.
+
+353
+00:11:48,660 --> 00:11:50,160
+Completament fragmentades
+
+354
+00:11:50,160 --> 00:11:52,160
+per culpa de l'adquisició,
+
+355
+00:11:52,540 --> 00:11:54,060
+d'Elisabeth Arden.
+
+356
+00:11:54,520 --> 00:11:57,240
+Vull dir, la xarxa era un laberint.
+
+357
+00:11:57,480 --> 00:11:58,440
+Exactament per això.
+
+358
+00:11:58,880 --> 00:12:01,960
+Fins i tot veus crítiques dins del propi sector informàtic
+
+359
+00:12:01,960 --> 00:12:04,280
+dubtaven que la mateixa eina de sap
+
+360
+00:12:04,280 --> 00:12:06,560
+estigués prou polida en aquell moment
+
+361
+00:12:06,560 --> 00:12:08,780
+per absorbir una taranyina operativa
+
+362
+00:12:08,780 --> 00:12:10,760
+tan... tan diabòlica.
+
+363
+00:12:11,000 --> 00:12:13,040
+O sigui, que tot estava agafat amb pinces.
+
+364
+00:12:13,220 --> 00:12:14,880
+Era el pitjor escenari imaginable.
+
+365
+00:12:15,300 --> 00:12:17,120
+Un experiment amb un soci tecnològic
+
+366
+00:12:17,120 --> 00:12:19,120
+que sent la pressió de demostrar resultats
+
+367
+00:12:19,120 --> 00:12:20,740
+amb una eina encara immadura,
+
+368
+00:12:21,160 --> 00:12:22,380
+tot intentant aplicar-lo
+
+369
+00:12:22,380 --> 00:12:24,600
+a una empresa d'una complexitat inabastable.
+
+370
+00:12:25,000 --> 00:12:26,700
+Bé, doncs amb tots aquests ingredients
+
+371
+00:12:26,700 --> 00:12:28,400
+d'explosius sobre la taula,
+
+372
+00:12:28,660 --> 00:12:30,560
+amb una eina que gairebé ningú
+
+373
+00:12:30,560 --> 00:12:32,720
+sap com funciona al 100%,
+
+374
+00:12:32,720 --> 00:12:34,440
+i un soci que també està
+
+375
+00:12:34,440 --> 00:12:36,980
+literalment aprenent sobre la marxa,
+
+376
+00:12:37,760 --> 00:12:38,840
+què creus que va decidir fer
+
+377
+00:12:38,840 --> 00:12:40,920
+la directiva de Revlon per facilitar les coses?
+
+378
+00:12:42,300 --> 00:12:42,680
+Ai, mare.
+
+379
+00:12:42,880 --> 00:12:45,280
+Doncs crear un autèntic
+
+380
+00:12:45,280 --> 00:12:47,040
+buit de coneixement intern.
+
+381
+00:12:47,720 --> 00:12:49,540
+D'un repte informàtic
+
+382
+00:12:49,540 --> 00:12:51,720
+es passa, en qüestió de mesos,
+
+383
+00:12:51,720 --> 00:12:53,200
+a un desastre humà.
+
+384
+00:12:53,780 --> 00:12:55,260
+Al mateix any de la integració
+
+385
+00:12:55,260 --> 00:12:57,840
+decideixen aplicar unes retallades
+
+386
+00:12:57,840 --> 00:12:59,420
+de personal massives.
+
+387
+00:12:59,880 --> 00:13:02,120
+Sí, és per posar-se les mans al cap.
+
+388
+00:13:02,700 --> 00:13:05,160
+Acomiaden 350 treballadors
+
+389
+00:13:05,160 --> 00:13:07,040
+d'oficina i d'operacions.
+
+390
+00:13:07,400 --> 00:13:07,960
+350?
+
+391
+00:13:08,540 --> 00:13:10,320
+Estem parlant d'un 6%
+
+392
+00:13:10,320 --> 00:13:11,900
+de la seva plantilla global,
+
+393
+00:13:12,400 --> 00:13:13,220
+al carrer de Cop.
+
+394
+00:13:13,560 --> 00:13:16,040
+L'argument corporatiu que van donar els mercats
+
+395
+00:13:16,040 --> 00:13:17,320
+va ser el de sempre, no?
+
+396
+00:13:17,600 --> 00:13:18,360
+L'eficiència.
+
+397
+00:13:18,360 --> 00:13:19,600
+Clar, la paraula màgica.
+
+398
+00:13:19,800 --> 00:13:21,360
+Deien, bueno, si t'acabes de fusionar,
+
+399
+00:13:21,720 --> 00:13:24,320
+amb Elisabeth Arden, vols eliminar duplicitats.
+
+400
+00:13:24,840 --> 00:13:26,560
+Si tens dos departaments d'estoc
+
+401
+00:13:26,560 --> 00:13:28,280
+o dos departaments de facturació,
+
+402
+00:13:28,660 --> 00:13:30,660
+en suprimeixes un i estalvies diners.
+
+403
+00:13:30,860 --> 00:13:32,360
+Però, un moment.
+
+404
+00:13:33,040 --> 00:13:34,420
+Si recordem que tenien
+
+405
+00:13:34,420 --> 00:13:36,800
+21 sistemes informàtics diferents
+
+406
+00:13:36,800 --> 00:13:37,740
+que calia emigrar,
+
+407
+00:13:38,420 --> 00:13:40,760
+aquestes duplicitats no eren pas
+
+408
+00:13:40,760 --> 00:13:41,920
+logs de feina inútils.
+
+409
+00:13:42,060 --> 00:13:42,900
+Gens inútils.
+
+410
+00:13:43,080 --> 00:13:46,160
+Si acomiades l'analista logístic d'Elisabeth Arden,
+
+411
+00:13:46,340 --> 00:13:48,040
+que porta 15 anys utilitzant
+
+412
+00:13:48,040 --> 00:13:49,380
+el sistema antic d'Oracle
+
+413
+00:13:49,380 --> 00:13:51,660
+i coneix totes les dresseres,
+
+414
+00:13:51,720 --> 00:13:54,580
+només perquè ara ja tens un analista de Revlon,
+
+415
+00:13:54,960 --> 00:13:56,740
+estàs destruint precisament
+
+416
+00:13:56,740 --> 00:13:58,040
+a la persona que sap
+
+417
+00:13:58,040 --> 00:14:00,280
+exactament on estan amagades les dades
+
+418
+00:14:00,280 --> 00:14:03,000
+i quines regles de negoci s'hi apliquen.
+
+419
+00:14:03,120 --> 00:14:04,460
+Exacte, exacte.
+
+420
+00:14:04,560 --> 00:14:06,780
+I és a ella qui necessites desesperadament
+
+421
+00:14:06,780 --> 00:14:09,100
+per traduir el sistema vell al nou sap.
+
+422
+00:14:09,400 --> 00:14:10,600
+Si connectem això
+
+423
+00:14:10,600 --> 00:14:12,660
+amb una perspectiva més àmplia,
+
+424
+00:14:13,200 --> 00:14:14,520
+veurem que aquest és de llarg
+
+425
+00:14:14,520 --> 00:14:16,460
+l'error estructural de pràcticament
+
+426
+00:14:16,460 --> 00:14:18,780
+tota transformació digital fracassada.
+
+427
+00:14:18,920 --> 00:14:19,820
+Com s'explica això?
+
+428
+00:14:19,820 --> 00:14:21,580
+Doncs que la direcció mira
+
+429
+00:14:21,720 --> 00:14:23,880
+l'empresa com si fos una arquitectura de software
+
+430
+00:14:23,880 --> 00:14:26,160
+pura i dura, i obliden completament
+
+431
+00:14:26,160 --> 00:14:28,100
+que el veritable coneixement del negoci,
+
+432
+00:14:28,360 --> 00:14:30,160
+o sigui, l'ADN operatiu,
+
+433
+00:14:30,480 --> 00:14:31,960
+mai resideix en el codi informàtic.
+
+434
+00:14:32,760 --> 00:14:33,040
+Clar.
+
+435
+00:14:33,320 --> 00:14:34,880
+Resideix al cap de les persones.
+
+436
+00:14:35,440 --> 00:14:37,500
+Les excepcions a l'hora de facturar
+
+437
+00:14:37,500 --> 00:14:38,840
+a un client complicat.
+
+438
+00:14:39,360 --> 00:14:41,780
+Aquell proveïdor que requereix un tracte especial.
+
+439
+00:14:42,320 --> 00:14:44,040
+La peculiaritat de com es registra
+
+440
+00:14:44,040 --> 00:14:45,420
+l'estoc d'un perfum concret
+
+441
+00:14:45,420 --> 00:14:46,560
+per la seva caducitat.
+
+442
+00:14:47,020 --> 00:14:48,840
+Això no està als manuals de la informàtica,
+
+443
+00:14:48,840 --> 00:14:50,580
+està a la memòria dels empleats.
+
+444
+00:14:51,060 --> 00:14:51,500
+És a dir,
+
+445
+00:14:51,720 --> 00:14:54,340
+en acomodiar aquestes 350 persones,
+
+446
+00:14:54,880 --> 00:14:56,240
+el que realment estaven fent
+
+447
+00:14:56,240 --> 00:14:58,840
+era acomodiar els manuals d'instruccions humans
+
+448
+00:14:58,840 --> 00:15:01,740
+dels 21 sistemes que necessitaven entendre
+
+449
+00:15:01,740 --> 00:15:03,200
+per poder avançar.
+
+450
+00:15:03,320 --> 00:15:03,780
+Tal qual.
+
+451
+00:15:04,380 --> 00:15:06,100
+Ho van llençar tot a les escombraries.
+
+452
+00:15:06,620 --> 00:15:09,180
+El que ens porta directament a una altra reflexió vital
+
+453
+00:15:09,180 --> 00:15:10,900
+que podem extreure d'aquestes fonts.
+
+454
+00:15:11,720 --> 00:15:12,880
+Mai, sota cap circumstància,
+
+455
+00:15:13,840 --> 00:15:15,800
+es pot retallar el personal operatiu clau
+
+456
+00:15:15,800 --> 00:15:18,340
+just al mig d'una transició tecnològica.
+
+457
+00:15:18,340 --> 00:15:20,520
+Són l'únic pont segur que tens
+
+458
+00:15:20,520 --> 00:15:21,700
+entre el passat i el futur.
+
+459
+00:15:21,720 --> 00:15:24,540
+Per desconnectar una mica de la rutina setmanal?
+
+460
+00:15:25,200 --> 00:15:26,440
+Sobre el projecte nou,
+
+461
+00:15:27,220 --> 00:15:28,880
+crec que hauríem de revisar bé
+
+462
+00:15:28,880 --> 00:15:30,480
+els objectius abans de començar.
+
+463
+00:15:30,900 --> 00:15:31,220
+O sigui,
+
+464
+00:15:31,760 --> 00:15:34,140
+assegurar-nos que tothom
+
+465
+00:15:34,140 --> 00:15:35,600
+està a la mateixa pàgina.
+
+466
+00:15:36,260 --> 00:15:37,460
+Clar, vas provant?
+
+467
+00:15:37,940 --> 00:15:40,460
+Doncs Revlon va triar l'estratègia oposada
+
+468
+00:15:40,460 --> 00:15:41,840
+que és coneguda com
+
+469
+00:15:41,840 --> 00:15:42,740
+el Big Bang.
+
+470
+00:15:43,140 --> 00:15:44,080
+El tot o res, vaja.
+
+471
+00:15:44,880 --> 00:15:46,540
+Volien apagar els antics sistemes
+
+472
+00:15:46,540 --> 00:15:49,160
+i engegar l'S/4HANA de cop,
+
+473
+00:15:49,520 --> 00:15:51,060
+passant de 0 a 100
+
+474
+00:15:51,060 --> 00:15:52,300
+en 24 hores.
+
+475
+00:15:52,620 --> 00:15:53,080
+Quina por!
+
+476
+00:15:53,760 --> 00:15:55,440
+I per afegir més risc a l'assumpte,
+
+477
+00:15:55,860 --> 00:15:58,180
+no ho van provar en una petita fàbrica secundària.
+
+478
+00:15:58,480 --> 00:15:58,800
+No, no.
+
+479
+00:15:59,340 --> 00:16:01,360
+Van decidir fer aquest llançament explosiu
+
+480
+00:16:01,360 --> 00:16:03,300
+directament a la seva instal·lació
+
+481
+00:16:03,300 --> 00:16:04,400
+més neuràlgica,
+
+482
+00:16:04,840 --> 00:16:06,040
+que era la planta d'Oxford,
+
+483
+00:16:06,220 --> 00:16:07,180
+a Carolina del Nord.
+
+484
+00:16:07,380 --> 00:16:09,460
+I per què era tan important aquesta planta?
+
+485
+00:16:09,940 --> 00:16:11,660
+Perquè aquesta planta, ella sola,
+
+486
+00:16:12,020 --> 00:16:14,420
+processava el 80% de totes
+
+487
+00:16:14,420 --> 00:16:15,920
+les comandes de Nord-Amèrica,
+
+488
+00:16:16,440 --> 00:16:18,220
+que era el seu mercat principal de llarg.
+
+489
+00:16:18,780 --> 00:16:20,300
+I a més a més, des d'allà es consolidaven
+
+490
+00:16:20,300 --> 00:16:22,140
+els resultats financiers
+
+491
+00:16:22,140 --> 00:16:24,780
+de tots els 150 països on operaven.
+
+492
+00:16:25,220 --> 00:16:25,680
+Ostres!
+
+493
+00:16:26,500 --> 00:16:28,280
+És l'equivalent a canviar-te de casa
+
+494
+00:16:28,280 --> 00:16:31,060
+i en comptes de fer diversos viatges segurs
+
+495
+00:16:31,060 --> 00:16:31,840
+amb furgoneta,
+
+496
+00:16:32,380 --> 00:16:34,600
+decideixes apilar tots els teus mobles
+
+497
+00:16:34,600 --> 00:16:35,720
+als electrodomèstics
+
+498
+00:16:35,720 --> 00:16:37,320
+i la vaixella de la teva àvia
+
+499
+00:16:37,320 --> 00:16:39,440
+a la vaca d'un sol cotxe petit
+
+500
+00:16:39,440 --> 00:16:40,700
+ligat amb cordes
+
+501
+00:16:40,700 --> 00:16:42,360
+i accelerar per l'autopista
+
+502
+00:16:42,360 --> 00:16:43,840
+confiant que res caurà.
+
+503
+00:16:44,280 --> 00:16:45,440
+És una ruleta russa?
+
+504
+00:16:45,820 --> 00:16:46,360
+Totalment.
+
+505
+00:16:46,820 --> 00:16:48,120
+I la lliçó de manual
+
+506
+00:16:48,120 --> 00:16:49,720
+que extreuen els experts d'aquí
+
+507
+00:16:49,720 --> 00:16:50,040
+és obvi.
+
+508
+00:16:50,040 --> 00:16:50,040
+
+
+509
+00:16:50,040 --> 00:16:50,280
+és obvi.
+
+510
+00:16:50,300 --> 00:16:52,320
+Les migracions de sistemes
+
+511
+00:16:52,320 --> 00:16:53,660
+s'han de fer modularment.
+
+512
+00:16:54,080 --> 00:16:55,800
+Un Big Bang en una planta crítica
+
+513
+00:16:55,800 --> 00:16:57,760
+és gairebé una garantia de col·lapse.
+
+514
+00:16:58,300 --> 00:16:58,980
+Sense dubte.
+
+515
+00:16:59,280 --> 00:17:00,900
+Sobretot si tenim en compte
+
+516
+00:17:00,900 --> 00:17:03,440
+qui estava supervisant d'aquesta maniobra.
+
+517
+00:17:04,040 --> 00:17:05,340
+Perquè aquí ve un gir
+
+518
+00:17:05,340 --> 00:17:07,300
+que de debò costa de creure.
+
+519
+00:17:08,000 --> 00:17:10,340
+Ens situem el 28 de gener de 2018.
+
+520
+00:17:10,920 --> 00:17:12,920
+Faltaven exactament 3 setmanes
+
+521
+00:17:12,920 --> 00:17:14,400
+per apremar el botó nuclear
+
+522
+00:17:14,400 --> 00:17:16,440
+del go-live a la planta d'Oxford.
+
+523
+00:17:16,840 --> 00:17:18,500
+3 setmanes, eh? Compte.
+
+524
+00:17:18,500 --> 00:17:19,300
+3 setmanes.
+
+525
+00:17:19,300 --> 00:17:21,500
+I el CEO de la companyia,
+
+526
+00:17:21,700 --> 00:17:22,580
+Fabian Garcia,
+
+527
+00:17:22,980 --> 00:17:24,780
+el líder absolut que havia orquestrat
+
+528
+00:17:24,780 --> 00:17:27,300
+tota la compra i la integració tecnològica,
+
+529
+00:17:27,900 --> 00:17:29,220
+doncs, dimiteix
+
+530
+00:17:29,220 --> 00:17:30,340
+de forma fulminant.
+
+531
+00:17:30,460 --> 00:17:32,160
+Sí, sí. Va recollir les coses
+
+532
+00:17:32,160 --> 00:17:34,080
+i va marxar amb l'excusa oficial
+
+533
+00:17:34,080 --> 00:17:35,760
+de buscar altres oportunitats.
+
+534
+00:17:35,940 --> 00:17:37,120
+Altres oportunitats.
+
+535
+00:17:37,300 --> 00:17:39,280
+Això, el llenguatge corporatiu
+
+536
+00:17:39,280 --> 00:17:42,060
+i tenint en compte el calendari ajustadíssim,
+
+537
+00:17:42,500 --> 00:17:44,240
+era una enorme bandera vermella.
+
+538
+00:17:44,940 --> 00:17:47,040
+Indicava clarament que el projecte d'integració
+
+539
+00:17:47,040 --> 00:17:48,840
+estava completament fora de control.
+
+540
+00:17:49,300 --> 00:17:50,940
+I ell no volia ser-s'hi present
+
+541
+00:17:50,940 --> 00:17:52,100
+quan la bomba es platés.
+
+542
+00:17:52,580 --> 00:17:53,460
+Fuís corrents, clar.
+
+543
+00:17:53,820 --> 00:17:54,820
+Llavors, què fan?
+
+544
+00:17:55,000 --> 00:17:57,740
+Es nomena un membre del Consell, en Paul Meister,
+
+545
+00:17:58,120 --> 00:17:59,040
+com a CEO interí.
+
+546
+00:17:59,420 --> 00:18:01,820
+Bàsicament algú per apagar focs immediats,
+
+547
+00:18:02,000 --> 00:18:04,300
+però sense cap mena de visió al llarg termini.
+
+548
+00:18:04,580 --> 00:18:06,380
+Però és que no només perden el seu.
+
+549
+00:18:06,720 --> 00:18:08,900
+El director d'operacions, el COO,
+
+550
+00:18:09,120 --> 00:18:10,080
+Gianni Pieraccioni,
+
+551
+00:18:10,480 --> 00:18:11,780
+que era un veterà del sector,
+
+552
+00:18:12,120 --> 00:18:13,340
+ja havia fugit l'any anterior.
+
+553
+00:18:13,940 --> 00:18:16,540
+Llavors, què passa amb les operacions del dia a dia
+
+554
+00:18:16,540 --> 00:18:18,780
+just abans d'activar el sistema més important
+
+555
+00:18:18,780 --> 00:18:18,820
+de la seva vida?
+
+556
+00:18:18,820 --> 00:18:18,880
+I el director d'operacions, el CEO,
+
+557
+00:18:18,880 --> 00:18:18,940
+el director d'operacions,
+
+558
+00:18:18,940 --> 00:18:18,980
+el director d'operacions,
+
+559
+00:18:18,980 --> 00:18:19,700
+el director d'operacions,
+
+560
+00:18:19,700 --> 00:18:23,740
+doncs el director financer, el CFO,
+
+561
+00:18:23,880 --> 00:18:24,640
+Chris Peterson,
+
+562
+00:18:25,000 --> 00:18:26,640
+ha d'assumir les regnes operatives
+
+563
+00:18:26,640 --> 00:18:28,680
+alhora que continua gestionant els números.
+
+564
+00:18:29,160 --> 00:18:30,580
+Una sola persona al comandament
+
+565
+00:18:30,580 --> 00:18:31,560
+de tot l'engranatge.
+
+566
+00:18:32,300 --> 00:18:33,080
+Jo em pregunto,
+
+567
+00:18:33,340 --> 00:18:35,520
+no creus que arribats a aquest punt
+
+568
+00:18:35,520 --> 00:18:38,260
+algú hauria d'haver premut el fre d'emergència?
+
+569
+00:18:38,920 --> 00:18:40,640
+Això és com programar una operació
+
+570
+00:18:40,640 --> 00:18:41,320
+a cor obert,
+
+571
+00:18:41,620 --> 00:18:44,160
+acomiadar les infermeres que coneixen els pacients,
+
+572
+00:18:44,560 --> 00:18:46,040
+veure com el cirurgià en cap
+
+573
+00:18:46,040 --> 00:18:47,900
+fuig de l'hospital tres setmanes abans
+
+574
+00:18:47,900 --> 00:18:48,960
+i com a solució,
+
+575
+00:18:48,980 --> 00:18:51,200
+brillant dir-li al comptable de l'hospital
+
+576
+00:18:51,200 --> 00:18:53,100
+que agafi el bisturí mentre seguís repassant
+
+577
+00:18:53,100 --> 00:18:55,000
+els pressupostos. És de bojos.
+
+578
+00:18:55,160 --> 00:18:56,980
+I mira, la lliçó de lideratge aquí
+
+579
+00:18:56,980 --> 00:18:59,060
+és demolidora. No es pot
+
+580
+00:18:59,060 --> 00:19:00,980
+executar un canvi estructural i operatiu
+
+581
+00:19:00,980 --> 00:19:02,980
+d'aquesta magnitud sense un equip
+
+582
+00:19:02,980 --> 00:19:05,320
+executiu ferm, experimentat
+
+583
+00:19:05,320 --> 00:19:07,220
+i, sobretot, compromès
+
+584
+00:19:07,220 --> 00:19:08,780
+a llarg termini amb l'empresa.
+
+585
+00:19:09,100 --> 00:19:11,080
+Completament d'acord. Un equip
+
+586
+00:19:11,080 --> 00:19:13,220
+directiu interi o fragmentat, com tenien
+
+587
+00:19:13,220 --> 00:19:15,420
+ells, simplement no té l'autoritat
+
+588
+00:19:15,420 --> 00:19:17,160
+moral ni executiva per aturar una
+
+589
+00:19:17,160 --> 00:19:19,300
+inèrcia catastròfica, que és precisament
+
+590
+00:19:19,300 --> 00:19:21,140
+el que calia fer de forma urgent.
+
+591
+00:19:21,380 --> 00:19:22,840
+L'opla no ho van aturar.
+
+592
+00:19:23,540 --> 00:19:25,280
+Arriba el febrer de 2018.
+
+593
+00:19:25,940 --> 00:19:27,140
+Premen el famós botó
+
+594
+00:19:27,140 --> 00:19:29,060
+a la planta d'Oxford i el
+
+595
+00:19:29,060 --> 00:19:31,480
+castell de Cartes cau instantàniament.
+
+596
+00:19:32,260 --> 00:19:33,220
+La modernització
+
+597
+00:19:33,220 --> 00:19:35,000
+promesa es converteix en una
+
+598
+00:19:35,000 --> 00:19:37,500
+paràlisi total, gairebé a l'instant.
+
+599
+00:19:37,760 --> 00:19:38,460
+Un desastre.
+
+600
+00:19:38,880 --> 00:19:41,180
+El nou sistema SAP no és
+
+601
+00:19:41,180 --> 00:19:43,360
+capaç ni de crear ordres de producció.
+
+602
+00:19:43,860 --> 00:19:45,160
+O sigui, la maquinària
+
+603
+00:19:45,160 --> 00:19:46,920
+no sap què fabricar perquè
+
+604
+00:19:46,920 --> 00:19:48,460
+el software no s'ho indica.
+
+605
+00:19:49,240 --> 00:19:50,780
+Estan secs. Estan
+
+606
+00:19:50,780 --> 00:19:52,440
+completament a les fosques.
+
+607
+00:19:53,040 --> 00:19:54,840
+I al caos més absolut arriben
+
+608
+00:19:54,840 --> 00:19:56,300
+el que ells anomenen
+
+609
+00:19:56,300 --> 00:19:58,760
+l'inventari fantasma. Com és això?
+
+610
+00:19:59,160 --> 00:20:00,800
+Explica-ho-ne una mica. A veure,
+
+611
+00:20:01,160 --> 00:20:03,100
+t'explico com funciona això des de dins.
+
+612
+00:20:03,500 --> 00:20:04,240
+Perquè és fascinant.
+
+613
+00:20:04,940 --> 00:20:06,920
+En la migració de dades, com que
+
+614
+00:20:06,920 --> 00:20:09,000
+cada un dels 21 sistemes antics
+
+615
+00:20:09,000 --> 00:20:10,800
+guardava la informació d'una manera
+
+616
+00:20:10,800 --> 00:20:12,840
+diferent, les equivalències
+
+617
+00:20:12,840 --> 00:20:14,960
+no es van fer bé, per falta d'aquella
+
+618
+00:20:14,960 --> 00:20:16,840
+gent que havien acomiadat. Ah,
+
+619
+00:20:16,920 --> 00:20:18,820
+clar. Llavors, si l'oracle
+
+620
+00:20:18,820 --> 00:20:20,760
+antic deia que tenien, posem,
+
+621
+00:20:21,300 --> 00:20:22,760
+10.000 caixes de tinta
+
+622
+00:20:22,760 --> 00:20:24,100
+que veia el passadís B,
+
+623
+00:20:24,760 --> 00:20:26,880
+el nou SAP potser llegia aquella dada
+
+624
+00:20:26,880 --> 00:20:28,940
+com a zero. O pitjor encara,
+
+625
+00:20:29,160 --> 00:20:30,700
+es pensava que les caixes estaven
+
+626
+00:20:30,700 --> 00:20:32,700
+en una altra ciutat. Quina ruïna!
+
+627
+00:20:33,240 --> 00:20:34,840
+I quin era el resultat pràctic
+
+628
+00:20:34,840 --> 00:20:36,680
+d'això al magatzem? Doncs
+
+629
+00:20:36,680 --> 00:20:38,960
+que la fàbrica està físicament plena de palets
+
+630
+00:20:38,960 --> 00:20:41,020
+fins al sostre, però l'ordinador
+
+631
+00:20:41,020 --> 00:20:42,620
+diu obstinadament que no hi ha res,
+
+632
+00:20:43,020 --> 00:20:44,900
+així que rechassa les comandes dels clients.
+
+633
+00:20:45,240 --> 00:20:46,780
+Que fort! O a la inversa,
+
+634
+00:20:46,920 --> 00:20:49,140
+el sistema ven productes que en realitat
+
+635
+00:20:49,140 --> 00:20:50,560
+no tenen fabricats ni en estoc.
+
+636
+00:20:51,040 --> 00:20:52,880
+Resultat? Camions arribant
+
+637
+00:20:52,880 --> 00:20:55,020
+buits i marxant buits de la planta contínuament?
+
+638
+00:20:55,580 --> 00:20:56,920
+S'ensorra completament la logística.
+
+639
+00:20:57,680 --> 00:20:59,160
+I el resultat financer és dramàtic?
+
+640
+00:21:00,020 --> 00:21:00,980
+Només durant els primers
+
+641
+00:21:00,980 --> 00:21:02,960
+tres mesos de 2018, perden
+
+642
+00:21:02,960 --> 00:21:04,920
+20 milions de dòlars en vendes directes,
+
+643
+00:21:05,340 --> 00:21:06,920
+vendes que no van poder servir per aquest
+
+644
+00:21:06,920 --> 00:21:08,920
+problema informàtic. 20 milions que
+
+645
+00:21:08,920 --> 00:21:11,040
+volen! I a sobre, es gasten
+
+646
+00:21:11,040 --> 00:21:13,120
+10 milions extra, pagant
+
+647
+00:21:13,120 --> 00:21:14,700
+hores extras als empleats,
+
+648
+00:21:14,700 --> 00:21:16,640
+pagant enviaments superurgents
+
+649
+00:21:16,640 --> 00:21:18,700
+per intentar complir i contractant
+
+650
+00:21:18,700 --> 00:21:20,660
+consultors d'emergència per intentar
+
+651
+00:21:20,660 --> 00:21:22,900
+pedassar el sistema a la desesperada.
+
+652
+00:21:23,380 --> 00:21:24,780
+Un pou sense fons.
+
+653
+00:21:25,260 --> 00:21:26,420
+Llavors, davant d'aquest
+
+654
+00:21:26,420 --> 00:21:28,840
+desastre sagnant, la reacció normal
+
+655
+00:21:28,840 --> 00:21:30,340
+d'una empresa de capital obert
+
+656
+00:21:30,340 --> 00:21:32,580
+hauria de ser informar els mercats i els inversors
+
+657
+00:21:32,580 --> 00:21:33,520
+ràpidament, oi?
+
+658
+00:21:34,460 --> 00:21:36,680
+El sentit comú dictaria
+
+659
+00:21:36,680 --> 00:21:38,640
+transparència, sí. Però
+
+660
+00:21:38,640 --> 00:21:40,340
+ells van optar per l'encobriment.
+
+661
+00:21:40,720 --> 00:21:42,580
+De debò? Sí, sí. Durant
+
+662
+00:21:42,580 --> 00:21:44,700
+tot un any sencer, la línia oficial
+
+663
+00:21:44,700 --> 00:21:46,640
+que donaven cap a Wall Street va
+
+664
+00:21:46,640 --> 00:21:48,400
+ser que estaven patint un, i
+
+665
+00:21:48,400 --> 00:21:49,640
+cito literalment,
+
+666
+00:21:50,100 --> 00:21:52,440
+retard operatiu temporal per a
+
+667
+00:21:52,440 --> 00:21:54,660
+ajustos normals del sistema. Ajustos
+
+668
+00:21:54,660 --> 00:21:55,920
+normals? Exacte.
+
+669
+00:21:56,500 --> 00:21:58,200
+Volien guanyar temps, confiant,
+
+670
+00:21:58,380 --> 00:22:00,400
+suposo, que els enginyers arreglarien
+
+671
+00:22:00,400 --> 00:22:02,380
+el despropòsit abans que arribés
+
+672
+00:22:02,380 --> 00:22:04,120
+la gran auditoria anual. Però, clar,
+
+673
+00:22:04,340 --> 00:22:06,240
+la mentida té les cames cortes.
+
+674
+00:22:06,660 --> 00:22:08,300
+I la bombolla es punxa al març de
+
+675
+00:22:08,300 --> 00:22:10,680
+2019, quan la Comissió de Valors
+
+676
+00:22:10,680 --> 00:22:12,540
+dels Estats Units, la famosa
+
+677
+00:22:12,540 --> 00:22:14,500
+SEC, els exigeix els papers
+
+678
+00:22:14,500 --> 00:22:16,500
+de debò. Allà s'acaba la broma.
+
+679
+00:22:16,640 --> 00:22:18,640
+Es veuen forçats a publicar un document
+
+680
+00:22:18,640 --> 00:22:20,520
+on admeten literalment, i
+
+681
+00:22:20,520 --> 00:22:22,420
+atenció a les paraules, que el seu
+
+682
+00:22:22,420 --> 00:22:24,440
+nou sistema informàtic té una debilitat
+
+683
+00:22:24,440 --> 00:22:26,180
+material i una manca de controls
+
+684
+00:22:26,180 --> 00:22:28,480
+i disseny efectius. Bàsicament,
+
+685
+00:22:28,700 --> 00:22:30,660
+confessen que la tecnologia que els ha costat
+
+686
+00:22:30,660 --> 00:22:32,460
+desenes de milions està mal
+
+687
+00:22:32,460 --> 00:22:33,580
+dissenyada des de l'arrel.
+
+688
+00:22:34,460 --> 00:22:36,280
+I clar, aquí plouen demandes
+
+689
+00:22:36,280 --> 00:22:38,120
+col·lectives d'inversors enfurismats
+
+690
+00:22:38,120 --> 00:22:40,500
+acusant-los de mentir, i les pèrdues
+
+691
+00:22:40,500 --> 00:22:42,180
+s'acumulen de forma descontrolada.
+
+692
+00:22:42,680 --> 00:22:44,820
+64 milions en vendes esfumades
+
+693
+00:22:44,820 --> 00:22:46,420
+i 53 milions
+
+694
+00:22:46,420 --> 00:22:47,860
+en costos de contingència.
+
+695
+00:22:48,260 --> 00:22:50,160
+Més de 117 milions de dòlars
+
+696
+00:22:50,160 --> 00:22:52,300
+perduts directament per la mala
+
+697
+00:22:52,300 --> 00:22:54,440
+implementació. La pregunta que em faig
+
+698
+00:22:54,440 --> 00:22:56,820
+és, com va poder pensar la direcció
+
+699
+00:22:56,820 --> 00:22:58,400
+ni que fos per un segon
+
+700
+00:22:58,400 --> 00:23:00,260
+que podrien amagar un forat
+
+701
+00:23:00,260 --> 00:23:02,100
+logístic tan bèstia a clients i
+
+702
+00:23:02,100 --> 00:23:04,020
+gegantins com Walmart o Target?
+
+703
+00:23:04,540 --> 00:23:06,400
+Quan deixes els prestatges de Walmart
+
+704
+00:23:06,400 --> 00:23:08,260
+buits, no creus que
+
+705
+00:23:08,260 --> 00:23:10,560
+l'intent d'amagar el problema va ser el veritable
+
+706
+00:23:10,560 --> 00:23:12,300
+atret de gràcia? Sense
+
+707
+00:23:12,300 --> 00:23:14,420
+cap mena de dubte. En el
+
+708
+00:23:14,420 --> 00:23:16,220
+sector del gran consum funciona
+
+709
+00:23:16,220 --> 00:23:18,120
+així. Quan un producte teu no
+
+710
+00:23:18,120 --> 00:23:20,340
+arriba a un prestatge de Target o Walmart
+
+711
+00:23:20,340 --> 00:23:22,240
+a temps, el supermercat, que
+
+712
+00:23:22,240 --> 00:23:24,340
+no pot tenir l'espai buit, posa el producte
+
+713
+00:23:24,340 --> 00:23:26,480
+d'un compatidor teu. Clar, ells han de vendre.
+
+714
+00:23:26,580 --> 00:23:28,160
+I tu perds l'espai físic per
+
+715
+00:23:28,160 --> 00:23:30,100
+sempre. Però el pitjor no va venir
+
+716
+00:23:30,100 --> 00:23:32,140
+dels clients, sinó dels proveïdors.
+
+717
+00:23:32,400 --> 00:23:33,800
+Ah, sí? Explica'm això.
+
+718
+00:23:34,140 --> 00:23:36,380
+Pensem un moment com funciona la liquiditat
+
+719
+00:23:36,380 --> 00:23:38,240
+en una empresa així. Si el teu
+
+720
+00:23:38,240 --> 00:23:40,060
+flamant sistema sap, no sap quin
+
+721
+00:23:40,060 --> 00:23:42,280
+estoc tens, resulta que tampoc sap
+
+722
+00:23:42,280 --> 00:23:44,200
+quines factures de proveïdors ha de pagar.
+
+723
+00:23:44,540 --> 00:23:46,180
+Ostres, la reacció en cadena.
+
+724
+00:23:46,220 --> 00:23:48,500
+Llavors, els proveïdors de matèries
+
+725
+00:23:48,500 --> 00:23:50,340
+priveres deixen de cobrar a temps,
+
+726
+00:23:50,780 --> 00:23:52,400
+veuen per les notícies que l'empresa
+
+727
+00:23:52,400 --> 00:23:54,460
+manté els inversors i, evidentment,
+
+728
+00:23:54,860 --> 00:23:56,600
+entren en pànic. I què fan
+
+729
+00:23:56,600 --> 00:23:58,500
+els proveïdors? Doncs tanquen
+
+730
+00:23:58,500 --> 00:24:00,120
+l'aixeta del crèdit immediatament.
+
+731
+00:24:00,600 --> 00:24:02,440
+Si abans et donaven 60 dies per
+
+732
+00:24:02,440 --> 00:24:04,420
+pagar el cartó dels envasos o els productes
+
+733
+00:24:04,420 --> 00:24:06,280
+químics per fer els pintallavis, ara
+
+734
+00:24:06,280 --> 00:24:08,260
+t'exigeixen el pagament per avançat i en
+
+735
+00:24:08,260 --> 00:24:09,940
+efectiu, si vols la mercaderia.
+
+736
+00:24:10,220 --> 00:24:12,280
+Déu-n'hi-dou. I és així com un problema que
+
+737
+00:24:12,280 --> 00:24:13,980
+va néixer sent exclusivament
+
+738
+00:24:13,980 --> 00:24:15,460
+tecnològic informàtic,
+
+739
+00:24:16,220 --> 00:24:18,460
+fins a convertir-se en una letal
+
+740
+00:24:18,460 --> 00:24:20,440
+crisi de liquiditat on a l'empresa
+
+741
+00:24:20,440 --> 00:24:21,940
+se li asseca la sang per complet.
+
+742
+00:24:22,180 --> 00:24:24,460
+I les xifres finals fan caure completament
+
+743
+00:24:24,460 --> 00:24:26,420
+del mite que mencionàvem a l'inici,
+
+744
+00:24:26,840 --> 00:24:28,760
+allò que la pandèmia els va arruïnar.
+
+745
+00:24:29,260 --> 00:24:30,580
+Repassem l'evolució, perquè
+
+746
+00:24:30,580 --> 00:24:32,440
+és reveladora. Abans de tota
+
+747
+00:24:32,440 --> 00:24:34,300
+aquesta aventura tecnològica i de
+
+748
+00:24:34,300 --> 00:24:35,980
+fusions, l'any 2015,
+
+749
+00:24:36,500 --> 00:24:38,180
+Revlon va tancar l'any amb uns
+
+750
+00:24:38,180 --> 00:24:40,580
+beneficis nets de 56 milions
+
+751
+00:24:40,580 --> 00:24:42,480
+de dòlars. Era una empresa sana.
+
+752
+00:24:42,840 --> 00:24:44,560
+Exacte. Guanyaven diners.
+
+753
+00:24:44,880 --> 00:24:46,120
+Després, l'any 2017,
+
+754
+00:24:46,220 --> 00:24:48,460
+en plena tempesta d'acomiadaments massius
+
+755
+00:24:48,460 --> 00:24:50,160
+i la integració complicada,
+
+756
+00:24:50,580 --> 00:24:52,580
+ja van perdre 183 milions.
+
+757
+00:24:53,000 --> 00:24:54,720
+I, finalment, l'any 2018,
+
+758
+00:24:55,340 --> 00:24:56,560
+l'any del desastrós
+
+759
+00:24:56,560 --> 00:24:58,620
+go-live de SAP, les pèrdues
+
+760
+00:24:58,620 --> 00:25:00,340
+assoleixen els increïbles
+
+761
+00:25:00,340 --> 00:25:02,600
+294 milions de dòlars.
+
+762
+00:25:02,820 --> 00:25:04,780
+Un forat negre. I repeteixo
+
+763
+00:25:04,780 --> 00:25:06,840
+per als que ens escolten, això és el 2018.
+
+764
+00:25:07,380 --> 00:25:08,780
+Molt, molt abans que ningú
+
+765
+00:25:08,780 --> 00:25:10,560
+confinés cap ciutat ni es posés
+
+766
+00:25:10,560 --> 00:25:11,780
+cap mascareta pel carrer.
+
+767
+00:25:11,960 --> 00:25:14,500
+La pandèmia de 2020 va ser simplement
+
+768
+00:25:14,500 --> 00:25:16,140
+una tempesta que va impactar
+
+769
+00:25:16,220 --> 00:25:18,100
+contra un edifici on les termites
+
+770
+00:25:18,100 --> 00:25:20,380
+ja s'havien menjat tots els fonaments
+
+771
+00:25:20,380 --> 00:25:22,520
+interns. O sigui, estaven en
+
+772
+00:25:22,520 --> 00:25:24,500
+una espiral de deute de la qual ja no
+
+773
+00:25:24,500 --> 00:25:26,760
+podien sortir perquè les seves operacions
+
+774
+00:25:26,760 --> 00:25:28,200
+havien quedat paralitzades
+
+775
+00:25:28,200 --> 00:25:29,540
+quan més ho necessitaven.
+
+776
+00:25:30,040 --> 00:25:32,540
+Exacte. L'agònia s'arròsega
+
+777
+00:25:32,540 --> 00:25:34,340
+uns anys més gràcies a pedassos
+
+778
+00:25:34,340 --> 00:25:36,580
+financers, però el desenllaç
+
+779
+00:25:36,580 --> 00:25:38,380
+era inevitable. El juny
+
+780
+00:25:38,380 --> 00:25:40,560
+de 2022, Revlon es declara
+
+781
+00:25:40,560 --> 00:25:42,260
+oficialment amb bancarrotes sota
+
+782
+00:25:42,260 --> 00:25:43,880
+el capítol 11 als Estats Units.
+
+783
+00:25:44,700 --> 00:25:46,180
+Ofegada per una motxilla
+
+784
+00:25:46,180 --> 00:25:47,980
+de deute insuportable de més de
+
+785
+00:25:47,980 --> 00:25:49,300
+3.000 milions de dòlars.
+
+786
+00:25:50,060 --> 00:25:52,020
+Van aconseguir reestructurar-se, sí,
+
+787
+00:25:52,440 --> 00:25:54,260
+i sortir de la bancarrota ara fa poc
+
+788
+00:25:54,260 --> 00:25:56,520
+l'any 2023, però el preu
+
+789
+00:25:56,520 --> 00:25:58,380
+per sobreviure va ser cedir
+
+790
+00:25:58,380 --> 00:26:00,540
+tot el poder. Van perdre l'empresa.
+
+791
+00:26:00,820 --> 00:26:02,260
+Per poder seguir operant,
+
+792
+00:26:02,620 --> 00:26:04,280
+van haver de convertir prop
+
+793
+00:26:04,280 --> 00:26:06,200
+de 2.700 milions
+
+794
+00:26:06,200 --> 00:26:07,780
+del deute en accions.
+
+795
+00:26:08,340 --> 00:26:10,280
+Això va significar que el magnat
+
+796
+00:26:10,280 --> 00:26:12,480
+Ron Perelman, que havia comprat
+
+797
+00:26:12,480 --> 00:26:14,320
+i controlat la companyia des de
+
+798
+00:26:14,320 --> 00:26:16,060
+feia 38 anys, com si
+
+799
+00:26:16,060 --> 00:26:17,660
+fos el seu negoci familiar,
+
+800
+00:26:18,060 --> 00:26:20,360
+exclusivament, va perdre en el control
+
+801
+00:26:20,360 --> 00:26:21,980
+pràcticament total. Sí,
+
+802
+00:26:22,160 --> 00:26:23,920
+entregant les claus als creditors.
+
+803
+00:26:24,220 --> 00:26:26,480
+Lliurant-ho tot als fons d'inversió.
+
+804
+00:26:27,000 --> 00:26:28,200
+Un final molt
+
+805
+00:26:28,200 --> 00:26:30,240
+trist per a un autèntic símbol
+
+806
+00:26:30,240 --> 00:26:32,220
+nord-americà. Aleshores,
+
+807
+00:26:32,660 --> 00:26:33,880
+què significa tot això
+
+808
+00:26:33,880 --> 00:26:35,860
+per a nosaltres? Quin profit
+
+809
+00:26:35,860 --> 00:26:37,540
+en pot treure d'aquestes lliçons
+
+810
+00:26:37,540 --> 00:26:39,620
+algú de l'audiència que ens escolta
+
+811
+00:26:39,620 --> 00:26:42,340
+i que potser demà ha d'afrontar la instal·lació
+
+812
+00:26:42,340 --> 00:26:44,120
+d'un simple software de gestió
+
+813
+00:26:44,120 --> 00:26:45,940
+en una petita empresa de 50.000?
+
+814
+00:26:46,060 --> 00:26:46,300
+A través d'un software de gestió
+
+815
+00:26:46,300 --> 00:26:48,160
+de 50 treballadors. Les dinàmiques,
+
+816
+00:26:48,340 --> 00:26:49,920
+al cap i a la fi, semblen ser
+
+817
+00:26:49,920 --> 00:26:52,060
+les mateixes a qualsevol escala, oi?
+
+818
+00:26:52,380 --> 00:26:53,900
+Això planteja una qüestió
+
+819
+00:26:53,900 --> 00:26:55,920
+important que ens afecta absolutament
+
+820
+00:26:55,920 --> 00:26:57,660
+a tots els nivells empresarials.
+
+821
+00:26:58,200 --> 00:27:00,280
+Mira, hi ha un viatge cognitiu
+
+822
+00:27:00,280 --> 00:27:01,920
+gairebé religiós en el món dels
+
+823
+00:27:01,920 --> 00:27:04,020
+negocis d'avui dia, que ens fa creure
+
+824
+00:27:04,020 --> 00:27:05,860
+que si comprem la millor tecnologia
+
+825
+00:27:05,860 --> 00:27:08,240
+disponible, si invertim en el programa
+
+826
+00:27:08,240 --> 00:27:09,940
+més car de tots, això
+
+827
+00:27:09,940 --> 00:27:12,040
+arreglarà per art a màgia els nostres
+
+828
+00:27:12,040 --> 00:27:13,920
+problemes interns. Ens pensem que
+
+829
+00:27:13,920 --> 00:27:15,620
+el software és una vareta màgica.
+
+830
+00:27:16,060 --> 00:27:17,980
+Exacte. Processos ineficients,
+
+831
+00:27:18,300 --> 00:27:20,300
+mala comunicació, desorganització
+
+832
+00:27:20,300 --> 00:27:22,380
+en general. La gent es pensa que el software
+
+833
+00:27:22,380 --> 00:27:24,420
+ho curarà de socrel, però no és cert
+
+834
+00:27:24,420 --> 00:27:26,500
+en absolut. La tecnologia mai
+
+835
+00:27:26,500 --> 00:27:28,740
+és una solució per si sola. Funciona
+
+836
+00:27:28,740 --> 00:27:30,580
+com un amplificador, com una
+
+837
+00:27:30,580 --> 00:27:32,540
+lupa implacable. M'agrada molt
+
+838
+00:27:32,540 --> 00:27:34,460
+aquesta comparació de la lupa. Si els
+
+839
+00:27:34,460 --> 00:27:36,480
+processos manuals del teu negoci ja estan
+
+840
+00:27:36,480 --> 00:27:38,460
+ben definits i la teva gent sap
+
+841
+00:27:38,460 --> 00:27:40,380
+el que fa i hi confies, llavors
+
+842
+00:27:40,380 --> 00:27:42,160
+sí, la tecnologia els farà pular
+
+843
+00:27:42,160 --> 00:27:44,600
+més ràpid i millor. Però si
+
+844
+00:27:44,600 --> 00:27:46,040
+la teva organització interna,
+
+845
+00:27:46,060 --> 00:27:48,180
+és un caos desestructurat,
+
+846
+00:27:48,360 --> 00:27:49,900
+ple d'ambicions cegues i de gent
+
+847
+00:27:49,900 --> 00:27:52,100
+acomiadada sense sentit, com li passava
+
+848
+00:27:52,100 --> 00:27:54,140
+a Revlon, l'única cosa que farà
+
+849
+00:27:54,140 --> 00:27:55,640
+un sistema informàtic potent
+
+850
+00:27:55,640 --> 00:27:58,260
+és agafar aquest caos, magnificar-lo
+
+851
+00:27:58,260 --> 00:28:00,280
+i repartir-lo per tota l'empresa
+
+852
+00:28:00,280 --> 00:28:01,580
+a la velocitat de la llum.
+
+853
+00:28:02,180 --> 00:28:04,280
+Totalment. Crec que ha quedat claríssim
+
+854
+00:28:04,280 --> 00:28:06,000
+com s'ha desmuntat el mite inicial
+
+855
+00:28:06,000 --> 00:28:07,820
+de l'episodi d'avui. Hem vist com
+
+856
+00:28:07,820 --> 00:28:09,860
+l'enfonsament d'un referent històric com
+
+857
+00:28:09,860 --> 00:28:12,000
+Revlon no va tenir absolutament res
+
+858
+00:28:12,000 --> 00:28:14,000
+a veure amb un virus exòtic de 2020,
+
+859
+00:28:14,000 --> 00:28:16,040
+sinó amb un virus corporatiu,
+
+860
+00:28:16,060 --> 00:28:18,200
+autoinfligit. Creat a la
+
+861
+00:28:18,200 --> 00:28:20,200
+seva pròpia sala de juntes. Tal qual.
+
+862
+00:28:20,640 --> 00:28:22,160
+L'arrogància a l'hora de canviar-lo
+
+863
+00:28:22,160 --> 00:28:24,160
+tot de cop, l'error imperdonable
+
+864
+00:28:24,160 --> 00:28:26,300
+de menospreciar i acomiadar precisament
+
+865
+00:28:26,300 --> 00:28:27,940
+la gent que tenia el coneixement clau
+
+866
+00:28:27,940 --> 00:28:29,980
+i la temeritat d'un equip directiu
+
+867
+00:28:29,980 --> 00:28:32,260
+incapaç d'aturar un tren que anava directe
+
+868
+00:28:32,260 --> 00:28:34,080
+cap a un penya-cegat evident. És una
+
+869
+00:28:34,080 --> 00:28:36,080
+història de manual sobre com no fer
+
+870
+00:28:36,080 --> 00:28:37,580
+les coses. Exacte.
+
+871
+00:28:38,200 --> 00:28:40,260
+Ens queda l'aprenentatge innegable
+
+872
+00:28:40,260 --> 00:28:42,020
+que qualsevol transició
+
+873
+00:28:42,020 --> 00:28:44,160
+profunda requereix paciència,
+
+874
+00:28:44,160 --> 00:28:46,040
+fer-ho de forma modular
+
+875
+00:28:46,060 --> 00:28:48,080
+i un respecte sagrat
+
+876
+00:28:48,080 --> 00:28:50,280
+pel capital humà que fa funcionar
+
+877
+00:28:50,280 --> 00:28:51,680
+la maquinària dia a dia.
+
+878
+00:28:52,280 --> 00:28:54,060
+Totalment cert. Però bé,
+
+879
+00:28:54,320 --> 00:28:56,360
+abans d'acomiadar aquesta sessió,
+
+880
+00:28:56,580 --> 00:28:58,560
+hi ha una reflexió final que m'agradaria
+
+881
+00:28:58,560 --> 00:28:59,840
+posar sobre la taula
+
+882
+00:28:59,840 --> 00:29:02,000
+per a tots els qui ens escolten. A veure.
+
+883
+00:29:02,600 --> 00:29:04,000
+Si ens aturem a pensar
+
+884
+00:29:04,000 --> 00:29:06,220
+com un imperi gairebé centenari,
+
+885
+00:29:06,660 --> 00:29:07,980
+poderós, global,
+
+886
+00:29:08,500 --> 00:29:10,040
+va ser esborrat de l'Olimp
+
+887
+00:29:10,040 --> 00:29:12,120
+empresarial, no per un atac
+
+888
+00:29:12,120 --> 00:29:13,780
+cibernètic d'un país enemic,
+
+889
+00:29:14,180 --> 00:29:15,820
+ni per un competidor audaç
+
+890
+00:29:16,060 --> 00:29:18,100
+que inventés un pintallavis revolucionari,
+
+891
+00:29:18,540 --> 00:29:20,700
+sinó exclusivament per un projecte
+
+892
+00:29:20,700 --> 00:29:22,360
+d'emigració de bases de bades
+
+893
+00:29:22,360 --> 00:29:23,920
+executat amb presses
+
+894
+00:29:23,920 --> 00:29:26,720
+i sense seny. La pregunta és inevitable.
+
+895
+00:29:27,540 --> 00:29:28,520
+Quantes grans
+
+896
+00:29:28,520 --> 00:29:30,720
+corporacions, de les quals tu i jo
+
+897
+00:29:30,720 --> 00:29:32,300
+depenem diàriament per a coses
+
+898
+00:29:32,300 --> 00:29:34,600
+tan bàsiques com el suministre energètic,
+
+899
+00:29:34,900 --> 00:29:36,240
+els comptes bancaris on tenim
+
+900
+00:29:36,240 --> 00:29:38,280
+les estalvis o la distribució d'aliments
+
+901
+00:29:38,280 --> 00:29:40,720
+als supermercats, quantes pateixen
+
+902
+00:29:40,720 --> 00:29:42,280
+d'aquesta mateixa fragilitat
+
+903
+00:29:42,280 --> 00:29:43,780
+interna i simplement
+
+904
+00:29:43,780 --> 00:29:45,640
+l'estan amagant per guanyar temps?
+
+905
+00:29:46,060 --> 00:29:47,760
+És força inquietant pensar
+
+906
+00:29:47,760 --> 00:29:50,340
+quantes d'aquestes infraestructures crítiques
+
+907
+00:29:50,340 --> 00:29:52,120
+estan ara mateix
+
+908
+00:29:52,120 --> 00:29:54,280
+a un només una actualització de software
+
+909
+00:29:54,280 --> 00:29:56,360
+mal planificada del col·lapse total.
+
+910
+00:29:57,260 --> 00:29:58,140
+Cal parar-s'hi a pensar.
+
+911
+00:29:58,520 --> 00:29:58,880
+I molt.
+

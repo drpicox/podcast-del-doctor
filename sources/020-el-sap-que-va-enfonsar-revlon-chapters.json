@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 020: El SAP que va enfonsar Revlon",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: el mite de la pandèmia" },
+    { "startTime": 160.9, "title": "Revlon i la compra d'Elizabeth Arden: 21 ERPs" },
+    { "startTime": 391.0, "title": "L'aposta per S/4HANA i Deloitte" },
+    { "startTime": 765.3, "title": "Acomiadar el coneixement intern" },
+    { "startTime": 937.9, "title": "El Big Bang a la planta d'Oxford" },
+    { "startTime": 1028.0, "title": "Gener 2018: la fugida dels directius" },
+    { "startTime": 1163.5, "title": "El col·lapse i l'inventari fantasma" },
+    { "startTime": 1298.6, "title": "Encobriment, SEC i crisi de liquiditat" },
+    { "startTime": 1462.2, "title": "Les xifres reals i la fallida" },
+    { "startTime": 1592.7, "title": "Reflexió final: la tecnologia com a lupa" }
+  ]
+}

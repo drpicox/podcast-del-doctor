@@ -213,6 +213,16 @@ EPISODIS = [
         "duration": "19:55",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "agents autònoms", "multiagent", "beads", "gas town", "gas city", "wasteland", "steve yegge", "dolt", "dolthub", "prolly trees", "pagerank", "issue tracker", "graf dirigit acíclic", "orquestració", "context engineering", "català"]
     },
+    {
+        "num": "020",
+        "fitxer": "020-el-sap-que-va-enfonsar-revlon.mp3",
+        "identifier": "podcast-del-doctor-020-el-sap-que-va-enfonsar-revlon",
+        "title": "Episodi 020: El SAP que va enfonsar Revlon",
+        "description": "Revlon va fer fallida el 2022 i tothom en va culpar la pandèmia, però els números expliquen una altra història: el forat va començar el 2018 amb una migració Big Bang a SAP S/4HANA que va paralitzar la planta que servia el 80% de les comandes nord-americanes. Desgranem el còctel sencer: 21 ERPs després de comprar Elizabeth Arden, una tecnologia amb mesos de vida, 350 acomiadats que s'enduien el coneixement clau, un CEO que fuig tres setmanes abans del go-live, inventari fantasma, encobriment davant la SEC i la caiguda d'un imperi de 90 anys.",
+        "date": "2026-08-09",
+        "duration": "29:59",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "sap", "s/4hana", "erp", "revlon", "elizabeth arden", "deloitte", "underbidding", "big bang migration", "migració de sistemes", "inventari fantasma", "sec", "chapter 11", "fallida", "transformació digital", "gestió del canvi", "català"]
+    },
 ]
 
 
