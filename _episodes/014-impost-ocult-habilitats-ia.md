@@ -22,7 +22,7 @@ title: "Episodi 014: L'impost ocult de la IA (càpsula en anglès)"
 transcript_language: "en"
 ---
 
-> ⚠️ **Avís:** aquesta és una **càpsula de 54 segons i l'àudio és en anglès**, una excepció dins d'un podcast que es fa en català. És el resum llampec de l'estudi; la versió completa i en català la trobaràs a l'[Episodi 015: L'IA ens està atrofiant les habilitats](/podcast-del-doctor/episodis/015-ia-atrofia-les-habilitats).
+> ⚠️ **Avís:** aquesta és una **càpsula de 54 segons i l'àudio és en anglès**, una excepció dins d'un podcast que es fa en català. És el resum llampec de l'estudi; la versió completa i en català la trobaràs a l'[Episodi 015: L'IA ens està atrofiant les habilitats](/podcast-del-doctor/episodi/015-ia-atrofia-les-habilitats).
 
 ## Introducció
 
@@ -40,7 +40,7 @@ Ens han venut que la IA converteix els perfils júnior en professionals extraord
 
 - **Reflexió final — qui supervisarà els errors de demà**: Si fem servir la IA per saltar-nos l'esforç d'aprendre avui, no tindrem les habilitats necessàries per supervisar-ne els errors demà. És un impost diferit: es cobra just quan més falta fa el criteri humà.
 
-Aquesta càpsula entronca amb un fil que ja hem estirat abans al podcast. A l'[Episodi 011: El parany dels acomiadaments per IA](/podcast-del-doctor/episodis/011-parany-acomiadaments-ia) ens preguntàvem quines habilitats humanes conserven valor quan la màquina assumeix feina; a l'[Episodi 012: L'especificació és el nou codi](/podcast-del-doctor/episodis/012-especificacio-nou-codi) defensàvem que la feina humana es desplaça cap a especificar amb rigor — cosa que exigeix, justament, entendre a fons allò que demanes.
+Aquesta càpsula entronca amb un fil que ja hem estirat abans al podcast. A l'[Episodi 011: El parany dels acomiadaments per IA](/podcast-del-doctor/episodi/011-parany-acomiadaments-ia) ens preguntàvem quines habilitats humanes conserven valor quan la màquina assumeix feina; a l'[Episodi 012: L'especificació és el nou codi](/podcast-del-doctor/episodi/012-especificacio-nou-codi) defensàvem que la feina humana es desplaça cap a especificar amb rigor — cosa que exigeix, justament, entendre a fons allò que demanes.
 
 ## Fonts
 

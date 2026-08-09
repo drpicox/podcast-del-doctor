@@ -26,7 +26,7 @@ title: "Episodi 010: Reconstrucció 3D amb COLMAP i mòbils"
 
 ## Introducció
 
-Tercer i últim episodi de la sèrie sobre reconstrucció 3D amb COLMAP. Després d'introduir els fonaments a l'[Episodi 008: Com COLMAP reconstrueix el món en 3D](/podcast-del-doctor/episodis/008-colmap-reconstrueix-mon-3d) i aprofundir en la captura terrestre en anglès a l'[Episodi 009: Construir mons 3D sense drons](/podcast-del-doctor/episodis/009-construir-mons-3d-sense-drons), ara repassem tot el pipeline complet — **en català** — amb un enfocament pràctic i accessible: des de com l'algorisme SIFT crea empremtes dactilars de 128 dimensions per a cada punt d'interès fins a la reflexió inquietant sobre què implica per a la privacitat que qualsevol persona amb un mòbil pugui generar models 3D d'espais públics.
+Tercer i últim episodi de la sèrie sobre reconstrucció 3D amb COLMAP. Després d'introduir els fonaments a l'[Episodi 008: Com COLMAP reconstrueix el món en 3D](/podcast-del-doctor/episodi/008-colmap-reconstrueix-mon-3d) i aprofundir en la captura terrestre en anglès a l'[Episodi 009: Construir mons 3D sense drons](/podcast-del-doctor/episodi/009-construir-mons-3d-sense-drons), ara repassem tot el pipeline complet — **en català** — amb un enfocament pràctic i accessible: des de com l'algorisme SIFT crea empremtes dactilars de 128 dimensions per a cada punt d'interès fins a la reflexió inquietant sobre què implica per a la privacitat que qualsevol persona amb un mòbil pugui generar models 3D d'espais públics.
 
 ## Temes tractats
 

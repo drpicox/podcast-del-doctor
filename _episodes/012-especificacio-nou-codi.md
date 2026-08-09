@@ -51,7 +51,7 @@ La intel·ligència artificial escriu codi a la velocitat de la llum, però sorp
 
 - **Reflexió final — què ens quedarà per explorar?**: Si avui el nostre valor afegit és traduir necessitats vagues en criteris d'acceptació concrets, què passarà el dia que la IA tingui prou empatia i context per deduir-los ella mateixa a partir d'una simple conversa de cafè? Si arriba a entendre els nostres problemes millor que nosaltres, quin serà el paper dels "exploradors de problemes" que ara diem que som?
 
-Aquest episodi entronca amb la sèrie sobre treballar amb IA del podcast: la disciplina de proves de Dave Farley ja va aparèixer a l'[Episodi 003: Test-Driven Development amb Dave Farley](/podcast-del-doctor/episodis/003-spacex-ingenyeria-software-aprendre), la idea de dirigir la IA amb precisió a l'[Episodi 004: Domar la IA per programar amb precisió](/podcast-del-doctor/episodis/004-domar-ia-precisio), i l'analogia del geni literal reprèn el fil de l'[Episodi 007: Com domar el geni trampós](/podcast-del-doctor/episodis/007-com-domar-el-geni-trampos).
+Aquest episodi entronca amb la sèrie sobre treballar amb IA del podcast: la disciplina de proves de Dave Farley ja va aparèixer a l'[Episodi 003: Test-Driven Development amb Dave Farley](/podcast-del-doctor/episodi/003-spacex-ingenyeria-software-aprendre), la idea de dirigir la IA amb precisió a l'[Episodi 004: Domar la IA per programar amb precisió](/podcast-del-doctor/episodi/004-domar-ia-precisio), i l'analogia del geni literal reprèn el fil de l'[Episodi 007: Com domar el geni trampós](/podcast-del-doctor/episodi/007-com-domar-el-geni-trampos).
 
 ## Fonts
 

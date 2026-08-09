@@ -45,7 +45,7 @@ L'any 2025, unes 55.000 persones als Estats Units van perdre la feina explícita
 
 - **Reflexió final — el límit postlaboral**: I si la IA arriba a substituir qualsevol tasca humana? Corporacions automatitzades que produeixen tot a cost marginal zero, consumidors que només sobreviuen amb una renda finançada per impostos a aquestes mateixes corporacions... té sentit seguir-ne dient "lliure mercat"? Potser la pregunta no és com ens asseiem a l'estadi, sinó si l'estadi del capitalisme tradicional s'haurà evaporat al nostre voltant.
 
-Aquest episodi connecta amb reflexions anteriors sobre l'impacte de la IA en la feina, com l'[Episodi 007: Com domar el geni trampós](/podcast-del-doctor/episodis/007-com-domar-el-geni-trampos), on ja apuntàvem que l'avantatge competitiu real no és la programació sinó saber comunicar.
+Aquest episodi connecta amb reflexions anteriors sobre l'impacte de la IA en la feina, com l'[Episodi 007: Com domar el geni trampós](/podcast-del-doctor/episodi/007-com-domar-el-geni-trampos), on ja apuntàvem que l'avantatge competitiu real no és la programació sinó saber comunicar.
 
 ## Fonts
 

@@ -26,7 +26,7 @@ title: "Episodi 009: Construir mons 3D sense drons"
 
 ## Introducció
 
-Per al nostre cervell biològic, entendre la profunditat d'una fotografia és trivial. Per a un ordinador, una imatge no és més que una graella plana de píxels de colors — completament cec a les tres dimensions. En aquest episodi — **en anglès** — aprofundim en com curar aquesta "ceguesa dimensional" utilitzant **COLMAP** des de la perspectiva més difícil: la captura a peu, sense drons, sense GPS d'alta precisió, sense cap dels "codis trampa" dels vehicles aeris. Continuem l'exploració de COLMAP iniciada a l'[Episodi 008: Com COLMAP reconstrueix el món en 3D](/podcast-del-doctor/episodis/008-colmap-reconstrueix-mon-3d), però ara amb molt més detall tècnic i centrant-nos exclusivament en els reptes de la captura terrestre.
+Per al nostre cervell biològic, entendre la profunditat d'una fotografia és trivial. Per a un ordinador, una imatge no és més que una graella plana de píxels de colors — completament cec a les tres dimensions. En aquest episodi — **en anglès** — aprofundim en com curar aquesta "ceguesa dimensional" utilitzant **COLMAP** des de la perspectiva més difícil: la captura a peu, sense drons, sense GPS d'alta precisió, sense cap dels "codis trampa" dels vehicles aeris. Continuem l'exploració de COLMAP iniciada a l'[Episodi 008: Com COLMAP reconstrueix el món en 3D](/podcast-del-doctor/episodi/008-colmap-reconstrueix-mon-3d), però ara amb molt més detall tècnic i centrant-nos exclusivament en els reptes de la captura terrestre.
 
 ## Temes tractats
 

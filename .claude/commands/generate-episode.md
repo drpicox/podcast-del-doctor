@@ -227,7 +227,7 @@ audio_file: ""  # Es completarà al PAS 8 (upload a archive.org)
 audio_size: MIDA_BYTES
 chapters_file: "XXX-nom-episodi-chapters.json"  # creat al PAS 5b
 date: 'YYYY-MM-DD'
-description: "Descripció rica i detallada basada en la transcripció"
+description: "Descripció basada en la transcripció. MÀXIM ~650 caràcters (com els episodis 013-014): un ganxo inicial + els temes principals en una o dues frases. Surt al llistat d'episodis i al RSS; si és més llarga, el llistat es fa impossible de llegir"
 duration: 'MM:SS'
 episode_number: N
 season: 1
@@ -272,7 +272,7 @@ Paràgraf curt que resumeix l'episodi i el context.
 - Disclaimer final (UN de sol, al final del body)
 - **Referències creuades** a episodis anteriors si temes es repeteixen, amb aquest format d'enllaç:
   ```markdown
-  [Episodi XXX: Títol](/podcast-del-doctor/episodis/XXX-nom-episodi)
+  [Episodi XXX: Títol](/podcast-del-doctor/episodi/XXX-nom-episodi)
   ```
 
 ---
@@ -379,4 +379,4 @@ git push
 - **Capítols**: Sempre crear `sources/XXX-chapters.json` amb mínim introducció + temes principals + conclusió
 - **Soundbite**: Sempre seleccionar un fragment representatiu de 30-90 segons
 - **Thumbnail**: Sempre generar amb ollama x/z-image-turbo; si ollama no disponible, indicar-ho a l'usuari
-- **Referències creuades**: Format `[Episodi XXX: Títol](/podcast-del-doctor/episodis/XXX-nom-episodi)`
+- **Referències creuades**: Format `[Episodi XXX: Títol](/podcast-del-doctor/episodi/XXX-nom-episodi)` (permalink en singular: `/episodi/`)

@@ -139,10 +139,10 @@ layout: landing
 
     <div class="navigation">
       {% if page.previous %}
-        <a href="{{ page.previous.url }}" class="nav-link prev">← Episodi anterior</a>
+        <a href="{{ page.previous.url | relative_url }}" class="nav-link prev">← Episodi anterior</a>
       {% endif %}
       {% if page.next %}
-        <a href="{{ page.next.url }}" class="nav-link next">Episodi següent →</a>
+        <a href="{{ page.next.url | relative_url }}" class="nav-link next">Episodi següent →</a>
       {% endif %}
     </div>
   </footer>
