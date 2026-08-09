@@ -104,6 +104,12 @@ Això crea automàticament:
 
 **Si el backend `mlx` falla**, provar amb `--backend auto` o `--backend whisper --model small`.
 
+**Verificar el pas:**
+```bash
+python scripts/check_episode.py XXX --pas 2
+```
+Si surt cap ❌, corregir-ho abans de continuar.
+
 ---
 
 ### PAS 3: Obtenir la durada exacta
@@ -213,6 +219,12 @@ Si ollama no està disponible, informar-ne l'usuari i continuar (es pot generar 
 thumbnail: "/assets/thumbnails/XXX-nom-episodi.png"
 ```
 
+**Verificar els passos 3 a 5d:**
+```bash
+python scripts/check_episode.py XXX --pas 5d
+```
+Comprova durada, audio_size, capítols, soundbite i thumbnail. Corregir els ❌ abans de continuar.
+
 ---
 
 ### PAS 6: Personalitzar el markdown de l'episodi
@@ -275,6 +287,12 @@ Paràgraf curt que resumeix l'episodi i el context.
   [Episodi XXX: Títol](/podcast-del-doctor/episodi/XXX-nom-episodi)
   ```
 
+**Verificar el pas:**
+```bash
+python scripts/check_episode.py XXX --pas 6
+```
+Comprova títol, description curta, fonts amb la transcripció, disclaimer únic i enllaços interns. Corregir els ❌ abans de continuar.
+
 ---
 
 ### PAS 7: Actualitzar `upload_to_archive.py` amb el nou episodi
@@ -321,24 +339,21 @@ Verificar que `audio_file` al markdown s'ha actualitzat correctament (URL comple
 
 ### PAS 9: Verificació final
 
-Abans de fer deploy, comprovar:
+Executar el verificador complet (tots els passos, checks locals):
 
-1. `_episodes/XXX-nom-episodi.md` té tots els camps YAML complets
-2. `audio_file` apunta a archive.org (URL completa amb https://)
-3. `audio_size` conté la mida en bytes
-4. `duration` té el format `MM:SS` correcte
-5. `sources` inclou totes les fonts (principals + transcripció)
-6. La transcripció `.txt` existeix a `sources/`
-7. El fitxer SRT `.srt` existeix a `sources/`
-8. El JSON de capítols existeix a `sources/` i `chapters_file` coincideix
-9. `soundbite_start`, `soundbite_duration` i `soundbite_title` estan definits
-10. El thumbnail existeix a `assets/thumbnails/` i `thumbnail` coincideix
-10b. **La caràtula ha arribat a archive.org**. L'script ho verifica sol al PAS 8,
-     però si veus l'avís "NO hi ha caràtula" o "no ha arribat", comprova-ho amb:
-     `python scripts/upload_to_archive.py --episodi XXX --nomes-cover`
-     (és idempotent: si ja hi és, no fa res)
-11. El contingut del body és correcte (introducció, temes, fonts, disclaimer ÚNIC)
-12. `scripts/upload_to_archive.py` conté el nou episodi a la llista
+```bash
+python scripts/check_episode.py XXX
+```
+
+Cobreix tota l'antiga checklist manual: fitxers presents, frontmatter complet
+(durada contra ffprobe, audio_size, description curta, soundbite, chapters_file,
+thumbnail), fonts amb la transcripció, disclaimer únic, enllaços interns i
+l'entrada a `upload_to_archive.py`. **Si surt cap ❌, corregir-ho i tornar a
+executar fins que quedi net.**
+
+La caràtula a archive.org es verifica al PAS 8 (l'script d'upload ho fa sol) i
+de nou amb `--remot` després del deploy. Si mai falla:
+`python scripts/upload_to_archive.py --episodi XXX --nomes-cover` (idempotent).
 
 Mostrar un resum a l'usuari per confirmar.
 
@@ -363,6 +378,16 @@ git push
 - Els fitxers MP3 a `episodes/` NO es pugen a GitHub (estan al .gitignore)
 - Només es puja el markdown, la transcripció, l'SRT, els capítols, el thumbnail i l'script actualitzat
 - El RSS s'actualitza automàticament amb el push
+
+**Verificació post-deploy** (esperar ~2 minuts que GitHub Pages desplegui):
+
+```bash
+python scripts/check_episode.py XXX --remot
+```
+
+Comprova el MP3 i la caràtula a archive.org, la pàgina publicada, la
+transcripció, els subtítols, els capítols i el feed RSS. Si algun ❌ és de la
+web i acabes de fer push, torna-ho a provar al cap d'un parell de minuts.
 
 ---
 

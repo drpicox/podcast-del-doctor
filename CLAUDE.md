@@ -234,6 +234,22 @@ Tots els episodis han d'incloure:
 - `scripts/generate_all_thumbnails.py` - Genera thumbnails per a tots els episodis
 - Model: `ollama x/z-image-turbo` (cal tenir ollama instal·lat)
 
+### **Verificació** ✅
+- `scripts/check_episode.py` - Verifica que cada pas del workflow ha quedat bé i es queixa amb el que cal corregir
+
+```bash
+python scripts/check_episode.py 019              # checks locals complets d'un episodi
+python scripts/check_episode.py 019 --pas 5d     # només fins a un pas concret (durant la generació)
+python scripts/check_episode.py 019 --remot      # inclou archive.org, web publicada i feed RSS
+python scripts/check_episode.py --tots           # tots els episodis (salut general del repositori)
+```
+
+Comprova, entre d'altres: fitxers presents (`.txt`, `.srt`, chapters, thumbnail),
+durada real contra ffprobe, `audio_size`, `description` curta (~650 caràcters màxim),
+soundbite dins de rang, capítols vàlids, enllaços interns amb `/episodi/` (singular)
+que existeixen, disclaimer únic, episodi a la llista d'`upload_to_archive.py`, i
+`audio_file` amb el format d'archive.org. Codi de sortida 1 si hi ha errors.
+
 ### **Models i Backends de Whisper**
 
 #### **Acceleració hardware:**
@@ -384,10 +400,13 @@ pip install --upgrade openai-whisper
 6. Obtenir durada amb ffprobe
 7. Personalitzar contingut i verificar fonts
 8. Afegir referències creuades a episodis anteriors
-9. Deploy (commit + push — inclou `.srt`, `.json`, thumbnail)
+9. **Verificar-ho tot** (`python scripts/check_episode.py XXX` — 0 errors abans de continuar)
+10. Deploy (commit + push — inclou `.srt`, `.json`, thumbnail)
+11. **Verificar la publicació** (`python scripts/check_episode.py XXX --remot` un cop desplegat)
 
 ### **Setmanalment:**
 - Revisar que RSS funciona
+- `python scripts/check_episode.py --tots` per detectar regressions
 - Comprovar mètriques web (si n'hi ha)
 - Mantenir repositori actualitzat
 
