@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 021: La IA agencial contra el fracàs corporatiu",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 94.5, "title": "Dades en sitges: el motor de Fórmula 1 al carro de fusta" },
+    { "startTime": 146.5, "title": "Casos d'estudi: McDonald's, currículums i SafeRent" },
+    { "startTime": 245.0, "title": "La falsa eficiència laboral: Bumblebee, Klarna i Atlassian" },
+    { "startTime": 304.9, "title": "El cost ocult dels tòquens: ser educat surt car" },
+    { "startTime": 379.9, "title": "Bombolla? La IA agencial com a replantejament" },
+    { "startTime": 470.7, "title": "L'equip d'agents de la patologia toxicològica" },
+    { "startTime": 564.8, "title": "L'humà al centre: human in the loop" },
+    { "startTime": 622.9, "title": "Governança: ALCOA++ i el full de ruta en cinc fases" },
+    { "startTime": 746.3, "title": "Reflexió final" }
+  ]
+}

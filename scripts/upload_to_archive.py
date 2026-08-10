@@ -223,6 +223,16 @@ EPISODIS = [
         "duration": "29:59",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "sap", "s/4hana", "erp", "revlon", "elizabeth arden", "deloitte", "underbidding", "big bang migration", "migració de sistemes", "inventari fantasma", "sec", "chapter 11", "fallida", "transformació digital", "gestió del canvi", "català"]
     },
+    {
+        "num": "021",
+        "fitxer": "021-ia-agencial-contra-el-fracas-corporatiu.mp3",
+        "identifier": "podcast-del-doctor-021-ia-agencial-contra-el-fracas-corporatiu",
+        "title": "Episodi 021: La IA agencial contra el fracàs corporatiu",
+        "description": "S'han invertit entre 35.000 i 40.000 milions de dòlars en IA corporativa en un any, i el 95% dels pilots no aporten cap retorn mesurable. La culpa no és de la màquina: és del carro de fusta on muntem el motor de Fórmula 1. Repassem els desastres —el drive-thru de McDonald's, l'algoritme discriminatori de SafeRent, el chatbot Bumblebee— i el cost ocult de dir «si us plau» a un model. I la sortida: la IA agencial, equips d'agents especialitzats amb l'humà al centre, governança ALCOA++ i un full de ruta en cinc fases tret de la patologia toxicològica.",
+        "date": "2026-08-10",
+        "duration": "13:58",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "ia agencial", "agentic ai", "agents autònoms", "roi", "pilots d'ia", "mcdonald's", "saferent", "bumblebee", "klarna", "human in the loop", "alcoa", "patologia toxicològica", "governança", "català"]
+    },
 ]
 
 
