@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 022: El negoci de l'ansietat dels fills",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 108.8, "title": "La crisi de salut mental juvenil en xifres" },
+    { "startTime": 168.3, "title": "La «generació de cristall»: nens iguals, entorn amb punxes" },
+    { "startTime": 249.3, "title": "L'escola: mètriques que asfixien i mestres que fugen" },
+    { "startTime": 382.8, "title": "Capitalisme de vigilància: l'espia a la butxaca" },
+    { "startTime": 492.0, "title": "Els estudis interns de Meta i el manual de les tabaqueres" },
+    { "startTime": 590.5, "title": "La suma zero del temps: l'extinció de les aficions" },
+    { "startTime": 683.2, "title": "EdTech: fum pedagògic i la ratxa de Duolingo" },
+    { "startTime": 816.5, "title": "L'escut i la guia: recuperar el control" },
+    { "startTime": 999.1, "title": "Reflexió final" }
+  ]
+}

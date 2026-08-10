@@ -233,6 +233,16 @@ EPISODIS = [
         "duration": "13:58",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "ia agencial", "agentic ai", "agents autònoms", "roi", "pilots d'ia", "mcdonald's", "saferent", "bumblebee", "klarna", "human in the loop", "alcoa", "patologia toxicològica", "governança", "català"]
     },
+    {
+        "num": "022",
+        "fitxer": "022-el-negoci-de-l-ansietat-dels-fills.mp3",
+        "identifier": "podcast-del-doctor-022-el-negoci-de-l-ansietat-dels-fills",
+        "title": "Episodi 022: El negoci de l'ansietat dels fills",
+        "description": "Un de cada set menors europeus té un problema de salut mental diagnosticable, i entre les noies de 15 a 19 anys la xifra es dispara a una de cada quatre. No són nens de cristall: és l'entorn, que s'ha omplert de punxes. Desgranem el negoci que hi ha al darrere —el capitalisme de vigilància, els estudis interns de Meta que recorden el manual de les tabaqueres, l'EdTech que ven fum pedagògic i la ratxa de Duolingo— i els dos rols per recuperar el control: l'escut i la guia.",
+        "date": "2026-08-10",
+        "duration": "17:47",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "salut mental", "adolescents", "xarxes socials", "capitalisme de vigilància", "meta", "instagram", "edtech", "duolingo", "dopamina", "criança", "decode", "català"]
+    },
 ]
 
 
