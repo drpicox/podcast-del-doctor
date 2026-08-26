@@ -243,6 +243,16 @@ EPISODIS = [
         "duration": "17:47",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "salut mental", "adolescents", "xarxes socials", "capitalisme de vigilància", "meta", "instagram", "edtech", "duolingo", "dopamina", "criança", "decode", "català"]
     },
+    {
+        "num": "023",
+        "fitxer": "023-l-economia-es-una-xarxa-neuronal-gegant.mp3",
+        "identifier": "podcast-del-doctor-023-l-economia-es-una-xarxa-neuronal-gegant",
+        "title": "Episodi 023: L'economia és una xarxa neuronal gegant",
+        "description": "L'economia global no s'assembla a una intel·ligència artificial: matemàticament és la mateixa arquitectura. Empreses com a neurones, contractes com a pesos i el preu com a senyal d'error — però fent ascens de gradient cap al benefici. A partir d'una conferència de Peter Eckersley a la Universitat de Melbourne, desgranem el defecte compartit: el hackeig de recompenses. Les cobres de Delhi, el vaixell d'OpenAI donant voltes en un bucle infinit, 34 anys de silenci davant la Gran Barrera de Corall — i les palanques per redreçar l'optimitzador abans que hi aboquem una IA superintel·ligent.",
+        "date": "2026-08-26",
+        "duration": "38:28",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "economia", "xarxes neuronals", "intel·ligència artificial", "ai alignment", "reward hacking", "llei de goodhart", "descens de gradient", "monopoli", "externalitats", "ciberseguretat", "peter eckersley", "català"]
+    },
 ]
 
 

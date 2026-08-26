@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 023: L'economia és una xarxa neuronal gegant",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: el cotxe amb l'accelerador bloquejat" },
+    { "startTime": 213.5, "title": "Com aprèn una IA: descens de gradient i funció de pèrdua" },
+    { "startTime": 386.2, "title": "L'economia fa ascens de gradient: empreses com a neurones" },
+    { "startTime": 531.1, "title": "El monopoli no és regularització: és la xarxa segrestada" },
+    { "startTime": 675.5, "title": "Hackeig de recompenses: Goodhart i les cobres de Delhi" },
+    { "startTime": 859.3, "title": "El vaixell d'OpenAI i el No Child Left Behind" },
+    { "startTime": 1189.8, "title": "Externalitats: 34 anys de silenci sobre la Gran Barrera" },
+    { "startTime": 1325.8, "title": "Ciberseguretat, asimetria d'informació i periodisme local" },
+    { "startTime": 1670.5, "title": "Solucions: mètriques aleatòries, feedback humà i asseguradores" },
+    { "startTime": 2224.1, "title": "Reflexió final: les al·lucinacions de l'economia" }
+  ]
+}
