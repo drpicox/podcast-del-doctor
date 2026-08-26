@@ -232,7 +232,8 @@ Tots els episodis han d'incloure:
 ### **Thumbnails**
 - `scripts/generate_thumbnail.py` - Genera thumbnail per a un episodi
 - `scripts/generate_all_thumbnails.py` - Genera thumbnails per a tots els episodis
-- Model: Z-Image-Turbo via `draw-things-cli` (backend `ollama` encara disponible amb `--backend ollama`, però només funciona amb ollama <= 0.32.5)
+- Model: Qwen Image 2512 via `draw-things-cli` (backend `ollama` encara disponible amb `--backend ollama`, però només funciona amb ollama <= 0.32.5)
+- Cada generació imprimeix la **llavor** que ha fet servir: apunta-te-la si vols poder reproduir o retocar un thumbnail
 
 ### **Verificació** ✅
 - `scripts/check_episode.py` - Verifica que cada pas del workflow ha quedat bé i es queixa amb el que cal corregir
@@ -329,7 +330,7 @@ _episodes/XXX-nom.md els camps soundbite_start, soundbite_duration i soundbite_t
 ```bash
 # Primer cop: instal·lar l'eina i assegurar el model
 brew install draw-things-cli
-draw-things-cli models ensure --model z_image_turbo_1.0_q8p.ckpt
+draw-things-cli models ensure --model qwen_image_2512_q8p.ckpt
 
 # Generar thumbnail per un episodi
 python scripts/generate_thumbnail.py \
@@ -344,7 +345,9 @@ python scripts/generate_all_thumbnails.py
 python scripts/generate_all_thumbnails.py 001 --force
 ```
 
-**Prompt base del thumbnail:** TARDIS (cabina de policia blava de Doctor Who) amb uns grans headphones futuristes, vòrtex temporal de fons. Cada episodi afegeix un element visual específic del seu tema.
+**Prompt base del thumbnail (des del 023):** la TARDIS amb headphones cau inclinada per un vòrtex temporal lila i daurat que omple tot el marc, amb les **portes obertes** i el tema de l'episodi sortint-ne a raig i espirejant vòrtex avall. El `--prompt-suffix` descriu precisament això: què surt per la porta.
+
+Els thumbnails 001-022 fan servir la fórmula antiga (cabina dreta i centrada sobre fons clar, tema com a prop petit a sota). Es va canviar perquè a mida de llistat (~110 px) totes les portades eren indistingibles: la cabina hi ocupava el 70% del dibuix i era idèntica a tots els episodis.
 
 ### Validació
 

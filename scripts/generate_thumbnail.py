@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Genera un thumbnail per a un episodi del podcast amb Z-Image-Turbo.
+Genera un thumbnail per a un episodi del podcast amb Qwen Image (Draw Things).
 
 Hi ha dos backends:
 
@@ -15,12 +15,12 @@ d'ollama només funciona amb 0.32.5 o anterior.
     python scripts/generate_thumbnail.py \\
         --episodi 013 \\
         --nom 013-youtuber-revista-pantalles \\
-        --prompt-suffix "a smartphone and magazine cover celebrating a young youtuber, social media icons"
+        --prompt-suffix "smartphones and magazine covers tumbling out, social media icons"
 
 Requisits (draw-things-cli):
     - brew install draw-things-cli
-    - El model z_image_turbo_1.0_q8p.ckpt al directori de models de Draw Things.
-      Si falta: draw-things-cli models ensure --model z_image_turbo_1.0_q8p.ckpt
+    - El model qwen_image_2512_q8p.ckpt al directori de models de Draw Things.
+      Si falta: draw-things-cli models ensure --model qwen_image_2512_q8p.ckpt
 
 Requisits (ollama, llegat):
     - ollama <= 0.32.5 i el model: ollama pull x/z-image-turbo
@@ -36,36 +36,47 @@ import shutil
 import time
 import tempfile
 
-# Prompt base — TARDIS amb headphones futuristes, estil Doctor Who
+# Prompt base — la TARDIS caient pel vòrtex amb les portes obertes.
 #
-# El fons clar i el nivell de detall són explícits a posta. Fins a l'episodi 022
-# els generava ollama, que seguia el prompt fluixet i omplia els buits amb el
-# prior del model: fons blanc d'estudi. Draw Things és molt més literal, i amb el
-# prompt antic ("time vortex in the background" + paleta TARDIS blue) treia una
-# pàgina blau marí fosc — el 023 en va ser la víctima. Si toques aquest prompt,
-# comprova que el fons segueix sortint clar: 22 dels 23 primers thumbnails ho són.
+# Fins al 023 la composició era la cabina dreta i centrada amb el tema de
+# l'episodi com a prop petit a sota, sobre fons clar. El problema: a mida de
+# llistat (~110 px) la cabina ocupa el 70% del dibuix i és idèntica a tots els
+# episodis, així que les portades eren indistingibles entre elles i el prop
+# diferenciador no es veia. Ho vam mesurar amb un contact sheet a 110 px.
+#
+# La fórmula actual resol les dues coses alhora: el vòrtex omple el marc (silueta
+# i color global diferents del catàleg antic), la cabina cau inclinada (dinamisme
+# i angle nou cada episodi) i les portes obertes fan de contenidor — el que
+# canvia entre episodis és el que en surt, no un prop arraconat.
+#
+# El fons és fosc a posta. Els thumbnails 001-022 tenen fons clar, així que el
+# 023 obre una època visual nova; si algun dia es regenera el catàleg enrere,
+# aquesta és la fórmula a aplicar-hi.
 BASE_PROMPT = (
-    "A TARDIS (blue British police box from Doctor Who, with 'POLICE BOX' lettering on the sign) "
-    "wearing oversized futuristic headphones as if it were a character listening to a podcast. "
-    "Bright off-white background, softly lit, with a time vortex swirling behind the TARDIS as a "
-    "translucent arc of purple and gold energy trails — the vortex is a swirl on a light background, "
-    "not a dark full-bleed sky. Clean detailed illustration style with flat colors and defined "
-    "outlines suitable for small display. The color palette includes TARDIS blue (#003B6F), "
-    "gallifreyan gold (#D4AF37), vortex purple (#7B2FFE), and subtle cyan glow details (#00E5FF). "
-    "The headphones should have a sleek futuristic design with clean geometric lines, matte or "
-    "metallic finish, and subtle glowing details. The overall composition should feel both "
-    "retro-sci-fi and modern podcast branding"
+    "A TARDIS blue British police box wearing oversized futuristic headphones, tilted at a "
+    "dramatic falling angle, tumbling down a swirling purple and gold time vortex tunnel that "
+    "fills the entire frame edge to edge. One single sign board above the doors reads exactly "
+    "'POLICE BOX' in clean white capital letters on black, no other text anywhere. Its double "
+    "doors hang wide open as it falls, and you can see into the glowing golden interior. "
+    "Streaming out of the open doorway and spiralling away down the vortex comes the subject of "
+    "this episode. Everything is falling together down the same rabbit hole. Strong sense of "
+    "motion, spiral and depth. Clean detailed illustration style with bold defined outlines and "
+    "flat colors, high contrast, readable as a small thumbnail. Palette: TARDIS blue (#003B6F), "
+    "gallifreyan gold (#D4AF37), vortex purple (#7B2FFE), cyan glow (#00E5FF)"
 )
 
-# El model tendeix a inventar-se rètols il·legibles i a enfosquir el fons.
+# 'white background' hi és perquè la fórmula anterior era de fons clar i el model
+# hi recau tot sol; 'static'/'upright' perquè sense això deixa de caure.
 NEGATIVE_PROMPT = (
-    "dark background, black background, navy full-bleed background, night sky, low contrast, "
-    "gibberish text, garbled lettering, misspelled words, watermark, signature, blurry, "
-    "photorealistic photograph"
+    "white background, off-white background, pale background, static, upright, "
+    "gibberish text, garbled lettering, misspelled words, duplicated text, watermark, "
+    "signature, blurry, photorealistic photograph"
 )
 
 
-DT_MODEL = "z_image_turbo_1.0_q8p.ckpt"
+# Qwen segueix el prompt i escriu 'POLICE BOX' molt millor que Z-Image, a canvi
+# d'anar unes 3x més lent (~4 min per imatge contra ~1,5).
+DT_MODEL = "qwen_image_2512_q8p.ckpt"
 
 
 def _resolve_backend(backend):
@@ -152,11 +163,11 @@ def _generate_ollama(full_prompt, dest_image, episodi):
 
 def generate_thumbnail(episodi, nom, prompt_suffix, output_dir="assets/thumbnails",
                        backend="auto", seed=None):
-    """Genera un thumbnail amb Z-Image-Turbo i el desa a output_dir."""
+    """Genera un thumbnail amb Qwen Image i el desa a output_dir."""
 
     full_prompt = BASE_PROMPT
     if prompt_suffix:
-        full_prompt = f"{BASE_PROMPT}. In the foreground or as a visual element: {prompt_suffix}"
+        full_prompt = f"{BASE_PROMPT}. Pouring out of the open doors and spiralling down the vortex: {prompt_suffix}"
 
     backend = _resolve_backend(backend)
 
@@ -170,7 +181,7 @@ def generate_thumbnail(episodi, nom, prompt_suffix, output_dir="assets/thumbnail
     print(f"📝 Prompt (primeres 150 chars): {full_prompt[:150]}...")
     print(f"⚙️ Backend: {backend}")
     print(f"🎲 Seed: {seed}")
-    print(f"⏳ Generant (pot trigar 30-90 seg)...")
+    print(f"⏳ Generant (Qwen triga uns 4 min; Z-Image, ~1,5)...")
 
     os.makedirs(output_dir, exist_ok=True)
     dest_image = os.path.join(output_dir, f"{nom}.png")
@@ -201,7 +212,8 @@ def main():
     parser.add_argument(
         "--prompt-suffix",
         default="",
-        help="Element visual específic per a aquest episodi (en anglès per millors resultats)",
+        help="Què surt per la porta oberta i espireja vòrtex avall, en anglès "
+             "(ex: 'glowing golden stock-market chart lines, tiny factories, gold coins')",
     )
     parser.add_argument(
         "--output-dir",
