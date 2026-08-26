@@ -198,9 +198,10 @@ soundbite_title: "Títol curt del soundbite (màx 128 caràcters)"
 Decidir un element visual específic per a l'episodi (en anglès, per millors resultats).
 Exemples: `"a futuristic code editor floating in space"`, `"microservices as tiny spaceships"`, `"a 3D point cloud reconstructed from photos"`.
 
-**Prerequisit:** ollama instal·lat i model disponible:
+**Prerequisit:** draw-things-cli instal·lat i model disponible:
 ```bash
-ollama pull x/z-image-turbo
+brew install draw-things-cli
+draw-things-cli models ensure --model z_image_turbo_1.0_q8p.ckpt
 ```
 
 Executar:
@@ -212,7 +213,7 @@ python scripts/generate_thumbnail.py \
 ```
 
 L'script crea `assets/thumbnails/XXX-nom-episodi.png` i mostra la línia per afegir al frontmatter.
-Si ollama no està disponible, informar-ne l'usuari i continuar (es pot generar més tard).
+Si draw-things-cli no està disponible, informar-ne l'usuari i continuar (es pot generar més tard).
 
 **Anotar al frontmatter del markdown:**
 ```yaml
@@ -403,5 +404,5 @@ web i acabes de fer push, torna-ho a provar al cap d'un parell de minuts.
 - **SRT**: Sempre es genera automàticament amb la transcripció — no cal acció addicional
 - **Capítols**: Sempre crear `sources/XXX-chapters.json` amb mínim introducció + temes principals + conclusió
 - **Soundbite**: Sempre seleccionar un fragment representatiu de 30-90 segons
-- **Thumbnail**: Sempre generar amb ollama x/z-image-turbo; si ollama no disponible, indicar-ho a l'usuari
+- **Thumbnail**: Sempre generar amb draw-things-cli (Z-Image-Turbo); si no està disponible, indicar-ho a l'usuari
 - **Referències creuades**: Format `[Episodi XXX: Títol](/podcast-del-doctor/episodi/XXX-nom-episodi)` (permalink en singular: `/episodi/`)

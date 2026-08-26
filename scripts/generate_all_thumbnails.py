@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Genera thumbnails per a tots els episodis del podcast usant ollama x/z-image-turbo.
+Genera thumbnails per a tots els episodis del podcast amb Z-Image-Turbo
+(via draw-things-cli; vegeu generate_thumbnail.py per als backends).
 
 Ús:
     python scripts/generate_all_thumbnails.py           # tots els episodis
@@ -8,8 +9,8 @@ Genera thumbnails per a tots els episodis del podcast usant ollama x/z-image-tur
     python scripts/generate_all_thumbnails.py --force   # regenera fins i tot si ja existeix
 
 Requisits:
-    - ollama instal·lat: https://ollama.com
-    - Model descarregat: ollama pull x/z-image-turbo
+    - draw-things-cli: brew install draw-things-cli
+    - Model: draw-things-cli models ensure --model z_image_turbo_1.0_q8p.ckpt
 """
 
 import os
