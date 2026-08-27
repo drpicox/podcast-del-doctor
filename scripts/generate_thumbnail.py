@@ -29,6 +29,7 @@ Requisits (ollama, llegat):
 import os
 import sys
 import argparse
+import json
 import subprocess
 import glob
 import random
@@ -78,6 +79,31 @@ NEGATIVE_PROMPT = (
 # d'anar unes 3x més lent (~4 min per imatge contra ~1,5).
 DT_MODEL = "qwen_image_2512_q8p.ckpt"
 
+# Paràmetres de generació explícits.
+#
+# Sense passar-los, draw-things-cli aplica els "recommended settings" del model
+# base: desenes de passos amb guidance alta. Amb un model de 21 GB i la memòria
+# justa això no arriba a acabar mai — generant el 025 va superar dos cops el
+# límit de 900 s sense ni tan sols obrir el fitxer del model (4% de CPU, RSS
+# clavat a 0,6 GB: thrashing contra el swap).
+#
+# Amb la LoRA turbo n'hi ha prou amb pocs passos i guidance 1: el mateix prompt
+# surt en ~2,5 min. És la configuració que fa servir el David a l'app de Draw
+# Things, aquí només se n'ha canviat la resolució a quadrada.
+#
+# DT_STEPS: 8, no 5. Amb 5 passos la imatge ja és neta, però la guidance 1 no
+# arriba a resoldre les relacions espacials del prompt i els cascos surten
+# surant separats de la cabina en comptes de seure-hi a sobre (es va veure
+# generant el 025). Amb 8 la diadema torna a passar per sobre del sostre. Costa
+# uns 45 s més per imatge.
+DT_LORA = "wuli_qwen_image_2512_turbo_lora_2steps_v1.0_bf16_lora_f16.ckpt"
+DT_STEPS = 8
+DT_SAMPLER = 15
+DT_SHIFT = 1
+DT_GUIDANCE = 1
+DT_SIZE = 1024  # tot el catàleg de thumbnails és 1024x1024
+DT_TIMEOUT = 1800
+
 
 def _resolve_backend(backend):
     """'auto' tria draw-things-cli si hi és; si no, ollama."""
@@ -94,9 +120,24 @@ def _resolve_backend(backend):
 
 def _generate_draw_things(full_prompt, dest_image, seed):
     """draw-things-cli escriu directament a --output; no cal temporal."""
+    config = {
+        "model": DT_MODEL,
+        "sampler": DT_SAMPLER,
+        "steps": DT_STEPS,
+        "guidanceScale": DT_GUIDANCE,
+        "shift": DT_SHIFT,
+        "width": DT_SIZE,
+        "height": DT_SIZE,
+        "batchCount": 1,
+        "batchSize": 1,
+        "strength": 1,
+        "loras": [{"mode": "all", "file": DT_LORA, "weight": 1}],
+    }
+
     cmd = [
         "draw-things-cli", "generate",
         "--model", DT_MODEL,
+        "--config-json", json.dumps(config),
         "--prompt", full_prompt,
         "--negative-prompt", NEGATIVE_PROMPT,
         "--seed", str(seed),
@@ -104,9 +145,10 @@ def _generate_draw_things(full_prompt, dest_image, seed):
     ]
 
     try:
-        subprocess.run(cmd, check=True, timeout=900)
+        subprocess.run(cmd, check=True, timeout=DT_TIMEOUT)
     except subprocess.TimeoutExpired:
-        print("❌ Error: draw-things-cli ha superat el temps límit (900s)")
+        print(f"❌ Error: draw-things-cli ha superat el temps límit ({DT_TIMEOUT}s)")
+        print("   Comprova la memòria lliure: un model de 21 GB fa thrashing si el swap va ple.")
         sys.exit(1)
     except subprocess.CalledProcessError as e:
         print(f"❌ Error de draw-things-cli (codi {e.returncode})")
