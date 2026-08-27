@@ -253,6 +253,16 @@ EPISODIS = [
         "duration": "38:28",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "economia", "xarxes neuronals", "intel·ligència artificial", "ai alignment", "reward hacking", "llei de goodhart", "descens de gradient", "monopoli", "externalitats", "ciberseguretat", "peter eckersley", "català"]
     },
+    {
+        "num": "024",
+        "fitxer": "024-per-que-les-pantalles-atrofien-la-ment.mp3",
+        "identifier": "podcast-del-doctor-024-per-que-les-pantalles-atrofien-la-ment",
+        "title": "Episodi 024: Per què les pantalles atrofien la ment",
+        "description": "Nens dels anys 60 explicant els riscos socioeconòmics de l'automatització; adolescents d'avui responent que la capital de la Xina és «King Kong City». A partir del documental de ColdFusion, desgranem per què: l'EEG que demostra que escriure a mà encén el cervell i teclejar no, l'escola que va aparcar els portàtils, la IA com a crossa que no calcula sinó que pensa per tu, i la paradoxa de les dades — l'estandardització dels anys 80 no ha baixat el nivell dels bons lectors, ha destruït la xarxa de seguretat dels que ja patien.",
+        "date": "2026-08-27",
+        "duration": "34:05",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "educació", "comprensió lectora", "neurociència", "escriptura a mà", "pantalles", "intel·ligència artificial", "generació z", "generació alfa", "exàmens estandarditzats", "audrey van der meer", "maryanne wolf", "coldfusion", "català"]
+    },
 ]
 
 

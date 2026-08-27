@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 024: Per què les pantalles atrofien la ment",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: dels nens dels anys 60 al «King Kong City»" },
+    { "startTime": 265.2, "title": "L'escriptura a mà i el cervell: l'estudi d'Audrey van der Meer" },
+    { "startTime": 559.9, "title": "L'escola que va aparcar els portàtils" },
+    { "startTime": 675.5, "title": "La IA no és la calculadora dels anys 80" },
+    { "startTime": 878.3, "title": "Dopamina i atenció fragmentada" },
+    { "startTime": 941.1, "title": "L'origen real: l'estandardització i la paradoxa de les dades" },
+    { "startTime": 1252.9, "title": "Professors trencats i pares que han deixat de llegir" },
+    { "startTime": 1464.0, "title": "Singapur i Finlàndia: models que funcionen" },
+    { "startTime": 1774.6, "title": "Tecnologia amb fricció: el tutor socràtic" },
+    { "startTime": 1908.1, "title": "Reflexió final: llegir per ser lliure" }
+  ]
+}
