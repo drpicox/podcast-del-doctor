@@ -362,11 +362,24 @@ def verifica(slug, fins_pas, remot, r, mp3_opcional=False):
                 r.error("R", f"{nom}: no accessible ({url}): {e}")
         try:
             metadades = json.load(peticio(f"https://archive.org/metadata/{identificador}", nomes_capcalera=False))
-            originals = {f["name"] for f in metadades.get("files", []) if f.get("source") == "original"}
-            if f"{slug}.png" in originals:
-                r.be("R", "Caràtula present a archive.org (source: original)")
-            else:
+            originals = {f["name"]: f for f in metadades.get("files", []) if f.get("source") == "original"}
+            remota = originals.get(f"{slug}.png")
+            if remota is None:
                 r.error("R", f"La caràtula {slug}.png no és a archive.org. Puja-la amb: python scripts/upload_to_archive.py --episodi {num} --nomes-cover")
+            else:
+                # No n'hi ha prou amb que el fitxer hi sigui: archive.org accepta
+                # l'upload amb un 200 i el descarta en silenci si l'ítem té un
+                # derive en curs, així que una caràtula substituïda pot quedar-se
+                # amb la versió antiga. Cal comparar la mida amb la local.
+                mida_local = os.path.getsize(thumbnail) if os.path.exists(thumbnail) else None
+                mida_remota = int(remota.get("size") or 0)
+                if mida_local is None:
+                    r.be("R", "Caràtula present a archive.org (source: original)")
+                elif mida_remota == mida_local:
+                    r.be("R", f"Caràtula correcta a archive.org (source: original, {mida_remota:,} bytes)")
+                else:
+                    pendents = " (l'ítem té tasques pendents: espera que acabin)" if metadades.get("pending_tasks") else ""
+                    r.error("R", f"La caràtula d'archive.org no coincideix amb la local: remot {mida_remota:,} bytes, local {mida_local:,} bytes{pendents}. Repuja-la amb: python scripts/upload_to_archive.py --episodi {num} --nomes-cover")
         except Exception as e:
             r.error("R", f"No s'han pogut llegir les metadades d'archive.org: {e}")
         try:
