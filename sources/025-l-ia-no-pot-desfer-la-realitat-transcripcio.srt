@@ -1,0 +1,4984 @@
+1
+00:00:00,000 --> 00:00:01,560
+Imagina la següent situació.
+
+2
+00:00:02,360 --> 00:00:04,840
+Li demanes al teu assistent d'intel·ligència artificial
+
+3
+00:00:04,840 --> 00:00:09,180
+que et compri un bitllet d'avió per anar a Nova York aquest dimarts.
+
+4
+00:00:09,640 --> 00:00:11,260
+Un bitllet car, suposo.
+
+5
+00:00:11,500 --> 00:00:13,380
+I tant, un bitllet de 1.000 euros.
+
+6
+00:00:14,080 --> 00:00:16,120
+Llavors, l'IA fa la seva feina.
+
+7
+00:00:16,640 --> 00:00:19,200
+Fa la petició i et diu reserva feta.
+
+8
+00:00:19,480 --> 00:00:19,880
+D'acord.
+
+9
+00:00:20,200 --> 00:00:24,760
+Però, literalment, un segon després, t'adones d'un error absurd.
+
+10
+00:00:25,400 --> 00:00:28,200
+No volies volar dimarts. Volies volar dijous.
+
+11
+00:00:28,360 --> 00:00:29,940
+Típic. Ens ha passat a tots.
+
+12
+00:00:30,000 --> 00:00:31,500
+Exacte. I què fas?
+
+13
+00:00:31,940 --> 00:00:35,080
+Doncs el que fem tots quan parlem amb un d'aquests xatbots.
+
+14
+00:00:35,460 --> 00:00:38,620
+Prems el botó d'editar, esborres la paraula dimarts,
+
+15
+00:00:38,840 --> 00:00:41,380
+escrius dijous i tornes a enviar el missatge.
+
+16
+00:00:41,720 --> 00:00:44,340
+És un reflex gairebé automàtic, avui en dia, oi?
+
+17
+00:00:44,820 --> 00:00:47,660
+Totalment. I a la teva pantalla tot es veu genial.
+
+18
+00:00:48,140 --> 00:00:49,300
+El xat queda impolut.
+
+19
+00:00:49,840 --> 00:00:52,760
+Apareix aquell petit indicador, ja saps, l'1 de 2 al missatge,
+
+20
+00:00:52,760 --> 00:00:56,040
+i la branca de la conversa original simplement desapareix.
+
+21
+00:00:56,180 --> 00:00:56,780
+Clar, s'amaga.
+
+22
+00:00:57,120 --> 00:00:59,880
+Sí. I l'IA, molt obedient,
+
+23
+00:01:00,120 --> 00:01:02,520
+et contesta i et compra el bitllet per a dijous.
+
+24
+00:01:03,100 --> 00:01:04,820
+Tot sembla perfecte.
+
+25
+00:01:05,240 --> 00:01:06,240
+Però hi ha un problema.
+
+26
+00:01:06,960 --> 00:01:08,300
+Un problema enorme.
+
+27
+00:01:08,720 --> 00:01:11,040
+Perquè, si mires el teu compte bancari,
+
+28
+00:01:11,640 --> 00:01:15,080
+amic meu, acaba de rebre un càrrec de 2.000 euros.
+
+29
+00:01:15,800 --> 00:01:17,780
+Ostres. Dos bitllets.
+
+30
+00:01:18,140 --> 00:01:19,780
+Dos bitllets. Tens dos bitllets.
+
+31
+00:01:19,780 --> 00:01:21,260
+I la intel·ligència artificial,
+
+32
+00:01:21,680 --> 00:01:24,940
+com que està en la seva nova línia temporal neta i editada,
+
+33
+00:01:25,440 --> 00:01:28,160
+no té la més mínima idea de l'existència del primer vol.
+
+34
+00:01:28,700 --> 00:01:29,180
+Exacte.
+
+35
+00:01:30,000 --> 00:01:34,780
+I aquest és exactament el terrorífic problema tècnic
+
+36
+00:01:34,780 --> 00:01:36,320
+al qual ens enfrontem ara mateix,
+
+37
+00:01:36,960 --> 00:01:40,180
+especialment quan donem poder a les IAs sobre el món físic.
+
+38
+00:01:40,300 --> 00:01:41,800
+És que fa por, realment?
+
+39
+00:01:42,540 --> 00:01:43,220
+Em fa, sí.
+
+40
+00:01:43,740 --> 00:01:46,800
+Perquè, mira, durant anys hem tractat els models de llenguatge
+
+41
+00:01:46,800 --> 00:01:48,720
+com a simples processadors de text.
+
+42
+00:01:49,260 --> 00:01:50,700
+Vull dir, en un xat pur,
+
+43
+00:01:51,200 --> 00:01:52,860
+si retrocedeixes en la conversa,
+
+44
+00:01:53,180 --> 00:01:54,720
+la il·lusió funciona perfectament.
+
+45
+00:01:54,940 --> 00:01:57,100
+Perquè el context ho és tot, oi?
+
+46
+00:01:57,100 --> 00:01:57,700
+Clar, clar.
+
+47
+00:01:58,120 --> 00:01:59,380
+Si canvies el context,
+
+48
+00:01:59,380 --> 00:02:01,300
+canvies la realitat de la IA.
+
+49
+00:02:01,680 --> 00:02:04,960
+Però quan aquesta IA es converteix en el que anomenem un agent,
+
+50
+00:02:05,520 --> 00:02:06,980
+un agent amb accés a, no sé,
+
+51
+00:02:07,180 --> 00:02:08,160
+targetes de crèdit.
+
+52
+00:02:08,360 --> 00:02:09,300
+O servidors.
+
+53
+00:02:09,440 --> 00:02:10,720
+O correus electrònics.
+
+54
+00:02:11,360 --> 00:02:13,560
+Llavors la cosa canvia per complet.
+
+55
+00:02:13,920 --> 00:02:14,280
+D'acord.
+
+56
+00:02:14,380 --> 00:02:15,400
+T'anem a desgranar això,
+
+57
+00:02:15,640 --> 00:02:17,560
+perquè crec que és fascinant.
+
+58
+00:02:18,060 --> 00:02:20,260
+I, de fet, aquesta és, precisament,
+
+59
+00:02:20,540 --> 00:02:22,660
+la missió de la nostra anàlisi a fons d'avui.
+
+60
+00:02:23,480 --> 00:02:26,520
+Tenim sobre la taula un document de recerca brutal.
+
+61
+00:02:26,700 --> 00:02:28,160
+Sí, un document molt bo.
+
+62
+00:02:28,500 --> 00:02:28,820
+Està molt bé.
+
+63
+00:02:28,820 --> 00:02:28,880
+Està molt bé.
+
+64
+00:02:28,880 --> 00:02:28,920
+Està molt bé.
+
+65
+00:02:28,920 --> 00:02:28,940
+Està molt bé.
+
+66
+00:02:28,940 --> 00:02:28,960
+Està molt bé.
+
+67
+00:02:28,960 --> 00:02:28,980
+Està molt bé.
+
+68
+00:02:28,980 --> 00:02:29,080
+Està molt bé.
+
+69
+00:02:29,080 --> 00:02:29,560
+Es titula
+
+70
+00:02:29,560 --> 00:02:31,800
+Quan el món no es bifurca.
+
+71
+00:02:32,400 --> 00:02:33,840
+Està elaborat a partir d'unes proves
+
+72
+00:02:33,840 --> 00:02:35,640
+que l'autor ha fet amb una eina anomenada
+
+73
+00:02:35,640 --> 00:02:37,080
+Context Inspector,
+
+74
+00:02:37,540 --> 00:02:39,260
+fent servir el model local Ollama.
+
+75
+00:02:40,080 --> 00:02:41,140
+I, a veure,
+
+76
+00:02:41,320 --> 00:02:42,820
+la premissa que planteja l'autor
+
+77
+00:02:42,820 --> 00:02:43,860
+em sembla demolidora.
+
+78
+00:02:44,440 --> 00:02:45,320
+Bàsicament diu que
+
+79
+00:02:45,320 --> 00:02:47,940
+quan li dones un botó de desfer a un agent autònom,
+
+80
+00:02:48,440 --> 00:02:51,160
+li estàs fent a l'usuari una promesa sobre el món real
+
+81
+00:02:51,160 --> 00:02:53,720
+que la interfície simplement no pot complir.
+
+82
+00:02:53,940 --> 00:02:55,160
+És una frase lapidària.
+
+83
+00:02:55,720 --> 00:02:56,920
+Però és totalment certa.
+
+84
+00:02:56,920 --> 00:02:59,060
+O sigui, és la realitat del programa,
+
+85
+00:02:59,060 --> 00:03:02,120
+i per entendre la magnitud del desastre,
+
+86
+00:03:02,620 --> 00:03:05,040
+el document ens convida a començar des de baix.
+
+87
+00:03:05,420 --> 00:03:06,000
+Des de baix?
+
+88
+00:03:06,080 --> 00:03:08,680
+Vols dir un exemple més senzill que el dels vols?
+
+89
+00:03:08,840 --> 00:03:09,380
+Exacte.
+
+90
+00:03:09,880 --> 00:03:13,040
+Abans d'arruïnar-nos comprant bitllets d'avió duplicats a Nova York,
+
+91
+00:03:13,600 --> 00:03:16,240
+ens proposa mirar com es trenca aquesta il·lusió
+
+92
+00:03:16,240 --> 00:03:17,060
+en un entorn minúscul,
+
+93
+00:03:18,040 --> 00:03:19,260
+un entorn de laboratori.
+
+94
+00:03:19,520 --> 00:03:19,980
+D'acord.
+
+95
+00:03:20,140 --> 00:03:21,840
+Concretament, un joc del penjat.
+
+96
+00:03:22,160 --> 00:03:23,200
+Un joc del penjat.
+
+97
+00:03:23,520 --> 00:03:26,060
+M'encanta, perquè a priori sembla completament inofensiu.
+
+98
+00:03:27,080 --> 00:03:28,820
+Però per què precisament aquest joc?
+
+99
+00:03:29,060 --> 00:03:29,960
+Què té d'especial?
+
+100
+00:03:30,100 --> 00:03:32,460
+Doncs perquè el penjat té un requisit tècnic fonamental.
+
+101
+00:03:32,920 --> 00:03:34,380
+Necessita guardar un secret.
+
+102
+00:03:34,560 --> 00:03:35,460
+Ah, clar.
+
+103
+00:03:35,720 --> 00:03:37,020
+La paraula que has d'endevinar.
+
+104
+00:03:37,100 --> 00:03:37,680
+Això mateix.
+
+105
+00:03:38,320 --> 00:03:40,300
+L'eina informàtica amb la qual jugadaia
+
+106
+00:03:40,300 --> 00:03:41,960
+només li pot ensenyar la màscara.
+
+107
+00:03:42,420 --> 00:03:42,840
+Ja saps,
+
+108
+00:03:43,300 --> 00:03:45,380
+aquells guions baixos de la paraula oculta
+
+109
+00:03:45,380 --> 00:03:47,420
+i les lletres que ja ha intentat.
+
+110
+00:03:47,700 --> 00:03:48,900
+Sí, el clàssic, eh?
+
+111
+00:03:49,200 --> 00:03:51,920
+Guió, guió, ei, guió.
+
+112
+00:03:52,660 --> 00:03:53,140
+Exacte.
+
+113
+00:03:53,400 --> 00:03:55,240
+Però la paraula real ha d'estar amagada
+
+114
+00:03:55,240 --> 00:03:56,540
+en algun lloc del sistema.
+
+115
+00:03:56,900 --> 00:03:57,620
+Perquè, clar,
+
+116
+00:03:57,720 --> 00:03:59,040
+si l'autor simplement pot
+
+117
+00:03:59,060 --> 00:04:00,100
+posés la paraula secreta
+
+118
+00:04:00,100 --> 00:04:01,740
+dins l'historial del xat de la IA,
+
+119
+00:04:02,080 --> 00:04:03,680
+el model de llenguatge la llegiria.
+
+120
+00:04:04,000 --> 00:04:05,800
+I faria trampes immediatament.
+
+121
+00:04:06,440 --> 00:04:06,920
+Immediatament.
+
+122
+00:04:07,480 --> 00:04:08,580
+No poden evitar-ho.
+
+123
+00:04:08,820 --> 00:04:10,040
+No tenen cap mena de filtre
+
+124
+00:04:10,040 --> 00:04:11,720
+per ignorar el text que tenen al davant.
+
+125
+00:04:11,960 --> 00:04:13,360
+O llegeixen i ja està.
+
+126
+00:04:13,720 --> 00:04:13,940
+Clar.
+
+127
+00:04:14,440 --> 00:04:16,220
+Llavors, si jo fos programadora,
+
+128
+00:04:16,480 --> 00:04:18,600
+suposo que la meva primera reacció lògica
+
+129
+00:04:18,600 --> 00:04:20,900
+seria guardar aquesta paraula secreta
+
+130
+00:04:20,900 --> 00:04:21,760
+fora del xat,
+
+131
+00:04:22,120 --> 00:04:23,780
+en una variable del sistema, no?
+
+132
+00:04:23,900 --> 00:04:25,440
+A la memòria del programa en si.
+
+133
+00:04:25,860 --> 00:04:26,460
+Sí, sí.
+
+134
+00:04:26,660 --> 00:04:27,760
+I és el que faria tothom.
+
+135
+00:04:28,100 --> 00:04:28,960
+I just aquí,
+
+136
+00:04:29,060 --> 00:04:30,120
+és on l'autora ens demostra
+
+137
+00:04:30,120 --> 00:04:32,120
+com tota l'estructura s'ensorra.
+
+138
+00:04:32,300 --> 00:04:32,720
+I, de fet,
+
+139
+00:04:32,860 --> 00:04:34,400
+s'ensorra de tres maneres diferents
+
+140
+00:04:34,400 --> 00:04:36,320
+en el moment en què intentes viatjar en el temps.
+
+141
+00:04:36,620 --> 00:04:37,280
+Tres maneres.
+
+142
+00:04:37,540 --> 00:04:37,800
+A veure.
+
+143
+00:04:38,100 --> 00:04:38,300
+Mira,
+
+144
+00:04:38,780 --> 00:04:40,880
+suposem que guardem l'estat del joc
+
+145
+00:04:40,880 --> 00:04:42,920
+en aquesta variable externa que deies.
+
+146
+00:04:43,420 --> 00:04:44,880
+Llavors, la IA diu
+
+147
+00:04:44,880 --> 00:04:46,600
+Provo la lletra A.
+
+148
+00:04:47,200 --> 00:04:48,340
+I el sistema respon
+
+149
+00:04:48,340 --> 00:04:49,000
+Molt bé.
+
+150
+00:04:49,340 --> 00:04:50,200
+L'has encertat.
+
+151
+00:04:50,500 --> 00:04:50,740
+Vale.
+
+152
+00:04:50,900 --> 00:04:52,060
+Fins aquí tot correcte.
+
+153
+00:04:52,540 --> 00:04:52,960
+Però tu,
+
+154
+00:04:53,240 --> 00:04:54,340
+com a usuari trampós,
+
+155
+00:04:54,720 --> 00:04:56,040
+retrocedeixes en el temps.
+
+156
+00:04:56,520 --> 00:04:58,120
+Esborres el missatge de la IA
+
+157
+00:04:58,120 --> 00:04:58,780
+i el teu
+
+158
+00:04:58,780 --> 00:04:59,040
+i ets en un lloc
+
+159
+00:04:59,060 --> 00:05:00,400
+i ara forces la IA
+
+160
+00:05:00,400 --> 00:05:01,620
+a provar la lletra O.
+
+161
+00:05:01,980 --> 00:05:02,980
+Deixa'm endevinar.
+
+162
+00:05:03,180 --> 00:05:04,800
+La variable externa del programa
+
+163
+00:05:04,800 --> 00:05:06,060
+no s'ha esborrat, oi?
+
+164
+00:05:06,420 --> 00:05:07,020
+Així és.
+
+165
+00:05:07,480 --> 00:05:08,560
+La variable del mòdul
+
+166
+00:05:08,560 --> 00:05:10,160
+encara recorda perfectament
+
+167
+00:05:10,160 --> 00:05:11,020
+que la lletra A
+
+168
+00:05:11,020 --> 00:05:12,500
+es va jugar a la branca anterior
+
+169
+00:05:12,500 --> 00:05:13,320
+de la conversa.
+
+170
+00:05:13,760 --> 00:05:14,200
+Ostres!
+
+171
+00:05:14,600 --> 00:05:14,980
+Llavors,
+
+172
+00:05:15,220 --> 00:05:16,460
+quan la IA prova la O,
+
+173
+00:05:16,820 --> 00:05:17,840
+el sistema li retorna
+
+174
+00:05:17,840 --> 00:05:18,920
+un tauler on apareixen
+
+175
+00:05:18,920 --> 00:05:19,460
+tant la A
+
+176
+00:05:19,460 --> 00:05:20,200
+com la O.
+
+177
+00:05:20,800 --> 00:05:21,800
+Posa't a la pell de la IA
+
+178
+00:05:21,800 --> 00:05:22,420
+en aquest moment.
+
+179
+00:05:23,040 --> 00:05:24,540
+Llegeixes el teu historial de xat,
+
+180
+00:05:24,860 --> 00:05:25,540
+veus que allí,
+
+181
+00:05:25,800 --> 00:05:26,440
+per dir-ho així,
+
+182
+00:05:26,980 --> 00:05:28,220
+només has proposat la O.
+
+183
+00:05:28,460 --> 00:05:28,800
+Sí.
+
+184
+00:05:28,800 --> 00:05:28,980
+Sí.
+
+185
+00:05:29,060 --> 00:05:30,060
+Però el sistema et diu
+
+186
+00:05:30,060 --> 00:05:31,460
+que també n'has jugat la A.
+
+187
+00:05:31,620 --> 00:05:32,380
+És com...
+
+188
+00:05:32,380 --> 00:05:33,220
+Mira,
+
+189
+00:05:33,560 --> 00:05:34,820
+és com intentar jugar
+
+190
+00:05:34,820 --> 00:05:36,040
+als cacs amb un amic.
+
+191
+00:05:36,620 --> 00:05:37,300
+Però jo tinc
+
+192
+00:05:37,300 --> 00:05:38,340
+una vareta màgica
+
+193
+00:05:38,340 --> 00:05:39,000
+que esborra
+
+194
+00:05:39,000 --> 00:05:39,760
+la seva memòria
+
+195
+00:05:39,760 --> 00:05:41,120
+dels últims tres moviments.
+
+196
+00:05:41,840 --> 00:05:42,520
+La qüestió és
+
+197
+00:05:42,520 --> 00:05:43,440
+que les peces de fusta
+
+198
+00:05:43,440 --> 00:05:43,940
+del tauler
+
+199
+00:05:43,940 --> 00:05:45,040
+no s'han mogut.
+
+200
+00:05:45,300 --> 00:05:46,080
+Són allà mateix.
+
+201
+00:05:46,300 --> 00:05:47,780
+És una analogia brillant,
+
+202
+00:05:47,900 --> 00:05:48,120
+de bo.
+
+203
+00:05:48,460 --> 00:05:49,100
+El meu amic
+
+204
+00:05:49,100 --> 00:05:49,860
+miraria el tauler
+
+205
+00:05:49,860 --> 00:05:51,100
+completament confús.
+
+206
+00:05:51,640 --> 00:05:52,740
+Intentaria justificar
+
+207
+00:05:52,740 --> 00:05:53,060
+desesperadament
+
+208
+00:05:53,580 --> 00:05:54,840
+perquè el seu cavall
+
+209
+00:05:54,840 --> 00:05:56,000
+és a l'altra punta
+
+210
+00:05:56,000 --> 00:05:57,200
+sense haver-lo tocat.
+
+211
+00:05:57,420 --> 00:05:57,820
+És que
+
+212
+00:05:57,820 --> 00:05:58,800
+és literalment
+
+213
+00:05:58,800 --> 00:05:59,980
+el que fa la IA.
+
+214
+00:06:00,400 --> 00:06:00,840
+Pateix
+
+215
+00:06:00,840 --> 00:06:01,720
+el que anomenem
+
+216
+00:06:01,720 --> 00:06:02,880
+una al·lucinació
+
+217
+00:06:02,880 --> 00:06:04,080
+per justificació.
+
+218
+00:06:04,880 --> 00:06:05,320
+Intenta
+
+219
+00:06:05,320 --> 00:06:07,280
+donar sentit
+
+220
+00:06:07,280 --> 00:06:08,220
+a una realitat
+
+221
+00:06:08,220 --> 00:06:09,180
+que no quadra
+
+222
+00:06:09,180 --> 00:06:10,540
+amb la seva memòria recent.
+
+223
+00:06:10,980 --> 00:06:11,680
+Mare meva.
+
+224
+00:06:12,240 --> 00:06:12,700
+I espera,
+
+225
+00:06:13,180 --> 00:06:14,020
+que la segona manera
+
+226
+00:06:14,020 --> 00:06:14,820
+de trencar-ho
+
+227
+00:06:14,820 --> 00:06:16,140
+és encara més còmica.
+
+228
+00:06:16,380 --> 00:06:17,120
+Més còmica?
+
+229
+00:06:17,280 --> 00:06:17,460
+Sí.
+
+230
+00:06:18,040 --> 00:06:18,880
+Imagina que esborres
+
+231
+00:06:18,880 --> 00:06:19,540
+tot el xat.
+
+232
+00:06:19,920 --> 00:06:20,120
+Tot.
+
+233
+00:06:20,760 --> 00:06:21,640
+I li dius a la IA
+
+234
+00:06:21,640 --> 00:06:22,360
+escolta,
+
+235
+00:06:22,620 --> 00:06:23,820
+comencem una partida nova.
+
+236
+00:06:24,520 --> 00:06:25,380
+Llavors la IA
+
+237
+00:06:25,380 --> 00:06:26,300
+arrenca de zero,
+
+238
+00:06:26,400 --> 00:06:26,760
+suposo,
+
+239
+00:06:26,760 --> 00:06:27,880
+amb la memòria neta.
+
+240
+00:06:28,020 --> 00:06:28,580
+La IA, sí.
+
+241
+00:06:28,800 --> 00:06:30,740
+Té la memòria neta.
+
+242
+00:06:31,220 --> 00:06:32,400
+Però l'eina del penjat,
+
+243
+00:06:32,580 --> 00:06:33,140
+com que viu
+
+244
+00:06:33,140 --> 00:06:34,600
+en aquella variable externa
+
+245
+00:06:34,600 --> 00:06:35,560
+de la qual parlàvem,
+
+246
+00:06:36,020 --> 00:06:37,560
+continua la partida anterior.
+
+247
+00:06:38,020 --> 00:06:39,100
+I li torna a la IA
+
+248
+00:06:39,100 --> 00:06:40,620
+un tauler a mig jugar.
+
+249
+00:06:41,160 --> 00:06:41,920
+Què dius?
+
+250
+00:06:42,680 --> 00:06:43,400
+I què fa la IA?
+
+251
+00:06:43,500 --> 00:06:43,960
+S'espanta?
+
+252
+00:06:44,460 --> 00:06:45,040
+No, no.
+
+253
+00:06:45,500 --> 00:06:45,900
+La IA,
+
+254
+00:06:46,040 --> 00:06:46,860
+que no vol admetre
+
+255
+00:06:46,860 --> 00:06:48,540
+que està completament perduda
+
+256
+00:06:48,540 --> 00:06:49,320
+o que hi ha un error,
+
+257
+00:06:49,740 --> 00:06:50,880
+s'inventa una excusa.
+
+258
+00:06:51,160 --> 00:06:52,000
+No fotis.
+
+259
+00:06:52,380 --> 00:06:52,680
+De bró,
+
+260
+00:06:53,060 --> 00:06:54,240
+et respon una cosa com
+
+261
+00:06:54,240 --> 00:06:55,800
+Ah, veig que ja tenim
+
+262
+00:06:55,800 --> 00:06:57,080
+un joc començat per aquí.
+
+263
+00:06:57,560 --> 00:06:57,880
+Doncs,
+
+264
+00:06:58,020 --> 00:06:58,540
+continuem
+
+265
+00:06:58,540 --> 00:06:58,600
+a partir d'aquí.
+
+266
+00:06:58,600 --> 00:06:58,760
+A partir d'aquí,
+
+267
+00:06:58,760 --> 00:06:58,780
+a partir d'aquí,
+
+268
+00:06:58,800 --> 00:07:01,020
+actua com si no passés res.
+
+269
+00:07:01,400 --> 00:07:02,180
+Quina barra!
+
+270
+00:07:02,580 --> 00:07:02,960
+D'acord.
+
+271
+00:07:03,380 --> 00:07:03,860
+Això passa
+
+272
+00:07:03,860 --> 00:07:04,800
+si tirem endarrere
+
+273
+00:07:04,800 --> 00:07:05,460
+o esborrem.
+
+274
+00:07:05,860 --> 00:07:06,320
+Però abans
+
+275
+00:07:06,320 --> 00:07:07,600
+has mencionat tres maneres.
+
+276
+00:07:07,920 --> 00:07:08,540
+I al principi
+
+277
+00:07:08,540 --> 00:07:09,980
+he mencionat les bifurcacions,
+
+278
+00:07:10,100 --> 00:07:11,100
+els famosos forcs,
+
+279
+00:07:11,380 --> 00:07:12,920
+quan tenim dues línies temporals
+
+280
+00:07:12,920 --> 00:07:13,900
+paral·leles i actives.
+
+281
+00:07:14,080 --> 00:07:15,140
+Aquest és el tercer problema.
+
+282
+00:07:15,600 --> 00:07:16,280
+I el més greu.
+
+283
+00:07:16,920 --> 00:07:17,600
+Si en una branca
+
+284
+00:07:17,600 --> 00:07:18,560
+proves una letra,
+
+285
+00:07:18,760 --> 00:07:19,540
+per exemple la E,
+
+286
+00:07:19,840 --> 00:07:20,800
+i en una altra branca
+
+287
+00:07:20,800 --> 00:07:21,200
+diferent
+
+288
+00:07:21,200 --> 00:07:22,380
+en proves una D diferent,
+
+289
+00:07:22,580 --> 00:07:22,920
+la M,
+
+290
+00:07:23,420 --> 00:07:24,320
+les dues branques
+
+291
+00:07:24,320 --> 00:07:25,080
+estan consultant
+
+292
+00:07:25,080 --> 00:07:26,440
+la mateixa variable externa.
+
+293
+00:07:26,600 --> 00:07:27,120
+Exacte.
+
+294
+00:07:27,520 --> 00:07:28,240
+Les accions
+
+295
+00:07:28,240 --> 00:07:28,780
+és la mateixa
+
+296
+00:07:28,780 --> 00:07:30,040
+i es barregen completament.
+
+297
+00:07:30,720 --> 00:07:32,240
+Seguint la teva analogia d'abans,
+
+298
+00:07:32,560 --> 00:07:33,880
+és el mateix tauler de fusta
+
+299
+00:07:33,880 --> 00:07:35,300
+per a dues partides d'escacs
+
+300
+00:07:35,300 --> 00:07:36,180
+simultànies
+
+301
+00:07:36,180 --> 00:07:37,820
+i invisibles entre si.
+
+302
+00:07:38,420 --> 00:07:39,520
+Un caos total.
+
+303
+00:07:39,960 --> 00:07:40,200
+D'acord.
+
+304
+00:07:40,480 --> 00:07:41,160
+Vist això,
+
+305
+00:07:41,700 --> 00:07:43,060
+i suposant que no volem
+
+306
+00:07:43,060 --> 00:07:44,380
+viure en el caos absolut,
+
+307
+00:07:44,880 --> 00:07:46,320
+com arregla l'autor del document
+
+308
+00:07:46,320 --> 00:07:47,700
+aquest desastre del penjat?
+
+309
+00:07:48,040 --> 00:07:48,700
+Perquè, a veure,
+
+310
+00:07:49,040 --> 00:07:50,340
+no podem simplement deixar
+
+311
+00:07:50,340 --> 00:07:51,160
+que la IA vegi
+
+312
+00:07:51,160 --> 00:07:52,160
+la paraula oculta,
+
+313
+00:07:52,400 --> 00:07:53,560
+però tampoc podem deixar
+
+314
+00:07:53,560 --> 00:07:54,900
+la memòria fora del xat.
+
+315
+00:07:55,220 --> 00:07:56,080
+Sembla que estiguem
+
+316
+00:07:56,080 --> 00:07:56,820
+en un atzucac.
+
+317
+00:07:57,120 --> 00:07:58,000
+Sí, ho sembla.
+
+318
+00:07:58,340 --> 00:07:58,580
+Però,
+
+319
+00:07:58,580 --> 00:07:58,760
+la memòria
+
+320
+00:07:58,760 --> 00:08:00,100
+La solució passa per fer
+
+321
+00:08:00,100 --> 00:08:01,120
+el que en programació
+
+322
+00:08:01,120 --> 00:08:02,760
+s'anomena una funció pura.
+
+323
+00:08:02,880 --> 00:08:03,780
+Una funció pura?
+
+324
+00:08:04,040 --> 00:08:04,660
+Què vol dir això?
+
+325
+00:08:04,900 --> 00:08:05,700
+Hem d'eliminar
+
+326
+00:08:05,700 --> 00:08:07,540
+completament aquest estat extern.
+
+327
+00:08:07,980 --> 00:08:09,160
+Aquella variable amagada
+
+328
+00:08:09,160 --> 00:08:10,180
+ha de desaparèixer.
+
+329
+00:08:10,600 --> 00:08:11,820
+El truc magistral aquí
+
+330
+00:08:11,820 --> 00:08:13,640
+és fer que l'estat del joc,
+
+331
+00:08:13,920 --> 00:08:15,500
+i això inclou la paraula secreta,
+
+332
+00:08:15,880 --> 00:08:16,720
+viatgi juntament
+
+333
+00:08:16,720 --> 00:08:17,760
+amb el context del xat.
+
+334
+00:08:17,960 --> 00:08:18,600
+Com si fos
+
+335
+00:08:18,600 --> 00:08:20,340
+com si fos una motxilla
+
+336
+00:08:20,340 --> 00:08:21,640
+enganxada als missatges.
+
+337
+00:08:21,960 --> 00:08:23,140
+Però una motxilla oculta
+
+338
+00:08:23,140 --> 00:08:23,960
+als ulls de la IA.
+
+339
+00:08:24,240 --> 00:08:24,720
+Exacte.
+
+340
+00:08:25,260 --> 00:08:26,220
+Oculta a la IA,
+
+341
+00:08:26,500 --> 00:08:27,820
+però visible per al sistema.
+
+342
+00:08:28,140 --> 00:08:28,520
+Espera,
+
+343
+00:08:28,520 --> 00:08:28,720
+espera,
+
+344
+00:08:28,760 --> 00:08:30,620
+com funciona això tècnicament?
+
+345
+00:08:31,280 --> 00:08:32,760
+O la paraula és al xat
+
+346
+00:08:32,760 --> 00:08:34,320
+i la IA la pot llegir
+
+347
+00:08:34,320 --> 00:08:35,560
+o no hi està.
+
+348
+00:08:36,040 --> 00:08:37,560
+No entenc aquest terme mig.
+
+349
+00:08:38,180 --> 00:08:40,060
+El sistema d'orquestració fa tot.
+
+350
+00:08:40,720 --> 00:08:41,360
+En aquest cas,
+
+351
+00:08:41,500 --> 00:08:42,840
+l'eina Context Inspector
+
+352
+00:08:42,840 --> 00:08:44,520
+fa de filtre.
+
+353
+00:08:45,400 --> 00:08:46,600
+L'estat està ajunt
+
+354
+00:08:46,600 --> 00:08:48,460
+als blocs de dades de la conversa,
+
+355
+00:08:48,840 --> 00:08:49,860
+com unes metadades.
+
+356
+00:08:50,460 --> 00:08:51,360
+Però just abans,
+
+357
+00:08:51,760 --> 00:08:53,400
+literalment un mil·lisegon abans
+
+358
+00:08:53,400 --> 00:08:54,960
+d'enviar el text final a la IA
+
+359
+00:08:54,960 --> 00:08:55,900
+perquè el llegeixi,
+
+360
+00:08:56,400 --> 00:08:57,660
+el sistema retalla
+
+361
+00:08:57,660 --> 00:08:58,460
+aquesta informació.
+
+362
+00:08:58,460 --> 00:08:59,340
+Ah!
+
+363
+00:09:00,520 --> 00:09:02,180
+O sigui que li amaga la paraula
+
+364
+00:09:02,180 --> 00:09:02,840
+en l'últim moment.
+
+365
+00:09:03,020 --> 00:09:03,600
+Això mateix.
+
+366
+00:09:04,120 --> 00:09:04,860
+I d'aquesta manera,
+
+367
+00:09:05,240 --> 00:09:06,440
+cada branca de la conversa
+
+368
+00:09:06,440 --> 00:09:07,760
+carrega amb el seu propi estat
+
+369
+00:09:07,760 --> 00:09:08,660
+de joc independent.
+
+370
+00:09:09,040 --> 00:09:10,220
+És molt intel·ligent, això.
+
+371
+00:09:10,480 --> 00:09:10,840
+O és.
+
+372
+00:09:11,380 --> 00:09:12,480
+Si saltes a la branca 1,
+
+373
+00:09:12,860 --> 00:09:13,800
+el sistema recupera
+
+374
+00:09:13,800 --> 00:09:14,760
+la memòria exacta
+
+375
+00:09:14,760 --> 00:09:15,540
+de la branca 1.
+
+376
+00:09:16,120 --> 00:09:17,020
+Si saltes a la 2,
+
+377
+00:09:17,480 --> 00:09:18,440
+recupera la de la 2.
+
+378
+00:09:18,800 --> 00:09:20,100
+Tot torna a quadrar perfectament
+
+379
+00:09:20,100 --> 00:09:21,680
+i no hi ha barreja d'informació.
+
+380
+00:09:22,100 --> 00:09:22,340
+Clar.
+
+381
+00:09:23,380 --> 00:09:23,960
+Ara ho veig.
+
+382
+00:09:24,880 --> 00:09:25,360
+I, de fet,
+
+383
+00:09:25,600 --> 00:09:26,820
+mentre llegia l'estudi,
+
+384
+00:09:27,000 --> 00:09:27,900
+em va cridar atenció
+
+385
+00:09:27,900 --> 00:09:28,020
+a una dada de la IA.
+
+386
+00:09:28,020 --> 00:09:28,020
+
+
+387
+00:09:28,020 --> 00:09:28,260
+a una dada de la IA.
+
+388
+00:09:28,460 --> 00:09:28,960
+I va dir que era un rendiment
+
+389
+00:09:28,960 --> 00:09:30,660
+que m'ha semblat espectacular,
+
+390
+00:09:31,460 --> 00:09:32,400
+relacionat amb això
+
+391
+00:09:32,400 --> 00:09:33,720
+d'assaltar entre branques.
+
+392
+00:09:34,480 --> 00:09:35,320
+Pel que fa al maquinari,
+
+393
+00:09:35,540 --> 00:09:36,080
+a l'ordinador,
+
+394
+00:09:36,560 --> 00:09:38,500
+fer això és absurdament barat
+
+395
+00:09:38,500 --> 00:09:39,440
+i ràpid, no?
+
+396
+00:09:40,020 --> 00:09:40,540
+Moltíssim.
+
+397
+00:09:41,000 --> 00:09:42,660
+I és per culpa o gràcies a una cosa
+
+398
+00:09:42,660 --> 00:09:43,920
+que els models de llenguatge
+
+399
+00:09:43,920 --> 00:09:45,420
+ja tenen integrada.
+
+400
+00:09:45,960 --> 00:09:47,800
+Se diu la memòria KV,
+
+401
+00:09:48,400 --> 00:09:49,640
+Key-Value Cache,
+
+402
+00:09:49,960 --> 00:09:50,420
+en anglès.
+
+403
+00:09:50,720 --> 00:09:51,580
+I com ens ajuda
+
+404
+00:09:51,580 --> 00:09:52,520
+aquesta memòria KV?
+
+405
+00:09:52,780 --> 00:09:53,260
+Doncs mira,
+
+406
+00:09:53,840 --> 00:09:55,080
+si tu ja havies processat
+
+407
+00:09:55,080 --> 00:09:56,300
+una conversa llarga
+
+408
+00:09:56,300 --> 00:09:58,080
+fins al missatge número 5,
+
+409
+00:09:58,080 --> 00:09:58,440
+que és el que
+
+410
+00:09:58,460 --> 00:10:00,560
+i només canvies el missatge número 6,
+
+411
+00:10:01,180 --> 00:10:02,320
+el model no necessita
+
+412
+00:10:02,320 --> 00:10:03,700
+relegir tota la història
+
+413
+00:10:03,700 --> 00:10:04,600
+des del principi.
+
+414
+00:10:04,680 --> 00:10:05,780
+Ja la té memoritzada.
+
+415
+00:10:06,020 --> 00:10:06,480
+Exacte.
+
+416
+00:10:07,020 --> 00:10:08,420
+Una lectura nova des de zero
+
+417
+00:10:08,420 --> 00:10:10,060
+pot trigar, posem per cas,
+
+418
+00:10:10,120 --> 00:10:11,880
+250 o 300 mil·lisegons,
+
+419
+00:10:12,380 --> 00:10:13,680
+però recuperar el context
+
+420
+00:10:13,680 --> 00:10:14,760
+d'una branca existent
+
+421
+00:10:14,760 --> 00:10:15,960
+que ja està a la cau
+
+422
+00:10:15,960 --> 00:10:18,600
+només li costa 74 mil·lisegons
+
+423
+00:10:18,600 --> 00:10:19,480
+a l'autor
+
+424
+00:10:19,480 --> 00:10:20,880
+en les seves proves locals.
+
+425
+00:10:21,300 --> 00:10:22,460
+Uau, això és instantani,
+
+426
+00:10:23,180 --> 00:10:23,800
+pràcticament.
+
+427
+00:10:24,500 --> 00:10:25,460
+Viatjar pel temps informàtic
+
+428
+00:10:26,140 --> 00:10:27,680
+és eficientíssim, llavors.
+
+429
+00:10:27,680 --> 00:10:28,520
+Totalment.
+
+430
+00:10:29,000 --> 00:10:30,660
+Però no ens emocionem massa
+
+431
+00:10:30,660 --> 00:10:33,240
+perquè l'autor també confessa una limitació.
+
+432
+00:10:33,840 --> 00:10:35,720
+Hi ha una situació on ni tan sols
+
+433
+00:10:35,720 --> 00:10:37,960
+aquest truc tan elegant de la motxilla oculta
+
+434
+00:10:37,960 --> 00:10:38,860
+pot salvar-nos.
+
+435
+00:10:38,980 --> 00:10:41,680
+Sí, ho recordo. L'únic mur infranquejable
+
+436
+00:10:41,680 --> 00:10:43,760
+és quan intentes reescriure
+
+437
+00:10:43,760 --> 00:10:45,340
+el passat però vols mantenir
+
+438
+00:10:45,340 --> 00:10:46,780
+el futur intacte, oi?
+
+439
+00:10:46,980 --> 00:10:49,240
+Efectivament. Imagina que teniu, no sé,
+
+440
+00:10:49,360 --> 00:10:51,300
+10 missatges d'intercanvi de lletres
+
+441
+00:10:51,300 --> 00:10:53,740
+jugant al panjat. Vas al missatge
+
+442
+00:10:53,740 --> 00:10:55,520
+número 3, on vas provar
+
+443
+00:10:55,520 --> 00:10:57,180
+la lletra E i dius, ah,
+
+444
+00:10:57,180 --> 00:10:58,380
+esborra aquest missatge.
+
+445
+00:10:58,840 --> 00:11:01,440
+Però vols mantenir els missatges 4 al 10
+
+446
+00:11:01,440 --> 00:11:02,640
+intactes a la pantalla.
+
+447
+00:11:02,940 --> 00:11:05,260
+Llavors què passa? Perquè les respostes
+
+448
+00:11:05,260 --> 00:11:06,860
+de l'eina en aquells missatges del futur
+
+449
+00:11:06,860 --> 00:11:09,260
+ja mostren la lletra E al tauler visualment.
+
+450
+00:11:09,920 --> 00:11:11,000
+Si l'esborro del passat,
+
+451
+00:11:11,180 --> 00:11:13,060
+el tauler del futur ja no té sentit lògic.
+
+452
+00:11:13,480 --> 00:11:15,480
+Exacte. Trenques la línia
+
+453
+00:11:15,480 --> 00:11:17,020
+causal completament.
+
+454
+00:11:17,540 --> 00:11:19,140
+I l'autor admet la derrota
+
+455
+00:11:19,140 --> 00:11:20,800
+aquí, però ho fa de la manera
+
+456
+00:11:20,800 --> 00:11:22,780
+més elegant possible. Com?
+
+457
+00:11:23,220 --> 00:11:25,260
+Simplement deixant que el sistema peti.
+
+458
+00:11:25,260 --> 00:11:27,180
+Més o menys. En lloc d'intentar
+
+459
+00:11:27,180 --> 00:11:29,520
+recalcular tot el futur de manera màgica,
+
+460
+00:11:29,860 --> 00:11:31,180
+cosa que seria imprevisible
+
+461
+00:11:31,180 --> 00:11:33,320
+i probablement trencaria el joc del tot,
+
+462
+00:11:33,800 --> 00:11:35,120
+l'eina permet l'acció,
+
+463
+00:11:35,660 --> 00:11:37,580
+però es nega a fingir que té sentit.
+
+464
+00:11:37,740 --> 00:11:39,100
+O sigui, et deixa fer-ho,
+
+465
+00:11:39,280 --> 00:11:41,320
+et deixa crear la paradoxa temporal.
+
+466
+00:11:41,660 --> 00:11:43,200
+Sí, i n'has d'assumir
+
+467
+00:11:43,200 --> 00:11:44,840
+les insistències com a usuari.
+
+468
+00:11:45,440 --> 00:11:47,100
+És una decisió de disseny molt,
+
+469
+00:11:47,320 --> 00:11:48,920
+molt pragmàtica. M'agrada.
+
+470
+00:11:49,240 --> 00:11:51,080
+És com dir, mira, si vols trencar
+
+471
+00:11:51,080 --> 00:11:53,320
+el continu espai-temps, tu mateixa.
+
+472
+00:11:53,320 --> 00:11:55,120
+Però no em demanis que ho arregli.
+
+473
+00:11:55,500 --> 00:11:56,980
+Exactament. D'acord, però a veure,
+
+474
+00:11:56,980 --> 00:11:58,640
+estem parlant de jocs de paraules,
+
+475
+00:11:59,080 --> 00:12:01,080
+de variables locals, entorns on
+
+476
+00:12:01,080 --> 00:12:03,060
+l'autor controla el programa de dalt a baix.
+
+477
+00:12:03,540 --> 00:12:05,060
+Tornem a la meva reserva d'avió
+
+478
+00:12:05,060 --> 00:12:06,640
+cap a Nova York del principi.
+
+479
+00:12:06,660 --> 00:12:08,200
+Això ja són paraules majors.
+
+480
+00:12:08,540 --> 00:12:11,220
+Clar. Aquí el terreny de joc ja no és nostre.
+
+481
+00:12:11,840 --> 00:12:12,820
+Si faig un forc,
+
+482
+00:12:13,240 --> 00:12:14,660
+si bifurco la conversa
+
+483
+00:12:14,660 --> 00:12:16,540
+per canviar el vol de dimarts a dijous,
+
+484
+00:12:17,020 --> 00:12:19,120
+no puc agafar els servidors d'una companyia
+
+485
+00:12:19,120 --> 00:12:20,920
+aèria internacional i posar-los
+
+486
+00:12:20,920 --> 00:12:23,260
+en una motxilla oculta dins el meu xat d'ollama.
+
+487
+00:12:23,480 --> 00:12:24,260
+Ni de broma.
+
+488
+00:12:24,260 --> 00:12:26,380
+I aquí és on la teoria
+
+489
+00:12:26,380 --> 00:12:28,620
+del penjat topa, i topa fort
+
+490
+00:12:28,620 --> 00:12:29,700
+amb el món de veritat.
+
+491
+00:12:30,200 --> 00:12:31,900
+Aquest document fa una feina excel·lent
+
+492
+00:12:31,900 --> 00:12:34,440
+categoritzant com els agents interactuen
+
+493
+00:12:34,440 --> 00:12:36,340
+amb la realitat. Perquè no totes
+
+494
+00:12:36,340 --> 00:12:38,160
+les accions són igual de perilloses.
+
+495
+00:12:38,460 --> 00:12:40,320
+Això és. El problema de fons
+
+496
+00:12:40,320 --> 00:12:42,200
+sempre és el mateix. El botó
+
+497
+00:12:42,200 --> 00:12:44,440
+de retrocedir és una falsa promesa
+
+498
+00:12:44,440 --> 00:12:46,200
+sobre el món exterior. Això
+
+499
+00:12:46,200 --> 00:12:48,080
+sempre. Però les conseqüències
+
+500
+00:12:48,080 --> 00:12:49,820
+depenen molt del que estiguis demanant.
+
+501
+00:12:50,300 --> 00:12:52,160
+L'autor ho divideix en quatre categories.
+
+502
+00:12:52,160 --> 00:12:54,180
+Deixa'm veure si entens bé
+
+503
+00:12:54,180 --> 00:12:55,680
+aquesta classificació que fa.
+
+504
+00:12:56,380 --> 00:12:58,200
+La primera categoria són les que
+
+505
+00:12:58,200 --> 00:12:59,760
+anomena trucades de lectura.
+
+506
+00:13:00,320 --> 00:13:02,320
+Això entén que són accions inofensives,
+
+507
+00:13:02,760 --> 00:13:03,800
+com demanar-li a l'AI
+
+508
+00:13:03,800 --> 00:13:06,040
+quin temps farà a Nova York dimarts, no?
+
+509
+00:13:06,460 --> 00:13:08,260
+Exactament. O preguntar
+
+510
+00:13:08,260 --> 00:13:10,180
+l'horari dels trens. O llegir
+
+511
+00:13:10,180 --> 00:13:12,300
+un article. Si retrocedeixes
+
+512
+00:13:12,300 --> 00:13:14,020
+i esborres la pregunta, no passa
+
+513
+00:13:14,020 --> 00:13:15,620
+absolutament res en el món real.
+
+514
+00:13:16,180 --> 00:13:18,040
+Cap dany col·lateral. Cap ni un.
+
+515
+00:13:18,520 --> 00:13:20,040
+L'únic risc real és que,
+
+516
+00:13:20,400 --> 00:13:22,060
+imagina't, vas demanar el preu
+
+517
+00:13:22,060 --> 00:13:24,260
+d'un bol ahir, i avui tornes
+
+518
+00:13:24,260 --> 00:13:25,680
+a obrir aquella branca antiga.
+
+519
+00:13:26,380 --> 00:13:28,520
+La informació podria estar obsoleta perquè els preus
+
+520
+00:13:28,520 --> 00:13:30,920
+canvien. Però el món real, físicament
+
+521
+00:13:30,920 --> 00:13:32,480
+o els servidors, no s'ha vist
+
+522
+00:13:32,480 --> 00:13:34,520
+alterat per la teva acció. Fàcil.
+
+523
+00:13:34,760 --> 00:13:35,760
+Aquesta la tenim clara.
+
+524
+00:13:36,760 --> 00:13:38,080
+Llavors passem a l'escriptura,
+
+525
+00:13:38,360 --> 00:13:39,580
+on les coses canvien.
+
+526
+00:13:40,400 --> 00:13:42,680
+La segona categoria és el que anomenen
+
+527
+00:13:42,680 --> 00:13:44,460
+escriptura idempotent.
+
+528
+00:13:45,340 --> 00:13:46,540
+I, a veure, entenc
+
+529
+00:13:46,540 --> 00:13:48,660
+la paraula, però per als que ens escolten
+
+530
+00:13:48,660 --> 00:13:50,680
+i no obren diccionàries de matemàtiques
+
+531
+00:13:50,680 --> 00:13:51,900
+cada dia per diversió,
+
+532
+00:13:51,900 --> 00:13:53,940
+què vol dir a la pràctica?
+
+533
+00:13:54,920 --> 00:13:55,900
+Doncs... Si retrocedeix,
+
+534
+00:13:56,380 --> 00:13:57,960
+això, i li demano a la IA
+
+535
+00:13:57,960 --> 00:14:00,100
+que em posi el termòstat intel·ligent
+
+536
+00:14:00,100 --> 00:14:02,420
+de casa a 18 graus en joc de 20.
+
+537
+00:14:03,140 --> 00:14:03,700
+Què passa?
+
+538
+00:14:04,280 --> 00:14:05,900
+La casa es congela? A veure...
+
+539
+00:14:06,860 --> 00:14:07,540
+Idempotent,
+
+540
+00:14:08,080 --> 00:14:09,980
+per fer-la fàcil, significa
+
+541
+00:14:09,980 --> 00:14:11,920
+que pots premer el botó tantes
+
+542
+00:14:11,920 --> 00:14:13,760
+vegades com vulguis, 5,
+
+543
+00:14:14,000 --> 00:14:16,120
+10 o 1.000. I el resultat
+
+544
+00:14:16,120 --> 00:14:18,220
+final sempre serà exactament el mateix
+
+545
+00:14:18,220 --> 00:14:20,000
+que si l'haguessis premut una sola
+
+546
+00:14:20,000 --> 00:14:21,680
+vegada. Un exemple.
+
+547
+00:14:22,480 --> 00:14:24,160
+Encendre un llum de l'habitació
+
+548
+00:14:24,160 --> 00:14:26,240
+és idempotent. Si el llum
+
+549
+00:14:26,240 --> 00:14:27,860
+ja està encès, i tu li tornes
+
+550
+00:14:27,860 --> 00:14:29,780
+a dir a l'assistent, encén el llum,
+
+551
+00:14:30,040 --> 00:14:31,920
+no passa res de nou, segueix encès,
+
+552
+00:14:32,300 --> 00:14:33,240
+no s'encén el doble.
+
+553
+00:14:33,760 --> 00:14:36,060
+D'acord, em quadra. En el teu exemple
+
+554
+00:14:36,060 --> 00:14:38,180
+del termòstat. Si a la branca A
+
+555
+00:14:38,180 --> 00:14:39,880
+del xat vas demanar a 20 graus,
+
+556
+00:14:40,360 --> 00:14:42,420
+el teu menjador físic es posa a 20 graus.
+
+557
+00:14:42,900 --> 00:14:44,240
+Llavors retrocedeixes,
+
+558
+00:14:44,580 --> 00:14:45,420
+crees la branca B,
+
+559
+00:14:45,940 --> 00:14:47,160
+i ara demanes 18 graus.
+
+560
+00:14:47,440 --> 00:14:48,980
+El termòstat canvia a 18.
+
+561
+00:14:49,440 --> 00:14:52,300
+Canvia a 18. Però atenció, i aquí ve el drama.
+
+562
+00:14:52,760 --> 00:14:54,140
+Què passa si decideixes tornar
+
+563
+00:14:54,140 --> 00:14:56,180
+a obrir la branca A a la teva pantalla?
+
+564
+00:14:56,680 --> 00:14:58,100
+Aquella primera conversa on el text
+
+565
+00:14:58,100 --> 00:15:00,080
+clarament diu, hola, posa la casa
+
+566
+00:15:00,080 --> 00:15:02,180
+a 20 graus. Ui, doncs
+
+567
+00:15:02,180 --> 00:15:03,960
+que el xat diu 20, però la meva
+
+568
+00:15:03,960 --> 00:15:05,920
+casa realment segueix a 18, perquè
+
+569
+00:15:05,920 --> 00:15:08,200
+va ser l'última ordre física que va rebre.
+
+570
+00:15:08,660 --> 00:15:10,840
+Exacte. El menjador físic
+
+571
+00:15:10,840 --> 00:15:11,840
+segueix a 18.
+
+572
+00:15:12,200 --> 00:15:14,080
+Ah, o sigui que el context
+
+573
+00:15:14,080 --> 00:15:15,920
+del xat és només una creença.
+
+574
+00:15:16,560 --> 00:15:17,880
+És un historial de text
+
+575
+00:15:17,880 --> 00:15:20,080
+estàtic. No està connectat per
+
+576
+00:15:20,080 --> 00:15:21,780
+Bluetooth contínuament a la realitat,
+
+577
+00:15:21,780 --> 00:15:23,540
+per comprovar-la. Ho has definit
+
+578
+00:15:23,540 --> 00:15:25,600
+perfectament. És una creença.
+
+579
+00:15:26,240 --> 00:15:27,760
+Fins que no forces la IA
+
+580
+00:15:27,760 --> 00:15:29,920
+a tornar a enviar l'ordre activa de posar
+
+581
+00:15:29,920 --> 00:15:32,100
+20 graus, hi haurà una desconexió
+
+582
+00:15:32,100 --> 00:15:34,100
+total, una assincronia
+
+583
+00:15:34,100 --> 00:15:35,980
+entre el que la IA creu que va fer
+
+584
+00:15:35,980 --> 00:15:38,440
+al llegir el xat i el que el món físic
+
+585
+00:15:38,440 --> 00:15:39,540
+manté en realitat.
+
+586
+00:15:39,800 --> 00:15:41,660
+Llavors arribem a la tercera categoria,
+
+587
+00:15:42,260 --> 00:15:44,080
+que és la que ens toca la butxaca directament.
+
+588
+00:15:44,620 --> 00:15:46,500
+L'escriptura en compensació.
+
+589
+00:15:47,220 --> 00:15:47,920
+Aquí és on entra
+
+590
+00:15:47,920 --> 00:15:50,060
+la nostra famosa reserva de bitllet d'avió
+
+591
+00:15:50,060 --> 00:15:50,720
+de 1.000 euros.
+
+592
+00:15:51,560 --> 00:15:54,040
+Una escriptura compensable vol dir
+
+593
+00:15:54,040 --> 00:15:56,100
+que, tècnicament, pots fer un pas
+
+594
+00:15:56,100 --> 00:15:57,900
+enrere a la realitat. Pots
+
+595
+00:15:57,900 --> 00:16:00,020
+desfer-ho. Però, i aquest
+
+596
+00:16:00,020 --> 00:16:02,100
+però és gegant, no passa de forma
+
+597
+00:16:02,100 --> 00:16:03,900
+màgica només esborrant un
+
+598
+00:16:03,900 --> 00:16:05,160
+missatge a la teva pantalla.
+
+599
+00:16:05,740 --> 00:16:07,880
+Necessita una acció explícita.
+
+600
+00:16:08,240 --> 00:16:09,840
+Necessita cridar una eina
+
+601
+00:16:09,840 --> 00:16:12,000
+específica. Necessites trucar
+
+602
+00:16:12,000 --> 00:16:13,880
+a l'API de cancel·lació de la companyia
+
+603
+00:16:13,880 --> 00:16:15,960
+aèria i dir, ei, anul·la això.
+
+604
+00:16:16,620 --> 00:16:17,980
+El gran perill d'aquests agents
+
+605
+00:16:17,980 --> 00:16:19,940
+autònoms és que si la IA de la
+
+606
+00:16:19,940 --> 00:16:21,680
+Manca 2, la del vol de dijous,
+
+607
+00:16:22,200 --> 00:16:23,520
+no sap que la Branca 1
+
+608
+00:16:23,520 --> 00:16:25,480
+va comprar un bitllet per dimarts,
+
+609
+00:16:26,100 --> 00:16:27,880
+no tindrà cap motiu per executar la
+
+610
+00:16:27,880 --> 00:16:30,040
+cancel·lació de dimarts. No sap que
+
+611
+00:16:30,040 --> 00:16:31,340
+existeix. Cap ni un.
+
+612
+00:16:31,980 --> 00:16:33,360
+I, mentrestant, atenció.
+
+613
+00:16:33,780 --> 00:16:35,840
+La IA original de la Branca 1 està
+
+614
+00:16:35,840 --> 00:16:38,240
+pausada. Està congelada en l'espai
+
+615
+00:16:38,240 --> 00:16:39,900
+i al temps. Incapaç d'actuar
+
+616
+00:16:39,900 --> 00:16:41,980
+per si sola per cancel·lar res, perquè tu
+
+617
+00:16:41,980 --> 00:16:43,900
+no hi estàs parlant. En un llim
+
+618
+00:16:43,900 --> 00:16:46,040
+digital. Això ens planta
+
+619
+00:16:46,040 --> 00:16:47,700
+directament a la quarta i última
+
+620
+00:16:47,700 --> 00:16:49,480
+categoria, que em sembla
+
+621
+00:16:49,480 --> 00:16:51,520
+definitiva. L'escriptura
+
+622
+00:16:51,520 --> 00:16:53,800
+irreversible. No hi ha marxa
+
+623
+00:16:53,800 --> 00:16:55,740
+enrere. No hi ha cancel·lacions
+
+624
+00:16:56,100 --> 00:16:58,180
+possibles. I n'hi ha moltes d'aquestes.
+
+625
+00:16:58,640 --> 00:17:00,100
+Enviar un correu electrònic
+
+626
+00:17:00,100 --> 00:17:01,320
+a un client enfadat.
+
+627
+00:17:01,960 --> 00:17:03,880
+Transferir criptomonedes a una altra
+
+628
+00:17:03,880 --> 00:17:05,960
+cartera. O, per als programadors que
+
+629
+00:17:05,960 --> 00:17:07,780
+ens escolten, executar
+
+630
+00:17:07,780 --> 00:17:10,220
+un rm -rf.
+
+631
+00:17:10,860 --> 00:17:11,980
+Esborrar una base de dades
+
+632
+00:17:11,980 --> 00:17:13,800
+en producció. Quan això passa,
+
+633
+00:17:14,060 --> 00:17:15,580
+ja està. Quan això passa,
+
+634
+00:17:15,980 --> 00:17:17,500
+les dues branques del teu xat
+
+635
+00:17:17,500 --> 00:17:19,460
+acaben de descriure dos mons
+
+636
+00:17:19,460 --> 00:17:21,800
+completament diferents. Però només un,
+
+637
+00:17:22,200 --> 00:17:24,160
+el món on has enviat el correu
+
+638
+00:17:24,160 --> 00:17:25,980
+o has borrat les dades, és
+
+639
+00:17:25,980 --> 00:17:27,760
+l'autèntic. És fascinant
+
+640
+00:17:27,760 --> 00:17:30,020
+i una mica terrorífic. De fet,
+
+641
+00:17:30,100 --> 00:17:31,960
+el document esmenta eines reals
+
+642
+00:17:31,960 --> 00:17:33,880
+que ja existeixen avui dia, com
+
+643
+00:17:33,880 --> 00:17:36,000
+Claude Code. Eines que intenten
+
+644
+00:17:36,000 --> 00:17:37,700
+resoldre tota aquesta bogeria,
+
+645
+00:17:38,140 --> 00:17:40,040
+almenys a nivell de sistemes de fitxers,
+
+646
+00:17:40,400 --> 00:17:41,580
+creant el que s'anomenen
+
+647
+00:17:41,580 --> 00:17:43,940
+worktrees, com els arbres de treball
+
+648
+00:17:43,940 --> 00:17:46,100
+del sistema Git. Com intenten mitigar
+
+649
+00:17:46,100 --> 00:17:47,340
+aquest problema? Bé,
+
+650
+00:17:47,980 --> 00:17:49,700
+Claude Code intenta, diguem-ne,
+
+651
+00:17:50,220 --> 00:17:52,040
+emular aquella motxilla oculta
+
+652
+00:17:52,040 --> 00:17:54,120
+del joc del penjat, de la que parlàvem
+
+653
+00:17:54,120 --> 00:17:55,640
+abans. El que fan,
+
+654
+00:17:55,980 --> 00:17:57,580
+és crear un espai de fitxers
+
+655
+00:17:57,580 --> 00:18:00,360
+completament aïllat per a cada branca de la conversa.
+
+656
+00:18:00,560 --> 00:18:02,420
+O sigui, cada conversa
+
+657
+00:18:02,420 --> 00:18:04,240
+té la seva pròpia còpia del disc dur.
+
+658
+00:18:04,560 --> 00:18:05,240
+Diguem-ne que sí.
+
+659
+00:18:05,960 --> 00:18:08,400
+Si en una branca la IA modifica el fitxer
+
+660
+00:18:08,400 --> 00:18:10,340
+app.js,
+
+661
+00:18:10,940 --> 00:18:12,040
+aquesta modificació
+
+662
+00:18:12,040 --> 00:18:14,280
+només existeix en aquell espai virtual.
+
+663
+00:18:14,800 --> 00:18:16,260
+Si tu canvies de branca el xat,
+
+664
+00:18:16,620 --> 00:18:18,120
+el teu disc dur, de forma
+
+665
+00:18:18,120 --> 00:18:20,380
+totalment invisible, canvia els fitxers
+
+666
+00:18:20,380 --> 00:18:21,800
+antics perquè tot quadri.
+
+667
+00:18:22,040 --> 00:18:23,940
+Està molt bé, però això cau
+
+668
+00:18:23,940 --> 00:18:25,780
+pel seu propi pes amb la quarta categoria,
+
+669
+00:18:25,980 --> 00:18:28,280
+oi? Vull dir l'escriptura irreversible.
+
+670
+00:18:29,080 --> 00:18:30,060
+Si la IA ha fet
+
+671
+00:18:30,060 --> 00:18:32,240
+una petició de xarxa, un simple
+
+672
+00:18:32,240 --> 00:18:34,140
+curl per descarregar alguna cosa,
+
+673
+00:18:34,520 --> 00:18:36,120
+o si ha publicat una libreria
+
+674
+00:18:36,120 --> 00:18:38,020
+de codi a internet, a NPM,
+
+675
+00:18:38,160 --> 00:18:38,640
+per exemple.
+
+676
+00:18:53,120 --> 00:18:54,540
+Llavors, arribats a aquest punt
+
+677
+00:18:54,540 --> 00:18:55,860
+de la reflexió, sembla que
+
+678
+00:18:55,860 --> 00:18:57,880
+tenim un problema d'arquitectura massiu.
+
+679
+00:18:58,340 --> 00:18:59,820
+Vull dir, no podem posar
+
+680
+00:18:59,820 --> 00:19:01,560
+la realitat als servidors mundials
+
+681
+00:19:01,560 --> 00:19:03,680
+dins d'un fitxer JSON per anar-lo movent
+
+682
+00:19:03,680 --> 00:19:05,920
+pel nostre xat. Però el que m'apassiona
+
+683
+00:19:05,920 --> 00:19:07,820
+de l'enfocament d'aquest autor és que
+
+684
+00:19:07,820 --> 00:19:09,380
+no es desespera. No, gens.
+
+685
+00:19:09,600 --> 00:19:11,820
+Els recorda que la informàtica ja va resoldre
+
+686
+00:19:11,820 --> 00:19:13,740
+tot això. Molt abans de les xarxes
+
+687
+00:19:13,740 --> 00:19:15,720
+neuronals o del xat GPT, ja ens
+
+688
+00:19:15,720 --> 00:19:17,820
+barallàvem amb aquests dimonis als servidors.
+
+689
+00:19:18,060 --> 00:19:19,380
+I és una perspectiva
+
+690
+00:19:19,380 --> 00:19:21,560
+suterrefrescant. Veritat.
+
+691
+00:19:22,300 --> 00:19:23,600
+L'autor argumenta que
+
+692
+00:19:23,600 --> 00:19:25,840
+a ulls de la infraestructura mundial,
+
+693
+00:19:25,860 --> 00:19:27,760
+d'internet, els agents
+
+694
+00:19:27,760 --> 00:19:30,000
+autònoms d'IA no són res nou,
+
+695
+00:19:30,400 --> 00:19:31,880
+ni màgic, ni especial.
+
+696
+00:19:32,560 --> 00:19:34,020
+Són, simple i planament,
+
+697
+00:19:34,400 --> 00:19:35,360
+clients inestables.
+
+698
+00:19:36,320 --> 00:19:37,860
+Nous clients que es bifurquen
+
+699
+00:19:37,860 --> 00:19:39,680
+molt més sovint que qualsevol client
+
+700
+00:19:39,680 --> 00:19:42,020
+antic que hagin vist. I des dels
+
+701
+00:19:42,020 --> 00:19:43,680
+anys 80 sabem perfectament
+
+702
+00:19:43,680 --> 00:19:45,760
+com dissenyar sistemes per tractar
+
+703
+00:19:45,760 --> 00:19:47,420
+clients inestables. D'acord.
+
+704
+00:19:47,720 --> 00:19:50,100
+Doncs viatgem en el temps dels 80 o els 90
+
+705
+00:19:50,100 --> 00:19:52,020
+a buscar solucions arquitectòniques.
+
+706
+00:19:52,420 --> 00:19:54,260
+Comencem per les claus d'idempotència,
+
+707
+00:19:54,260 --> 00:19:55,660
+que és el primer que cita.
+
+708
+00:19:55,860 --> 00:19:57,740
+Com ajuda això a la inestabilitat?
+
+709
+00:19:58,220 --> 00:20:00,360
+El document cita empreses com Stripe, no?
+
+710
+00:20:00,780 --> 00:20:02,480
+Sí. Stripe,
+
+711
+00:20:02,580 --> 00:20:03,680
+la plataforma de pagaments,
+
+712
+00:20:04,080 --> 00:20:06,180
+usa de forma exhaustiva i els va genial.
+
+713
+00:20:06,800 --> 00:20:08,140
+Consisteix en obligar el client,
+
+714
+00:20:08,620 --> 00:20:09,620
+en el nostre cas la IA,
+
+715
+00:20:10,020 --> 00:20:12,180
+a generar un codi únic i fix per a cada
+
+716
+00:20:12,180 --> 00:20:14,420
+acció que vol intentar. Com una matrícula?
+
+717
+00:20:14,640 --> 00:20:15,800
+Com una matrícula.
+
+718
+00:20:16,500 --> 00:20:17,540
+Una clau única.
+
+719
+00:20:18,260 --> 00:20:20,160
+Si la IA es torna boja, o si la
+
+720
+00:20:20,160 --> 00:20:21,880
+connexió de xarxa cau a mig camí
+
+721
+00:20:21,880 --> 00:20:24,160
+i la IA repeteix la petició exacta,
+
+722
+00:20:24,180 --> 00:20:25,760
+per exemple, de cobrar-te 100 euros
+
+723
+00:20:25,760 --> 00:20:26,760
+per aquell que fe...
+
+724
+00:20:26,760 --> 00:20:27,700
+El servidor què fa?
+
+725
+00:20:27,960 --> 00:20:29,960
+El servidor de Stripe veu la mateixa clau
+
+726
+00:20:29,960 --> 00:20:32,580
+i diu, ei, frena, això ja ho he processat
+
+727
+00:20:32,580 --> 00:20:34,420
+fa 5 minuts, no et tornaré a cobrar.
+
+728
+00:20:35,200 --> 00:20:36,860
+Estàs repetint la matrícula.
+
+729
+00:20:37,040 --> 00:20:39,100
+D'acord, un tenc per problemes de xarxa,
+
+730
+00:20:39,660 --> 00:20:41,780
+però deixa'm trobar-li un forat a això
+
+731
+00:20:41,780 --> 00:20:43,660
+per al nostre problema de l'agendia.
+
+732
+00:20:44,020 --> 00:20:44,820
+A veure...
+
+733
+00:20:44,820 --> 00:20:46,940
+Si jo he demanat el vol pel dimarts,
+
+734
+00:20:47,560 --> 00:20:49,860
+es genera la clau 1, cobrament fet.
+
+735
+00:20:50,460 --> 00:20:51,620
+Llavors retrocedeixo.
+
+736
+00:20:52,240 --> 00:20:53,580
+Canvio el text del missatge
+
+737
+00:20:53,580 --> 00:20:55,240
+per demanar el vol pel dijous.
+
+738
+00:20:55,760 --> 00:20:58,280
+La IA processarà la meva nova petició de dijous
+
+739
+00:20:58,280 --> 00:21:00,600
+generant una nova petició, no.
+
+740
+00:21:01,160 --> 00:21:03,900
+I per tant crearà una clau número 2,
+
+741
+00:21:04,220 --> 00:21:05,060
+diferent de la primera.
+
+742
+00:21:05,420 --> 00:21:06,400
+Has donat el clau.
+
+743
+00:21:06,980 --> 00:21:07,860
+I mai millor dit.
+
+744
+00:21:08,680 --> 00:21:10,180
+Les claus d'idempotència
+
+745
+00:21:10,180 --> 00:21:12,300
+et protegeixen d'errors tècnics
+
+746
+00:21:12,300 --> 00:21:14,300
+i de la repetició cega del mateix.
+
+747
+00:21:15,020 --> 00:21:16,860
+Però no et salven en absolut
+
+748
+00:21:16,860 --> 00:21:18,260
+si canvies d'opinió
+
+749
+00:21:18,260 --> 00:21:20,040
+en el context de la conversa.
+
+750
+00:21:20,760 --> 00:21:22,220
+Per això necessitem
+
+751
+00:21:22,220 --> 00:21:23,920
+una estructura diferent al servidor,
+
+752
+00:21:24,400 --> 00:21:25,720
+el sistema de retenció.
+
+753
+00:21:25,760 --> 00:21:28,960
+El famós truc de les aerolínies i els hotels?
+
+754
+00:21:29,320 --> 00:21:29,920
+Exactament.
+
+755
+00:21:30,420 --> 00:21:32,620
+Abans de confirmar una compra irreversible,
+
+756
+00:21:33,200 --> 00:21:34,220
+l'arquitectura t'obliga
+
+757
+00:21:34,220 --> 00:21:36,280
+a fer un pas previ de bloqueig.
+
+758
+00:21:36,900 --> 00:21:38,820
+S'ofereixen dues eines separades
+
+759
+00:21:38,820 --> 00:21:39,600
+a l'agenda IA,
+
+760
+00:21:39,900 --> 00:21:40,720
+en lloc d'una de sola.
+
+761
+00:21:41,460 --> 00:21:43,400
+hold_flight, per fer la retenció,
+
+762
+00:21:43,700 --> 00:21:45,440
+i ticket_hold, per confirmar.
+
+763
+00:21:45,860 --> 00:21:47,400
+I com funciona la primera?
+
+764
+00:21:47,680 --> 00:21:49,940
+La primera només bloqueja temporalment
+
+765
+00:21:49,940 --> 00:21:50,800
+el bitllet, diguem,
+
+766
+00:21:51,160 --> 00:21:52,240
+durant 15 minuts.
+
+767
+00:21:52,240 --> 00:21:54,360
+És una eina totalment gratuïta.
+
+768
+00:21:54,920 --> 00:21:55,720
+I si ningú fa res,
+
+769
+00:21:55,760 --> 00:21:57,140
+més en aquests 15 minuts,
+
+770
+00:21:57,440 --> 00:21:58,740
+simplement caduca el servidor
+
+771
+00:21:58,740 --> 00:22:00,300
+i el seient torna a estar lliure.
+
+772
+00:22:00,680 --> 00:22:01,340
+No hi ha danys.
+
+773
+00:22:01,460 --> 00:22:04,260
+És com quan vas a una botiga de roba,
+
+774
+00:22:04,360 --> 00:22:05,980
+t'emproves un abric increïble,
+
+775
+00:22:06,140 --> 00:22:07,600
+però no estàs segur del preu
+
+776
+00:22:07,600 --> 00:22:08,720
+o de si et queda bé,
+
+777
+00:22:09,140 --> 00:22:10,160
+i li dius al dependent
+
+778
+00:22:10,160 --> 00:22:12,140
+escolta, me'l pots guardar
+
+779
+00:22:12,140 --> 00:22:13,800
+darrere el taule en parell d'hores
+
+780
+00:22:13,800 --> 00:22:15,640
+mentre vaig a fer un cafè i m'ho penso.
+
+781
+00:22:15,920 --> 00:22:16,500
+Tal qual.
+
+782
+00:22:16,800 --> 00:22:18,160
+No has pagat l'abric.
+
+783
+00:22:18,420 --> 00:22:19,920
+L'abric no és teu oficialment,
+
+784
+00:22:20,320 --> 00:22:22,460
+però tens la garantia que ningú te'l prendrà
+
+785
+00:22:22,460 --> 00:22:23,460
+durant aquesta estona.
+
+786
+00:22:23,820 --> 00:22:25,500
+És sense dubte l'opció més barata
+
+787
+00:22:25,500 --> 00:22:27,100
+de construir per als programadors
+
+788
+00:22:27,100 --> 00:22:28,380
+de sistemes d'IA.
+
+789
+00:22:28,640 --> 00:22:30,620
+És barata i extremadament segura.
+
+790
+00:22:31,180 --> 00:22:32,380
+La gent bloqueja el vol.
+
+791
+00:22:32,860 --> 00:22:34,140
+T'ho notifica el teu xat
+
+792
+00:22:34,140 --> 00:22:36,720
+i només quan tu aproves explícitament
+
+793
+00:22:36,720 --> 00:22:37,920
+i promets, per dir-ho així,
+
+794
+00:22:38,040 --> 00:22:39,400
+no retrocedir en el temps,
+
+795
+00:22:39,760 --> 00:22:41,040
+usem la segona eina,
+
+796
+00:22:41,280 --> 00:22:42,640
+la que fa el càrrec definitiu
+
+797
+00:22:42,640 --> 00:22:44,580
+i reversible a la targeta.
+
+798
+00:22:44,860 --> 00:22:45,480
+M'encanta.
+
+799
+00:22:46,000 --> 00:22:47,560
+Però i si necessitem anar més enllà?
+
+800
+00:22:47,560 --> 00:22:49,860
+Si l'acció ja s'ha executat del tot
+
+801
+00:22:49,860 --> 00:22:51,400
+sense retencions prèvies,
+
+802
+00:22:51,520 --> 00:22:52,240
+què fem llavors?
+
+803
+00:22:52,420 --> 00:22:53,000
+El patró Saga.
+
+804
+00:22:53,740 --> 00:22:55,480
+Un document d'Hector Garcia-Molina,
+
+805
+00:22:55,500 --> 00:22:56,420
+i Kenneth Salem.
+
+806
+00:22:56,800 --> 00:22:57,940
+Això del patró Saga,
+
+807
+00:22:58,180 --> 00:22:59,960
+per molt èpic que soni el nom,
+
+808
+00:23:00,420 --> 00:23:01,620
+com funciona exactament?
+
+809
+00:23:02,140 --> 00:23:04,300
+És una mena de control Z massiu
+
+810
+00:23:04,300 --> 00:23:06,300
+a nivell de servidor de la companyia aèria?
+
+811
+00:23:06,620 --> 00:23:07,520
+No, no.
+
+812
+00:23:07,940 --> 00:23:09,140
+I això és crucial d'entendre.
+
+813
+00:23:09,660 --> 00:23:11,400
+No hi ha cap màgia desborrat temporal.
+
+814
+00:23:12,140 --> 00:23:13,860
+El que van proposar Garcia-Molina i Salem
+
+815
+00:23:13,860 --> 00:23:16,180
+és que si tu, com a desenvolupador,
+
+816
+00:23:16,660 --> 00:23:18,740
+dissenyes una acció que modifica un sistema,
+
+817
+00:23:19,200 --> 00:23:20,700
+com ara reservar habitació,
+
+818
+00:23:21,260 --> 00:23:22,940
+estàs arquitectònicament obligat
+
+819
+00:23:22,940 --> 00:23:25,380
+a dissenyar i programar obligatoriament
+
+820
+00:23:25,500 --> 00:23:27,640
+la seva parella exacta de compensació,
+
+821
+00:23:28,180 --> 00:23:29,780
+que seria cancel·lar habitació.
+
+822
+00:23:30,020 --> 00:23:30,500
+D'acord.
+
+823
+00:23:31,100 --> 00:23:33,960
+Tota acció té la seva reacció programada,
+
+824
+00:23:34,540 --> 00:23:36,560
+però on es guarda aquesta relació?
+
+825
+00:23:37,120 --> 00:23:38,720
+Perquè aquí torno al meu dubte inicial.
+
+826
+00:23:39,460 --> 00:23:41,000
+Si he retrocedit en el xat,
+
+827
+00:23:41,340 --> 00:23:42,380
+la meva IA,
+
+828
+00:23:42,840 --> 00:23:44,140
+a la nova línia temporal,
+
+829
+00:23:44,260 --> 00:23:44,960
+a la branca nova,
+
+830
+00:23:45,360 --> 00:23:47,600
+ha oblidat completament que va reservar l'habitació?
+
+831
+00:23:48,280 --> 00:23:48,560
+O sigui,
+
+832
+00:23:49,320 --> 00:23:51,280
+com dimonis sap que ha d'invocar
+
+833
+00:23:51,280 --> 00:23:52,660
+la funció de cancel·lació
+
+834
+00:23:52,660 --> 00:23:54,120
+si no recorda haver-ho fet?
+
+835
+00:23:55,500 --> 00:23:59,300
+Ah, perquè el registre de la transacció
+
+836
+00:23:59,300 --> 00:24:02,520
+no el porta la memòria volàtil de la IA
+
+837
+00:24:02,520 --> 00:24:04,420
+en el seu text del xat.
+
+838
+00:24:04,920 --> 00:24:06,340
+El porta un orquestrador
+
+839
+00:24:06,340 --> 00:24:08,220
+al sistema central de l'aplicació.
+
+840
+00:24:08,820 --> 00:24:10,000
+Si tu retrocedeixes,
+
+841
+00:24:10,360 --> 00:24:11,240
+aquest orquestrador,
+
+842
+00:24:11,440 --> 00:24:12,840
+el software que hi ha per darrere,
+
+843
+00:24:13,280 --> 00:24:15,500
+sap perfectament quines accions vas prendre
+
+844
+00:24:15,500 --> 00:24:17,680
+i té a mà els passos compensatoris.
+
+845
+00:24:18,220 --> 00:24:18,780
+Molt astut.
+
+846
+00:24:19,500 --> 00:24:21,920
+Però, i l'autor insisteix molt,
+
+847
+00:24:22,480 --> 00:24:24,080
+cal fer una gran advertència aquí.
+
+848
+00:24:24,640 --> 00:24:25,220
+La compensació de la transacció
+
+849
+00:24:25,220 --> 00:24:27,240
+no és mai, mai,
+
+850
+00:24:27,520 --> 00:24:29,300
+equivalent a que no hagi passat res.
+
+851
+00:24:29,520 --> 00:24:30,840
+Poso l'exemple de l'hotel.
+
+852
+00:24:31,300 --> 00:24:33,420
+Si cancel·les l'hotel fora de termini
+
+853
+00:24:33,420 --> 00:24:34,760
+usant el patró Saga,
+
+854
+00:24:35,220 --> 00:24:37,400
+la compensació pot implicar perfectament
+
+855
+00:24:37,400 --> 00:24:39,340
+que et cobrin una nit de penalització.
+
+856
+00:24:39,920 --> 00:24:41,460
+Un banc et pot retornar
+
+857
+00:24:41,460 --> 00:24:43,160
+uns diners que has transferit, sí,
+
+858
+00:24:43,480 --> 00:24:45,060
+però trigaran tres dies hàbils
+
+859
+00:24:45,060 --> 00:24:46,360
+a aparèixer al teu compte.
+
+860
+00:24:47,000 --> 00:24:49,100
+Això mateix. Has desfet l'acció
+
+861
+00:24:49,100 --> 00:24:50,400
+lògica sobre el paper,
+
+862
+00:24:50,940 --> 00:24:53,460
+però les seqüeles físiques, financeres
+
+863
+00:24:53,460 --> 00:24:54,880
+i temporals romanen
+
+864
+00:24:54,880 --> 00:24:55,540
+a la teva vida.
+
+865
+00:24:55,860 --> 00:24:58,340
+Exacte. I per això suposo
+
+866
+00:24:58,340 --> 00:25:00,140
+que l'última estratègia preventiva
+
+867
+00:25:00,140 --> 00:25:01,440
+que s'esmenta a l'article
+
+868
+00:25:01,440 --> 00:25:04,200
+són les famoses simulacions en sec,
+
+869
+00:25:04,640 --> 00:25:06,060
+els anomenats dry runs.
+
+870
+00:25:06,260 --> 00:25:08,180
+Sí. És que, abans de fer
+
+871
+00:25:08,180 --> 00:25:09,740
+absolutament res destructiu,
+
+872
+00:25:09,980 --> 00:25:11,420
+l'eina simplement et respon
+
+873
+00:25:11,420 --> 00:25:13,140
+amb un informe detallat que et diu
+
+874
+00:25:13,140 --> 00:25:15,720
+Mira, si apretessis realment aquest botó
+
+875
+00:25:15,720 --> 00:25:17,840
+ara mateix, s'esborrarien aquestes
+
+876
+00:25:17,840 --> 00:25:19,840
+tres bases de dades i s'enviarien
+
+877
+00:25:19,840 --> 00:25:21,400
+factures a aquests cinc clients.
+
+878
+00:25:21,820 --> 00:25:22,300
+Estàs segur?
+
+879
+00:25:22,300 --> 00:25:24,680
+És la millor assegurança contra catàstrofes
+
+880
+00:25:24,680 --> 00:25:25,580
+que et puguis imaginar?
+
+881
+00:25:25,780 --> 00:25:26,500
+Sense dubte.
+
+882
+00:25:26,780 --> 00:25:29,240
+Bé, tot això que em comentes està molt bé,
+
+883
+00:25:29,340 --> 00:25:31,720
+em sembla perfecte. Però només si nosaltres
+
+884
+00:25:31,720 --> 00:25:33,660
+estem dissenyant l'aplicació des de zero.
+
+885
+00:25:34,080 --> 00:25:36,220
+Vull dir, nosaltres programem la base de dades,
+
+886
+00:25:36,440 --> 00:25:38,180
+nosaltres decidim fer retencions
+
+887
+00:25:38,180 --> 00:25:40,620
+i nosaltres programem el patró saga
+
+888
+00:25:40,620 --> 00:25:41,640
+al nostre servidor.
+
+889
+00:25:42,100 --> 00:25:44,200
+Però, i aquí és on crec que el document
+
+890
+00:25:44,200 --> 00:25:46,420
+fa el salt més espectacular de tots.
+
+891
+00:25:47,440 --> 00:25:49,240
+Què passa quan l'acció destructiva
+
+892
+00:25:49,240 --> 00:25:50,840
+ja s'ha produït al món real,
+
+893
+00:25:50,840 --> 00:25:52,960
+mitjançant una API externa
+
+894
+00:25:52,960 --> 00:25:53,540
+de tercers?
+
+895
+00:25:53,540 --> 00:25:56,360
+I tu no és el propietari del servidor.
+
+896
+00:25:57,060 --> 00:25:58,680
+Si no podem desfer el món
+
+897
+00:25:58,680 --> 00:26:01,200
+per adaptar-lo al nostre xat bonic i net,
+
+898
+00:26:01,780 --> 00:26:03,300
+com carai avisem la IA
+
+899
+00:26:03,300 --> 00:26:04,420
+que el terra s'ha mogut
+
+900
+00:26:04,420 --> 00:26:05,340
+sota els seus peus?
+
+901
+00:26:05,640 --> 00:26:08,740
+M'amiga meva, aquesta és la pregunta
+
+902
+00:26:08,740 --> 00:26:10,940
+del milió d'euros en aquest càmbar mateix.
+
+903
+00:26:11,740 --> 00:26:13,020
+Perquè si no aconseguim
+
+904
+00:26:13,020 --> 00:26:15,200
+informar la IA que el món extern
+
+905
+00:26:15,200 --> 00:26:17,440
+no s'ha desfet, continuarà actuant
+
+906
+00:26:17,440 --> 00:26:19,620
+basant-se en al·lucinacions cegues.
+
+907
+00:26:19,780 --> 00:26:20,960
+Què proposa l'autor, llavors?
+
+908
+00:26:20,960 --> 00:26:23,160
+El document desglosa quatre mecanismes
+
+909
+00:26:23,540 --> 00:26:26,180
+de seguretat fonamentals per a aquests casos.
+
+910
+00:26:26,180 --> 00:26:29,040
+El primer de tots és marcar les portes.
+
+911
+00:26:29,040 --> 00:26:31,540
+I utilitza estàndards moderns com el
+
+912
+00:26:31,540 --> 00:26:33,700
+Model Context Protocol que acaba de sortir.
+
+913
+00:26:33,700 --> 00:26:36,100
+Marcar les portes entenc que és una metàfora,
+
+914
+00:26:36,100 --> 00:26:39,060
+com posar etiquetes de perill biològic, no?
+
+915
+00:26:39,060 --> 00:26:40,100
+Literalment.
+
+916
+00:26:40,100 --> 00:26:42,100
+Dins de les metadades de l'eina,
+
+917
+00:26:42,100 --> 00:26:44,780
+el programador hi afegeix una etiqueta informàtica
+
+918
+00:26:44,780 --> 00:26:46,780
+de tipus readOnlyHint,
+
+919
+00:26:46,780 --> 00:26:48,100
+o sigui, només lectura,
+
+920
+00:26:48,100 --> 00:26:50,980
+o destructiveHint, per dir que és destructiu.
+
+921
+00:26:50,980 --> 00:26:52,980
+Amb això, quan fas una acció,
+
+922
+00:26:52,980 --> 00:26:54,980
+la interfície gràfica de l'usuari
+
+923
+00:26:54,980 --> 00:26:57,860
+pot reaccionar de forma intel·ligent abans de fer el desastre.
+
+924
+00:26:57,860 --> 00:26:59,860
+Llavors, a veure si ho entenc.
+
+925
+00:26:59,860 --> 00:27:03,300
+Si intento viatjar en el temps just després de comprar un bitllet
+
+926
+00:27:03,300 --> 00:27:05,300
+i apreto el botó de desfer,
+
+927
+00:27:05,300 --> 00:27:08,860
+la interfície de l'aplicació em podria saltar amb un pop-up que digui
+
+928
+00:27:08,860 --> 00:27:11,860
+Atenció, estàs a punt de crear una branca paral·lela,
+
+929
+00:27:11,860 --> 00:27:14,340
+però la reserva ja s'ha confirmat al món real.
+
+930
+00:27:14,340 --> 00:27:16,900
+Vols continuar realment sota el teu propi risc?
+
+931
+00:27:16,900 --> 00:27:17,940
+Això mateix.
+
+932
+00:27:17,940 --> 00:27:21,540
+Almenys m'està avisant. Em passa la responsabilitat a mi.
+
+933
+00:27:21,540 --> 00:27:22,340
+Exacte.
+
+934
+00:27:22,340 --> 00:27:24,180
+Ja no ho fas a cegues.
+
+935
+00:27:24,180 --> 00:27:26,820
+El segon mecanisme, un pèl més tècnic,
+
+936
+00:27:26,820 --> 00:27:30,180
+és segellar els resultats usant ETags.
+
+937
+00:27:30,180 --> 00:27:32,340
+D'acord. Frena un segon aquí.
+
+938
+00:27:32,340 --> 00:27:35,580
+Pels que no programem servidors HTTP diàriament,
+
+939
+00:27:35,580 --> 00:27:37,580
+què dimonis és un ETag
+
+940
+00:27:37,580 --> 00:27:40,260
+i com ens ajuda en aquest cas tan concret?
+
+941
+00:27:40,260 --> 00:27:42,460
+Imagina-t'ho com un cell de cera digital
+
+942
+00:27:42,460 --> 00:27:45,220
+amb un número de versió imprès al mig.
+
+943
+00:27:45,220 --> 00:27:47,820
+Quan l'IA elegeix l'estat de les teves reserves d'avió
+
+944
+00:27:47,820 --> 00:27:50,220
+des del servidor remot de la companyia aèria,
+
+945
+00:27:50,220 --> 00:27:52,140
+el servidor li envia el llistat completat,
+
+946
+00:27:52,140 --> 00:27:55,420
+complet de vols i, a més a més, una petita signatura.
+
+947
+00:27:55,420 --> 00:27:57,580
+Aquest ETag, que diu, per cert,
+
+948
+00:27:57,580 --> 00:28:00,500
+aquesta és la visió de la realitat versió número 1?
+
+949
+00:28:00,500 --> 00:28:01,860
+M'agrada l'analogia.
+
+950
+00:28:01,860 --> 00:28:04,540
+Com el número de torn a la carnisseria, bàsicament.
+
+951
+00:28:04,540 --> 00:28:06,860
+Més o menys sí. Funciona.
+
+952
+00:28:06,860 --> 00:28:09,460
+Si ara l'IA intenta executar una acció,
+
+953
+00:28:09,460 --> 00:28:12,980
+com per exemple canviar el nom del passatger de la reserva,
+
+954
+00:28:12,980 --> 00:28:15,820
+està obligada pel protocol a enviar la petició
+
+955
+00:28:15,820 --> 00:28:17,820
+ajuntant aquell segell de cera.
+
+956
+00:28:17,820 --> 00:28:21,260
+Diu, hola, vull fer aquest canvi en el nom i, per cert,
+
+957
+00:28:21,260 --> 00:28:21,980
+la meva creença ha acabat.
+
+958
+00:28:21,980 --> 00:28:24,300
+La creença actual és que la realitat del servidor
+
+959
+00:28:24,300 --> 00:28:26,820
+està a la versió 1, aquí dins el segell.
+
+960
+00:28:26,820 --> 00:28:29,380
+Vale. Però què passa si, entretant,
+
+961
+00:28:29,380 --> 00:28:31,940
+tu has retrocedit o has fet experiments
+
+962
+00:28:31,940 --> 00:28:35,020
+a una altra branca del xat, has tocat coses
+
+963
+00:28:35,020 --> 00:28:38,540
+i la realitat del servidor ja va per la versió número 2?
+
+964
+00:28:38,540 --> 00:28:41,620
+Ah. El servidor rep la petició de canvi de nom,
+
+965
+00:28:41,620 --> 00:28:43,220
+veu el segell de la IA,
+
+966
+00:28:43,220 --> 00:28:45,620
+compara el número 1 que porta l'IA
+
+967
+00:28:45,620 --> 00:28:49,180
+amb el seu número 2 actual i ho rebutjada directament.
+
+968
+00:28:49,180 --> 00:28:50,180
+No hi ha debat.
+
+969
+00:28:50,180 --> 00:28:51,260
+Quin error dona.
+
+970
+00:28:51,260 --> 00:28:53,820
+T'acabes de topar de ple amb el famós error
+
+971
+00:28:53,820 --> 00:28:58,180
+HTTP 412, precondition failed.
+
+972
+00:28:58,180 --> 00:29:00,860
+El servidor s'atura en sec i li diu a l'IA,
+
+973
+00:29:00,860 --> 00:29:04,980
+escolta, la teva visió del món està completament obsoleta.
+
+974
+00:29:04,980 --> 00:29:06,220
+La petició falla.
+
+975
+00:29:06,220 --> 00:29:08,740
+Has de tornar a sol·licitar l'estat actualitzat,
+
+976
+00:29:08,740 --> 00:29:11,300
+assumir la nova realitat que desconeixies
+
+977
+00:29:11,300 --> 00:29:13,580
+i replantejar-te l'acció sencera.
+
+978
+00:29:13,580 --> 00:29:18,980
+Això és brutal i molt, molt robust a nivell de xarxa.
+
+979
+00:29:18,980 --> 00:29:21,100
+Però abans has dit que hi havia un tercer error,
+
+980
+00:29:21,100 --> 00:29:22,460
+un tercer mecanisme,
+
+981
+00:29:22,460 --> 00:29:26,780
+i el vaig llegir i m'ha deixat completament bocabadada.
+
+982
+00:29:26,780 --> 00:29:30,260
+L'autor l'anomena reconciliació a la bifurcació.
+
+983
+00:29:30,260 --> 00:29:32,460
+I sincerament aquesta em sembla de lluny
+
+984
+00:29:32,460 --> 00:29:34,820
+l'estratègia més elegant de totes.
+
+985
+00:29:34,820 --> 00:29:37,580
+És gairebé poesia arquitectònica, no et sembla?
+
+986
+00:29:37,580 --> 00:29:39,100
+Coincideixo plenament.
+
+987
+00:29:39,100 --> 00:29:40,980
+De fet, aquest és el cor,
+
+988
+00:29:40,980 --> 00:29:44,460
+el nucli del Context Inspector que ha programat l'autor.
+
+989
+00:29:44,460 --> 00:29:47,700
+Imagina que el sistema detecta que has premut el botó
+
+990
+00:29:47,700 --> 00:29:49,780
+de retrocedir a la teva pantalla.
+
+991
+00:29:49,780 --> 00:29:50,940
+Has creat una nova branca,
+
+992
+00:29:50,940 --> 00:29:52,500
+abandonant l'anterior.
+
+993
+00:29:52,500 --> 00:29:54,740
+Aquella on, per desgràcia teva,
+
+994
+00:29:54,740 --> 00:29:57,740
+ja havies comprat el vol del dimarts per 1.000 euros.
+
+995
+00:29:57,740 --> 00:30:00,420
+L'algoritme de reconciliació detecta això,
+
+996
+00:30:00,420 --> 00:30:02,300
+entra en acció automàticament
+
+997
+00:30:02,300 --> 00:30:04,380
+i executa tres passos màgics,
+
+998
+00:30:04,380 --> 00:30:05,940
+sense que tu facis res.
+
+999
+00:30:05,940 --> 00:30:08,140
+Anem a pams amb aquests tres passos
+
+1000
+00:30:08,140 --> 00:30:10,740
+perquè vull que els oients ho tinguin claríssims.
+
+1001
+00:30:10,740 --> 00:30:12,060
+Quin és el primer?
+
+1002
+00:30:12,060 --> 00:30:12,860
+Pas 1.
+
+1003
+00:30:12,860 --> 00:30:15,620
+Mentre tu estàs feliçment creant la teva branca número 2,
+
+1004
+00:30:15,620 --> 00:30:16,700
+la de dijous,
+
+1005
+00:30:16,700 --> 00:30:18,300
+el sistema gira d'amagat
+
+1006
+00:30:18,300 --> 00:30:20,220
+i inspecciona l'historial de la branca 1,
+
+1007
+00:30:20,220 --> 00:30:22,660
+que acabes d'abandonar i has borrat de la pantalla.
+
+1008
+00:30:22,660 --> 00:30:24,500
+I el pas 2?
+
+1009
+00:30:24,500 --> 00:30:25,500
+Pas 2.
+
+1010
+00:30:25,500 --> 00:30:28,180
+El sistema filtra i recopila
+
+1011
+00:30:28,180 --> 00:30:31,980
+absolutament totes les accions irreversibles o destructives
+
+1012
+00:30:31,980 --> 00:30:34,060
+que la IA va prendre allà,
+
+1013
+00:30:34,060 --> 00:30:35,780
+en aquella branca fantasma,
+
+1014
+00:30:35,780 --> 00:30:37,860
+i que, pel motiu que sigui,
+
+1015
+00:30:37,860 --> 00:30:41,100
+no s'han cancel·lat ni compensat encara en el món real.
+
+1016
+00:30:41,100 --> 00:30:43,180
+O sigui, que de cop i volta
+
+1017
+00:30:43,180 --> 00:30:46,940
+l'orquestrador localitza la compra d'aquell bitllet maleït de dimarts.
+
+1018
+00:30:46,940 --> 00:30:48,860
+I llavors què fa? Com ho arregla?
+
+1019
+00:30:48,860 --> 00:30:50,100
+Aquí ve la meravella
+
+1020
+00:30:50,100 --> 00:30:51,100
+de debò.
+
+1021
+00:30:51,100 --> 00:30:52,420
+Pas 3.
+
+1022
+00:30:52,420 --> 00:30:55,180
+L'orquestrador genera un missatge sintètic.
+
+1023
+00:30:55,180 --> 00:30:56,060
+Sintètic?
+
+1024
+00:30:56,060 --> 00:30:59,660
+Sí, una nota al marge creada pel propi sistema,
+
+1025
+00:30:59,660 --> 00:31:01,620
+no per tu ni per la IA,
+
+1026
+00:31:01,620 --> 00:31:05,220
+i la injecta de manera invisible a la nova branca del xat,
+
+1027
+00:31:05,220 --> 00:31:07,700
+just després d'on has fet la bifurcació.
+
+1028
+00:31:07,700 --> 00:31:11,380
+És a dir, tu no ho veus de primeres a la teva interfície amable,
+
+1029
+00:31:11,380 --> 00:31:14,620
+però la IA, en la seva realitat aparentment neta
+
+1030
+00:31:14,620 --> 00:31:16,380
+i llibre d'errors del dijous,
+
+1031
+00:31:16,380 --> 00:31:19,420
+sí que obtindrà una nota del sistema operatiu, clar.
+
+1032
+00:31:19,420 --> 00:31:23,580
+Sí, una nota que li diu exactament això, avís.
+
+1033
+00:31:23,580 --> 00:31:25,820
+En una branca alternativa d'aquesta conversa,
+
+1034
+00:31:25,820 --> 00:31:27,460
+que l'usuari ha esborrat,
+
+1035
+00:31:27,460 --> 00:31:31,620
+ja vas confirmar i pagar el vol ABC123 per a dimarts.
+
+1036
+00:31:31,620 --> 00:31:33,260
+Si us plau, tingués-ho en compte
+
+1037
+00:31:33,260 --> 00:31:35,740
+abans de continuar la interacció amb l'usuari.
+
+1038
+00:31:35,740 --> 00:31:37,620
+És flipant.
+
+1039
+00:31:37,620 --> 00:31:38,980
+De veritat.
+
+1040
+00:31:38,980 --> 00:31:40,740
+En lloc d'intentar amagar-li l'error
+
+1041
+00:31:40,740 --> 00:31:42,500
+o esborrar el món a la força,
+
+1042
+00:31:42,500 --> 00:31:44,700
+el que fan és convertir el passat,
+
+1043
+00:31:44,700 --> 00:31:46,380
+un passat alternatiu,
+
+1044
+00:31:46,380 --> 00:31:48,580
+en una dada més per al present.
+
+1045
+00:31:48,580 --> 00:31:49,260
+Com diu el mateix autor,
+
+1046
+00:31:49,260 --> 00:31:52,620
+el document és el contrari exacte de desfer.
+
+1047
+00:31:52,620 --> 00:31:54,500
+És negar-se a oblidar.
+
+1048
+00:31:54,500 --> 00:31:55,700
+Totalment.
+
+1049
+00:31:55,700 --> 00:31:57,660
+Posa tot el pes de la veritat,
+
+1050
+00:31:57,660 --> 00:31:58,900
+per dura que sigui,
+
+1051
+00:31:58,900 --> 00:32:00,420
+directament al context.
+
+1052
+00:32:00,420 --> 00:32:04,260
+Perquè és l'única cosa que la IA s'ha processat de forma fiable.
+
+1053
+00:32:04,260 --> 00:32:06,860
+Amb aquesta simple nota sintètica,
+
+1054
+00:32:06,860 --> 00:32:10,620
+la IA ja sap que el bitllet de dimarts existeix físicament,
+
+1055
+00:32:10,620 --> 00:32:13,060
+no al·lucinarà cap excusa estranya
+
+1056
+00:32:13,060 --> 00:32:15,820
+i probablement et respondrà de manera molt educada.
+
+1057
+00:32:15,820 --> 00:32:17,420
+Et dirà alguna cosa com,
+
+1058
+00:32:17,420 --> 00:32:18,420
+entesos,
+
+1059
+00:32:18,420 --> 00:32:20,860
+vols que et compri el vol de dijous,
+
+1060
+00:32:20,860 --> 00:32:22,700
+però que sàpigues que el vol de dimarts
+
+1061
+00:32:22,700 --> 00:32:24,460
+ja el tenim cobrat al teu compte.
+
+1062
+00:32:24,460 --> 00:32:26,700
+Vols que intenti cancel·lar-lo primer
+
+1063
+00:32:26,700 --> 00:32:28,020
+per no cobrar-te el doble?
+
+1064
+00:32:28,020 --> 00:32:30,860
+T'està estalviant el desastre financer sencer
+
+1065
+00:32:30,860 --> 00:32:33,100
+amb un simple post-it digital amagat.
+
+1066
+00:32:33,100 --> 00:32:34,300
+I, per cert,
+
+1067
+00:32:34,300 --> 00:32:36,420
+ens deixem al quart i últim mecanisme,
+
+1068
+00:32:36,420 --> 00:32:38,700
+tot i que l'autor admet que és l'enfocament
+
+1069
+00:32:38,700 --> 00:32:40,420
+més avorrit de tots els que explica.
+
+1070
+00:32:40,420 --> 00:32:42,500
+Li diu preguntar al món.
+
+1071
+00:32:42,500 --> 00:32:46,260
+Sí, a vegades la força bruta és necessària a la informàtica, no?
+
+1072
+00:32:46,260 --> 00:32:47,300
+I tant.
+
+1073
+00:32:47,300 --> 00:32:49,500
+Consisteix a forçar l'agent d'IA,
+
+1074
+00:32:49,500 --> 00:32:50,980
+per disseny de l'aplicació,
+
+1075
+00:32:50,980 --> 00:32:52,700
+a fer servir sempre, sempre,
+
+1076
+00:32:52,700 --> 00:32:54,500
+una eina de consulta prèvia,
+
+1077
+00:32:54,500 --> 00:32:57,100
+com podria ser obtenir reserves actuals.
+
+1078
+00:32:57,100 --> 00:33:00,020
+Ho fa de manera sistemàtica i innegociable,
+
+1079
+00:33:00,020 --> 00:33:01,940
+un mil·lisegon abans d'executar
+
+1080
+00:33:01,940 --> 00:33:03,700
+qualsevol eina d'escriptura perillosa
+
+1081
+00:33:03,700 --> 00:33:05,100
+com comprar bitllet.
+
+1082
+00:33:05,100 --> 00:33:08,020
+És feixuc, consumeix temps i tòquens,
+
+1083
+00:33:08,020 --> 00:33:10,140
+però és incontestablement fiable.
+
+1084
+00:33:10,140 --> 00:33:13,300
+Abans de fer res, mira què hi ha de veritat fora.
+
+1085
+00:33:13,300 --> 00:33:15,820
+Llavors, arribant a aquest punt de l'anàlisi,
+
+1086
+00:33:15,820 --> 00:33:17,140
+i pensant en tot,
+
+1087
+00:33:17,140 --> 00:33:20,340
+aquesta responsabilitat arquitectònica que estem descrivint,
+
+1088
+00:33:20,340 --> 00:33:23,220
+què significa tot això per a nosaltres?
+
+1089
+00:33:23,220 --> 00:33:25,220
+Els que construïm programari
+
+1090
+00:33:25,220 --> 00:33:28,420
+o els que simplement utilitzem aquests sistemes al dia a dia?
+
+1091
+00:33:28,420 --> 00:33:32,740
+Estem demanant potser massa a les intel·ligències artificials
+
+1092
+00:33:32,740 --> 00:33:34,540
+quan els donem aquestes capacitats?
+
+1093
+00:33:34,540 --> 00:33:38,060
+Aquesta crec que és la lliçó subjacent de tot l'informe.
+
+1094
+00:33:38,060 --> 00:33:41,260
+Significa un canvi de paradigma total
+
+1095
+00:33:41,260 --> 00:33:44,140
+en on recau la culpa quan les coses fallen.
+
+1096
+00:33:44,140 --> 00:33:46,780
+Quan deleguem tasques complexes
+
+1097
+00:33:46,780 --> 00:33:48,780
+a agents autònoms,
+
+1098
+00:33:48,780 --> 00:33:51,100
+solem creure innocentment que ells han d'entendre
+
+1099
+00:33:51,100 --> 00:33:54,060
+les conseqüències físiques dels seus actes,
+
+1100
+00:33:54,060 --> 00:33:55,340
+com un humà ho faria.
+
+1101
+00:33:55,340 --> 00:33:56,540
+Però no són humans.
+
+1102
+00:33:56,540 --> 00:33:57,460
+Clar que no.
+
+1103
+00:33:57,460 --> 00:33:59,260
+L'estudi demostra clarament que la IA
+
+1104
+00:33:59,260 --> 00:34:02,380
+és només una ment raonadora tancada en una habitació fosca,
+
+1105
+00:34:02,380 --> 00:34:03,540
+amb un interfon.
+
+1106
+00:34:03,540 --> 00:34:06,860
+L'únic que fa és llegir els papers que li passes per sota la porta.
+
+1107
+00:34:06,860 --> 00:34:09,740
+La responsabilitat de mantenir les creences d'aquella ment,
+
+1108
+00:34:09,740 --> 00:34:11,580
+alineades amb la dura realitat,
+
+1109
+00:34:11,580 --> 00:34:13,580
+recau íntegrament en nosaltres.
+
+1110
+00:34:13,580 --> 00:34:15,180
+Com a dissenyadors del sistema.
+
+1111
+00:34:15,180 --> 00:34:15,820
+Sí.
+
+1112
+00:34:15,820 --> 00:34:16,620
+En el cicle de l'aplicació,
+
+1113
+00:34:16,620 --> 00:34:19,380
+en com gestionem l'estat extern
+
+1114
+00:34:19,380 --> 00:34:21,900
+i en com reconciliem la interfície maca del xat
+
+1115
+00:34:21,900 --> 00:34:23,780
+amb el servidor rígid de la realitat.
+
+1116
+00:34:23,780 --> 00:34:24,260
+D'acord.
+
+1117
+00:34:24,260 --> 00:34:27,180
+Això a nivell teòdic és inapel·lable.
+
+1118
+00:34:27,180 --> 00:34:30,380
+Però deixa'm fer una pausa escèptica, aquí, si m'ho permets.
+
+1119
+00:34:30,380 --> 00:34:31,020
+Endavant.
+
+1120
+00:34:31,020 --> 00:34:32,660
+Tot això del patrosaga,
+
+1121
+00:34:32,660 --> 00:34:35,140
+de les funcions pures, de la memòria cau,
+
+1122
+00:34:35,140 --> 00:34:36,540
+superràpida,
+
+1123
+00:34:36,540 --> 00:34:40,940
+i aquesta reconciliació entre espais injectant notes invisibles,
+
+1124
+00:34:40,940 --> 00:34:44,460
+tècnicament, sona impecable sobre el paper veritat.
+
+1125
+00:34:44,460 --> 00:34:46,420
+Però quants documents de recerca
+
+1126
+00:34:46,420 --> 00:34:48,220
+hem llegit en els últims anys,
+
+1127
+00:34:48,220 --> 00:34:50,700
+que són només arquitectura de saló?
+
+1128
+00:34:50,700 --> 00:34:53,780
+Per fum teòric que quan ho proves no funciona.
+
+1129
+00:34:53,780 --> 00:34:54,860
+Molts.
+
+1130
+00:34:54,860 --> 00:34:56,780
+I fas molt bé de dubtar-ho.
+
+1131
+00:34:56,780 --> 00:34:59,420
+La indústria ara mateix està plena de promeses buides
+
+1132
+00:34:59,420 --> 00:35:01,140
+i papers abstractes.
+
+1133
+00:35:01,140 --> 00:35:04,740
+Però el que dona un pes específic enorme a aquest document
+
+1134
+00:35:04,740 --> 00:35:08,580
+és que no és un simple assaig reflexiu sobre l'estat de l'art.
+
+1135
+00:35:08,580 --> 00:35:10,180
+Aquest document és, de fet,
+
+1136
+00:35:10,180 --> 00:35:13,940
+la nota tècnica de llançament del Context Inspector real.
+
+1137
+00:35:13,940 --> 00:35:16,220
+L'autor predica completament amb l'exemple.
+
+1138
+00:35:16,420 --> 00:35:17,580
+No ve amb fum.
+
+1139
+00:35:17,580 --> 00:35:18,660
+Explica'm això.
+
+1140
+00:35:18,660 --> 00:35:20,980
+Com ho va lidar la pràctica, exactament?
+
+1141
+00:35:20,980 --> 00:35:23,140
+Per convèncer els més escèptics com jo.
+
+1142
+00:35:23,140 --> 00:35:27,900
+Doncs perquè l'informe no només conté arguments bonics i diagrames.
+
+1143
+00:35:27,900 --> 00:35:30,380
+Conté especificacions.
+
+1144
+00:35:30,380 --> 00:35:32,780
+L'autor ha escrit de forma manual
+
+1145
+00:35:32,780 --> 00:35:35,340
+36 escenaris diferents d'interacció
+
+1146
+00:35:35,340 --> 00:35:38,780
+amb bifurcacions temporals en format Markdown.
+
+1147
+00:35:38,780 --> 00:35:40,460
+Val, Markdown.
+
+1148
+00:35:40,460 --> 00:35:42,340
+Un document de text estàndard.
+
+1149
+00:35:42,340 --> 00:35:44,380
+Sí, però aquest format Markdown
+
+1150
+00:35:44,380 --> 00:35:46,380
+no és només text per ser llegit per humans.
+
+1151
+00:35:46,420 --> 00:35:48,420
+Està configurat de tal manera
+
+1152
+00:35:48,420 --> 00:35:51,460
+per ser executat pel sistema com si fos codi de proves,
+
+1153
+00:35:51,460 --> 00:35:54,140
+seguint la definició estricta de test unitari
+
+1154
+00:35:54,140 --> 00:35:56,420
+que va promoure l'Agile Alliance fa anys.
+
+1155
+00:35:56,420 --> 00:36:00,780
+Ah, això vol dir que el propi text que llegeixes al document,
+
+1156
+00:36:00,780 --> 00:36:02,100
+l'assaig en si mateix,
+
+1157
+00:36:02,100 --> 00:36:04,180
+és codi avaluable per la màquina.
+
+1158
+00:36:04,180 --> 00:36:05,100
+Exacte.
+
+1159
+00:36:05,100 --> 00:36:07,300
+És el que s'anomena un document viu,
+
+1160
+00:36:07,300 --> 00:36:10,340
+executable specifications, en anglès.
+
+1161
+00:36:10,340 --> 00:36:12,980
+Si el Context Inspector que hi ha programat
+
+1162
+00:36:12,980 --> 00:36:16,260
+no es comporta exactament com s'ha descrit en el text de l'assaig,
+
+1163
+00:36:16,420 --> 00:36:19,580
+si alguna d'aquestes reconciliacions màgiques de tres passos
+
+1164
+00:36:19,580 --> 00:36:20,580
+faia el món real,
+
+1165
+00:36:20,580 --> 00:36:22,060
+el text no passa.
+
+1166
+00:36:22,060 --> 00:36:24,660
+El document literalment llança un error
+
+1167
+00:36:24,660 --> 00:36:26,660
+en la bateria de proves de programació.
+
+1168
+00:36:26,660 --> 00:36:29,940
+I l'autor directament no pot compilar ni publicar
+
+1169
+00:36:29,940 --> 00:36:31,940
+la nova versió del seu programari.
+
+1170
+00:36:31,940 --> 00:36:35,340
+És un rigor brutal que impedeix fer falses afirmacions
+
+1171
+00:36:35,340 --> 00:36:36,900
+sobre com d'haver funciona.
+
+1172
+00:36:36,900 --> 00:36:39,300
+O funciona, o el document no compilar.
+
+1173
+00:36:39,300 --> 00:36:42,980
+És a dir, és una auditoria tècnica incrustada
+
+1174
+00:36:42,980 --> 00:36:44,980
+a la mateixa prosa de l'assaig.
+
+1175
+00:36:44,980 --> 00:36:46,420
+És brillant i molt transparent.
+
+1176
+00:36:46,420 --> 00:36:49,740
+I bé, això de fet ens porta de ple
+
+1177
+00:36:49,740 --> 00:36:51,740
+a la conclusió final de l'episodi, oi?
+
+1178
+00:36:51,740 --> 00:36:54,700
+Què en traiem amb net de tot aquest viatge
+
+1179
+00:36:54,700 --> 00:36:57,700
+pel continu espai-temps informàtic?
+
+1180
+00:36:57,700 --> 00:36:59,900
+Ens podríem extreure un principi de disseny
+
+1181
+00:36:59,900 --> 00:37:03,180
+gairebé, no sé, gairebé filosòfic.
+
+1182
+00:37:03,180 --> 00:37:05,300
+Podríem dir que en un xat convencional,
+
+1183
+00:37:05,300 --> 00:37:08,540
+entretingut i pur, on la IA només genera paraules
+
+1184
+00:37:08,540 --> 00:37:11,740
+i respostes oles, retrocedeixen o costa res.
+
+1185
+00:37:11,740 --> 00:37:12,980
+És lliure i barat.
+
+1186
+00:37:12,980 --> 00:37:14,620
+Tu borres el text i no passa res.
+
+1187
+00:37:14,620 --> 00:37:15,540
+Perquè és text.
+
+1188
+00:37:15,540 --> 00:37:15,620
+Però quan parlem, no passa res. Però quan parlem, no passa res.
+
+1189
+00:37:15,620 --> 00:37:15,620
+
+
+1190
+00:37:15,620 --> 00:37:15,620
+
+
+1191
+00:37:15,620 --> 00:37:17,780
+Però quan parlem d'un agent autònom
+
+1192
+00:37:17,780 --> 00:37:21,420
+connectat a sistemes externs com comptes bancaris,
+
+1193
+00:37:21,420 --> 00:37:24,580
+prémer Desfer es converteix en una separació violenta
+
+1194
+00:37:24,580 --> 00:37:26,860
+sobre el curs de l'univers sencer.
+
+1195
+00:37:26,860 --> 00:37:28,940
+I quan fas aquesta acció de Desfer,
+
+1196
+00:37:28,940 --> 00:37:32,740
+la informàtica només ens dona dues opcions inapel·lables.
+
+1197
+00:37:32,740 --> 00:37:36,220
+O bé, el món físic es bifurca màgicament al teu voltant
+
+1198
+00:37:36,220 --> 00:37:39,940
+i es creen dues realitats físiques completament separades?
+
+1199
+00:37:39,940 --> 00:37:42,980
+Cosa que evidentment sabem que és físicament impossible
+
+1200
+00:37:42,980 --> 00:37:44,740
+fora del nostre disc dur local.
+
+1201
+00:37:44,740 --> 00:37:47,700
+Exactament. A no ser que tinguem poders quàntics.
+
+1202
+00:37:47,700 --> 00:37:49,700
+O bé, ens queda la segona opció.
+
+1203
+00:37:49,700 --> 00:37:52,700
+Que el sistema informàtic hagi de donar la cara, ser valent
+
+1204
+00:37:52,700 --> 00:37:56,020
+i confessar-li explícitament a la IA injectant missatges
+
+1205
+00:37:56,020 --> 00:38:00,220
+que els actes del passat han deixat cicatrius inesborrables a la realitat.
+
+1206
+00:38:00,220 --> 00:38:01,820
+L'autor ho deixa molt clar.
+
+1207
+00:38:01,820 --> 00:38:05,140
+Hem d'aturar aquesta obsessió de mantenir el xat bonic i polit
+
+1208
+00:38:05,140 --> 00:38:07,700
+i prioritzar per damunt de tot mantenir-lo verídic.
+
+1209
+00:38:07,700 --> 00:38:12,460
+Ostres! Aquesta idea em dona el peu perfecte per acomiadar-nos.
+
+1210
+00:38:12,460 --> 00:38:14,580
+Però abans us vull deixar els oients que han vingut a la sala.
+
+1211
+00:38:14,580 --> 00:38:15,860
+I ara, per començar,
+
+1212
+00:38:15,860 --> 00:38:18,020
+volem parlar amb els oients amb un pensament,
+
+1213
+00:38:18,020 --> 00:38:21,260
+una imatge que envolta pel cap des que vam començar a preparar això.
+
+1214
+00:38:21,260 --> 00:38:22,780
+Pensem-hi una mica.
+
+1215
+00:38:22,780 --> 00:38:27,820
+Si anem realment cap a un futur on els sistemes informàtics
+
+1216
+00:38:27,820 --> 00:38:31,180
+de les grans empreses han de començar a deixar notes
+
+1217
+00:38:31,180 --> 00:38:35,580
+de reconciliacies sintètiques als nostres assistents diaris.
+
+1218
+00:38:35,580 --> 00:38:36,580
+Mm-hm.
+
+1219
+00:38:36,580 --> 00:38:39,980
+Notes on s'admet que accions fetes amb branques
+
+1220
+00:38:39,980 --> 00:38:44,420
+aparentment mortes del xat continuen sent veritat imperativa
+
+1221
+00:38:44,420 --> 00:38:45,940
+a la realitat externa.
+
+1222
+00:38:45,940 --> 00:38:47,460
+Què visualitzes amb això?
+
+1223
+00:38:47,460 --> 00:38:48,820
+Cap on creus que va?
+
+1224
+00:38:48,820 --> 00:38:53,820
+Doncs que aviat arribarà un punt d'inflexió completament fascinant
+
+1225
+00:38:53,820 --> 00:38:58,220
+on el nostre assistent personal podria acabar discutint amb nosaltres
+
+1226
+00:38:58,220 --> 00:39:01,300
+sobre la naturalesa mateixa de la veritat objectiva.
+
+1227
+00:39:01,300 --> 00:39:02,380
+Imagina't-ho.
+
+1228
+00:39:02,380 --> 00:39:05,980
+Nosaltres intentarem esborrar un missatge de text ràpidament
+
+1229
+00:39:05,980 --> 00:39:08,540
+per amagar que li vam dir una bajanada de matinada
+
+1230
+00:39:08,540 --> 00:39:10,300
+o per arreglar un error absurd.
+
+1231
+00:39:10,300 --> 00:39:13,540
+I la IA, armant-se de raó amb les notes del sistema,
+
+1232
+00:39:13,540 --> 00:39:14,380
+ens respondrà
+
+1233
+00:39:14,380 --> 00:39:15,900
+amb les evidències.
+
+1234
+00:39:15,900 --> 00:39:18,740
+Ens mostrarà la factura del servidor i ens dirà
+
+1235
+00:39:18,740 --> 00:39:21,660
+Mira, maco, pots esborrar-lo de la pantalla del teu mòbil
+
+1236
+00:39:21,660 --> 00:39:24,500
+tant com vulguis, però el bitllet ja està pagat
+
+1237
+00:39:24,500 --> 00:39:28,060
+i tu el vas aprovar personalment en una línia temporal anterior
+
+1238
+00:39:28,060 --> 00:39:29,300
+de fa cinc minuts.
+
+1239
+00:39:29,300 --> 00:39:30,340
+I tindràs raó.
+
+1240
+00:39:30,340 --> 00:39:34,260
+Qui serà, llavors, l'amo de la memòria i de la veritat?
+
+1241
+00:39:34,260 --> 00:39:35,860
+Nosaltres o ells?
+
+1242
+00:39:35,860 --> 00:39:39,220
+Fiqueu-mos això al cap la pròxima vegada que esborreu a cor recuït
+
+1243
+00:39:39,220 --> 00:39:43,500
+a un error molest del vostre historial per fer veure que mai va existir.
+
+1244
+00:39:43,500 --> 00:39:45,300
+Fins a la pròxima Exploració a Fons
+
+1245
+00:39:45,300 --> 00:39:48,900
+i moltíssimes gràcies per submergir-vos en aquesta anàlisi tecnològica
+
+1246
+00:39:48,900 --> 00:39:50,380
+tan intensa amb nosaltres.
+

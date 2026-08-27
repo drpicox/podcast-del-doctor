@@ -263,6 +263,16 @@ EPISODIS = [
         "duration": "34:05",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "educació", "comprensió lectora", "neurociència", "escriptura a mà", "pantalles", "intel·ligència artificial", "generació z", "generació alfa", "exàmens estandarditzats", "audrey van der meer", "maryanne wolf", "coldfusion", "català"]
     },
+    {
+        "num": "025",
+        "fitxer": "025-l-ia-no-pot-desfer-la-realitat.mp3",
+        "identifier": "podcast-del-doctor-025-l-ia-no-pot-desfer-la-realitat",
+        "title": "Episodi 025: L'IA no pot desfer la realitat",
+        "description": "Demanes a l'agent un bitllet per dimarts, t'equivoques, edites el missatge i poses dijous. El xat queda impecable — i al compte hi ha dos càrrecs de 1.000 euros. A partir de «Quan el món no es bifurca», la nota tècnica darrere de Context Inspector, desgranem per què el botó de desfer és una promesa que la interfície no pot complir: el penjat com a laboratori, les quatre categories d'acció (de la lectura inofensiva al rm -rf) i les respostes que la informàtica ja tenia des dels vuitanta — idempotència, retencions, patró Saga i ETags. La idea central: reconciliar no és desfer, és negar-se a oblidar.",
+        "date": "2026-08-27",
+        "duration": "39:50",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "agents autònoms", "llm", "idempotència", "patró saga", "transaccions de compensació", "etag", "http", "model context protocol", "context inspector", "especificacions executables", "arquitectura de software", "català"]
+    },
 ]
 
 

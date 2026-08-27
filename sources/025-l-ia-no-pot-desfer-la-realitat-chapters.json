@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 025: L'IA no pot desfer la realitat",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: el bitllet de 1.000 euros comprat dues vegades" },
+    { "startTime": 195.0, "title": "El penjat com a laboratori: tres maneres de trencar l'estat" },
+    { "startTime": 475.0, "title": "La funció pura: l'estat viatja amagat dins el context" },
+    { "startTime": 570.0, "title": "Memòria KV: saltar de branca costa 74 mil·lisegons" },
+    { "startTime": 766.0, "title": "Les quatre categories: lectura, idempotent, compensable, irreversible" },
+    { "startTime": 1186.0, "title": "Idempotència, retencions i el patró Saga" },
+    { "startTime": 1582.0, "title": "Marcar les portes amb MCP i segellar amb ETags" },
+    { "startTime": 1764.0, "title": "Reconciliació a la bifurcació: negar-se a oblidar" },
+    { "startTime": 2128.0, "title": "Especificacions executables: 36 escenaris que han de compilar" },
+    { "startTime": 2206.0, "title": "Reflexió final: qui és l'amo de la veritat" }
+  ]
+}
