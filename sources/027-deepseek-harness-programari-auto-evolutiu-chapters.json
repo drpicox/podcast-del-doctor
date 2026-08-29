@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 027: El programari que es desmunta sense trencar-se",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: extensions que no es poden desinstal·lar" },
+    { "startTime": 160.8, "title": "Què és un arnès: agent = model + arnès" },
+    { "startTime": 248.1, "title": "Tot és un plugin i el principi «fail closed»" },
+    { "startTime": 396.0, "title": "Efectes reversibles: el LIFO que desfà el rastre" },
+    { "startTime": 505.1, "title": "Coefectes reactius: hibernar en lloc de petar" },
+    { "startTime": 575.6, "title": "Cordis ve de Koishi: quatre anys en producció" },
+    { "startTime": 645.3, "title": "Quatre modes i el 87,9 del Terminal Bench" },
+    { "startTime": 710.8, "title": "Hores punta a Austràlia i el 99% de cache hit" },
+    { "startTime": 837.5, "title": "Programari que s'auto-evoluciona" },
+    { "startTime": 965.8, "title": "Reflexió final: de picar codi a debatre límits" }
+  ]
+}

@@ -283,6 +283,16 @@ EPISODIS = [
         "duration": "13:45",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "webmcp", "model context protocol", "w3c", "intel·ligència artificial", "agents autònoms", "navegador", "chrome", "cloudflare", "api declarativa", "prompt injection", "local-first", "accessibilitat", "desenvolupament web", "català"]
     },
+    {
+        "num": "027",
+        "fitxer": "027-deepseek-harness-programari-auto-evolutiu.mp3",
+        "identifier": "podcast-del-doctor-027-deepseek-harness-programari-auto-evolutiu",
+        "title": "Episodi 027: DeepSeek Harness i el programari auto-evolutiu",
+        "description": "87 de les 100 extensions més populars del Visual Studio Code deixen rastre a la memòria quan les desinstal·les, i ho hem acceptat com a normal. El 13 d'agost de 2026 DeepSeek va publicar el seu arnès d'agents i en 48 hores va fer 95.000 estrelles a GitHub — però a sota hi ha un paper de 88 pàgines amb la Universitat de Pequín: Cordis, i la seva composabilitat espaciotemporal. Desgranem els efectes reversibles en LIFO que retornen el sistema exactament on era, els coefectes reactius que hibernen un connector en lloc de petar, el 87,9 al Terminal-Bench en mode minimalista, el 99% d'encerts a la memòria cau — i el programari que s'escriu els seus propis connectors.",
+        "date": "2026-08-29",
+        "duration": "16:51",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "deepseek", "deepseek harness", "cordis", "arnès d'agent", "agents autònoms", "intel·ligència artificial", "connectors", "plugins", "composabilitat", "efectes reversibles", "koishi", "terminal-bench", "codi obert", "arquitectura de programari", "català"]
+    },
 ]
 
 
