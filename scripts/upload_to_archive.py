@@ -273,6 +273,16 @@ EPISODIS = [
         "duration": "39:50",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "agents autònoms", "llm", "idempotència", "patró saga", "transaccions de compensació", "etag", "http", "model context protocol", "context inspector", "especificacions executables", "arquitectura de software", "català"]
     },
+    {
+        "num": "026",
+        "fitxer": "026-webmcp-la-web-nativa-per-a-ia.mp3",
+        "identifier": "podcast-del-doctor-026-webmcp-la-web-nativa-per-a-ia",
+        "title": "Episodi 026: WebMCP, la web nativa per a la IA",
+        "description": "Quan demanem a un agent que ens compri un bitllet d'avió, l'obliguem a navegar amb els ulls embenats: llegint el DOM d'una pàgina dissenyada per a la psicologia visual humana, trencant-se si un botó es mou dos píxels i inundant la finestra de context de tokens inútils. WebMCP, el borrany del W3C, hi posa remei: amb document.modelContext i dos atributs HTML, un formulari qualsevol esdevé una eina per a la IA. Repassem l'API declarativa de Chrome, per què cal fer-ho al client i no al backend, el pont que Cloudflare injecta a l'extrem, l'humà al bucle contra les prompt injections — i per què podria matar els copilots interns dels SaaS.",
+        "date": "2026-08-29",
+        "duration": "13:45",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "webmcp", "model context protocol", "w3c", "intel·ligència artificial", "agents autònoms", "navegador", "chrome", "cloudflare", "api declarativa", "prompt injection", "local-first", "accessibilitat", "desenvolupament web", "català"]
+    },
 ]
 
 

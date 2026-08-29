@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 026: WebMCP, la web nativa per a la IA",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: la IA navega amb els ulls embenats" },
+    { "startTime": 102.0, "title": "Playwright, el DOM i el cost dels tòquens" },
+    { "startTime": 185.2, "title": "Incís: el WebMCP dels anys 2010 no hi té res a veure" },
+    { "startTime": 227.9, "title": "document.modelContext i l'API declarativa" },
+    { "startTime": 334.3, "title": "Per què al client i no al backend: l'estat viu" },
+    { "startTime": 391.1, "title": "Cloudflare Browser Run i el pont injectat a l'extrem" },
+    { "startTime": 472.9, "title": "Hackathon: modelatge 3D i editors auditables" },
+    { "startTime": 531.7, "title": "Seguretat: humà al bucle, prompt injection i revelació progressiva" },
+    { "startTime": 661.5, "title": "Builder.io: la fi dels copilots interns" },
+    { "startTime": 767.7, "title": "Reflexió final" }
+  ]
+}
