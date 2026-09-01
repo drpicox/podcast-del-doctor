@@ -50,7 +50,7 @@ Què passa realment quan executem Ollama al nostre ordinador? En aquest episodi 
 
 - [Contingut generat amb Google NotebookLM](https://notebooklm.google.com/notebook/47279983-616d-4704-b3b3-15223b2f726b) - Notebook amb les fonts originals
 - [Documentació oficial de l'API d'Ollama](https://github.com/ollama/ollama/blob/main/docs/api.md) - Referència completa
-- Transcripció automàtica (`/podcast-del-doctor/sources/001-api-ollama-per-dins-transcripcio.txt`) - Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/001-api-ollama-per-dins-transcripcio.txt) - Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

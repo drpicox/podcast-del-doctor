@@ -68,7 +68,7 @@ Aquest episodi enllaça directament amb l'[Episodi 012: L'especificació és el 
 - [Beyond RAG: How Google's Open Knowledge Format (OKF) is Replacing the Vector Database](https://medium.com/the-code-frontier/beyond-rag-how-googles-open-knowledge-format-okf-is-replacing-the-vector-database-2ffb5bc2f8eb) — The Code Frontier (Medium). Els límits del RAG tradicional i l'argument a favor d'una recuperació determinista
 - [Finally, an Open Standard for the Karpathy LLM Wiki is HERE](https://www.youtube.com/watch?v=T33iI6izAKw) — Cole Medin (YouTube). L'OKF com a formalització del patró LLM Wiki i el seu encaix amb MCP, Agent Skills i llms.txt
 - [Especificació OKF a GitHub](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf) — GoogleCloudPlatform/knowledge-catalog. Especificació completa, bundles de mostra i visualitzador HTML estàtic
-- Transcripció automàtica (`/podcast-del-doctor/sources/016-com-okf-ordena-la-ia-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/016-com-okf-ordena-la-ia-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

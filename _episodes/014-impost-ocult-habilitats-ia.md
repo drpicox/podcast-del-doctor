@@ -45,7 +45,7 @@ Aquesta càpsula entronca amb un fil que ja hem estirat abans al podcast. A l'[E
 ## Fonts
 
 - [How AI Impacts Skill Formation (arXiv:2601.20245)](https://arxiv.org/abs/2601.20245) — Judy Hanwen Shen i Alex Tamkin. Experiments aleatoritzats sobre l'aprenentatge d'una llibreria asíncrona amb i sense IA, patrons d'interacció i efectes sobre comprensió, lectura de codi i depuració
-- Transcripció automàtica (`/podcast-del-doctor/sources/014-impost-ocult-habilitats-ia-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/014-impost-ocult-habilitats-ia-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

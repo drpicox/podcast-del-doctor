@@ -73,7 +73,7 @@ A partir del documental **«Why Kids Can't Read Anymore»** del canal ColdFusion
 ## Fonts
 
 - [Why Kids Can't Read Anymore](https://www.youtube.com/watch?v=tj7ckn8WhEM) — Documental del canal ColdFusion (Dagogo Altraide), eix central de l'episodi
-- Transcripció automàtica (`/podcast-del-doctor/sources/024-per-que-les-pantalles-atrofien-la-ment-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3), amb correcció posterior de noms propis
+- [Transcripció automàtica](/podcast-del-doctor/sources/024-per-que-les-pantalles-atrofien-la-ment-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3), amb correcció posterior de noms propis
 
 ---
 

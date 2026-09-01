@@ -54,7 +54,7 @@ L'ortografia anglesa moderna és, en essència, un **fòssil de la pronunciació
 ## Fonts
 
 - [Contingut generat amb Google NotebookLM](https://notebooklm.google.com/notebook/c03095a0-8050-4ace-8909-d0488a8f563e) — Notebook amb les fonts acadèmiques
-- [Transcripció automàtica](sources/002-origen-caos-ortografic-angles-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/002-origen-caos-ortografic-angles-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

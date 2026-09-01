@@ -90,7 +90,7 @@ Aquest episodi tanca el díptic que obre l'[Episodi 017: La IA que s'escapa per 
 - [What makes a harness a harness: necessary and sufficient conditions for an agent harness](https://arxiv.org/abs/2606.10106) — Sanderson Oliveira de Macedo, juny de 2026. Els quatre pilars, contrastats amb sis sistemes reals
 - [Agent harness](https://en.wikipedia.org/wiki/Agent_harness) — Viquipèdia. La fórmula Agent = Model + Arnès i la genealogia del terme
 - [awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) — Recopilatori de recursos, primitives de disseny, plantilles i entorns aïllats
-- Transcripció automàtica (`/podcast-del-doctor/sources/018-l-arnes-d-agent-i-el-control-real-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/018-l-arnes-d-agent-i-el-control-real-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

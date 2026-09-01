@@ -118,7 +118,7 @@ Aquest episodi surt d'un document de treball inèdit, **«Quan el món no es bif
 - [WebArena](https://arxiv.org/abs/2307.13854) — Zhou et al., ICLR 2024
 - [Model Context Protocol — Tools (2025-03-26)](https://modelcontextprotocol.io/specification/2025-03-26/server/tools) — anotacions d'eina
 - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) — Anthropic, 2024
-- Transcripció automàtica (`/podcast-del-doctor/sources/025-l-ia-no-pot-desfer-la-realitat-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/025-l-ia-no-pot-desfer-la-realitat-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

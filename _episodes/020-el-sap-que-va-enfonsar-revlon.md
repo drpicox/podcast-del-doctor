@@ -60,7 +60,7 @@ Quan una empresa llegendària s'enfonsa, busquem un meteorit: una pandèmia, una
 ## Fonts
 
 - [REVLON: el DESASTRE SAP que la QUEBRÓ — Jorge Monzonís](https://www.youtube.com/watch?v=Q1wZ5xQM6rU) — Vídeo documental sobre l'ecosistema SAP, eix central de l'episodi
-- Transcripció automàtica (`/podcast-del-doctor/sources/020-el-sap-que-va-enfonsar-revlon-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3) i corregida després en els noms propis i termes tècnics
+- [Transcripció automàtica](/podcast-del-doctor/sources/020-el-sap-que-va-enfonsar-revlon-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3) i corregida després en els noms propis i termes tècnics
 
 ---
 

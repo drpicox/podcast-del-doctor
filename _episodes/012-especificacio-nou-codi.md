@@ -56,7 +56,7 @@ Aquest episodi entronca amb la sèrie sobre treballar amb IA del podcast: la dis
 ## Fonts
 
 - [Automating Agentic AI Success Using This SECRET Workflow — Modern Software Engineering (Dave Farley)](https://www.youtube.com/watch?v=hlxeiSzde5A) — Conversa amb Stefan Ellisdorfer i Christian Gassel sobre desenvolupament dirigit per especificacions amb IA agèntica
-- Transcripció automàtica (`/podcast-del-doctor/sources/012-especificacio-nou-codi-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/012-especificacio-nou-codi-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

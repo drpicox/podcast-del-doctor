@@ -56,7 +56,7 @@ Aquest episodi és la versió llarga i en català de la càpsula de l'[Episodi 0
 ## Fonts
 
 - [How AI Impacts Skill Formation (arXiv:2601.20245)](https://arxiv.org/abs/2601.20245) — Judy Hanwen Shen i Alex Tamkin. Assaig aleatoritzat amb 52 programadors aprenent la llibreria asíncrona Trio amb i sense assistència d'IA: efectes sobre comprensió conceptual, lectura de codi i depuració, i els sis patrons d'interacció detectats
-- Transcripció automàtica (`/podcast-del-doctor/sources/015-ia-atrofia-les-habilitats-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/015-ia-atrofia-les-habilitats-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

@@ -105,7 +105,7 @@ Aquest episodi va d'això: de la infraestructura que està naixent perquè aques
 - [DoltHub Blog](https://www.dolthub.com/blog/) — L'experiment del mode sense límits i el funcionament de Dolt
 - [Steve Yegge — blog](https://steve-yegge.blogspot.com/) — Assajos del creador de Beads i Gas Town
 - [Technology Radar — Thoughtworks](https://www.thoughtworks.com/radar) — Context del panorama d'orquestració multiagent
-- Transcripció automàtica (`/podcast-del-doctor/sources/019-fabriques-d-agents-que-programen-sols-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3) i corregida després en els noms propis i termes tècnics
+- [Transcripció automàtica](/podcast-del-doctor/sources/019-fabriques-d-agents-que-programen-sols-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3) i corregida després en els noms propis i termes tècnics
 
 ---
 

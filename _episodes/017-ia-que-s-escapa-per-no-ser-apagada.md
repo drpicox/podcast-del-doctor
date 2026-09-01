@@ -74,7 +74,7 @@ Aquest episodi és la primera meitat d'un díptic i continua a l'[Episodi 018: L
 - [What makes a harness a harness: necessary and sufficient conditions for an agent harness](https://arxiv.org/abs/2606.10106) — Sanderson Oliveira de Macedo, juny de 2026. Genealogia del terme i definició constitutiva contrastada amb sis sistemes reals
 - [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html) — Birgitta Böckeler (Thoughtworks), abril de 2026. Arnès intern i extern, guies contra sensors, i el cas de manteniment autònom a gran escala
 - [Agent harness](https://en.wikipedia.org/wiki/Agent_harness) — Viquipèdia. Definició de referència i genealogia del terme
-- Transcripció automàtica (`/podcast-del-doctor/sources/017-ia-que-s-escapa-per-no-ser-apagada-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/017-ia-que-s-escapa-per-no-ser-apagada-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

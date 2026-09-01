@@ -25,7 +25,7 @@ title: "Episodi 007: Com domar el geni trampós"
 
 La intel·ligència artificial ha generat unes expectatives enormes: com si fregar la pantalla del mòbil invoqués un ésser còsmic infal·lible. Però la realitat és molt diferent. En lloc d'un déu omniscient, el que tenim és un **geni dels contes antics**: immensament poderós, però trampós, descuidat i perillosament literal. Fa exactament allò que se li demana, que gairebé mai és el que realment necessites.
 
-En aquest episodi explorem "El geni trampós", una adaptació del document tècnic *Augmented Coding Patterns* de la investigadora **Lada Kessler** (Calgary Software Crafters, 2025), pensada per a tots els públics. Una guia que transforma la frustració diària amb la IA en domini real. Vegeu també l'[Episodi 004: Domar la IA per programar amb precisió](/podcast-del-doctor/_episodes/004-domar-ia-precisio), que aborda els mateixos patrons de Kessler aplicats específicament al món del desenvolupament de programari.
+En aquest episodi explorem "El geni trampós", una adaptació del document tècnic *Augmented Coding Patterns* de la investigadora **Lada Kessler** (Calgary Software Crafters, 2025), pensada per a tots els públics. Una guia que transforma la frustració diària amb la IA en domini real. Vegeu també l'[Episodi 004: Domar la IA per programar amb precisió](/podcast-del-doctor/episodi/004-domar-ia-precisio), que aborda els mateixos patrons de Kessler aplicats específicament al món del desenvolupament de programari.
 
 ## Temes tractats
 
@@ -48,7 +48,7 @@ En aquest episodi explorem "El geni trampós", una adaptació del document tècn
 ## Fonts
 
 - El geni trampós: guia pràctica per treballar amb intel·ligència artificial (<https://notebooklm.google.com/notebook/17eec765-8805-4458-9e78-04e52626b2f5>) — Adaptació accessible dels patrons Augmented Coding de Lada Kessler
-- Transcripció automàtica (`/podcast-del-doctor/sources/007-com-domar-el-geni-trampos-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/007-com-domar-el-geni-trampos-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

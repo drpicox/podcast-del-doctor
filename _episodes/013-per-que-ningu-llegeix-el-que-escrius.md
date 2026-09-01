@@ -64,7 +64,7 @@ Aquest episodi connecta amb un fil recurrent del podcast: que l'avantatge compet
 
 - [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM) — Conferència de Larry McEnerney al Leadership Lab de la Universitat de Chicago sobre per què els experts escriuen malament i com el valor per al lector ho governa tot
 - [LEADERSHIP LAB: Writing Beyond the Academy](https://www.youtube.com/watch?v=aFwVf5a3pZM) — Continuació centrada en l'escriptura professional fora de l'acadèmia: codis d'inestabilitat, focus i estrès, i adaptació a la comunitat lectora
-- Transcripció automàtica (`/podcast-del-doctor/sources/013-per-que-ningu-llegeix-el-que-escrius-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/013-per-que-ningu-llegeix-el-que-escrius-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

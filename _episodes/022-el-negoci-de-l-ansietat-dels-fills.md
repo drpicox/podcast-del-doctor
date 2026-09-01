@@ -53,7 +53,7 @@ Si la societat tractés la infància com una empresa, l'hauríem de declarar en 
 ## Fonts
 
 - [ESPECIAL: la LUCHA por nuestros HIJOS — DECODE T2 Ep 92](https://www.youtube.com/watch?v=HmH_8afAz08) — Vídeo de Dani Sánchez-Crespo (DaniNovarama), eix central de l'episodi
-- Transcripció automàtica (`/podcast-del-doctor/sources/022-el-negoci-de-l-ansietat-dels-fills-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3) i corregida després en els noms propis i termes tècnics
+- [Transcripció automàtica](/podcast-del-doctor/sources/022-el-negoci-de-l-ansietat-dels-fills-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3) i corregida després en els noms propis i termes tècnics
 
 ---
 

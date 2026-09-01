@@ -54,7 +54,7 @@ El nostre cervell biològic entén l'espai tridimensional en mil·lisegons, gast
 
 - [NotebookLM: Com COLMAP reconstrueix el món en 3D](https://notebooklm.google.com/notebook/890be841-3cb2-4bb4-87c9-15e6c9d4d7c6) — Notebook de Google NotebookLM amb les fonts originals del contingut
 - [COLMAP Explained - Everypoint (YouTube)](https://www.youtube.com/watch?v=EdIuDLicU0c) — Vídeo detallat del canal Everypoint que serveix de base per a l'episodi
-- Transcripció automàtica (`/podcast-del-doctor/sources/008-colmap-reconstrueix-mon-3d-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/008-colmap-reconstrueix-mon-3d-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

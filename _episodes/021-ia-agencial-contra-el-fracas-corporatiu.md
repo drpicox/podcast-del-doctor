@@ -67,7 +67,7 @@ Entre 35.000 i 40.000 milions de dòlars invertits en intel·ligència artificia
 - [Enterprise AI Rollout Failures: Causes and Case Studies — IntuitionLabs](https://intuitionlabs.ai/articles/enterprise-ai-rollout-failures) — Informe amb totes les xifres i casos d'estudi de la primera meitat de l'episodi
 - [Potential Role of Agentic Artificial Intelligence in Toxicologic Pathology (arXiv:2602.06980)](https://arxiv.org/abs/2602.06980) — Llibre blanc de la Society of Toxicologic Pathology sobre IA agencial amb el patòleg al centre
 - [Why 88 to 95 Percent of Enterprise AI Pilots Never Reach Production — SoftwareSeni](https://www.softwareseni.com/why-88-to-95-percent-of-enterprise-ai-pilots-never-reach-production/) — Les sis mesures del fracàs i els tres bloquejadors de producció
-- Transcripció automàtica (`/podcast-del-doctor/sources/021-ia-agencial-contra-el-fracas-corporatiu-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3) i corregida després en els noms propis i termes tècnics
+- [Transcripció automàtica](/podcast-del-doctor/sources/021-ia-agencial-contra-el-fracas-corporatiu-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3) i corregida després en els noms propis i termes tècnics
 
 ---
 

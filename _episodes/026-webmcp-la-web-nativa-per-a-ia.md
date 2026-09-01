@@ -98,7 +98,7 @@ Demanar a una intel·ligència artificial que ens compri un bitllet d'avió és,
 - [Give any website a WebMCP interface](https://blog.cloudflare.com/webmcp/) — Cloudflare: el pont injectat a l'extrem amb HTMLRewriter
 - [WebMCP-org (MCP-B)](https://github.com/WebMCP-org) — El projecte de codi obert i polyfill d'origen
 - [WebMCP Tutorial](https://www.datacamp.com/tutorial/webmcp-tutorial) — DataCamp: guia pràctica de l'API declarativa i la imperativa
-- Transcripció automàtica (`/podcast-del-doctor/sources/026-webmcp-la-web-nativa-per-a-ia-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/026-webmcp-la-web-nativa-per-a-ia-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

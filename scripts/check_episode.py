@@ -311,6 +311,17 @@ def verifica(slug, fins_pas, remot, r, mp3_opcional=False):
 
         if re.search(r"/episodis/\d{3}-", body):
             r.error("6", "El body té enllaços amb /episodis/ (plural); el permalink és /episodi/ (singular)")
+        if f"{BASEURL}/_episodes/" in body:
+            r.error("6", f"El body enllaça {BASEURL}/_episodes/...; _episodes no es publica, fes servir {BASEURL}/episodi/")
+        enllacos_relatius = [
+            u for _, u in re.findall(r"\[([^\]]*)\]\(([^)]+)\)", body)
+            if not u.startswith(("http://", "https://", "#", "mailto:", BASEURL))
+        ]
+        if enllacos_relatius:
+            r.error("6", f"Enllaços relatius al body (s'han de resoldre amb {BASEURL}/...): {', '.join(enllacos_relatius)}")
+        camins_en_codi = re.findall(rf"`({BASEURL}/(?:sources|assets)/[^`]+)`", body)
+        if camins_en_codi:
+            r.error("6", f"Camins interns escrits com a codi i per tant no clicables: {', '.join(camins_en_codi)}")
         enllacos_interns_malament = []
         for desti in re.findall(rf"{BASEURL}/episodi/(\d{{3}}-[a-z0-9-]+)", body):
             if not os.path.isfile(os.path.join(ROOT, "_episodes", f"{desti}.md")):

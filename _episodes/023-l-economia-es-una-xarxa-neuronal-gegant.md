@@ -65,7 +65,7 @@ Imagina't dins d'un cotxe gegantí on el volant el controlen milions de mans dim
 ## Fonts
 
 - [Are markets a type of neural network and what risks flow from this?](https://www.youtube.com/watch?v=5EHm3AUIerc) — Conferència de Peter Eckersley al canal de la University of Melbourne (7 de setembre de 2022), eix central de l'episodi
-- Transcripció automàtica (`/podcast-del-doctor/sources/023-l-economia-es-una-xarxa-neuronal-gegant-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/023-l-economia-es-una-xarxa-neuronal-gegant-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

@@ -50,7 +50,7 @@ Aquest episodi connecta amb reflexions anteriors sobre l'impacte de la IA en la 
 ## Fonts
 
 - [The AI Layoff Trap — Brett Hemenway Falk i Gerry Tsoukalas](https://arxiv.org/pdf/2603.20617) — Paper d'investigació (arXiv:2603.20617, març 2026) que modela l'externalitat de la demanda i proposa l'impost pigouvià sobre l'automatització
-- Transcripció automàtica (`/podcast-del-doctor/sources/011-parany-acomiadaments-ia-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/011-parany-acomiadaments-ia-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 

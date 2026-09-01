@@ -122,7 +122,7 @@ El **13 d'agost de 2026**, DeepSeek va publicar en codi obert el seu arnès d'ag
 - [El blueprint de l'autoevolució (Black Whale)](https://eu.36kr.com/en/p/3938795963137411) — 36Kr
 - [Physical AI & Embodied AI Daily News](https://humanoid.press/artificial-intelligence/) — humanoid.press: context de llançaments de l'agost de 2026
 - [What is Cordis?](https://youtu.be/YS_POteiVc4) — Standarity: explicació en vídeo del micronucli
-- Transcripció automàtica (`/podcast-del-doctor/sources/027-deepseek-harness-programari-auto-evolutiu-transcripcio.txt`) — Generada amb OpenAI Whisper (model large-v3)
+- [Transcripció automàtica](/podcast-del-doctor/sources/027-deepseek-harness-programari-auto-evolutiu-transcripcio.txt) — Generada amb OpenAI Whisper (model large-v3)
 
 ---
 
