@@ -131,7 +131,6 @@ python scripts/upload_to_archive.py --episodi XXX --nomes-cover # un de sol
    nostre thumbnail (`XXX-nom-episodi.png`): la forma d'ona. Comprovar només que
    el fitxer existeix dona fals positiu — cal exigir `source: original` i que la
    mida coincideixi amb la del fitxer local.
-
 3. Just després de pujar, l'API de metadades **triga una estona a llistar els
    fitxers**. Una sola comprovació als 30 s donava fals negatiu i l'script
    esperava tot el *derive* (~15 min) per re-pujar una caràtula que ja hi era.

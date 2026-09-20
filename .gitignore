@@ -40,3 +40,6 @@ Thumbs.db
 
 # Audio files migrated to archive.org (keep local backup)
 episodes/
+
+# Entorn virtual de Python
+.venv/
