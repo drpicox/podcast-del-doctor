@@ -386,10 +386,46 @@ def cover_arribada(identifier, nom_fitxer, mida_local=None):
     return False
 
 
-def esperar_sense_tasques(identifier, timeout=900, interval=30):
+def esperes_creixents(timeout, inicial=15, maxim=240):
+    """Genera esperes que es dupliquen: 15, 30, 60, 120, 240, 240… segons.
+
+    S'atura quan la suma arribaria a passar de `timeout`. Sondejar archive.org
+    a interval fix i curt durant un quart d'hora sembla un atac; amb esperes
+    creixents els casos ràpids es resolen de seguida i els lents fan quatre
+    peticions comptades.
+    """
+    espera, total = inicial, 0
+    while total + espera <= timeout:
+        yield espera
+        total += espera
+        espera = min(espera * 2, maxim)
+
+
+def _format_espera(segons):
+    return f"{segons}s" if segons < 60 else f"{segons // 60} min"
+
+
+def esperar_cover(identifier, nom_fitxer, mida_local, timeout=480):
+    """Sondeja fins que la nostra caràtula surt a l'API de metadades.
+
+    Just després de pujar, l'API triga una estona a llistar els fitxers. Una
+    sola comprovació als 30 s donava fals negatiu: l'script es pensava que la
+    caràtula s'havia perdut, esperava tot el derive (~15 min) i la tornava a
+    pujar sense necessitat (va passar amb el 028, el 2026-09-20).
+    Amb timeout=480 fa cinc comprovacions: als 15 s, 45 s, 1:45, 3:45 i 7:45.
+    """
+    for espera in esperes_creixents(timeout):
+        print(f"      ⏳ esperant {_format_espera(espera)} abans de comprovar…")
+        time.sleep(espera)
+        if cover_arribada(identifier, nom_fitxer, mida_local):
+            return True
+    return False
+
+
+def esperar_sense_tasques(identifier, timeout=900):
     """Espera que l'ítem no tingui tasques en curs (derive, archive...)."""
-    limit = time.time() + timeout
-    while time.time() < limit:
+    esperes = esperes_creixents(timeout)
+    while True:
         try:
             md = requests.get(f"https://archive.org/metadata/{identifier}",
                               timeout=30).json()
@@ -397,12 +433,14 @@ def esperar_sense_tasques(identifier, timeout=900, interval=30):
                 return True
         except (requests.RequestException, ValueError):
             pass
-        print(f"      ⏳ tasques en curs a l'ítem, esperant {interval}s…")
-        time.sleep(interval)
-    return False
+        espera = next(esperes, None)
+        if espera is None:
+            return False
+        print(f"      ⏳ tasques en curs a l'ítem, esperant {_format_espera(espera)}…")
+        time.sleep(espera)
 
 
-def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=90):
+def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=480):
     """Puja la caràtula a un ítem existent i verifica que hi ha arribat."""
 
     identifier = episodi['identifier']
@@ -457,8 +495,7 @@ def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=90):
 
         # Verificació real: el codi 200 no és garantia
         print(f"      🔎 verificant que el fitxer hi és…")
-        time.sleep(espera)
-        if cover_arribada(identifier, cover.name, mida):
+        if esperar_cover(identifier, cover.name, mida, timeout=espera):
             print(f"   ✅ Caràtula confirmada a archive.org!")
             print(f"   🌐 https://archive.org/details/{identifier}")
             return True
@@ -557,8 +594,7 @@ def pujar_episodi(episodi, episodes_dir, dry_run=False, project_dir=None,
         # cover_arribada). Cal verificar-ho i reintentar-ho a part.
         if cover:
             print(f"   🔎 verificant la caràtula…")
-            time.sleep(30)
-            if cover_arribada(identifier, cover.name, cover.stat().st_size):
+            if esperar_cover(identifier, cover.name, cover.stat().st_size):
                 print(f"   ✅ Caràtula confirmada!")
             else:
                 print(f"   ⚠️  La caràtula no ha arribat — reintentant a part")
@@ -604,6 +640,13 @@ def actualitzar_markdown(episodi, url, episodes_md_dir):
 
 def main():
     import argparse
+
+    # Sortida línia a línia encara que vagi a un fitxer o a una canonada:
+    # si no, el progrés de les esperes no es veu fins que l'script acaba.
+    try:
+        sys.stdout.reconfigure(line_buffering=True)
+    except AttributeError:
+        pass
     
     parser = argparse.ArgumentParser(description='Puja episodis a archive.org')
     parser.add_argument('--dry-run', action='store_true', 

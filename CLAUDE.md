@@ -123,7 +123,7 @@ python scripts/upload_to_archive.py --nomes-cover              # tots
 python scripts/upload_to_archive.py --episodi XXX --nomes-cover # un de sol
 ```
 
-⚠️ **Dos paranys d'archive.org** (ja resolts a l'script, però convé saber-los):
+⚠️ **Tres paranys d'archive.org** (ja resolts a l'script, però convé saber-los):
 1. `upload()` pot retornar **200 i descartar el fitxer en silenci** si l'ítem té
    un *derive* en curs. Per això l'script espera que no hi hagi tasques pendents
    i després **verifica** amb l'API de metadades.
@@ -131,6 +131,12 @@ python scripts/upload_to_archive.py --episodi XXX --nomes-cover # un de sol
    nostre thumbnail (`XXX-nom-episodi.png`): la forma d'ona. Comprovar només que
    el fitxer existeix dona fals positiu — cal exigir `source: original` i que la
    mida coincideixi amb la del fitxer local.
+
+3. Just després de pujar, l'API de metadades **triga una estona a llistar els
+   fitxers**. Una sola comprovació als 30 s donava fals negatiu i l'script
+   esperava tot el *derive* (~15 min) per re-pujar una caràtula que ja hi era.
+   Ara sondeja amb **esperes creixents** (15 s, 30 s, 1, 2, 4 min): els casos
+   ràpids es resolen de seguida i mai es bombardeja archive.org a interval fix.
 
 Un cop pujada la caràtula, archive.org ha de refer el *derive* per regenerar
 `__ia_thumb.jpg`, que és la imatge que surt als llistats. Pot trigar una estona.
