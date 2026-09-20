@@ -1,0 +1,3368 @@
+1
+00:00:00,000 --> 00:00:05,520
+Doncs, quan parlem d'un diagnòstic, ja sigui en medicina o en enginyeria,
+
+2
+00:00:06,080 --> 00:00:10,960
+sempre hi ha aquesta expectativa gairebé innegociable de tenir una precisió absoluta, oi?
+
+3
+00:00:11,400 --> 00:00:11,880
+Exacte.
+
+4
+00:00:12,060 --> 00:00:17,840
+O sigui, si hi ha un os trencat, mires la radiografia, veus una línia blanca irregular
+
+5
+00:00:17,840 --> 00:00:20,640
+i el metge et diu, mira, aquí està la fractura.
+
+6
+00:00:21,240 --> 00:00:22,480
+Diagnòstic fet al moment.
+
+7
+00:00:22,660 --> 00:00:23,780
+Clar, és molt clar.
+
+8
+00:00:24,100 --> 00:00:28,280
+És un sistema totalment binari, ja m'entens? Trencat o no trencat.
+
+9
+00:00:28,280 --> 00:00:35,100
+I això és tremendament reconfortant perquè et permet categoritzar la realitat d'una manera molt neta, molt visual.
+
+10
+00:00:35,480 --> 00:00:41,220
+I aquesta necessitat de claretat és justament el que sovint intentem aplicar a la història.
+
+11
+00:00:41,720 --> 00:00:44,440
+Vull dir, volem dates de caducitat per als imperis.
+
+12
+00:00:44,760 --> 00:00:45,520
+Sí, totalment.
+
+13
+00:00:45,660 --> 00:00:50,660
+Volem un moment superprecís on poder assenyalar el calendari i dir, mira, aquí és on tot es va ensorrar.
+
+14
+00:00:51,080 --> 00:00:53,320
+Però la història no funciona així, clar.
+
+15
+00:00:53,320 --> 00:00:57,820
+I tant que no, quan entrem en l'estudi del col·lapse de les grans civilitzacions,
+
+16
+00:00:58,280 --> 00:01:04,520
+aquesta màquina de rei gecs metafòrica, doncs, es pediu de manera espectacular.
+
+17
+00:01:05,220 --> 00:01:09,180
+El panorama es torna tèrbol, sense línies divisòries clares.
+
+18
+00:01:09,500 --> 00:01:16,940
+I això passa especialment si posem el focus en un dels canvis sísmics més colossals de l'experiència humana,
+
+19
+00:01:17,160 --> 00:01:20,040
+que és la transició de l'edat antiga a l'edat mitjana.
+
+20
+00:01:20,140 --> 00:01:23,660
+I aquesta és justament la missió que tenim per a l'anàlisi a fons d'avui.
+
+21
+00:01:23,820 --> 00:01:27,920
+Per a qui ens escolta, tenim sobre la taula una col·lecció monumental,
+
+22
+00:01:28,280 --> 00:01:33,560
+fons històriques, enciclopèdies, textos acadèmics, cròniques d'època...
+
+23
+00:01:33,560 --> 00:01:34,860
+De unido, de material.
+
+24
+00:01:35,060 --> 00:01:35,840
+Sí, sí, brutal.
+
+25
+00:01:36,360 --> 00:01:42,720
+Tot això per intentar desxifrar què passa realment a les entranyes d'una superpotència quan aquesta es col·lapsa.
+
+26
+00:01:43,140 --> 00:01:48,480
+Així que, d'acord, desgranem això perquè els llibres de text sempre es comença amb una fita superdramàtica,
+
+27
+00:01:48,860 --> 00:01:51,620
+que és l'any 476 després de Cris.
+
+28
+00:01:52,140 --> 00:01:53,020
+La famosa data.
+
+29
+00:01:53,340 --> 00:01:53,820
+Exacte.
+
+30
+00:01:53,820 --> 00:01:56,860
+La famosa caiguda de l'imperi romà d'Occident,
+
+31
+00:01:56,860 --> 00:02:04,020
+on l'últim emperador Rómul Augustul és deposat per Odoacre, que era un líder dels èruls.
+
+32
+00:02:04,540 --> 00:02:10,040
+Però repassant tota aquesta documentació, queda claríssim que l'edat mitjana no va ser en absolut
+
+33
+00:02:10,040 --> 00:02:16,040
+aquell forat negre de foscor i ignorància que, bé, que la cultura popular sempre ens ha venut.
+
+34
+00:02:16,180 --> 00:02:17,500
+No, ni de bon tros.
+
+35
+00:02:17,640 --> 00:02:22,140
+Va ser més aviat un reciclatge fascinant, fins i tot gairebé desesperat,
+
+36
+00:02:22,140 --> 00:02:26,540
+del maquinari i el programari romans per part d'unes civilitzacions germàniques,
+
+37
+00:02:26,860 --> 00:02:28,440
+de creació molt recent.
+
+38
+00:02:28,700 --> 00:02:33,300
+És que el concepte de reciclatge és fonamental aquí per entendre tot el mecanisme del col·lapse.
+
+39
+00:02:33,940 --> 00:02:37,100
+Aquesta desintegració no es produeix per un cataclisme d'un sol dia.
+
+40
+00:02:37,220 --> 00:02:37,420
+Clar.
+
+41
+00:02:37,680 --> 00:02:43,640
+Per entendre el com i el tarquer, ens hem de fixar en la pressió migratòria a les fronteres.
+
+42
+00:02:44,180 --> 00:02:47,580
+O sigui, allò era com una olla a pressió a punt d'esclatar.
+
+43
+00:02:48,240 --> 00:02:54,120
+Tenim un rafadament climàtic molt sever que destrueix les collites a l'Àsia Central i a l'Europa de l'Est.
+
+44
+00:02:54,520 --> 00:02:55,160
+Uau, clar.
+
+45
+00:02:55,480 --> 00:02:56,140
+Efecta domino.
+
+46
+00:02:56,540 --> 00:02:56,840
+Exacte.
+
+47
+00:02:56,860 --> 00:02:57,180
+Exacte.
+
+48
+00:02:57,580 --> 00:03:00,100
+Això posa milions de persones en moviment.
+
+49
+00:03:00,720 --> 00:03:04,500
+I el detonant definitiu, l'element que realment fa saltar la vàlvula,
+
+50
+00:03:04,980 --> 00:03:06,460
+és l'avanç imparable dels uns.
+
+51
+00:03:06,860 --> 00:03:07,400
+Els uns.
+
+52
+00:03:07,920 --> 00:03:10,540
+L'imperi nomadadàtil, el famós Assot de Déu?
+
+53
+00:03:10,980 --> 00:03:11,560
+El mateix.
+
+54
+00:03:12,060 --> 00:03:15,160
+O sigui, estem parlant d'un poble de genets de les estepes
+
+55
+00:03:15,160 --> 00:03:18,740
+que utilitzava la guerra psicològica i una mobilitat extrema
+
+56
+00:03:18,740 --> 00:03:21,480
+amb una eficàcia absolutament terrorífica.
+
+57
+00:03:22,260 --> 00:03:25,240
+L'arribada dels uns genera una onada de pànic tan gran
+
+58
+00:03:25,240 --> 00:03:26,540
+que obliga desenes de tribunals a fer-se enrere.
+
+59
+00:03:26,540 --> 00:03:27,860
+I a llançar-se massivament contra els líbits de tribus germàniques...
+
+60
+00:03:27,860 --> 00:03:29,720
+Com els visigots, els francs...
+
+61
+00:03:29,720 --> 00:03:31,160
+Sí, i els estrogots també.
+
+62
+00:03:31,820 --> 00:03:34,280
+Els obliga a abandonar les seves terres ancestrals
+
+63
+00:03:34,280 --> 00:03:37,460
+i a llançar-se massivament contra els líbits de l'imperi romà.
+
+64
+00:03:37,500 --> 00:03:38,280
+Buscant refugi?
+
+65
+00:03:38,540 --> 00:03:40,880
+Clar, és que aquest és un mecanisme clau.
+
+66
+00:03:41,460 --> 00:03:44,960
+Al principi, aquests pobles no tenien cap intenció d'enderrocar Roma.
+
+67
+00:03:45,440 --> 00:03:47,880
+Eren bàsicament refugiats climàtics i bèl·lics
+
+68
+00:03:47,880 --> 00:03:49,980
+buscant protecció darrere del mur romà.
+
+69
+00:03:50,280 --> 00:03:51,820
+I Roma com reacciona a això?
+
+70
+00:03:52,160 --> 00:03:55,820
+Doncs Roma, que patia una manca crònica de soldats i recursos...
+
+71
+00:03:56,540 --> 00:03:59,060
+...als comença a contractar com a federats.
+
+72
+00:03:59,700 --> 00:04:02,340
+És a dir, externalitzen la seguretat de la frontera
+
+73
+00:04:02,340 --> 00:04:05,080
+a aquells mateixos immigrants armats germànics.
+
+74
+00:04:05,300 --> 00:04:06,600
+O sigui, a veure si ho entenc.
+
+75
+00:04:07,100 --> 00:04:10,540
+Això és com externalitzar la seguretat del teu banc
+
+76
+00:04:10,540 --> 00:04:12,060
+a una banda armada independent
+
+77
+00:04:12,060 --> 00:04:16,380
+i esperar que algun dia no s'adonin que ells tenen totes les armes
+
+78
+00:04:16,380 --> 00:04:18,340
+i tu només tens els llibres de comptabilitat?
+
+79
+00:04:18,520 --> 00:04:19,940
+És una analogia perfecta.
+
+80
+00:04:20,480 --> 00:04:22,780
+És una receta infal·lible per al desastre intern,
+
+81
+00:04:23,160 --> 00:04:25,040
+que de fet és precisament el que acaba passant.
+
+82
+00:04:25,560 --> 00:04:26,520
+Els federats germànics,
+
+83
+00:04:26,540 --> 00:04:29,580
+s'adonen de pressa que la maquinària estatal romana
+
+84
+00:04:29,580 --> 00:04:31,220
+està buida de poder real...
+
+85
+00:04:31,220 --> 00:04:32,280
+I prenen el control?
+
+86
+00:04:32,580 --> 00:04:34,420
+Clar, passen de ser guardions
+
+87
+00:04:34,420 --> 00:04:36,960
+a ser els amos absoluts de les províncies.
+
+88
+00:04:37,140 --> 00:04:37,580
+Ostres!
+
+89
+00:04:38,160 --> 00:04:39,500
+Doncs per aterrar aquesta idea,
+
+90
+00:04:39,700 --> 00:04:42,480
+jo crec que hem d'observar el cor físic de l'antic imperi, oi?
+
+91
+00:04:42,920 --> 00:04:45,540
+La península itàlica, les restes de la pròpia Roma...
+
+92
+00:04:46,420 --> 00:04:47,480
+Perquè la pregunta és
+
+93
+00:04:47,480 --> 00:04:49,660
+qui es va quedar amb la sala de juntes
+
+94
+00:04:49,660 --> 00:04:51,240
+d'aquesta gran corporació global?
+
+95
+00:04:51,600 --> 00:04:52,560
+Els ostrogots?
+
+96
+00:04:52,920 --> 00:04:53,400
+Exacte.
+
+97
+00:04:53,840 --> 00:04:55,580
+I analitzant les fonts sobre ells,
+
+98
+00:04:55,580 --> 00:04:57,980
+em ve al cap una altra analogia que no puc ignorar.
+
+99
+00:04:58,440 --> 00:05:00,260
+Estic convençuda que tota la situació
+
+100
+00:05:00,260 --> 00:05:01,820
+sembla una adquisició hostil,
+
+101
+00:05:02,220 --> 00:05:05,080
+on els fundadors d'una start-up tecnològica, saps?
+
+102
+00:05:05,440 --> 00:05:07,580
+D'aquestes petites, agressives i molt eficients?
+
+103
+00:05:08,300 --> 00:05:08,720
+Sí, sí.
+
+104
+00:05:08,740 --> 00:05:10,840
+Doncs prenen el control de la seu central
+
+105
+00:05:10,840 --> 00:05:12,580
+d'una corporació multinacional gegantina,
+
+106
+00:05:13,680 --> 00:05:15,580
+molt burocratitzada i superantiquada.
+
+107
+00:05:16,420 --> 00:05:16,940
+Totalment.
+
+108
+00:05:17,060 --> 00:05:19,120
+Els germànics admiren l'escala,
+
+109
+00:05:19,540 --> 00:05:22,740
+els edificis, l'estètica d'aquesta corporació romana,
+
+110
+00:05:23,140 --> 00:05:25,240
+però no entenen ni la més remota idea
+
+111
+00:05:25,240 --> 00:05:25,560
+de com es pot fer una corporació.
+
+112
+00:05:25,580 --> 00:05:28,960
+Com fer funcionar l'engrenatge rutinari dels impostos,
+
+113
+00:05:29,040 --> 00:05:30,880
+l'administració o les lleis, clar.
+
+114
+00:05:31,320 --> 00:05:34,980
+I aquesta tensió entre la força militar de l'start-up,
+
+115
+00:05:35,080 --> 00:05:35,660
+com tu dius,
+
+116
+00:05:36,060 --> 00:05:39,060
+i l'experiència administrativa de la corporació antiga,
+
+117
+00:05:39,520 --> 00:05:42,100
+doncs defineix perfectament el mandat de Teodoric el Gran,
+
+118
+00:05:42,540 --> 00:05:43,900
+que era el rei dels ostrogots.
+
+119
+00:05:44,240 --> 00:05:44,800
+Teodoric.
+
+120
+00:05:44,920 --> 00:05:45,360
+Exacte.
+
+121
+00:05:45,640 --> 00:05:49,600
+Teodoric és un personatge de transició absolutament brillant.
+
+122
+00:05:50,160 --> 00:05:51,760
+Va ser educat a Constantinopla,
+
+123
+00:05:52,000 --> 00:05:53,780
+la capital de l'imperi romà d'Orient,
+
+124
+00:05:53,780 --> 00:05:55,480
+en qualitat d'hosta polític.
+
+125
+00:05:55,580 --> 00:05:59,320
+Que entenc que és una manera molt elegant de dir que era un ostatge, no?
+
+126
+00:05:59,480 --> 00:05:59,820
+I tant.
+
+127
+00:06:00,240 --> 00:06:03,040
+Era un ostatge per evitar que el seu pare ataqués l'imperi.
+
+128
+00:06:03,460 --> 00:06:06,500
+Però allà hi absorbeix tota la sofisticació del dret,
+
+129
+00:06:06,800 --> 00:06:09,480
+la filosofia i la tàctica militar romanes.
+
+130
+00:06:09,820 --> 00:06:13,680
+És un germànic amb programari mental romà.
+
+131
+00:06:14,000 --> 00:06:15,420
+Uau, quina combinació.
+
+132
+00:06:15,660 --> 00:06:18,680
+Quan pren el control d'Itàlia l'any 493,
+
+133
+00:06:19,300 --> 00:06:22,640
+intenta una solució de compromís institucional molt curiosa.
+
+134
+00:06:23,240 --> 00:06:25,540
+Divideix les funcions de l'estat basant-se
+
+135
+00:06:25,580 --> 00:06:26,840
+purament en l'ètnia.
+
+136
+00:06:27,360 --> 00:06:28,260
+A veure com és això.
+
+137
+00:06:29,060 --> 00:06:31,940
+Doncs els ostrogots, que tenen tota la tradició marcial,
+
+138
+00:06:32,480 --> 00:06:35,160
+tindran el monopoli absolut de les armes i l'exèrcit.
+
+139
+00:06:35,700 --> 00:06:37,360
+I la població romana autòctone,
+
+140
+00:06:37,720 --> 00:06:39,300
+que manté els coneixements tècnics,
+
+141
+00:06:39,840 --> 00:06:42,360
+doncs s'encarregarà exclusivament de l'administració civil,
+
+142
+00:06:42,720 --> 00:06:43,980
+la recollida d'impostos
+
+143
+00:06:43,980 --> 00:06:46,280
+i tot el manteniment de les infraestructures.
+
+144
+00:06:46,660 --> 00:06:49,100
+Però això és un equilibri impossible a llarg termini.
+
+145
+00:06:49,580 --> 00:06:51,500
+Tens les forces de xoc per una banda
+
+146
+00:06:51,500 --> 00:06:53,160
+i els buròcrates per l'altra.
+
+147
+00:06:53,540 --> 00:06:54,140
+Exacte.
+
+148
+00:06:54,140 --> 00:06:55,140
+I em fascina perquè,
+
+149
+00:06:55,140 --> 00:06:56,440
+aquesta dualitat,
+
+150
+00:06:56,580 --> 00:06:59,280
+aquesta incomprensió mútua entre les dues cultures,
+
+151
+00:07:00,120 --> 00:07:03,160
+queda brutalment retratada a les restes arqueològiques.
+
+152
+00:07:03,880 --> 00:07:07,960
+Les fonts sobrallen moltíssim el mausoleu de Teodorí Carabena
+
+153
+00:07:07,960 --> 00:07:10,720
+com l'exemple definitiu d'aquesta contradicció.
+
+154
+00:07:11,040 --> 00:07:12,920
+És que, arquitectònicament parlant,
+
+155
+00:07:13,400 --> 00:07:17,760
+aquest mausoleu és un crit de profunda inseguretat disfressat de grandesa.
+
+156
+00:07:18,480 --> 00:07:19,280
+Si l'observem bé,
+
+157
+00:07:19,840 --> 00:07:21,360
+adopta la planta centralitzada
+
+158
+00:07:21,360 --> 00:07:24,080
+que és típica de l'estil paleocristià romà.
+
+159
+00:07:25,140 --> 00:07:27,380
+Aquesta estètica paleocristiana
+
+160
+00:07:27,380 --> 00:07:31,220
+es caracteritzava per fer estructures d'aparència externa senzilla,
+
+161
+00:07:31,720 --> 00:07:32,560
+normalment de maú,
+
+162
+00:07:33,020 --> 00:07:36,300
+i reservava en tot la riquesa visual per als mosaics interiors.
+
+163
+00:07:37,020 --> 00:07:40,840
+Però Teodòlic no confiava gens en la tècnica romana del maó i el morter.
+
+164
+00:07:41,480 --> 00:07:45,680
+Ell volia transmetre immortalitat i resistència física absoluta.
+
+165
+00:07:45,920 --> 00:07:47,780
+Volia que semblés indestructible.
+
+166
+00:07:47,940 --> 00:07:48,300
+I tant.
+
+167
+00:07:48,940 --> 00:07:53,080
+Per tant, substitueix el maó i el ge per carreus ciclòpics,
+
+168
+00:07:53,080 --> 00:07:53,620
+o sigui,
+
+169
+00:07:53,620 --> 00:07:57,040
+blocs de pedres gegantins encaixats gairebé a la força.
+
+170
+00:07:57,300 --> 00:07:58,060
+I la cúpula?
+
+171
+00:07:58,480 --> 00:08:01,700
+Mar meva, la cúpula és el detall més revelador de tots.
+
+172
+00:08:02,160 --> 00:08:03,840
+Perquè les fonts mencionen que,
+
+173
+00:08:04,140 --> 00:08:07,980
+en lloc de construir una cúpula tradicional amb dovelles i un arc equilibrat,
+
+174
+00:08:08,380 --> 00:08:10,680
+que és una cosa que els romans dominaven a la perfecció,
+
+175
+00:08:11,240 --> 00:08:13,960
+la cúpula del mausoleu de Teodòlic és monolítica.
+
+176
+00:08:14,000 --> 00:08:14,560
+Una boixeria.
+
+177
+00:08:15,000 --> 00:08:15,180
+Sí.
+
+178
+00:08:15,800 --> 00:08:19,500
+És una única, immensa i pesadíssima peça de pedra tallada.
+
+179
+00:08:19,500 --> 00:08:22,940
+O sigui, això demostra que desconfiaven profundament
+
+180
+00:08:22,940 --> 00:08:23,500
+dels càlculs de la cúpula.
+
+181
+00:08:23,620 --> 00:08:24,840
+I que no tenien cap tipus d'enginyeria geomètrica.
+
+182
+00:08:25,260 --> 00:08:28,000
+Tenien autèntica por que un arc construït peça a peça
+
+183
+00:08:28,000 --> 00:08:29,380
+s'acabés ensorrant sobre ells.
+
+184
+00:08:29,440 --> 00:08:33,380
+El que històricament es cataloga com un clar barbarisme ostrogot, vaja.
+
+185
+00:08:33,860 --> 00:08:34,460
+Exacte.
+
+186
+00:08:34,760 --> 00:08:37,300
+I a més a més, a l'exterior d'aquesta cúpula macissa
+
+187
+00:08:37,300 --> 00:08:40,140
+hi ha uns ornaments molt estranys en forma de pinces.
+
+188
+00:08:40,500 --> 00:08:42,060
+Les famoses pinces ostrogodes.
+
+189
+00:08:42,400 --> 00:08:42,620
+Clar.
+
+190
+00:08:43,180 --> 00:08:45,940
+I aquelles pinces no eren només decoratives, eh?
+
+191
+00:08:46,440 --> 00:08:49,160
+Eren un pur exercici de propaganda psicològica.
+
+192
+00:08:49,840 --> 00:08:51,200
+Representaven simbòlicament
+
+193
+00:08:51,200 --> 00:08:52,880
+els soldats ostrogots
+
+194
+00:08:52,880 --> 00:08:53,180
+col·locats a la cúpula.
+
+195
+00:08:53,180 --> 00:08:53,220
+I això és el que ens explica.
+
+196
+00:08:53,220 --> 00:08:53,280
+I això és el que ens explica.
+
+197
+00:08:53,280 --> 00:09:23,260
+I això és el que ens explica.
+
+198
+00:09:23,280 --> 00:09:25,200
+Des de la meitat oriental de l'imperi
+
+199
+00:09:25,200 --> 00:09:27,040
+que encara sobrevivia a Constantinople
+
+200
+00:09:27,040 --> 00:09:29,640
+decidís enviar els seus grans generals
+
+201
+00:09:29,640 --> 00:09:31,400
+Belisari i Narces.
+
+202
+00:09:32,020 --> 00:09:33,760
+Van fer caure tot el castell de cartes.
+
+203
+00:09:34,380 --> 00:09:36,820
+La guerra gòtica va arrasar la península itàlica
+
+204
+00:09:36,820 --> 00:09:37,760
+fins als fonaments
+
+205
+00:09:37,760 --> 00:09:40,360
+i el poble ostrogot va desaparèixer
+
+206
+00:09:40,360 --> 00:09:41,700
+literalment de la història.
+
+207
+00:09:42,040 --> 00:09:43,540
+Esborrats del mapa.
+
+208
+00:09:44,340 --> 00:09:46,160
+Completament esborrats per la força
+
+209
+00:09:46,160 --> 00:09:47,500
+de les armes imperials.
+
+210
+00:09:48,320 --> 00:09:50,160
+I fixa't que aquest fracàs absolut
+
+211
+00:09:50,160 --> 00:09:52,160
+ens serveix com a punt temàtic perfecte.
+
+212
+00:09:52,160 --> 00:09:55,120
+Perquè si la pura ocupació militar
+
+213
+00:09:55,120 --> 00:09:57,180
+i la segregació no van servir
+
+214
+00:09:57,180 --> 00:09:58,760
+els ostrogots per sobreviure
+
+215
+00:09:58,760 --> 00:09:59,920
+a la pressió bizantina,
+
+216
+00:10:00,420 --> 00:10:02,500
+què calia fer llavors per mantenir
+
+217
+00:10:02,500 --> 00:10:03,600
+un regne postromà?
+
+218
+00:10:04,220 --> 00:10:06,340
+I això ens obliga a mirar cap a l'oest, oi?
+
+219
+00:10:06,580 --> 00:10:08,040
+On es va assajar una estratègia
+
+220
+00:10:08,040 --> 00:10:09,100
+completament diferent.
+
+221
+00:10:09,460 --> 00:10:11,700
+A la Gàlia i a Hispània tenim el xoc
+
+222
+00:10:11,700 --> 00:10:13,720
+de dues potències germàniques massives,
+
+223
+00:10:14,080 --> 00:10:15,600
+els francs i els visigots.
+
+224
+00:10:16,160 --> 00:10:18,600
+És que el contrast estratègic entre els ostrogots
+
+225
+00:10:18,600 --> 00:10:20,020
+i aquests pobles de l'oest
+
+226
+00:10:20,020 --> 00:10:22,020
+és clau per entendre com evolucionava
+
+227
+00:10:22,160 --> 00:10:24,580
+Europa. Inicialment, els visigots
+
+228
+00:10:24,580 --> 00:10:26,360
+havien creat un regne enorme
+
+229
+00:10:26,360 --> 00:10:28,180
+en capital a Tolosa de Llangaduc.
+
+230
+00:10:28,880 --> 00:10:30,980
+Abraçava tot el sud de l'actual França
+
+231
+00:10:30,980 --> 00:10:32,740
+i bona part de la península ibèrica.
+
+232
+00:10:33,320 --> 00:10:34,220
+Un territori enorme.
+
+233
+00:10:34,620 --> 00:10:36,880
+Sí, però topen amb l'expansionisme
+
+234
+00:10:36,880 --> 00:10:38,140
+agressiu dels francs.
+
+235
+00:10:38,640 --> 00:10:40,660
+I el que és fascinant aquí és el mecanisme
+
+236
+00:10:40,660 --> 00:10:42,840
+que canvia el destí d'aquests dos pobles,
+
+237
+00:10:43,280 --> 00:10:44,780
+que és l'ús de la religió
+
+238
+00:10:44,780 --> 00:10:46,080
+com a arma política.
+
+239
+00:10:46,400 --> 00:10:47,620
+Aquí volia arribar jo.
+
+240
+00:10:47,620 --> 00:10:49,760
+Els francs, sota el rei Clodoveu,
+
+241
+00:10:50,140 --> 00:10:51,620
+es converteixen directament al catolicisme
+
+242
+00:10:52,280 --> 00:10:54,280
+que era la religió de la gran majoria
+
+243
+00:10:54,280 --> 00:10:55,900
+de la població romana de la Gàlia.
+
+244
+00:10:56,500 --> 00:10:57,780
+I clar, això els atorga
+
+245
+00:10:57,780 --> 00:10:59,560
+un suport local immens.
+
+246
+00:11:00,140 --> 00:11:01,620
+Amb aquest suport, l'any 507
+
+247
+00:11:02,200 --> 00:11:03,820
+s'enfronten els visigots
+
+248
+00:11:03,820 --> 00:11:05,640
+a la històrica batalla de Buller.
+
+249
+00:11:05,660 --> 00:11:07,980
+I guanyen. Eixafen l'exèrcit visigot,
+
+250
+00:11:08,260 --> 00:11:10,060
+maten el seu rei, Alaric II,
+
+251
+00:11:10,460 --> 00:11:11,940
+i s'enaccionen tot a la Gàlia.
+
+252
+00:11:12,220 --> 00:11:13,760
+Llavors, els visigots es veuen
+
+253
+00:11:13,760 --> 00:11:15,560
+forçats a creure els Pirineus en massa.
+
+254
+00:11:15,560 --> 00:11:17,500
+O sigui, es converteixen
+
+255
+00:11:17,500 --> 00:11:19,680
+literalment en refugiats armats
+
+256
+00:11:19,680 --> 00:11:21,320
+expulsats del seu propi regne.
+
+257
+00:11:21,320 --> 00:11:23,460
+Sí, una situació desesperada.
+
+258
+00:11:23,520 --> 00:11:25,420
+I aquí és on la lectura d'aquestes fonts,
+
+259
+00:11:25,560 --> 00:11:27,460
+t'ho juro, m'ha generat un xoc cognitiu
+
+260
+00:11:27,460 --> 00:11:29,240
+brutant. Tenim els visigots
+
+261
+00:11:29,240 --> 00:11:30,700
+arribant a la península ibèrica
+
+262
+00:11:30,700 --> 00:11:32,860
+traumatitzats, derrotats,
+
+263
+00:11:33,120 --> 00:11:35,400
+i sent una minoria demogràfica absoluta
+
+264
+00:11:35,400 --> 00:11:37,540
+en comparació amb els milions d'hispanoromans
+
+265
+00:11:37,540 --> 00:11:38,380
+que ja vivien allà.
+
+266
+00:11:39,240 --> 00:11:41,100
+Llavors, si l'exèrcit ostrogot
+
+267
+00:11:41,100 --> 00:11:43,080
+no va poder controlar Itàlia sent una força
+
+268
+00:11:43,080 --> 00:11:44,400
+d'ocupació fortíssima,
+
+269
+00:11:44,920 --> 00:11:47,040
+com dimoni s'aconsegueixen els visigots
+
+270
+00:11:47,040 --> 00:11:48,760
+asseure les bases d'un reine
+
+271
+00:11:48,760 --> 00:11:51,080
+ibèric estable que durarà més de
+
+272
+00:11:51,080 --> 00:11:51,300
+200 anys?
+
+273
+00:11:51,300 --> 00:11:53,740
+És que no té sentit militar, saps?
+
+274
+00:11:54,020 --> 00:11:55,280
+És que no té sentit militar
+
+275
+00:11:55,280 --> 00:11:57,360
+precisament perquè la solució no va ser militar.
+
+276
+00:11:57,940 --> 00:11:59,300
+Va ser d'una astúcia sociopolítica
+
+277
+00:11:59,860 --> 00:12:00,860
+extraordinària.
+
+278
+00:12:01,720 --> 00:12:03,240
+Els visigots van entendre perfectament
+
+279
+00:12:03,240 --> 00:12:05,340
+la lliçó de la seva pròpia derrota i del fracàs
+
+280
+00:12:05,340 --> 00:12:07,380
+dels ostrogots. No pots governar
+
+281
+00:12:07,380 --> 00:12:08,820
+contra la teva pròpia població.
+
+282
+00:12:09,080 --> 00:12:11,900
+O sigui, si no pots amb ells, uneix-te a ells?
+
+283
+00:12:12,040 --> 00:12:13,720
+Exacte. Què van implementar?
+
+284
+00:12:14,180 --> 00:12:15,300
+Un procés supercalculat
+
+285
+00:12:15,860 --> 00:12:17,060
+d'assimilació total.
+
+286
+00:12:17,740 --> 00:12:19,200
+Primer, necessitaven seguretat
+
+287
+00:12:19,200 --> 00:12:21,200
+territorial. Així que estableixen
+
+288
+00:12:21,200 --> 00:12:23,440
+la capital al centre peninsular, a Toledo.
+
+289
+00:12:23,920 --> 00:12:25,380
+I comencen a netejar els marges
+
+290
+00:12:25,380 --> 00:12:26,740
+de competidors germànics.
+
+291
+00:12:26,920 --> 00:12:28,060
+Fora la competència.
+
+292
+00:12:28,720 --> 00:12:30,960
+Expulsen els sueus de Galícia i obliguen
+
+293
+00:12:30,960 --> 00:12:33,220
+els vandals a creuar l'estret cap al nord d'Àfrica.
+
+294
+00:12:33,540 --> 00:12:34,940
+Però la veritable jugada mestra,
+
+295
+00:12:35,320 --> 00:12:36,960
+l'engranatge que garanteix la seva
+
+296
+00:12:36,960 --> 00:12:39,620
+supervivència, arriba l'any 589
+
+297
+00:12:39,620 --> 00:12:41,140
+amb el rei Recaret.
+
+298
+00:12:41,340 --> 00:12:43,300
+La famosa conversió al catolicisme.
+
+299
+00:12:43,920 --> 00:12:44,400
+Exactament.
+
+300
+00:12:44,660 --> 00:12:46,860
+Però, per a qui ens escolta, per què
+
+301
+00:12:46,860 --> 00:12:48,940
+és tan transcendent políticament
+
+302
+00:12:48,940 --> 00:12:50,880
+en parlant això? Vull dir, més enllà
+
+303
+00:12:50,880 --> 00:12:52,720
+de la fe personal d'un rei. Doncs,
+
+304
+00:12:52,860 --> 00:12:54,680
+perquè fins aquell moment, els visigots
+
+305
+00:12:54,680 --> 00:12:57,020
+practicaven l'arianisme. Era una variant
+
+306
+00:12:57,020 --> 00:12:58,820
+del cristianisme que la població local
+
+307
+00:12:58,820 --> 00:13:01,180
+hispano-romana, que era fermament catòlica,
+
+308
+00:13:01,340 --> 00:13:03,120
+considerava una heretigia
+
+309
+00:13:03,120 --> 00:13:05,080
+inacceptable. Clar, un xoc
+
+310
+00:13:05,080 --> 00:13:07,100
+religiós. Aquesta diferència
+
+311
+00:13:07,100 --> 00:13:09,260
+impedia els matrimonis mixts
+
+312
+00:13:09,260 --> 00:13:10,660
+i mantenia les dues comunitats
+
+313
+00:13:10,660 --> 00:13:13,040
+completament aïllades. Llavors,
+
+314
+00:13:13,500 --> 00:13:14,840
+quan Recaret es converteix
+
+315
+00:13:14,840 --> 00:13:16,780
+al catolicisme, al tercer concili
+
+316
+00:13:16,780 --> 00:13:18,720
+de Tolero, no està tenint només
+
+317
+00:13:18,720 --> 00:13:20,120
+una epifania espiritual, eh?
+
+318
+00:13:20,120 --> 00:13:22,540
+Està executant la fusió corporativa
+
+319
+00:13:22,540 --> 00:13:24,040
+més important de l'època.
+
+320
+00:13:24,700 --> 00:13:26,180
+Elimina la gran barrera social
+
+321
+00:13:26,180 --> 00:13:28,080
+d'un sol cop. Uau.
+
+322
+00:13:28,460 --> 00:13:30,180
+I a partir d'aquí, el procés
+
+323
+00:13:30,180 --> 00:13:31,760
+culmina amb la fusió legal.
+
+324
+00:13:32,460 --> 00:13:33,920
+Els reis visigots redacten
+
+325
+00:13:33,920 --> 00:13:36,180
+codis legals únics, on s'esborra
+
+326
+00:13:36,180 --> 00:13:37,840
+qualsevol distinció jurídica
+
+327
+00:13:37,840 --> 00:13:39,640
+entre els conqueridors germànics
+
+328
+00:13:39,640 --> 00:13:42,120
+i els ciutadans romans. Passen a ser
+
+329
+00:13:42,120 --> 00:13:43,620
+una sola entitat política.
+
+330
+00:13:44,080 --> 00:13:46,000
+És brillant. Ara, mentre
+
+331
+00:13:46,000 --> 00:13:48,480
+els visigots i els francs utilitzaven
+
+332
+00:13:48,480 --> 00:13:49,920
+aquest programari de les restes romanes,
+
+333
+00:13:50,120 --> 00:13:51,480
+per sobrevivre al continent,
+
+334
+00:13:52,020 --> 00:13:53,800
+si creuem el canal de la Mànega cap a
+
+335
+00:13:53,800 --> 00:13:56,020
+Britània, trobem un escenari on no
+
+336
+00:13:56,020 --> 00:13:57,820
+quedava pràcticament res per assimilar.
+
+337
+00:13:58,160 --> 00:14:00,500
+Res de res. Les legions romanes
+
+338
+00:14:00,500 --> 00:14:02,560
+havien abandonat l'illa completament,
+
+339
+00:14:03,100 --> 00:14:04,100
+deixant un buit
+
+340
+00:14:04,100 --> 00:14:05,480
+de poder colossal,
+
+341
+00:14:06,220 --> 00:14:08,280
+que, bé, seria omplit per
+
+342
+00:14:08,280 --> 00:14:10,060
+angles, saxons i juts.
+
+343
+00:14:10,700 --> 00:14:12,060
+I aquí és on es posa
+
+344
+00:14:12,060 --> 00:14:14,380
+realment interessant, i la resistència
+
+345
+00:14:14,380 --> 00:14:15,900
+cultural es fa molt evident.
+
+346
+00:14:16,680 --> 00:14:18,300
+O sigui, llegint les fonts
+
+347
+00:14:18,580 --> 00:14:20,000
+lingüístiques, he trobat una dada,
+
+348
+00:14:20,120 --> 00:14:22,140
+que m'ha fascinat. A veure... L'anglès,
+
+349
+00:14:22,260 --> 00:14:24,280
+que es parla avui dia, encara conserva
+
+350
+00:14:24,280 --> 00:14:26,160
+fòssils del paganisme germànic
+
+351
+00:14:26,160 --> 00:14:28,360
+d'aquella època, precisament en els
+
+352
+00:14:28,360 --> 00:14:29,520
+noms dels dies de la setmana.
+
+353
+00:14:30,140 --> 00:14:32,260
+O sigui, Tuesday prové del déu
+
+354
+00:14:32,260 --> 00:14:34,220
+de la guerra, Tiu. Wednesday
+
+355
+00:14:34,220 --> 00:14:36,380
+és el dia de Woden, que és el gran
+
+356
+00:14:36,380 --> 00:14:37,860
+Odín. Ostres, clar.
+
+357
+00:14:38,140 --> 00:14:40,040
+Thursday pertany un conjú
+
+358
+00:14:40,040 --> 00:14:41,900
+simplement al déu del tró, Thor.
+
+359
+00:14:42,500 --> 00:14:44,420
+I Friday honora la deessa
+
+360
+00:14:44,420 --> 00:14:46,180
+Frick. Llavors, la pregunta
+
+361
+00:14:46,180 --> 00:14:48,500
+que em faig és, com és possible
+
+362
+00:14:48,500 --> 00:14:50,100
+que si l'Església catòlica va a la
+
+363
+00:14:50,120 --> 00:14:52,040
+dedicar segles i segles a
+
+364
+00:14:52,040 --> 00:14:54,080
+cristianitzar aquesta illa, enviant
+
+365
+00:14:54,080 --> 00:14:56,120
+missioners top com Agustí de
+
+366
+00:14:56,120 --> 00:14:58,000
+Canterbury o Sant Columba,
+
+367
+00:14:58,380 --> 00:15:00,000
+com pot ser que no fossin capaços
+
+368
+00:15:00,000 --> 00:15:01,920
+d'esborrar els noms d'aquests déus
+
+369
+00:15:01,920 --> 00:15:03,980
+pagans del calendari rutinari?
+
+370
+00:15:04,460 --> 00:15:05,600
+És una gran pregunta.
+
+371
+00:15:06,160 --> 00:15:07,820
+I les respostes troben la força
+
+372
+00:15:07,820 --> 00:15:10,120
+inèrcica de la cultura oral agrària.
+
+373
+00:15:10,720 --> 00:15:12,280
+Vull dir, l'Església podia
+
+374
+00:15:12,280 --> 00:15:13,980
+batejar els reis de l'heptarquia
+
+375
+00:15:13,980 --> 00:15:16,040
+anglosaxona, que eren aquells set
+
+376
+00:15:16,040 --> 00:15:18,140
+regnes primitius, com Wessex,
+
+377
+00:15:18,140 --> 00:15:19,980
+Mèrcia o L'Ànglia Oriental.
+
+378
+00:15:20,480 --> 00:15:22,020
+Sí. Podia construir
+
+379
+00:15:22,020 --> 00:15:23,540
+monasteris espectaculars,
+
+380
+00:15:24,020 --> 00:15:25,900
+instaurar l'alfabetització llatina a les
+
+381
+00:15:25,900 --> 00:15:27,140
+Corts Reals, però
+
+382
+00:15:27,140 --> 00:15:29,940
+intentar convèncer un camperol del
+
+383
+00:15:29,940 --> 00:15:32,060
+segle VII que canviés els noms dels dies
+
+384
+00:15:32,060 --> 00:15:34,140
+en què feia el mercat, o plantava
+
+385
+00:15:34,140 --> 00:15:35,980
+les llavors, o celebrava les
+
+386
+00:15:35,980 --> 00:15:37,780
+festes locals, això era una missió
+
+387
+00:15:37,780 --> 00:15:39,660
+absolutament impossible. És que
+
+388
+00:15:39,660 --> 00:15:41,320
+el dia a dia manava.
+
+389
+00:15:41,780 --> 00:15:44,020
+La vida quotidiana estava massa ancorada
+
+390
+00:15:44,020 --> 00:15:45,880
+als cicles naturals associats
+
+391
+00:15:45,880 --> 00:15:47,280
+a aquests déus germànics.
+
+392
+00:15:47,800 --> 00:15:49,940
+I això és un recordatori molt potent
+
+393
+00:15:50,120 --> 00:15:52,140
+de com la cristianització va ser
+
+394
+00:15:52,140 --> 00:15:54,020
+un procés institucional des de dalt.
+
+395
+00:15:54,580 --> 00:15:56,180
+Però la cultura popular de base
+
+396
+00:15:56,180 --> 00:15:58,040
+funcionava a un ritme totalment
+
+397
+00:15:58,040 --> 00:15:59,760
+diferent. Molt més lent.
+
+398
+00:16:00,120 --> 00:16:01,880
+Exacte. Tot i que
+
+399
+00:16:01,880 --> 00:16:03,580
+aquesta cultura anglosaxona,
+
+400
+00:16:03,920 --> 00:16:06,180
+que s'acabava de consolidar, es posaria
+
+401
+00:16:06,180 --> 00:16:08,060
+a prova ràpidament amb l'arribada
+
+402
+00:16:08,060 --> 00:16:10,080
+d'una amenaça molt més descentralitzada,
+
+403
+00:16:10,480 --> 00:16:12,340
+veloç i devastadora al segle IX.
+
+404
+00:16:12,860 --> 00:16:14,020
+Estic parlant dels
+
+405
+00:16:14,020 --> 00:16:16,260
+atacs dels víquings. I aturem-nos
+
+406
+00:16:16,260 --> 00:16:17,420
+un moment aquí, perquè
+
+407
+00:16:17,420 --> 00:16:20,060
+necessito qüestionar un relat històric,
+
+408
+00:16:20,060 --> 00:16:21,960
+que sempre s'ha acceptat sense
+
+409
+00:16:21,960 --> 00:16:24,140
+fissures. Les cròniques
+
+410
+00:16:24,140 --> 00:16:25,940
+lluen moltíssim la figura
+
+411
+00:16:25,940 --> 00:16:27,660
+d'Alfred el Gran, o sigui,
+
+412
+00:16:28,080 --> 00:16:29,800
+el rei de Wessex, com el gran
+
+413
+00:16:29,800 --> 00:16:31,480
+salvador de la nació anglesa,
+
+414
+00:16:31,860 --> 00:16:33,740
+enfront d'aquest terror víquing, oi?
+
+415
+00:16:33,980 --> 00:16:35,740
+Sí, així ens ho expliquen.
+
+416
+00:16:35,940 --> 00:16:38,060
+Ens diuen que ell organitza la resistència
+
+417
+00:16:38,600 --> 00:16:39,840
+després de la batalla
+
+418
+00:16:39,840 --> 00:16:42,120
+d'Eddington. Però, a veure,
+
+419
+00:16:42,660 --> 00:16:43,860
+llegint les fonts sobre
+
+420
+00:16:43,860 --> 00:16:46,060
+com s'estableix la pau amb el líder
+
+421
+00:16:46,060 --> 00:16:48,220
+víquing Guthrum, espera un moment.
+
+422
+00:16:48,720 --> 00:16:49,860
+Alfred, bàsicament,
+
+423
+00:16:49,860 --> 00:16:51,460
+signa un tractat on cedeix
+
+424
+00:16:51,460 --> 00:16:53,720
+completament la meitat oriental de l'illa,
+
+425
+00:16:54,120 --> 00:16:55,460
+un territori enorme
+
+426
+00:16:55,460 --> 00:16:57,520
+que es coneixia com el Danelou.
+
+427
+00:16:58,040 --> 00:16:59,620
+I ho cedeix perquè els danesos
+
+428
+00:16:59,620 --> 00:17:01,760
+s'instal·lin i governin amb les seves
+
+429
+00:17:01,760 --> 00:17:03,820
+pròpies lleis. Sí, sí, els hi dóna
+
+430
+00:17:03,820 --> 00:17:05,540
+mig país. Només a canvi que
+
+431
+00:17:05,540 --> 00:17:07,560
+Guthrum es bategi i prometi no
+
+432
+00:17:07,560 --> 00:17:09,740
+atacar més cap al sud. I, a més,
+
+433
+00:17:09,820 --> 00:17:11,660
+com pot ser que regalar la meitat del teu
+
+434
+00:17:11,660 --> 00:17:13,800
+país als invasors que intentaven destruir-te
+
+435
+00:17:13,800 --> 00:17:15,840
+es consideri una victòria estratègica
+
+436
+00:17:15,840 --> 00:17:17,940
+i a sobre el faci marreixador del títol
+
+437
+00:17:17,940 --> 00:17:19,840
+d'Al Gran? És que no m'encaixa,
+
+438
+00:17:19,860 --> 00:17:21,880
+és una observació molt punyent,
+
+439
+00:17:22,440 --> 00:17:23,780
+però si connectem això
+
+440
+00:17:23,780 --> 00:17:25,220
+amb una visió més general,
+
+441
+00:17:25,720 --> 00:17:27,380
+la clau de la grandesa d'Alfred
+
+442
+00:17:27,380 --> 00:17:29,860
+rau precisament en el realisme polític.
+
+443
+00:17:30,700 --> 00:17:32,120
+Davant d'una força militarment
+
+444
+00:17:32,120 --> 00:17:33,480
+tan superior i tan àgil
+
+445
+00:17:33,480 --> 00:17:36,020
+com els víquings, intentar una victòria
+
+446
+00:17:36,020 --> 00:17:37,960
+total d'expulsió equivalia
+
+447
+00:17:37,960 --> 00:17:40,340
+literalment al suïcidi del regne de Wessex.
+
+448
+00:17:40,500 --> 00:17:41,740
+Un bany de sang segur.
+
+449
+00:17:42,220 --> 00:17:44,280
+Exacte. Cedint al Danelou,
+
+450
+00:17:44,600 --> 00:17:45,960
+Alfred no estava declarant
+
+451
+00:17:45,960 --> 00:17:47,820
+la derrota, eh? Estava canviant
+
+452
+00:17:47,820 --> 00:17:49,520
+l'espai territorial per un bé
+
+453
+00:17:49,520 --> 00:17:51,260
+molt més preuat en aquell moment,
+
+454
+00:17:51,580 --> 00:17:53,600
+que era el temps. D'acord, però per fer
+
+455
+00:17:53,600 --> 00:17:55,500
+què amb aquest temps? Doncs
+
+456
+00:17:55,500 --> 00:17:57,840
+la veritable mesura d'Alfred no és el tractat
+
+457
+00:17:57,840 --> 00:17:59,760
+en si, sinó com utilitza aquella
+
+458
+00:17:59,760 --> 00:18:01,540
+dècada de pau que acaba de comprar.
+
+459
+00:18:02,200 --> 00:18:03,560
+Aprofita aquell temps per
+
+460
+00:18:03,560 --> 00:18:05,700
+transformar radicalment les infraestructures
+
+461
+00:18:05,700 --> 00:18:07,920
+d'Anglaterra. Dissenya i construïs
+
+462
+00:18:07,920 --> 00:18:09,620
+els bergs, que eren una xarxa
+
+463
+00:18:09,620 --> 00:18:11,800
+interconectada de ciutats fortificades.
+
+464
+00:18:11,980 --> 00:18:13,240
+Com petits castells?
+
+465
+00:18:13,500 --> 00:18:15,440
+Sí, assentaments que podien resistir
+
+466
+00:18:15,440 --> 00:18:17,100
+un setge ràpid. A més,
+
+467
+00:18:17,520 --> 00:18:19,500
+reforma la lleva militar perquè la mitat
+
+468
+00:18:19,500 --> 00:18:21,820
+de l'exèrcit estigui sempre en actiu,
+
+469
+00:18:21,980 --> 00:18:23,940
+vigilant, i l'altra mitat treballant
+
+470
+00:18:23,940 --> 00:18:25,660
+al camp. I crea la primera
+
+471
+00:18:25,660 --> 00:18:27,500
+flota naval anglesa. O sigui,
+
+472
+00:18:27,840 --> 00:18:29,520
+reconstruir la societat literalment
+
+473
+00:18:29,520 --> 00:18:31,860
+des de la base cap a dalt. I ho fa instaurant
+
+474
+00:18:31,860 --> 00:18:34,080
+els fonaments pràctics del sistema feudal
+
+475
+00:18:34,080 --> 00:18:35,940
+que definiria després tota l'edat
+
+476
+00:18:35,940 --> 00:18:38,400
+mitjana europea. Perquè el feudalisme
+
+477
+00:18:38,400 --> 00:18:40,100
+neix precisament de la necessitat
+
+478
+00:18:40,100 --> 00:18:42,300
+de tenir respostes militars localitzades
+
+479
+00:18:42,300 --> 00:18:44,020
+i ràpides davant d'atacs
+
+480
+00:18:44,020 --> 00:18:46,360
+com els dels vikings, on un rei centralitzat
+
+481
+00:18:46,360 --> 00:18:48,500
+no podia arribar a temps amb el seu exèrcit.
+
+482
+00:18:48,660 --> 00:18:49,480
+Clar, el perill era massa.
+
+483
+00:18:49,500 --> 00:18:50,080
+Massa ràpid.
+
+484
+00:18:50,160 --> 00:18:53,000
+Aquesta reestructuració administrativa i defensiva
+
+485
+00:18:53,000 --> 00:18:55,240
+és precisament el que permet a Anglaterra
+
+486
+00:18:55,240 --> 00:18:56,880
+sobreviure com a entitat cultural.
+
+487
+00:18:57,400 --> 00:18:59,640
+Una cultura capaç de produir obres mestres
+
+488
+00:18:59,640 --> 00:19:01,520
+de l'anglès antic, com l'èpica heroica
+
+489
+00:19:01,520 --> 00:19:03,480
+de Beowulf, i mantenir-se viva
+
+490
+00:19:03,480 --> 00:19:05,920
+fins a l'arribada normanda al 1666.
+
+491
+00:19:06,340 --> 00:19:07,540
+Doncs si els atacs vikings
+
+492
+00:19:07,540 --> 00:19:09,560
+van forçar tota l'Europa del nord
+
+493
+00:19:09,560 --> 00:19:11,620
+a descentralitzar-se i a construir
+
+494
+00:19:11,620 --> 00:19:13,380
+castells i ciutats emborellades,
+
+495
+00:19:13,840 --> 00:19:15,260
+a l'altra banda del continent,
+
+496
+00:19:15,660 --> 00:19:17,520
+al sud, estava succeint
+
+497
+00:19:17,940 --> 00:19:19,480
+exactament el fenomen contrari.
+
+498
+00:19:19,500 --> 00:19:21,500
+I això em sembla brutal.
+
+499
+00:19:23,380 --> 00:19:25,480
+Mentre l'Europa cristiana es tancava
+
+500
+00:19:25,480 --> 00:19:26,760
+en si mateixa i s'aïllava,
+
+501
+00:19:27,420 --> 00:19:29,500
+naixia a Aràbia un imperi altament centralitzat,
+
+502
+00:19:30,600 --> 00:19:31,500
+amb una capacitat d'organització
+
+503
+00:19:32,040 --> 00:19:34,100
+expansiva absolutament inaudita.
+
+504
+00:19:34,540 --> 00:19:36,420
+L'aparació de l'islam al segle VII.
+
+505
+00:19:36,900 --> 00:19:38,620
+Un canvi de paradigma total.
+
+506
+00:19:38,780 --> 00:19:39,600
+I vull deixar enrere
+
+507
+00:19:39,600 --> 00:19:41,140
+descripcions superficials aquí,
+
+508
+00:19:41,640 --> 00:19:43,700
+perquè la velocitat de la conquesta islàmica
+
+509
+00:19:43,700 --> 00:19:45,680
+de la península ibèrica no s'explica
+
+510
+00:19:45,680 --> 00:19:47,900
+simplement dient que, oh, van ser molt ràpids.
+
+511
+00:19:47,900 --> 00:19:49,340
+O sigui, pensem-hi,
+
+512
+00:19:49,500 --> 00:19:52,360
+l'any 711 derroten el rei Visigot,
+
+513
+00:19:52,540 --> 00:19:54,720
+Roderic, a la famosa batalla de Guadalete.
+
+514
+00:19:55,260 --> 00:19:56,340
+I en només set anys,
+
+515
+00:19:56,500 --> 00:19:57,840
+pràcticament tota la península
+
+516
+00:19:57,840 --> 00:20:00,020
+està sota el seu control. Set anys.
+
+517
+00:20:00,480 --> 00:20:01,580
+Sí, és una cosa mai vista.
+
+518
+00:20:01,900 --> 00:20:03,880
+Plàstica d'aniquilació, com podríem pensar,
+
+519
+00:20:04,500 --> 00:20:06,000
+sinó com l'aplicació d'un sistema
+
+520
+00:20:06,000 --> 00:20:08,260
+de franquícia imperial
+
+521
+00:20:08,260 --> 00:20:09,680
+extremadament eficient.
+
+522
+00:20:09,900 --> 00:20:11,680
+Franquícia imperial, m'agrada.
+
+523
+00:20:12,000 --> 00:20:14,080
+Pensa-hi. L'exèrcit Omeya
+
+524
+00:20:14,080 --> 00:20:16,000
+arriba a Espanya just enmig
+
+525
+00:20:16,000 --> 00:20:18,580
+d'una guerra civil brutal pel tron Visigot.
+
+526
+00:20:18,580 --> 00:20:20,580
+Els hispanovisigots estaven esgotats,
+
+527
+00:20:21,460 --> 00:20:22,480
+buits d'agrecursos,
+
+528
+00:20:22,680 --> 00:20:24,480
+de tany lluitar entre ells.
+
+529
+00:20:24,840 --> 00:20:26,960
+Llavors l'estratègia islàmica va consistir
+
+530
+00:20:26,960 --> 00:20:28,640
+simplement a oferir pactes
+
+531
+00:20:28,640 --> 00:20:30,800
+de capitulació molt, molt favorables
+
+532
+00:20:30,800 --> 00:20:32,940
+als nobles locals, als comtes
+
+533
+00:20:32,940 --> 00:20:34,140
+i als bisbes visigots.
+
+534
+00:20:34,340 --> 00:20:36,160
+O sigui, no venien només a arrasar.
+
+535
+00:20:36,440 --> 00:20:38,440
+Exacte. El tracte era
+
+536
+00:20:38,440 --> 00:20:40,260
+supersimple. Vosaltres
+
+537
+00:20:40,260 --> 00:20:42,680
+reconeixeu l'autoritat suprema del califat
+
+538
+00:20:42,680 --> 00:20:44,620
+de Damasc i ens pagueu un impost
+
+539
+00:20:44,620 --> 00:20:46,440
+especial, conegut com l'agísia.
+
+540
+00:20:46,660 --> 00:20:48,580
+Si ho feieu, us podíeu quedar
+
+541
+00:20:48,580 --> 00:20:50,760
+les vostres terres, mantenir els vostres
+
+542
+00:20:50,760 --> 00:20:52,920
+títols laborals i conservar la vostra
+
+543
+00:20:52,920 --> 00:20:54,740
+religió cristiana sense cap mena
+
+544
+00:20:54,740 --> 00:20:56,700
+de represàlia violenta. És a dir,
+
+545
+00:20:57,000 --> 00:20:58,960
+oferien condicions d'integració
+
+546
+00:20:58,960 --> 00:21:00,680
+molt millors que el risc
+
+547
+00:21:00,680 --> 00:21:02,680
+de perdre-ho absolutament tot en el
+
+548
+00:21:02,680 --> 00:21:04,700
+camp de batalla, la teva vida i els
+
+549
+00:21:04,700 --> 00:21:06,920
+teus béns. Clar, i és que els senyors
+
+550
+00:21:06,920 --> 00:21:08,620
+locals només havien de canviar l'emblema
+
+551
+00:21:08,620 --> 00:21:10,000
+de l'imperi al qual tributaven.
+
+552
+00:21:10,720 --> 00:21:12,700
+Era pagar els impostos a un nou capità general
+
+553
+00:21:12,700 --> 00:21:14,400
+que s'havia instal·lat a Còrdoba, essencialment.
+
+554
+00:21:14,700 --> 00:21:16,000
+Quina jugada més hàbil!
+
+555
+00:21:16,000 --> 00:21:18,360
+Això redueix dràsticament la necessitat
+
+556
+00:21:18,360 --> 00:21:20,620
+de fer setges prolongats a les ciutats,
+
+557
+00:21:21,100 --> 00:21:22,260
+obrint les portes gairebé
+
+558
+00:21:22,260 --> 00:21:24,220
+de bat a bat. I sobre aquesta
+
+559
+00:21:24,220 --> 00:21:25,740
+base pacificada de pressa,
+
+560
+00:21:26,080 --> 00:21:28,200
+s'erigeix l'Àndalus. Aquesta regió
+
+561
+00:21:28,200 --> 00:21:29,640
+evoluciona molt ràpidament.
+
+562
+00:21:30,280 --> 00:21:32,020
+Passar d'una mera província perifèrica
+
+563
+00:21:32,020 --> 00:21:34,220
+dependent, al que coneixem com l'Imirat,
+
+564
+00:21:34,680 --> 00:21:36,140
+esdevenir el gran califat de
+
+565
+00:21:36,140 --> 00:21:38,160
+Còrdoba al segle X, que ja era
+
+566
+00:21:38,160 --> 00:21:40,180
+totalment independent, i estava en el
+
+567
+00:21:40,180 --> 00:21:41,620
+zènit del seu poder polític.
+
+568
+00:21:42,140 --> 00:21:44,440
+I aquesta centralització de recursos
+
+569
+00:21:44,440 --> 00:21:46,600
+va permetre unes inversions massives,
+
+570
+00:21:47,120 --> 00:21:48,340
+sobretot en agricultura,
+
+571
+00:21:48,360 --> 00:21:50,820
+important complexos sistemes de regadiu
+
+572
+00:21:50,820 --> 00:21:52,320
+i nous conreus des de l'Unió,
+
+573
+00:21:52,900 --> 00:21:54,660
+i, òbviament, finançant un floriment
+
+574
+00:21:54,660 --> 00:21:56,780
+urbà espectacular, amb grans
+
+575
+00:21:56,780 --> 00:21:58,900
+biblioteques i infraestructures civils
+
+576
+00:21:58,900 --> 00:22:00,860
+que no tenien rival a l'Europa cristiana.
+
+577
+00:22:01,100 --> 00:22:02,420
+És que l'economia creix perquè
+
+578
+00:22:02,420 --> 00:22:04,940
+la pau interna afavoreix el comerç.
+
+579
+00:22:05,220 --> 00:22:06,080
+És així de senzill.
+
+580
+00:22:06,580 --> 00:22:08,640
+Però també trobo vital
+
+581
+00:22:08,640 --> 00:22:10,480
+posar l'accent sobre la societat
+
+582
+00:22:10,480 --> 00:22:12,500
+andalusina que emergeix sota aquest model,
+
+583
+00:22:13,000 --> 00:22:14,660
+perquè trenca molts esquemes
+
+584
+00:22:14,660 --> 00:22:16,780
+preconcebuts. No era una teocràcia
+
+585
+00:22:16,780 --> 00:22:17,860
+homogènia per a res.
+
+586
+00:22:18,360 --> 00:22:20,620
+En què no? S'hi documenta una forta presència
+
+587
+00:22:20,620 --> 00:22:22,540
+de la comunitat jueva, jugant
+
+588
+00:22:22,540 --> 00:22:24,380
+rols clau en la medicina i la diplomàcia
+
+589
+00:22:24,380 --> 00:22:26,680
+de l'Estat. I la figura dels moixarreps
+
+590
+00:22:26,680 --> 00:22:28,040
+en faixina, especialment.
+
+591
+00:22:28,160 --> 00:22:29,600
+Són molt relevants, sí.
+
+592
+00:22:30,200 --> 00:22:32,240
+Eren aquests cristians hispanovisigots
+
+593
+00:22:32,240 --> 00:22:34,420
+que van continuar sent cristians de religió
+
+594
+00:22:34,420 --> 00:22:36,860
+oficialment, però que en la seva vida diària
+
+595
+00:22:36,860 --> 00:22:38,580
+van adoptar o assimilar gran part
+
+596
+00:22:38,580 --> 00:22:40,820
+de la llengua, la vestimenta i els costums
+
+597
+00:22:40,820 --> 00:22:42,660
+àrabs. Ara bé, aquesta
+
+598
+00:22:42,660 --> 00:22:44,560
+piconadora expansiva islàmica
+
+599
+00:22:44,560 --> 00:22:46,480
+també tenia un límit operatiu, oi?
+
+600
+00:22:46,860 --> 00:22:48,360
+Perquè l'intent d'aplicar aquest mateix
+
+601
+00:22:48,360 --> 00:22:50,220
+model més al nord de la península
+
+602
+00:22:50,220 --> 00:22:52,620
+xoca frontalment contra l'estructura militar
+
+603
+00:22:52,620 --> 00:22:54,520
+d'aquells francs que havíem comentat abans.
+
+604
+00:22:54,880 --> 00:22:56,520
+Efectivament. L'any 732,
+
+605
+00:22:57,800 --> 00:22:58,900
+l'avanç islàmic
+
+606
+00:22:58,900 --> 00:23:00,620
+cap al cor de l'Europa cristiana
+
+607
+00:23:00,620 --> 00:23:02,600
+és frenat en sec a la
+
+608
+00:23:02,600 --> 00:23:03,980
+famosa batalla de Poitiers.
+
+609
+00:23:04,440 --> 00:23:06,440
+El mur franc? Això marca el fre
+
+610
+00:23:06,440 --> 00:23:08,400
+definitiu a l'expansió islàmica
+
+611
+00:23:08,400 --> 00:23:10,300
+continental per l'oest i
+
+612
+00:23:10,300 --> 00:23:12,080
+consolida la línia dels Pirineus
+
+613
+00:23:12,080 --> 00:23:14,620
+com la gran frontera geopolítica i cultural
+
+614
+00:23:14,620 --> 00:23:16,380
+d'aquesta nova edat mitjana.
+
+615
+00:23:16,680 --> 00:23:18,340
+Doncs, recapitulant una mica,
+
+616
+00:23:18,360 --> 00:23:20,420
+tots els mecanismes que hem anat
+
+617
+00:23:20,420 --> 00:23:22,420
+desgranant d'avui. Hem analitzat
+
+618
+00:23:22,420 --> 00:23:24,540
+la conversió dels francs per guanyar
+
+619
+00:23:24,540 --> 00:23:26,200
+poder a la Gàlia. Hem vist
+
+620
+00:23:26,200 --> 00:23:28,800
+el rei Recaret utilitzant el catolicisme
+
+621
+00:23:28,800 --> 00:23:30,700
+per unificar les lleis visigodes
+
+622
+00:23:30,700 --> 00:23:32,440
+a Espanya. Hem abordat
+
+623
+00:23:32,440 --> 00:23:34,740
+la complexitat de l'Església intentant,
+
+624
+00:23:35,040 --> 00:23:36,720
+sense gaire èxit, eliminar
+
+625
+00:23:36,720 --> 00:23:38,280
+déus pagans de la llengua anglesa
+
+626
+00:23:38,280 --> 00:23:40,860
+i després l'estructuració de l'Àndalus
+
+627
+00:23:40,860 --> 00:23:42,500
+a través de pactes basats
+
+628
+00:23:42,500 --> 00:23:44,400
+justament en l'estatus religiós.
+
+629
+00:23:44,940 --> 00:23:46,480
+Llavors, què vol dir tot això?
+
+630
+00:23:46,480 --> 00:23:48,340
+Ens adonem que el motor veritable,
+
+631
+00:23:48,360 --> 00:23:50,360
+de tota l'alta geopolítica en aquesta
+
+632
+00:23:50,360 --> 00:23:52,800
+transició de l'imperi romà a l'edat mitjana,
+
+633
+00:23:53,120 --> 00:23:54,840
+és un instrument molt específic,
+
+634
+00:23:55,200 --> 00:23:55,760
+la religió.
+
+635
+00:23:56,300 --> 00:23:58,420
+I revela com la tecnologia d'estat
+
+636
+00:23:58,420 --> 00:24:00,540
+més poderosa que existia a l'època.
+
+637
+00:24:00,600 --> 00:24:02,560
+I és una definició molt encertada, eh?
+
+638
+00:24:02,860 --> 00:24:04,700
+I per entendre per què el monoteisme
+
+639
+00:24:04,700 --> 00:24:06,720
+és d'haver precisament aquesta tecnologia
+
+640
+00:24:06,720 --> 00:24:08,600
+d'estat tan sol·licitada pels nous
+
+641
+00:24:08,600 --> 00:24:11,020
+arreines, les fonts ens obliguen
+
+642
+00:24:11,020 --> 00:24:12,560
+a rastrejar la seva arquitectura
+
+643
+00:24:12,560 --> 00:24:14,040
+estructural fins a les arrels.
+
+644
+00:24:15,040 --> 00:24:16,820
+Cal fixar-se en l'antiguitat
+
+645
+00:24:16,820 --> 00:24:17,780
+del poble hebreu.
+
+646
+00:24:18,360 --> 00:24:21,160
+El judaïsme aporta una innovació
+
+647
+00:24:21,160 --> 00:24:22,620
+històrica radical,
+
+648
+00:24:23,180 --> 00:24:25,700
+la idea vertebradora d'un sol Déu,
+
+649
+00:24:26,100 --> 00:24:26,420
+Jabé.
+
+650
+00:24:27,180 --> 00:24:29,420
+Els relats antics d'Abraham i de Moisès
+
+651
+00:24:29,420 --> 00:24:31,420
+guien el poble cap a Canaan
+
+652
+00:24:31,420 --> 00:24:33,560
+no tracten només sobre l'alliberament,
+
+653
+00:24:34,020 --> 00:24:35,720
+sinó sobre la cohesió d'un poble
+
+654
+00:24:35,720 --> 00:24:36,760
+al voltant de la Torah.
+
+655
+00:24:37,620 --> 00:24:39,620
+Tenir una única llei inalterable,
+
+656
+00:24:39,920 --> 00:24:41,920
+fixada, i símbols d'identitat
+
+657
+00:24:41,920 --> 00:24:43,080
+forts com la menorà,
+
+658
+00:24:43,600 --> 00:24:45,620
+doncs va ser l'element clau que va permetre
+
+659
+00:24:45,620 --> 00:24:47,860
+als judeus sobreviure institucionalment,
+
+660
+00:24:47,860 --> 00:24:50,420
+malgrat patir mil·lennis de diàspora,
+
+661
+00:24:50,860 --> 00:24:51,880
+d'exilis constants
+
+662
+00:24:51,880 --> 00:24:54,560
+i la pura absència d'un estat físic territorial.
+
+663
+00:24:55,120 --> 00:24:56,240
+Clar, perquè l'estat
+
+664
+00:24:56,240 --> 00:24:57,180
+el portaven a sobre.
+
+665
+00:24:57,500 --> 00:24:59,820
+Exacte, portaven l'estructura amb ells.
+
+666
+00:25:00,060 --> 00:25:01,700
+I aquesta fortalesa estructural
+
+667
+00:25:01,700 --> 00:25:03,760
+tan resilient és el que inspira
+
+668
+00:25:03,760 --> 00:25:05,660
+el naixement del cristianisme al segle I,
+
+669
+00:25:06,100 --> 00:25:07,680
+originat amb Jesús de Nazaret,
+
+670
+00:25:08,020 --> 00:25:10,020
+recordem, dins del mateix Imperi Romà.
+
+671
+00:25:10,120 --> 00:25:11,480
+I aquí és on jo hi trobo
+
+672
+00:25:11,480 --> 00:25:13,620
+una de les ironies històriques
+
+673
+00:25:13,620 --> 00:25:15,860
+més brillants
+
+674
+00:25:15,860 --> 00:25:17,480
+i increïbles.
+
+675
+00:25:17,860 --> 00:25:18,900
+Tota la història humana.
+
+676
+00:25:19,200 --> 00:25:21,760
+Perquè quan s'estudien els inicis d'aquest cristianisme,
+
+677
+00:25:22,100 --> 00:25:23,420
+el panorama és justament
+
+678
+00:25:23,420 --> 00:25:25,900
+l'oposat absolut al poder de l'Estat.
+
+679
+00:25:26,200 --> 00:25:27,920
+Estem parlant de minories perseguides
+
+680
+00:25:27,920 --> 00:25:29,600
+que han d'amagar-se literalment
+
+681
+00:25:29,600 --> 00:25:32,080
+a les catacumbes de les grans urbs romanes.
+
+682
+00:25:32,140 --> 00:25:32,800
+Per sobreviure?
+
+683
+00:25:32,940 --> 00:25:34,800
+Sí, per evitar-se torturats
+
+684
+00:25:34,800 --> 00:25:37,320
+simplement per negar-se a retre culte religiós
+
+685
+00:25:37,320 --> 00:25:37,900
+a l'emperador.
+
+686
+00:25:38,060 --> 00:25:39,800
+Són tres segles de martiris
+
+687
+00:25:39,800 --> 00:25:41,940
+i d'una existència absolutament marginal,
+
+688
+00:25:42,420 --> 00:25:44,700
+on la seva força residia exclusivament
+
+689
+00:25:44,700 --> 00:25:46,480
+en l'esperança de la salvació
+
+690
+00:25:46,480 --> 00:25:47,800
+i una solidaritat
+
+691
+00:25:47,860 --> 00:25:49,420
+comunitària molt ferma.
+
+692
+00:25:49,500 --> 00:25:51,720
+Però, pas a pas, i això és fascinant,
+
+693
+00:25:52,160 --> 00:25:54,520
+gràcies a l'eficàcia d'aquesta xarxa social
+
+694
+00:25:54,520 --> 00:25:55,480
+tan ben teixida,
+
+695
+00:25:56,060 --> 00:25:58,040
+assoleixen convertir-se en la religió
+
+696
+00:25:58,040 --> 00:26:00,460
+única i oficial del tot poderós
+
+697
+00:26:00,460 --> 00:26:01,200
+imperi romà.
+
+698
+00:26:01,380 --> 00:26:02,440
+Un èxit increïble.
+
+699
+00:26:02,800 --> 00:26:05,100
+Brutal. I el gir de guió mestra,
+
+700
+00:26:05,380 --> 00:26:07,260
+el clímax, ocorre quan
+
+701
+00:26:07,260 --> 00:26:09,080
+el poder militar de Roma
+
+702
+00:26:09,080 --> 00:26:11,840
+es desintegra aquell any 476.
+
+703
+00:26:12,440 --> 00:26:14,300
+Totes aquestes tribus germàniques
+
+704
+00:26:14,300 --> 00:26:16,800
+bàrbares creuen les fronteres
+
+705
+00:26:16,800 --> 00:26:17,840
+i s'apoderen
+
+706
+00:26:17,860 --> 00:26:19,140
+de los territoris, oi?
+
+707
+00:26:19,480 --> 00:26:21,500
+Llavors, què fan aquests reis que acaben
+
+708
+00:26:21,500 --> 00:26:22,660
+de destrossar l'imperi?
+
+709
+00:26:23,540 --> 00:26:25,840
+Inevitablement, ells giren cap a aquesta mateixa
+
+710
+00:26:25,840 --> 00:26:28,180
+religió, nascuda a les fosques
+
+711
+00:26:28,180 --> 00:26:29,600
+catacumbes de les ciutats
+
+712
+00:26:29,600 --> 00:26:31,520
+que ells mateixos acaben de saquejar
+
+713
+00:26:31,520 --> 00:26:33,380
+i l'utilitzen com a la base
+
+714
+00:26:33,380 --> 00:26:35,360
+de la seva pròpia legitimitat.
+
+715
+00:26:35,500 --> 00:26:36,300
+I és que és així.
+
+716
+00:26:36,660 --> 00:26:39,760
+Els visigots, els francs, els anglosaxons,
+
+717
+00:26:40,380 --> 00:26:41,600
+tots, tots s'adonen
+
+718
+00:26:41,600 --> 00:26:43,520
+que per pacificar les poblacions
+
+719
+00:26:43,520 --> 00:26:45,740
+i administrar aquests nous regnes
+
+720
+00:26:45,740 --> 00:26:47,360
+necessiten l'estructura,
+
+721
+00:26:47,360 --> 00:26:49,360
+el prestigi i el monopoli
+
+722
+00:26:49,360 --> 00:26:51,380
+de la veritat que només l'Església
+
+723
+00:26:51,380 --> 00:26:52,800
+catòlica pot donar.
+
+724
+00:26:52,940 --> 00:26:55,080
+Aquest model d'un únic déu al cel
+
+725
+00:26:55,080 --> 00:26:56,760
+i un únic rei a la terra.
+
+726
+00:26:57,020 --> 00:26:59,560
+O sigui, estem davant de la transferència
+
+727
+00:26:59,560 --> 00:27:01,160
+d'autoritat més eficaç
+
+728
+00:27:01,160 --> 00:27:02,860
+de tota l'edat antiga.
+
+729
+00:27:03,660 --> 00:27:05,260
+Pensem-hi. L'estat romà
+
+730
+00:27:05,260 --> 00:27:06,520
+mor en termes físics.
+
+731
+00:27:07,100 --> 00:27:09,400
+L'exèrcit i l'emperador desapareixen.
+
+732
+00:27:09,960 --> 00:27:11,240
+Però l'estructura
+
+733
+00:27:11,240 --> 00:27:13,040
+eclesiàstica que havien organitzat
+
+734
+00:27:13,040 --> 00:27:14,600
+proporciona de cop i volta
+
+735
+00:27:14,600 --> 00:27:16,880
+tota la burocràcia, les lleis
+
+736
+00:27:16,880 --> 00:27:18,920
+escrites en llatí i la cohesió
+
+737
+00:27:18,920 --> 00:27:20,840
+ideològica que els líders d'aquestes noves
+
+738
+00:27:20,840 --> 00:27:22,960
+potències germàniques necessitaven
+
+739
+00:27:22,960 --> 00:27:25,460
+desesperadament. Sense l'Església
+
+740
+00:27:25,460 --> 00:27:26,960
+era impossible convertir
+
+741
+00:27:26,960 --> 00:27:28,720
+els seus èxits militars ràpids
+
+742
+00:27:28,720 --> 00:27:30,920
+en dinasties que poguessin durar segles.
+
+743
+00:27:31,360 --> 00:27:32,960
+Totalment. Déu-n'hi-do, eh?
+
+744
+00:27:33,340 --> 00:27:34,780
+Ha estat un viatge d'anàlisi
+
+745
+00:27:34,780 --> 00:27:36,220
+realment revelador avui.
+
+746
+00:27:36,640 --> 00:27:38,980
+Vull dir, hem examinat amb molta profunditat
+
+747
+00:27:38,980 --> 00:27:41,400
+com el col·lapse de la superpotència romana
+
+748
+00:27:41,400 --> 00:27:42,840
+no va desembocar pas
+
+749
+00:27:42,840 --> 00:27:44,520
+en un precipici o en el no-res,
+
+750
+00:27:44,900 --> 00:27:46,780
+sinó en uns experiments polítics,
+
+751
+00:27:46,880 --> 00:27:48,700
+i socials molt, molt complexos.
+
+752
+00:27:48,800 --> 00:27:50,460
+I tant. Des d'aquell intent
+
+753
+00:27:50,460 --> 00:27:52,960
+d'apartheid administratiu dels ostrogots
+
+754
+00:27:52,960 --> 00:27:54,120
+a Itàlia amb Teodòric,
+
+755
+00:27:54,640 --> 00:27:56,540
+fins a l'exitosa estratègia de fusió
+
+756
+00:27:56,540 --> 00:27:58,740
+cultural i legal que van fer els visigots
+
+757
+00:27:58,740 --> 00:28:00,960
+i els francs a la península ibèrica i a la Gàlia.
+
+758
+00:28:01,620 --> 00:28:02,920
+Hem qüestionat l'estratègia
+
+759
+00:28:02,920 --> 00:28:04,780
+de supervivència d'Alfred el Gran
+
+760
+00:28:04,780 --> 00:28:06,880
+cedint el Danelou als víquings per comprar
+
+761
+00:28:06,880 --> 00:28:08,780
+temps, i hem comprès aquests
+
+762
+00:28:08,780 --> 00:28:11,320
+eficaços sistemes de franquícia i assimilació
+
+763
+00:28:11,320 --> 00:28:13,060
+que van catapultar l'esplendor
+
+764
+00:28:13,060 --> 00:28:14,340
+de l'Islam a l'Andalús.
+
+765
+00:28:15,000 --> 00:28:16,640
+Al final, veus que tot aquest
+
+766
+00:28:16,880 --> 00:28:18,260
+paus, aparentment desendreçat,
+
+767
+00:28:18,700 --> 00:28:20,900
+és, en realitat, el gran laboratori
+
+768
+00:28:20,900 --> 00:28:22,960
+on es van forjar les arrels dels nostres
+
+769
+00:28:22,960 --> 00:28:24,980
+codis legals i de les fronteres
+
+770
+00:28:24,980 --> 00:28:26,620
+de l'Europa moderna. Així és.
+
+771
+00:28:26,840 --> 00:28:28,800
+I, de fet, si hem de sintetitzar
+
+772
+00:28:28,800 --> 00:28:30,300
+l'essència de tota aquesta
+
+773
+00:28:30,300 --> 00:28:32,840
+metamorfosi històrica a partir
+
+774
+00:28:32,840 --> 00:28:35,040
+del que avui hem explorat en aquestes fonts,
+
+775
+00:28:35,620 --> 00:28:37,000
+em plantejo una reflexió
+
+776
+00:28:37,000 --> 00:28:38,820
+final per a qui vulgui aprofundir
+
+777
+00:28:38,820 --> 00:28:40,000
+en el tema pel seu compte.
+
+778
+00:28:40,760 --> 00:28:42,700
+A veure, sempre ens han ensenyat
+
+779
+00:28:42,700 --> 00:28:44,740
+a categoritzar la caiguda de l'imperi romà
+
+780
+00:28:44,740 --> 00:28:46,860
+l'any 476 com el
+
+781
+00:28:46,860 --> 00:28:48,720
+punt final definitiu d'una era, oi?
+
+782
+00:28:49,120 --> 00:28:50,580
+El final del món antic, sí.
+
+783
+00:28:50,880 --> 00:28:52,820
+Però quan analitzem amb deteniment els fets
+
+784
+00:28:52,820 --> 00:28:54,900
+ens adonem d'altres coses. El llatí
+
+785
+00:28:54,900 --> 00:28:56,900
+romà va continuar operant com a la llengua
+
+786
+00:28:56,900 --> 00:28:58,840
+dominant de tota l'administració i la
+
+787
+00:28:58,840 --> 00:29:00,820
+diplomàcia internacional. El dret
+
+788
+00:29:00,820 --> 00:29:02,780
+romà va acabar mutant i convertint-se en la
+
+789
+00:29:02,780 --> 00:29:04,760
+base dels codis de justícia de les mateixes
+
+790
+00:29:04,760 --> 00:29:07,020
+monarquies que, suposadament, els havien
+
+791
+00:29:07,020 --> 00:29:09,020
+conquerit. I, per sobre de tot,
+
+792
+00:29:09,360 --> 00:29:11,140
+l'estructura religiosa de l'imperi
+
+793
+00:29:11,140 --> 00:29:12,920
+va capturar les ànimes i les ments
+
+794
+00:29:12,920 --> 00:29:14,920
+de pràcticament tots els capdils bàrbar
+
+795
+00:29:14,920 --> 00:29:16,780
+que s'havien imposat per les armes.
+
+796
+00:29:16,860 --> 00:29:18,360
+Clar. I, llavors,
+
+797
+00:29:18,620 --> 00:29:20,840
+inevitablement, t'has de preguntar sobre el
+
+798
+00:29:20,840 --> 00:29:22,940
+significat real de la paraula col·lapsa.
+
+799
+00:29:23,360 --> 00:29:24,820
+Aquest és exactament
+
+800
+00:29:24,820 --> 00:29:26,920
+el moll de l'os de la història al medieval.
+
+801
+00:29:27,880 --> 00:29:29,260
+Podríem arribar a argumentar,
+
+802
+00:29:29,420 --> 00:29:30,760
+i és molt factible fer-ho,
+
+803
+00:29:31,140 --> 00:29:32,700
+que l'imperi romà mai no va
+
+804
+00:29:32,700 --> 00:29:34,980
+desaparèixer sota les espades germàniques.
+
+805
+00:29:35,760 --> 00:29:36,840
+Senzillament, davant la
+
+806
+00:29:36,840 --> 00:29:38,740
+impossibilitat física de mantenir les
+
+807
+00:29:38,740 --> 00:29:40,680
+seves vastes fronteres per la força
+
+808
+00:29:40,680 --> 00:29:42,780
+bruta de les legions, l'imperi va
+
+809
+00:29:42,780 --> 00:29:44,480
+renunciar a la seva forma física
+
+810
+00:29:44,480 --> 00:29:46,700
+per aconseguir executar la conquesta
+
+811
+00:29:46,700 --> 00:29:49,020
+cultural, lingüística i ideològica
+
+812
+00:29:49,020 --> 00:29:50,680
+més completa i espectacular
+
+813
+00:29:50,680 --> 00:29:52,660
+de tota la història. I ho va fer
+
+814
+00:29:52,660 --> 00:29:54,420
+directament des de la pròpia tomba,
+
+815
+00:29:54,800 --> 00:29:56,680
+assimilant completament els seus propis
+
+816
+00:29:56,680 --> 00:29:59,080
+conqueridors. Uau. Una conclusió
+
+817
+00:29:59,080 --> 00:30:00,760
+absolutament demolidora que
+
+818
+00:30:00,760 --> 00:30:02,860
+capgira el tauler de com veiem
+
+819
+00:30:02,860 --> 00:30:04,920
+el passat. Fixat que a l'inici
+
+820
+00:30:04,920 --> 00:30:07,020
+d'aquest espai buscàvem una línia
+
+821
+00:30:07,020 --> 00:30:09,100
+molt clara, com aquella radiografia
+
+822
+00:30:09,100 --> 00:30:10,800
+precisa de l'os trencat, que ens
+
+823
+00:30:10,800 --> 00:30:12,580
+marqués el trencament perfecte entre
+
+824
+00:30:12,580 --> 00:30:13,960
+dues èpoques mundials.
+
+825
+00:30:14,700 --> 00:30:16,680
+I ens hem adonat que el veritable coneixement
+
+826
+00:30:16,700 --> 00:30:18,920
+apareix precisament quan abandonem
+
+827
+00:30:18,920 --> 00:30:20,640
+aquesta necessitat humana
+
+828
+00:30:20,640 --> 00:30:23,000
+de límits binaris i ens submergim
+
+829
+00:30:23,000 --> 00:30:24,800
+en les grans complexitats
+
+830
+00:30:24,800 --> 00:30:26,780
+de com els col·lapses, de fet,
+
+831
+00:30:26,960 --> 00:30:28,920
+engendren sistemes completament nous
+
+832
+00:30:28,920 --> 00:30:30,680
+però que estan ben estructurats
+
+833
+00:30:30,680 --> 00:30:32,820
+sobre vells fonaments. I que
+
+834
+00:30:32,820 --> 00:30:34,620
+al cap i a la fi, des d'aquelles
+
+835
+00:30:34,620 --> 00:30:36,960
+cúpules de pedres gegantines fins a tractats
+
+836
+00:30:36,960 --> 00:30:38,900
+d'impostos i déus pagans oblidats
+
+837
+00:30:38,900 --> 00:30:40,820
+en el nostre calendari, les ombres
+
+838
+00:30:40,820 --> 00:30:42,600
+de tota aquesta transformació èpica
+
+839
+00:30:42,600 --> 00:30:44,640
+continuen, en certa manera,
+
+840
+00:30:45,100 --> 00:30:46,260
+definint qui som ara.
+
+841
+00:30:46,700 --> 00:30:48,460
+Però bé, ho deixarem aquí per avui.
+
+842
+00:30:48,880 --> 00:30:50,080
+Ens escoltem a la propera.
+

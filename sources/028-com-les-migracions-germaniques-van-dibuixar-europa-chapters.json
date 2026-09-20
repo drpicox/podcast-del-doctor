@@ -1,0 +1,12 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 028: Com les migracions germàniques van dibuixar Europa",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: el joc de les cadires del 476" },
+    { "startTime": 19.6, "title": "Per què es van moure: els huns i l'efecte dòmino" },
+    { "startTime": 41.8, "title": "Cap on van anar: Britània, Itàlia i França" },
+    { "startTime": 60.8, "title": "Francs contra visigots: Vouillé, 507" },
+    { "startTime": 83.2, "title": "Reflexió final: la llavor de les fronteres actuals" }
+  ]
+}

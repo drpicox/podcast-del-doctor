@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 029: Roma va conquerir els seus conqueridors",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: la història no és una radiografia" },
+    { "startTime": 103.0, "title": "El 476 i el reciclatge del maquinari romà" },
+    { "startTime": 157.0, "title": "L'olla a pressió: huns, refugiats i federats" },
+    { "startTime": 278.0, "title": "Ostrogots: Teodoric, l'adquisició hostil i el mausoleu" },
+    { "startTime": 563.0, "title": "Guerra gòtica i el xoc francs-visigots: Vouillé, 507" },
+    { "startTime": 683.0, "title": "Toledo i Recared: la fusió que va salvar els visigots" },
+    { "startTime": 824.0, "title": "Britània: déus pagans al calendari i Alfred el Gran" },
+    { "startTime": 1146.0, "title": "L'islam com a franquícia imperial: al-Àndalus" },
+    { "startTime": 1374.0, "title": "Poitiers i la religió com a tecnologia d'estat" },
+    { "startTime": 1706.8, "title": "Reflexió final: Roma va conquerir els seus conqueridors" }
+  ]
+}

@@ -293,6 +293,26 @@ EPISODIS = [
         "duration": "16:51",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "deepseek", "deepseek harness", "cordis", "arnès d'agent", "agents autònoms", "intel·ligència artificial", "connectors", "plugins", "composabilitat", "efectes reversibles", "koishi", "terminal-bench", "codi obert", "arquitectura de programari", "català"]
     },
+    {
+        "num": "028",
+        "fitxer": "028-com-les-migracions-germaniques-van-dibuixar-europa.mp3",
+        "identifier": "podcast-del-doctor-028-com-les-migracions-germaniques-van-dibuixar-europa",
+        "title": "Episodi 028: Com les migracions germàniques van dibuixar Europa",
+        "description": "L'any 476 cau l'Imperi Romà d'Occident i Europa es converteix en un joc de les cadires a escala continental: els huns aturen la música de cop i tothom corre a buscar seient. En un minut i mig repassem per què es van moure els pobles germànics (més refugiats que invasors), on van anar a parar (angles i saxons a Britània, ostrogots a Itàlia, francs a França) i què va passar quan les noves fronteres van topar: la batalla de Vouillé del 507, que va empènyer els visigots darrere els Pirineus. Versió resum; l'episodi 029 ho explica a fons.",
+        "date": "2026-09-20",
+        "duration": "01:33",
+        "tags": ["podcast", "història", "edat mitjana", "david rodenas", "podcast del doctor", "migracions germàniques", "pobles germànics", "huns", "francs", "visigots", "ostrogots", "anglosaxons", "caiguda de l'imperi romà", "batalla de vouillé", "2n eso", "ciències socials", "resum", "català"]
+    },
+    {
+        "num": "029",
+        "fitxer": "029-roma-va-conquerir-els-seus-conqueridors.mp3",
+        "identifier": "podcast-del-doctor-029-roma-va-conquerir-els-seus-conqueridors",
+        "title": "Episodi 029: Roma va conquerir els seus conqueridors",
+        "description": "Volem dates de caducitat per als imperis, però la història no és una radiografia amb una línia neta. El 476 no obre cap forat negre: obre un reciclatge desesperat del maquinari i el programari romans per part d'uns regnes germànics acabats de néixer. Ostrogots que compren la corporació i no saben fer-la funcionar, visigots que sobreviuen a Vouillé fusionant-se amb els hispanoromans, anglosaxons que deixen Thor i Odín al calendari, Alfred el Gran que regala mig país per comprar temps i un islam que conquereix la península en set anys a base de pactes. I una tesi: Roma va conquerir els seus conqueridors des de la tomba.",
+        "date": "2026-09-20",
+        "duration": "30:50",
+        "tags": ["podcast", "història", "edat mitjana", "david rodenas", "podcast del doctor", "caiguda de l'imperi romà", "pobles germànics", "ostrogots", "teodoric", "visigots", "recared", "francs", "clodoveu", "anglosaxons", "alfred el gran", "al-àndalus", "batalla de vouillé", "batalla de poitiers", "2n eso", "ciències socials", "català"]
+    },
 ]
 
 
