@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 031: Aprendre millor que el 97%",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: rendir millor que el 97%" },
+    { "startTime": 93.0, "title": "L'article de Nintil i les dues sigmes de Bloom" },
+    { "startTime": 211.5, "title": "Instrucció directa: lliçons amb guió" },
+    { "startTime": 410.0, "title": "Aprenentatge per domini: Kulik contra Slavin" },
+    { "startTime": 641.5, "title": "La tutoria humana i el seu sostre: 0,79 sigmes" },
+    { "startTime": 814.2, "title": "Digital Tutor de DARPA: 3,18 sigmes" },
+    { "startTime": 992.0, "title": "El bany de realitat: 0,06 sigmes a l'aula" },
+    { "startTime": 1129.4, "title": "El repàs espaiat i la corba de l'oblit" },
+    { "startTime": 1271.1, "title": "El problema de la transferència" },
+    { "startTime": 1440.3, "title": "Reflexió final: què en queda, de l'escola?" }
+  ]
+}

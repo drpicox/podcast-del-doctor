@@ -323,6 +323,16 @@ EPISODIS = [
         "duration": "25:18",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "disseny de jocs", "teoria de jocs", "huizinga", "homo ludens", "cercle màgic", "rebentapartides", "spoilsport", "charles j pratt", "game design advance", "institucions", "contracte social", "política", "català"]
     },
+    {
+        "num": "031",
+        "fitxer": "031-aprendre-millor-que-el-noranta-set-per-cent.mp3",
+        "identifier": "podcast-del-doctor-031-aprendre-millor-que-el-noranta-set-per-cent",
+        "title": "Episodi 031: Aprendre millor que el 97%",
+        "description": "Als anys 80 Benjamin Bloom va veure que un alumne mitjà, amb tutor personal i aprenentatge per domini, rendia millor que el 97% de la classe: dues sigmes. Com s'escala aquest miracle? Seguim la revisió sistemàtica de José Luis Ricón a Nintil: la instrucció directa amb lliçons guionitzades, el domini que Slavin desinfla fins a zero, el tutor humà que es queda a 0,79, el Digital Tutor de DARPA que arriba a 3,18 sigmes i fa alumnes millors que els seus instructors, i el bany de realitat de les 0,06 sigmes a l'aula real. I el que sí que funciona: repàs espaiat, i assumir que el coneixement no es transfereix.",
+        "date": "2026-09-21",
+        "duration": "27:57",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "aprenentatge", "educació", "bloom", "dues sigmes", "tutoria", "aprenentatge per domini", "instrucció directa", "darpa digital tutor", "repàs espaiat", "transferència del coneixement", "nintil", "català"]
+    },
 ]
 
 

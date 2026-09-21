@@ -1,0 +1,2112 @@
+1
+00:00:00,000 --> 00:00:09,620
+Què passaria si existís un mètode d'estudi capaç d'agafar un alumne completament mitjà
+
+2
+00:00:09,620 --> 00:00:13,760
+i de sobte fer-ho rendir millor que el 97% de la resta de persones?
+
+3
+00:00:14,420 --> 00:00:16,880
+És que sona a ciència-ficció, clar.
+
+4
+00:00:17,600 --> 00:00:21,760
+Sona a l'argument d'una pel·lícula d'aquestes sobre pastilles intel·ligents,
+
+5
+00:00:22,180 --> 00:00:26,640
+però en realitat és l'obsessió central de la pedagogia moderna.
+
+6
+00:00:26,640 --> 00:00:32,760
+I justament per això, la nostra anàlisi profunda d'avui té una missió molt clara.
+
+7
+00:00:32,920 --> 00:00:41,960
+Volem descobrir si existeix una drecera real, documentada i provada científicament cap a l'excel·lència en l'aprenentat.
+
+8
+00:00:42,260 --> 00:00:49,200
+Perquè normalment, quan es parla d'un diagnòstic en la medicina física, hi ha una expectativa clara de precisió, no?
+
+9
+00:00:49,400 --> 00:00:50,360
+Sí, totalment.
+
+10
+00:00:50,360 --> 00:00:56,200
+Algú pateix una caiguda, la radiografia mostra aquella línia blanca irregular a l'os
+
+11
+00:00:56,200 --> 00:01:00,520
+i el metge simplement assenyala i diu, doncs, aquí està la fractura.
+
+12
+00:01:01,000 --> 00:01:02,380
+És binari, net.
+
+13
+00:01:02,540 --> 00:01:06,360
+I a l'ésser humà li agrada això, que les coses siguin visibles,
+
+14
+00:01:06,540 --> 00:01:09,820
+vull dir, que els problemes es puguin assenyalar en un dit.
+
+15
+00:01:10,100 --> 00:01:14,400
+Exacte. Però clar, quan ens endincem en el món de l'aprenentatge
+
+16
+00:01:14,400 --> 00:01:17,300
+o del desenvolupament neurocognitiu i l'educació,
+
+17
+00:01:17,920 --> 00:01:19,980
+de sobte aquesta màquina de reis X
+
+18
+00:01:19,980 --> 00:01:22,300
+sembla que s'hagi espatxillat per complet.
+
+19
+00:01:22,500 --> 00:01:23,180
+I tant que sí.
+
+20
+00:01:23,380 --> 00:01:24,820
+Les dades es contradiuen,
+
+21
+00:01:24,980 --> 00:01:26,900
+els mètodes de moda canvien cada dècada
+
+22
+00:01:26,900 --> 00:01:29,720
+i ens trobem davant d'un panorama superterbol.
+
+23
+00:01:30,200 --> 00:01:32,580
+Llavors, per intentar posar llum a tot això,
+
+24
+00:01:33,080 --> 00:01:36,160
+avui ens basarem en un article exhaustiu del blog Nintil.
+
+25
+00:01:36,520 --> 00:01:37,800
+Molt recomanable, per cert.
+
+26
+00:01:37,980 --> 00:01:39,860
+Sí, escrit per José Luis Ricó,
+
+27
+00:01:40,260 --> 00:01:40,800
+que es titula
+
+28
+00:01:40,800 --> 00:01:43,440
+Sobre el problema de les dues sigmes de Blum.
+
+29
+00:01:43,440 --> 00:01:46,440
+I aquest text recopila desenes de metanàlisis
+
+30
+00:01:46,440 --> 00:01:49,040
+anàlisi sobre educació. Perquè, a veure,
+
+31
+00:01:49,540 --> 00:01:52,140
+entendre com funciona realment el cervell a l'hora
+
+32
+00:01:52,140 --> 00:01:55,820
+de similardades és vital per a tothom. Per a tothom, exacte.
+
+33
+00:01:55,840 --> 00:01:58,240
+Ja sigui per a un professional que està preparant
+
+34
+00:01:58,240 --> 00:02:01,300
+una reunió crucial o per a algú
+
+35
+00:02:01,300 --> 00:02:04,720
+que vol posar-se al dia en un sector nou sense sentir-se
+
+36
+00:02:04,720 --> 00:02:07,600
+totalment aclaparat per l'excés d'informació,
+
+37
+00:02:07,700 --> 00:02:10,420
+vull dir, ens afecta a tots. Sí. I, de fet,
+
+38
+00:02:10,660 --> 00:02:13,580
+tot aquest debat del qual parlarem neix als anys 80
+
+39
+00:02:13,580 --> 00:02:17,140
+amb un psicòleg educatiu anomenat Benjamin Blum.
+
+40
+00:02:17,820 --> 00:02:19,120
+Ell va dur a terme uns experiments
+
+41
+00:02:19,120 --> 00:02:20,940
+on va observar una cosa fascinant.
+
+42
+00:02:21,600 --> 00:02:23,580
+Va veure que si s'agrafava un estudiant mitjà
+
+43
+00:02:23,580 --> 00:02:26,500
+i se li proporcionava tutoria individualitzada
+
+44
+00:02:26,500 --> 00:02:28,560
+combinada amb una tècnica anomenada
+
+45
+00:02:28,560 --> 00:02:29,920
+apremantàcia per domini,
+
+46
+00:02:30,520 --> 00:02:33,400
+doncs l'estudiant experimentava una millora de dues sigmes.
+
+47
+00:02:33,560 --> 00:02:34,660
+Ostres, dues sigmes!
+
+48
+00:02:34,940 --> 00:02:36,820
+Que equivalen a dues desviacions estàndard.
+
+49
+00:02:36,960 --> 00:02:37,480
+Exacte.
+
+50
+00:02:37,480 --> 00:02:40,440
+D'acord, desgranem això un moment per visualitzar-ho bé,
+
+51
+00:02:40,540 --> 00:02:42,600
+perquè potser dit així sona molt abstracte.
+
+52
+00:02:42,600 --> 00:02:45,700
+una millora de dues sigmes és un salt monumental.
+
+53
+00:02:46,000 --> 00:02:46,880
+És una barbaritat.
+
+54
+00:02:47,060 --> 00:02:53,160
+És com agafar una persona amb un coeficient intel·lectual mitjà de 100
+
+55
+00:02:53,160 --> 00:02:55,720
+i pujar-lo directament a 130.
+
+56
+00:02:56,480 --> 00:02:59,620
+O, si utilitzem una analogia física per entendre'ns,
+
+57
+00:02:59,980 --> 00:03:04,420
+és com agafar una persona d'estatura completament normal, d'un metro 75,
+
+58
+00:03:05,140 --> 00:03:08,560
+i convertir-la en un jugador professional de bàsquet de més de dos metres.
+
+59
+00:03:08,740 --> 00:03:09,940
+És un exemple perfecte, sí.
+
+60
+00:03:09,940 --> 00:03:16,100
+Llavors, clar, el gran repte de Blum, el seu famós problema, era com escalar aquell miracle.
+
+61
+00:03:16,580 --> 00:03:22,280
+O sigui, com aconseguim l'efecte d'un tutor personal brineant dins d'una classe amb 30 persones.
+
+62
+00:03:22,540 --> 00:03:27,860
+I és aquí on la recerca d'aquesta escalabilitat ens porta a un dels intents més sistemàtics
+
+63
+00:03:27,860 --> 00:03:31,140
+i, bé, potser més controvertits de la història educativa,
+
+64
+00:03:31,540 --> 00:03:35,560
+que és la instrucció directa, o DI, per les seves sigles en anglès.
+
+65
+00:03:35,780 --> 00:03:39,820
+Aquest mètode es va dissenyar als anys 60 i parteix d'una premissa molt audaç.
+
+66
+00:03:39,940 --> 00:03:40,240
+Quina?
+
+67
+00:03:40,460 --> 00:03:44,260
+Si us dic que qualsevol estudiant pot aprendre qualsevol concepte,
+
+68
+00:03:44,340 --> 00:03:45,860
+independentment del seu origen,
+
+69
+00:03:46,420 --> 00:03:48,480
+sempre que ja domini els coneixements previs
+
+70
+00:03:48,480 --> 00:03:51,660
+i que la instrucció que rep sigui absolutament inequívoca.
+
+71
+00:03:52,140 --> 00:03:54,760
+I, clar, per aconseguir aquesta claretat tan perfecta,
+
+72
+00:03:54,760 --> 00:03:58,980
+la instrucció directa utilitza lliçons altament guionitzades.
+
+73
+00:03:59,760 --> 00:04:00,600
+Espero, espera un moment.
+
+74
+00:04:00,940 --> 00:04:03,520
+Quan l'article diu guionitzades,
+
+75
+00:04:04,140 --> 00:04:08,780
+vol dir que el professor té un paper amb les paraules exactes que ha de dir?
+
+76
+00:04:08,780 --> 00:04:10,540
+com si fos un actor de teatre?
+
+77
+00:04:11,060 --> 00:04:11,700
+Literalment, sí.
+
+78
+00:04:11,880 --> 00:04:12,200
+De debò?
+
+79
+00:04:12,400 --> 00:04:15,460
+Sí, sí. Els professors segueixen un manual pas a pas
+
+80
+00:04:15,460 --> 00:04:17,720
+on no hi ha gens d'espai per a la improvisació.
+
+81
+00:04:18,320 --> 00:04:19,920
+A més a més, l'estructura del temps
+
+82
+00:04:19,920 --> 00:04:23,360
+està dissenyada amb una precisió pràcticament matemàtica.
+
+83
+00:04:23,820 --> 00:04:27,180
+O sigui, la norma general exigeix que el 90% de la lliçó
+
+84
+00:04:27,180 --> 00:04:29,700
+sigui exclusivament repàs i aplicació ràpida
+
+85
+00:04:29,700 --> 00:04:31,520
+de coses que ja s'han après anteriorment.
+
+86
+00:04:31,700 --> 00:04:32,600
+El 90%?
+
+87
+00:04:32,960 --> 00:04:33,520
+El 90.
+
+88
+00:04:33,960 --> 00:04:35,880
+I només un 10% del temps
+
+89
+00:04:35,880 --> 00:04:38,260
+està dedicat a material completament nou.
+
+90
+00:04:38,260 --> 00:04:41,060
+Uf, aquí he de fer rapbòcada del diable, eh?
+
+91
+00:04:41,540 --> 00:04:44,520
+Perquè un guió on el professor llegeix com un robot
+
+92
+00:04:44,520 --> 00:04:47,340
+i un 90% de repetició constant,
+
+93
+00:04:47,760 --> 00:04:51,080
+això sona, no sé, a l'antípesi de la passió per aprendre.
+
+94
+00:04:51,420 --> 00:04:52,740
+Ja, sona fatal.
+
+95
+00:04:53,480 --> 00:04:56,680
+Sembla una cadena de muntatge industrial aplicada al cervell humà.
+
+96
+00:04:56,860 --> 00:04:59,980
+Vaja, això no destrueix per complet la creativitat
+
+97
+00:04:59,980 --> 00:05:01,740
+i la curiositat natural d'un nen?
+
+98
+00:05:01,960 --> 00:05:05,300
+Aquesta, de fet, és la reacció immediata de molts pedagogs.
+
+99
+00:05:05,300 --> 00:05:11,660
+Vull dir, autors com Alfie Kohn han criticat feroixament aquests models argumentant precisament això,
+
+100
+00:05:12,180 --> 00:05:14,300
+que creen un entorn rígid i deshumanitzat.
+
+101
+00:05:15,100 --> 00:05:16,840
+Clar, és que és el que penses d'entrada.
+
+102
+00:05:17,220 --> 00:05:18,820
+Però, i aquí ve la sorpresa.
+
+103
+00:05:19,460 --> 00:05:23,300
+Quan Ricoro analitza les dades empíriques pures, el panorama canvia radicalment.
+
+104
+00:05:24,400 --> 00:05:27,180
+Aquests suposats efectes nocius sobre la creativitat
+
+105
+00:05:27,180 --> 00:05:32,040
+simplement no apareixen documentats de manera sòlida en els estudis a llarg termini.
+
+106
+00:05:32,460 --> 00:05:35,840
+Ostres, o sigui que no els afecta la creativitat?
+
+107
+00:05:36,200 --> 00:05:37,460
+No hi ha evidència.
+
+108
+00:05:37,980 --> 00:05:42,160
+I el que sí que està àmpliament documentat és el projecte Follow-through.
+
+109
+00:05:43,040 --> 00:05:47,280
+Aquest va ser un estudi massiu als Estats Units durant les anys 60 i 70
+
+110
+00:05:47,280 --> 00:05:52,820
+que va avaluar desenes de mètodes educatius diferents en comunitats desfavorides.
+
+111
+00:05:53,340 --> 00:05:58,060
+Doncs bé, la instrucció directa va superar absolutament tots els altres enfocaments.
+
+112
+00:05:58,640 --> 00:05:59,000
+Tots.
+
+113
+00:05:59,200 --> 00:05:59,980
+Déu-n'hi-do.
+
+114
+00:06:00,300 --> 00:06:02,880
+Incluent-hi l'anomenada educació oberta,
+
+115
+00:06:03,120 --> 00:06:06,680
+que és aquest sistema on l'estudiant dirigeix lliurement el seu aprenentatge.
+
+116
+00:06:06,980 --> 00:06:11,740
+És a dir, l'enfocament lliure i creatiu va donar pitjors resultats acadèmics.
+
+117
+00:06:12,200 --> 00:06:14,900
+Clar, suposo que... A veure, pensant-ho fredament,
+
+118
+00:06:15,320 --> 00:06:19,320
+la lògica de fons és que és impossible expressar creativitat escrita,
+
+119
+00:06:19,440 --> 00:06:23,020
+per exemple, si abans no s'ha mecanitzat perfectament l'ortografia, oi?
+
+120
+00:06:23,160 --> 00:06:24,660
+Exacte, vas directe a l'arrel.
+
+121
+00:06:24,660 --> 00:06:30,040
+La mecànica rígida crea com la base perquè la creativitat pugui florir i existir més endavant.
+
+122
+00:06:30,220 --> 00:06:34,800
+Per permetre el pensament complex, si estàs pensant com s'escriu una paraula,
+
+123
+00:06:35,220 --> 00:06:37,440
+no pots estar pensant en fer metàfores, saps?
+
+124
+00:06:37,720 --> 00:06:39,920
+Clar, clar, té tota la lògica.
+
+125
+00:06:40,720 --> 00:06:45,560
+Bé, això resol el problema de la transmissió de la informació per part del mestre, no?
+
+126
+00:06:46,040 --> 00:06:50,100
+Però la teoria original de Bloom que comentaves abans tenia una altra pota fonamental,
+
+127
+00:06:50,100 --> 00:06:53,180
+que és l'aprenentatge per domini
+
+128
+00:06:53,180 --> 00:06:54,920
+o Mastery Learning en anglès.
+
+129
+00:06:55,200 --> 00:06:56,800
+Sí, l'altra cara de la moneda.
+
+130
+00:06:57,020 --> 00:06:59,220
+Clar, perquè si la instrucció directa
+
+131
+00:06:59,220 --> 00:07:01,260
+posa regles estrictes al professor,
+
+132
+00:07:01,820 --> 00:07:03,220
+l'aprenentatge per domini
+
+133
+00:07:03,220 --> 00:07:05,180
+posa regles al ritme de l'alumne.
+
+134
+00:07:05,860 --> 00:07:07,400
+El concepte mecànic, si ho entenc bé,
+
+135
+00:07:07,500 --> 00:07:08,180
+funciona així, no?
+
+136
+00:07:08,280 --> 00:07:09,860
+O sigui, l'estudiant fa una lliçó
+
+137
+00:07:09,860 --> 00:07:11,320
+i després fa un test.
+
+138
+00:07:11,820 --> 00:07:14,200
+I si no assoleix un criteri de nota molt alt,
+
+139
+00:07:14,640 --> 00:07:16,680
+diguem-ne un 90% d'encerts,
+
+140
+00:07:16,940 --> 00:07:18,860
+doncs no pot avançar, s'ha de quedar allà.
+
+141
+00:07:18,860 --> 00:07:20,280
+Sí, es queda allà encallat.
+
+142
+00:07:20,840 --> 00:07:23,640
+Reformació correctiva fins a superar aquest llindar.
+
+143
+00:07:24,260 --> 00:07:27,880
+Que, a veure, sobre el paper té tot el sentit del món.
+
+144
+00:07:28,420 --> 00:07:33,360
+No construeixes el segon pis d'una casa si els fonaments del primer pis encara no estan eixuts.
+
+145
+00:07:33,540 --> 00:07:34,580
+Sembla inqüestionable, oi?
+
+146
+00:07:34,920 --> 00:07:35,440
+Totalment.
+
+147
+00:07:35,780 --> 00:07:38,000
+I, de fet, als inicis d'aquesta recerca,
+
+148
+00:07:38,400 --> 00:07:42,060
+investigadors com James Kulik van trobar efectes molt positius.
+
+149
+00:07:42,700 --> 00:07:45,340
+Ells reportaven millores d'aproximadament mitja sigma
+
+150
+00:07:45,340 --> 00:07:48,280
+en les estudiants que feien servir aquest mètode de domini.
+
+151
+00:07:48,960 --> 00:07:51,760
+Clar, l'optimisme acadèmic es va disparar pels núvols.
+
+152
+00:07:51,960 --> 00:07:54,060
+Però la ciència avança a base de scepticisme.
+
+153
+00:07:54,620 --> 00:07:56,720
+I aquí és on la cosa es posa realment interessant,
+
+154
+00:07:57,140 --> 00:07:59,460
+perquè entra en escena un altre investigador clau,
+
+155
+00:07:59,860 --> 00:08:00,780
+en Robert Slavin.
+
+156
+00:08:01,080 --> 00:08:03,600
+Espera un moment, perquè aquest enfrontament
+
+157
+00:08:03,600 --> 00:08:06,280
+entre en Kulik i en Slavin
+
+158
+00:08:06,280 --> 00:08:09,400
+és on el mètode comença a trontollar de valent.
+
+159
+00:08:09,400 --> 00:08:12,600
+Vull dir, si Kulik troba dades positives,
+
+160
+00:08:13,200 --> 00:08:14,520
+què descobreix en Slavin
+
+161
+00:08:14,520 --> 00:08:19,920
+quan revisa exactament la mateixa literatura mèdica o acadèmica.
+
+162
+00:08:20,100 --> 00:08:25,560
+Doncs el que fa en Slavin és un exercici de neteja metodològica, bàsicament.
+
+163
+00:08:26,380 --> 00:08:29,980
+Quan ell comença a descartar els estudis que tenien defectes de disseny
+
+164
+00:08:29,980 --> 00:08:32,780
+o mostres que no eren prou representatives,
+
+165
+00:08:33,240 --> 00:08:36,300
+s'adona que l'efecte real d'aquest aprenentatge a predominir
+
+166
+00:08:36,300 --> 00:08:38,060
+caia pràcticament a zero.
+
+167
+00:08:38,360 --> 00:08:38,840
+A zero?
+
+168
+00:08:39,120 --> 00:08:41,100
+Sí, sí. I no només això, eh?
+
+169
+00:08:41,100 --> 00:08:45,600
+el que és fascinant d'aquí és que Slavin va explicar la trampa que hi havia a sota.
+
+170
+00:08:46,200 --> 00:08:49,820
+El mètode no accelerava realment la capacitat d'aprendre de ningú,
+
+171
+00:08:50,240 --> 00:08:52,580
+sinó que simplement obligava els estudiants més lents
+
+172
+00:08:52,580 --> 00:08:55,460
+a dedicar una quantitat de temps brutalment superior,
+
+173
+00:08:55,920 --> 00:09:00,860
+vull dir, estem parlant de requerir entre un 200% i un 600% més de temps d'estudi,
+
+174
+00:09:01,300 --> 00:09:02,820
+només per cobrir el mateix material.
+
+175
+00:09:03,180 --> 00:09:09,060
+Ostres! D'acord, o sigui que no estem parlant d'una optimització neurològica brillant
+
+176
+00:09:09,060 --> 00:09:10,340
+ni d'un superpoder.
+
+177
+00:09:10,520 --> 00:09:11,120
+Gens ni mica.
+
+178
+00:09:11,340 --> 00:09:12,960
+Estem parlant de pura força bruta.
+
+179
+00:09:13,240 --> 00:09:18,380
+Clar. Si un estudiant inverteix el quàdruple d'hores en un sol concepte matemàtic,
+
+180
+00:09:18,700 --> 00:09:21,080
+home, per pur desgast acabarà aprovant el test.
+
+181
+00:09:21,240 --> 00:09:22,520
+Exacte, per esgotament.
+
+182
+00:09:22,700 --> 00:09:28,520
+Però clar, mentrestant aquest noi ha perdut l'oportunitat d'aprendre història, biologia o qualsevol altra matèria,
+
+183
+00:09:28,820 --> 00:09:30,680
+perquè el temps de la jornada escolar és finit.
+
+184
+00:09:30,680 --> 00:09:32,960
+Aquest és l'argument central d'Slavin.
+
+185
+00:09:33,460 --> 00:09:34,440
+I pitjor encara, eh?
+
+186
+00:09:34,900 --> 00:09:38,040
+Va detectar que en molts d'aquests estudis on es veien millores,
+
+187
+00:09:38,040 --> 00:09:44,020
+els exàmens finals estaven dissenyats pels mateixos experimentadors que aplicaven el mètode.
+
+188
+00:09:44,260 --> 00:09:45,120
+Ai, ai, ai.
+
+189
+00:09:45,260 --> 00:09:48,700
+Clar, això derivava en la clàssica pràctica d'ensenyar per a l'examen.
+
+190
+00:09:49,140 --> 00:09:52,740
+Vull dir, preparaven els alumnes només per passar aquell test específic.
+
+191
+00:09:53,340 --> 00:09:54,020
+I què passava?
+
+192
+00:09:54,420 --> 00:09:57,860
+Que quan s'aplicaven proves estandarditzades externes i neutrals,
+
+193
+00:09:58,360 --> 00:10:02,360
+doncs l'avantatge teòric simplement desapareixia. No hi havia res.
+
+194
+00:10:02,560 --> 00:10:04,080
+Baixa, que es desinflava tot.
+
+195
+00:10:04,240 --> 00:10:04,760
+Totalment.
+
+196
+00:10:04,760 --> 00:10:10,460
+i, per cert, Ricó aporta dades molt recents a l'article per reformar tot això.
+
+197
+00:10:11,240 --> 00:10:15,300
+Esmenta un gran experiment controlat aleatoritzat molt modern
+
+198
+00:10:15,300 --> 00:10:18,440
+que es va fer al Brasil amb la plataforma Khan Academy,
+
+199
+00:10:18,940 --> 00:10:23,640
+on precisament s'aplicava aquest requisit de domini total abans de deixar avançar l'alumne.
+
+200
+00:10:24,300 --> 00:10:26,280
+El resultat empíric va ser el mateix.
+
+201
+00:10:26,640 --> 00:10:30,780
+No hi va haver cap millora significativa en el rendiment global dels alumnes.
+
+202
+00:10:30,780 --> 00:10:35,700
+Llavors, clar, l'aprenentatge per domini aplicat en grups grans
+
+203
+00:10:35,700 --> 00:10:38,280
+no només atura els estudiants que van ràpid,
+
+204
+00:10:38,620 --> 00:10:40,920
+sinó que literalment es gota els més lents.
+
+205
+00:10:41,500 --> 00:10:45,200
+Això ens aboca a una mena de carreró sense sortida logístic.
+
+206
+00:10:45,380 --> 00:10:46,300
+És un atxucac, sí.
+
+207
+00:10:46,700 --> 00:10:50,000
+Perquè si no puguem aplicar ni l'aprenentatge en grup rígid
+
+208
+00:10:50,000 --> 00:10:52,100
+ni aquest aprenentatge al propi ritme
+
+209
+00:10:52,100 --> 00:10:54,160
+sense generar problemes secundaris greus,
+
+210
+00:10:54,740 --> 00:10:57,360
+doncs sembla que estem forçats a tornar a l'origen de tot.
+
+211
+00:10:57,360 --> 00:11:00,360
+El problema inicial de Blum, la tutoria individual.
+
+212
+00:11:01,380 --> 00:11:02,000
+És el mateix.
+
+213
+00:11:02,400 --> 00:11:06,120
+O sigui, un humà ha segut al costat d'un altre humà. No hi ha més.
+
+214
+00:11:06,820 --> 00:11:09,340
+Però aquí topem amb l'economia, no?
+
+215
+00:11:09,820 --> 00:11:13,980
+Contractar un exèrcit d'experts per tutoritzar milions de persones
+
+216
+00:11:13,980 --> 00:11:16,520
+de forma individual 8 hores al dia
+
+217
+00:11:16,520 --> 00:11:19,740
+és econòmicament inviable per a qualsevol país.
+
+218
+00:11:20,620 --> 00:11:24,080
+Tot i això, a veure, si analitzem quin és l'efecte estadístic
+
+219
+00:11:24,080 --> 00:11:25,620
+d'un tutor humà mitjà
+
+220
+00:11:25,620 --> 00:11:27,940
+quan realment s'aconsegueix finançar-lo,
+
+221
+00:11:28,400 --> 00:11:32,740
+veiem una millora molt robusta, d'unes 0,79 sigmes.
+
+222
+00:11:33,100 --> 00:11:34,320
+D'acord, està molt bé.
+
+223
+00:11:34,700 --> 00:11:38,480
+És excel·lent, sí, però clar, continua quedant a menys de la meitat
+
+224
+00:11:38,480 --> 00:11:41,320
+del mite fundacional d'aquelles dues sigmes de Blum.
+
+225
+00:11:41,660 --> 00:11:42,640
+Ja, no hi arriba.
+
+226
+00:11:43,420 --> 00:11:48,500
+I aquí és on l'article introdués el gir argumental tecnològic,
+
+227
+00:11:48,700 --> 00:11:49,980
+que ho canvia pràcticament tot.
+
+228
+00:11:49,980 --> 00:11:51,840
+És la meva part preferida, sens dubte.
+
+229
+00:11:52,020 --> 00:11:53,380
+Límit, un sostre.
+
+230
+00:11:53,380 --> 00:11:58,000
+I deixa'm plantejar-ho amb una analogia, per veure si entens bé el mecanisme.
+
+231
+00:11:58,460 --> 00:11:59,120
+Endavant, a veure.
+
+232
+00:11:59,400 --> 00:12:05,760
+Un totoumà sovint actua com, diguem-ne, com un amic que t'ajuda a muntar un moble d'Ikea enorme.
+
+233
+00:12:06,540 --> 00:12:10,360
+Aquest amic pot empatitzar amb la teva frustració, et pot donar ànims,
+
+234
+00:12:10,800 --> 00:12:13,400
+però clar, quan la peça no encaixa de cap de les maneres,
+
+235
+00:12:13,920 --> 00:12:17,800
+el teu amic no sap exactament quin engranatge mental falla dins del teu cap.
+
+236
+00:12:18,300 --> 00:12:20,680
+Sap que s'ha comès un error perquè el moble està coix,
+
+237
+00:12:20,680 --> 00:12:27,820
+però no pot llegir la teva ment per descobrir quina regla invisible de les instruccions has interpretat malament fa cinc minuts.
+
+238
+00:12:28,060 --> 00:12:31,800
+És una metàfora molt encertada. És exactament això.
+
+239
+00:12:32,200 --> 00:12:34,880
+El tutor humà observa el resultat final de l'error,
+
+240
+00:12:35,400 --> 00:12:41,460
+però poques vegades detecta allò que en neurociència s'anomenen models mentals defectuosos.
+
+241
+00:12:42,020 --> 00:12:46,600
+O sigui, l'estudiant pot estar aplicant una lògica interna que està malament d'arrel
+
+242
+00:12:46,600 --> 00:12:49,160
+i el mestre humà, per molt bo que sigui,
+
+243
+00:12:49,580 --> 00:12:52,800
+triga molt de temps a desxifrar quina és aquesta lògica fallida.
+
+244
+00:12:53,120 --> 00:12:55,180
+Perquè no estem dins del cap de l'altre.
+
+245
+00:12:55,560 --> 00:12:56,540
+Clar, som humans.
+
+246
+00:12:57,160 --> 00:12:59,940
+En canvi, el programari de tutoria adaptativa d'alta qualitat
+
+247
+00:12:59,940 --> 00:13:03,540
+no pateix d'aquestes distraccions o limitacions humanes.
+
+248
+00:13:04,180 --> 00:13:07,360
+Aquest programari monitoritza cada clic del ratolí de l'alumne,
+
+249
+00:13:07,860 --> 00:13:10,660
+mesura els milisegons de dubte abans de donar una resposta
+
+250
+00:13:10,660 --> 00:13:14,880
+i amb tota aquesta dada t'ofereix un feedback instantani i microscòpic
+
+251
+00:13:14,880 --> 00:13:19,360
+just en el moment i el lloc on es produeix el trencament cognitiu.
+
+252
+00:13:19,640 --> 00:13:22,260
+I aquesta precisió quirúrgica de les màquines
+
+253
+00:13:22,260 --> 00:13:27,860
+és precisament el que ens porta al cas més espectacular esmentat a les fonts.
+
+254
+00:13:28,500 --> 00:13:30,800
+Un projecte que fa replantejar absolutament
+
+255
+00:13:30,800 --> 00:13:33,760
+tot allò que donàvem per assumit sobre l'aprenentatge.
+
+256
+00:13:34,240 --> 00:13:37,280
+Estic parlant del projecte Digital Tutor de DARPA.
+
+257
+00:13:37,740 --> 00:13:39,920
+Mare meva, quina bogeria de projecte!
+
+258
+00:13:40,400 --> 00:13:42,160
+DARPA, per a qui no el sàpiga,
+
+259
+00:13:42,160 --> 00:13:45,100
+és l'Agència d'Investigació Militar dels Estats Units.
+
+260
+00:13:45,440 --> 00:13:47,580
+Els que van inventar internet, pràcticament.
+
+261
+00:13:47,820 --> 00:13:48,640
+Exacte, aquest.
+
+262
+00:13:49,280 --> 00:13:51,520
+Doncs tenien un problema real molt urgent.
+
+263
+00:13:52,060 --> 00:13:54,820
+Necessitaven formar tècnics de sistemes informàtics
+
+264
+00:13:54,820 --> 00:13:58,580
+altament qualificats per a la Marina en un temps rècord.
+
+265
+00:13:58,880 --> 00:14:01,400
+I ells no tenien temps per a teories abstractes
+
+266
+00:14:01,400 --> 00:14:03,100
+o reflexions filosòfiques, no.
+
+267
+00:14:03,600 --> 00:14:06,280
+Necessitaven operaris capaços de solucionar
+
+268
+00:14:06,280 --> 00:14:07,860
+crisis complexes als vaixells.
+
+269
+00:14:08,220 --> 00:14:08,520
+I ja.
+
+270
+00:14:08,840 --> 00:14:09,240
+El gra.
+
+271
+00:14:09,240 --> 00:14:13,080
+artificial purament centrada en la instrucció tècnica d'aquests sistemes.
+
+272
+00:14:13,460 --> 00:14:15,240
+I els resultats d'aquestes avaluacions?
+
+273
+00:14:15,760 --> 00:14:20,140
+Ostres, són difícils de creure fins i tot per als mateixos investigadors educatius.
+
+274
+00:14:20,820 --> 00:14:26,320
+Resulta que el programari va aconseguir fins a 3,18 sigmes de millora en els estudiants.
+
+275
+00:14:26,560 --> 00:14:28,020
+3,18 sigmes?
+
+276
+00:14:28,060 --> 00:14:29,040
+Sí, sí, ha sentit bé.
+
+277
+00:14:29,220 --> 00:14:33,940
+Però és que això, a veure, això no només resol el problema de blum original de les dues sigmes,
+
+278
+00:14:34,200 --> 00:14:37,480
+sinó que literalment destrói el sostre estadístic previ que teníem.
+
+279
+00:14:37,480 --> 00:14:41,920
+I a sobre ho va aconseguir reduint dràsticament el temps de formació.
+
+280
+00:14:42,540 --> 00:14:46,380
+Fixa't, van agafar un curs naval convencional que durava 35 setmanes, eh?
+
+281
+00:14:46,540 --> 00:14:51,420
+35. I el van comprimir a només 16 setmanes, utilitzant l'entrenador digital aquest.
+
+282
+00:14:51,560 --> 00:14:53,280
+A la meitat de temps? Increïble.
+
+283
+00:14:53,560 --> 00:14:59,020
+Sí. I la dada, que realment ens hauria de fer reflexionar a tots sobre el futur,
+
+284
+00:14:59,760 --> 00:15:05,180
+quan van posar a prova aquests alumnes joves, educats gairebé exclusivament pel programari,
+
+285
+00:15:05,180 --> 00:15:10,700
+van superar de manera incontestable les puntuacions dels propis instructors humans
+
+286
+00:15:10,700 --> 00:15:14,240
+que donaven les classes tradicionals en aquell mateix centre militar.
+
+287
+00:15:14,780 --> 00:15:16,460
+O sigui, perdona.
+
+288
+00:15:16,640 --> 00:15:16,840
+Sí?
+
+289
+00:15:17,280 --> 00:15:20,220
+M'estàs dient que la màquina va produir estudiants
+
+290
+00:15:20,220 --> 00:15:25,480
+que en menys de quatre mesos eren millors que els seus propis mestres humans veterans?
+
+291
+00:15:26,040 --> 00:15:29,620
+Exactament això. Millors que els que portaven anys donant la teoria.
+
+292
+00:15:29,960 --> 00:15:30,380
+Hòstia.
+
+293
+00:15:30,380 --> 00:15:35,480
+Vull dir, la implicació d'això per a qualsevol persona de l'audiència és evident.
+
+294
+00:15:36,180 --> 00:15:41,800
+Si l'objectiu d'algú és aprendre una habilitat tècnica dura, procedimental,
+
+295
+00:15:41,900 --> 00:15:46,840
+vull dir, ja sigui llenguatges de programació o, jo què sé, matemàtiques avançades
+
+296
+00:15:46,840 --> 00:15:53,880
+o les regles gramaticals d'un idioma, la inversió més eficient ja no és anar a buscar el tutor humà més car del mercat, oi?
+
+297
+00:15:54,260 --> 00:15:57,380
+La decisió més intel·ligent avui dia és buscar l'algoritme més refinat,
+
+298
+00:15:57,380 --> 00:16:00,940
+refinat, perquè la màquina simplement detectarà el teu bloqueig cognitiu
+
+299
+00:16:00,940 --> 00:16:03,840
+molt millor que un home. Absolutament. Això és
+
+300
+00:16:03,840 --> 00:16:06,780
+innegable, a hores d'ara. Però clar, si connectem
+
+301
+00:16:06,780 --> 00:16:09,460
+això amb la visió en general, un cop veiem aquests
+
+302
+00:16:09,460 --> 00:16:12,680
+pics d'èxit tan extrems als laboratoris o als militars,
+
+303
+00:16:13,380 --> 00:16:15,260
+ens topem de ple amb una realitat bastant
+
+304
+00:16:15,260 --> 00:16:18,140
+descorrejatora quan mirem el sistema educatiu global.
+
+305
+00:16:18,620 --> 00:16:21,400
+Sí, clar. Vull dir, si la tecnologia d'ARPA
+
+306
+00:16:21,400 --> 00:16:24,320
+funciona tan bé, per què l'aprenentatge mitjà
+
+307
+00:16:24,320 --> 00:16:26,620
+als instituts o a les universitats públiques
+
+308
+00:16:26,620 --> 00:16:29,720
+continua sent pràcticament idèntic al de fa 50 anys.
+
+309
+00:16:30,220 --> 00:16:31,920
+Justament d'això et volia plantejar.
+
+310
+00:16:32,060 --> 00:16:34,340
+O sigui, on és el parany en tot això?
+
+311
+00:16:35,080 --> 00:16:38,860
+Quin és el filtre que impedeix que aquesta revolució tecnològica
+
+312
+00:16:38,860 --> 00:16:41,100
+arribi a les aules normals i corrents?
+
+313
+00:16:41,660 --> 00:16:45,260
+Doncs el parany rau a la pròpia naturalesa de la ciència educativa.
+
+314
+00:16:46,080 --> 00:16:49,280
+Està completament impregnada d'allò que anomenem soroll estadístic
+
+315
+00:16:49,280 --> 00:16:50,620
+i variables de confusió.
+
+316
+00:16:50,860 --> 00:16:51,140
+Clar.
+
+317
+00:16:51,140 --> 00:16:55,560
+L'article de Ricón cita una metaanàlisi que, sincerament, és demolidora.
+
+318
+00:16:56,220 --> 00:17:00,020
+Van analitzar 190 assajos educatius aleatoritzats a gran escala.
+
+319
+00:17:00,660 --> 00:17:04,460
+Aquests estudis el que feien era intentar traslladar petites intervencions
+
+320
+00:17:04,460 --> 00:17:08,060
+que havien tingut èxit al laboratori cap als sistemes escolars reals.
+
+321
+00:17:08,340 --> 00:17:09,520
+Amb tot el que això implica, eh?
+
+322
+00:17:09,900 --> 00:17:13,140
+Defectes de pressupost, nens que no presten atenció, aules massificades...
+
+323
+00:17:13,820 --> 00:17:14,800
+La vida real, vaja.
+
+324
+00:17:15,360 --> 00:17:17,760
+Exacte. El caos del món real.
+
+325
+00:17:18,360 --> 00:17:23,080
+Saps quin va ser el resultat mitjà de rendiment de tots aquests esforços titànics sumats?
+
+326
+00:17:23,500 --> 00:17:26,200
+Em fa por preguntar-ho. Què va ser?
+
+327
+00:17:26,620 --> 00:17:31,720
+Un minúscul, ridícul increment de 0,06 sigmes.
+
+328
+00:17:32,120 --> 00:17:33,340
+0,06?
+
+329
+00:17:33,780 --> 00:17:39,640
+Sí. És una xifra tan petita que, a efectes pràctics, esdevé indetectable a l'aula. No es nota.
+
+330
+00:17:39,640 --> 00:17:44,620
+Això ens demostra que allò que brilla en un entorn supercontrolat i bé finançat com el de DARPA
+
+331
+00:17:44,620 --> 00:17:47,500
+gaire sempre s'ofaga en el caos de la vida real.
+
+332
+00:17:47,760 --> 00:17:49,800
+Quin bany de realitat més bèstific, sincerament.
+
+333
+00:17:50,360 --> 00:17:51,780
+I em sembla que aquest bany de realitat
+
+334
+00:17:51,780 --> 00:17:53,860
+també se'n porta per davant molts d'aquests mites
+
+335
+00:17:53,860 --> 00:17:55,380
+de l'aprenentatge que ens han venut
+
+336
+00:17:55,380 --> 00:17:57,680
+milions de llibres d'autoajuda últimament.
+
+337
+00:17:57,960 --> 00:17:59,360
+I tant, molts llibres.
+
+338
+00:17:59,660 --> 00:18:01,940
+Per exemple, la famosa idea
+
+339
+00:18:01,940 --> 00:18:03,440
+de la pràctica deliberada
+
+340
+00:18:03,440 --> 00:18:05,820
+o la mítica regla de les 10.000 hores
+
+341
+00:18:05,820 --> 00:18:07,500
+per assolir la genialitat, saps?
+
+342
+00:18:07,800 --> 00:18:10,060
+Allò de practica 10.000 hores i seràs el millor.
+
+343
+00:18:10,660 --> 00:18:11,820
+Doncs, tot i que aquesta regla
+
+344
+00:18:11,820 --> 00:18:13,760
+funciona prou bé per a violinistes
+
+345
+00:18:13,760 --> 00:18:15,520
+o per a jugadors d'escacs,
+
+346
+00:18:15,940 --> 00:18:17,420
+les dades que recull Ricó
+
+347
+00:18:17,420 --> 00:18:21,140
+mostren que, en l'àmbit estricte del coneixement acadèmic superior,
+
+348
+00:18:21,700 --> 00:18:23,860
+la pràctica deliberada només arriba a explicar
+
+349
+00:18:23,860 --> 00:18:26,920
+el voltant d'un 4% de la variància de l'èxit.
+
+350
+00:18:27,280 --> 00:18:29,540
+És fort, eh? Un mer 4%.
+
+351
+00:18:29,540 --> 00:18:32,500
+Un 4%. O sigui, resulta que estudiar
+
+352
+00:18:32,500 --> 00:18:34,620
+com si un fos un esportista olímpic
+
+353
+00:18:34,620 --> 00:18:36,960
+no el garanteix convertir-te en un geni científic.
+
+354
+00:18:37,300 --> 00:18:39,020
+Ens han venut una mica la moto amb això.
+
+355
+00:18:39,580 --> 00:18:43,920
+Però, afortunadament, d'entre tota aquesta runa d'estudis feliç,
+
+356
+00:18:44,320 --> 00:18:46,200
+l'autor en rescata algunes tècniques
+
+357
+00:18:46,200 --> 00:18:48,980
+que sí que funcionen universalment, que podem aplicar.
+
+358
+00:18:49,400 --> 00:18:52,260
+I la principal de totes elles és el repàs espaiat,
+
+359
+00:18:52,540 --> 00:18:54,720
+o el que en anglès diuen spaced repetition.
+
+360
+00:18:55,160 --> 00:18:58,260
+Sí, sí, el repàs espaiat és una meravella.
+
+361
+00:18:59,000 --> 00:19:01,980
+De fet, és una de les poques lleis pràcticament inamovibles
+
+362
+00:19:01,980 --> 00:19:03,400
+de la psicologia cognitiva.
+
+363
+00:19:03,900 --> 00:19:05,820
+I genera un efecte supersòlid,
+
+364
+00:19:06,200 --> 00:19:09,620
+d'unes 0,42 sigmes en estudis generals.
+
+365
+00:19:10,520 --> 00:19:12,340
+Però clar, aquí el que és rellevant
+
+366
+00:19:12,340 --> 00:19:14,260
+no és només la xifra estadística,
+
+367
+00:19:14,260 --> 00:19:18,040
+sinó el mecanisme neurològic profund que hi ha darrere d'això.
+
+368
+00:19:18,680 --> 00:19:23,060
+Tot plegat es basa en l'anomenada corba de l'oblit, de Ebbinghaus.
+
+369
+00:19:23,740 --> 00:19:30,320
+D'acord. A veure, com funciona aquesta corba exactament dins del nostre cervell, físicament, vull dir?
+
+370
+00:19:30,780 --> 00:19:36,660
+Doncs resulta que el cervell humà està dissenyat evolutivament per esborrar informació de manera agressiva.
+
+371
+00:19:37,180 --> 00:19:38,180
+Ho fa per estalvar energia.
+
+372
+00:19:38,480 --> 00:19:43,180
+Vull dir, si algú llegeix una dada avui i no la necessita de forma crítica demà,
+
+373
+00:19:43,180 --> 00:19:47,060
+i, a demà, el cervell simplement destrueix aquella connexió neuronal.
+
+374
+00:19:47,540 --> 00:19:48,080
+És neteja.
+
+375
+00:19:48,560 --> 00:19:48,780
+Clar.
+
+376
+00:19:49,080 --> 00:19:51,020
+L'única manera de convèncer el teu cervell
+
+377
+00:19:51,020 --> 00:19:54,580
+que aquella dada és realment crucial per a la teva supervivència
+
+378
+00:19:54,580 --> 00:19:57,880
+és intentar recordar-la precisament, i aquí està la clau,
+
+379
+00:19:58,480 --> 00:20:00,720
+en el moment exacte en què s'està a punt d'oblidar.
+
+380
+00:20:01,240 --> 00:20:03,440
+Ah, quan comences a veir-se?
+
+381
+00:20:03,560 --> 00:20:04,040
+Exacte.
+
+382
+00:20:04,600 --> 00:20:07,440
+Aquest esforç cognitiu brutal, aquesta fricció i patiment
+
+383
+00:20:07,440 --> 00:20:09,940
+al moment de recuperar un record que ja està degradat,
+
+384
+00:20:09,940 --> 00:20:13,500
+és allò que físicament engrosseix la mielina al voltant de les neurones.
+
+385
+00:20:14,140 --> 00:20:17,580
+I aquesta mielina extra fa que la connexió sigui més ràpida i més permanent.
+
+386
+00:20:18,040 --> 00:20:20,920
+Llavors, clar, això ho explica perfectament
+
+387
+00:20:20,920 --> 00:20:23,860
+perquè les famoses maratons d'estudi de matinada,
+
+388
+00:20:24,280 --> 00:20:27,960
+allò d'intentar embotir tot el tamari de cop el dia abans d'un examen final,
+
+389
+00:20:28,320 --> 00:20:30,420
+són absolutament inútils a llarg termini, oi?
+
+390
+00:20:30,680 --> 00:20:31,600
+Inútils del tot.
+
+391
+00:20:31,820 --> 00:20:36,200
+Perquè, clar, la informació es guarda només a la memòria a curt tempi, allà al davant.
+
+392
+00:20:36,200 --> 00:20:40,340
+no hi ha cap fricció de recuperació, no s'espacien el temps
+
+393
+00:20:40,340 --> 00:20:43,660
+i, per tant, el dendemà de l'examen allò simplement s'evapora.
+
+394
+00:20:43,920 --> 00:20:46,640
+No s'ha creat cap estructura física sòlida al cervell.
+
+395
+00:20:47,000 --> 00:20:47,480
+Tal qual.
+
+396
+00:20:48,120 --> 00:20:52,040
+El repàs espaiat demostra que allargar aquests intervals entre sessions d'estudi
+
+397
+00:20:52,040 --> 00:20:57,040
+és una eina fisiològica innegociable si realment vols aprendre-ho.
+
+398
+00:20:57,320 --> 00:21:01,220
+Ara bé, encara que algú apliqui aquesta tècnica meravellosa a la perfecció
+
+399
+00:21:01,220 --> 00:21:05,240
+i domini un tema, l'anàlisi de Ricom conclou amb un obstacle final
+
+400
+00:21:05,240 --> 00:21:10,680
+que suposa un xoc frontal per a qualsevol estudiant modern o ambiciós,
+
+401
+00:21:11,140 --> 00:21:14,000
+que és el problema de la transferència del coneixement.
+
+402
+00:21:14,300 --> 00:21:16,180
+Ai, el problema de la transferència.
+
+403
+00:21:16,540 --> 00:21:20,760
+Aquest concepte que ha estat molt popularitzat per l'economista Brian Kaplan, no?
+
+404
+00:21:21,280 --> 00:21:24,380
+A veure, plantejat de manera senzilla per a qui ens escolta.
+
+405
+00:21:25,080 --> 00:21:28,940
+És la idea d'exercitar el cervell com si fos un múscul genèric.
+
+406
+00:21:29,500 --> 00:21:31,640
+En el món físic, o sigui en l'esport,
+
+407
+00:21:31,640 --> 00:21:34,880
+si una persona s'entrena agixant pesos al gimnàs,
+
+408
+00:21:35,240 --> 00:21:39,660
+doncs aconsegueix una força als braços que pot utilitzar tant per, no sé,
+
+409
+00:21:39,780 --> 00:21:44,140
+per empènyer una porta molt pesada com per moure un cotxe que s'ha espatllat.
+
+410
+00:21:44,680 --> 00:21:49,080
+O sigui, la força física es transfereix a altres àmbits de la vida de forma natural.
+
+411
+00:21:49,460 --> 00:21:50,060
+Clar, sí, sí.
+
+412
+00:21:50,400 --> 00:21:53,460
+Però la pregunta és, el cervell funciona així?
+
+413
+00:21:54,000 --> 00:21:59,240
+Vull dir, estudiar història a l'institut genera un pensament crític genèric
+
+414
+00:21:59,240 --> 00:22:02,900
+que ens converteixi màgicament en millors votants a les eleccions?
+
+415
+00:22:02,900 --> 00:22:05,900
+Doncs la resposta científica a això és contundent.
+
+416
+00:22:06,980 --> 00:22:11,180
+Ja he vist que sovint és molt decepcionadora per als acadèmics clàssics.
+
+417
+00:22:11,820 --> 00:22:14,740
+La resposta és no. Rotundament no.
+
+418
+00:22:15,060 --> 00:22:17,180
+Ostres! O sigui, res de res.
+
+419
+00:22:17,320 --> 00:22:19,900
+Res. La cognició no és un múscul genèric.
+
+420
+00:22:20,820 --> 00:22:25,780
+El cervell humà organitza la informació de manera extremadament dependent del context específic.
+
+421
+00:22:26,120 --> 00:22:26,300
+Ja.
+
+422
+00:22:26,820 --> 00:22:27,900
+Kaplan ho explica amb exemples.
+
+423
+00:22:27,900 --> 00:22:30,020
+exemples. Fer molts encreuats
+
+424
+00:22:30,020 --> 00:22:31,920
+obsessivament cada dia fa que una
+
+425
+00:22:31,920 --> 00:22:33,860
+persona sigui una autèntica mestra
+
+426
+00:22:33,860 --> 00:22:35,300
+resolent molts encreuats, cert?
+
+427
+00:22:35,820 --> 00:22:37,840
+Però per què? Perquè apren els padrons
+
+428
+00:22:37,840 --> 00:22:39,860
+exactes d'aquella tasca en concret.
+
+429
+00:22:40,440 --> 00:22:41,940
+Però això no incrementa ni un
+
+430
+00:22:41,940 --> 00:22:44,100
+pèl la seva capacitat analítica general
+
+431
+00:22:44,100 --> 00:22:45,880
+per resoldre un problema financer, per
+
+432
+00:22:45,880 --> 00:22:48,020
+exemple, ni tampoc l'ajuda a deduir
+
+433
+00:22:48,020 --> 00:22:49,620
+millor les estructures d'un idioma
+
+434
+00:22:49,620 --> 00:22:51,700
+estranger que vol aprendre. Aleshores,
+
+435
+00:22:51,840 --> 00:22:54,120
+clar, l'esperança humanista,
+
+436
+00:22:54,240 --> 00:22:55,640
+aquesta clàssica que estudiar
+
+437
+00:22:55,640 --> 00:22:57,800
+matèries com, jo què sé, la lògica
+
+438
+00:22:57,800 --> 00:23:01,100
+formal o el llatí que deien que ens feien més intel·ligents
+
+439
+00:23:01,100 --> 00:23:03,680
+en sentit global i ens estructurava el cap,
+
+440
+00:23:04,200 --> 00:23:06,740
+tot això simplement xoca de morros contra la realitat
+
+441
+00:23:06,740 --> 00:23:09,560
+neurològica, no? L'habilitat es queda encapsuada.
+
+442
+00:23:09,900 --> 00:23:12,080
+L'evidència científica suggereix que sí.
+
+443
+00:23:12,720 --> 00:23:16,180
+Llatí et fa bo en llatí. I justament basant-se
+
+444
+00:23:16,180 --> 00:23:19,080
+en aquesta impossibilitat de la transferència
+
+445
+00:23:19,080 --> 00:23:21,900
+fora de contextos idèntics, Encaplen
+
+446
+00:23:21,900 --> 00:23:24,780
+proposa una solució com molts consideren dràstica
+
+447
+00:23:24,780 --> 00:23:27,080
+per als sistemes de formació estatals.
+
+448
+00:23:27,080 --> 00:23:28,440
+Què proposa ell?
+
+449
+00:23:28,720 --> 00:23:32,700
+Diu que s'hauria de dedicar gairebé tota l'energia del sistema educatiu
+
+450
+00:23:32,700 --> 00:23:36,700
+únicament a consolidar habilitats purament fundacionals,
+
+451
+00:23:37,200 --> 00:23:40,380
+és a dir, llegir amb una comprensió profunda real,
+
+452
+00:23:40,860 --> 00:23:43,440
+redactar idees complexes amb claritat absoluta
+
+453
+00:23:43,440 --> 00:23:46,960
+i dominar el càlcul matemàtic bàsic i l'estadística diària
+
+454
+00:23:46,960 --> 00:23:48,460
+per saber interpretar el món.
+
+455
+00:23:48,980 --> 00:23:50,860
+I prou, tot el temps restant,
+
+456
+00:23:51,180 --> 00:23:53,920
+que ara mateix es dedica a mil matèries perifèriques
+
+457
+00:23:53,920 --> 00:23:56,800
+buscant un teòric creixement intel·lectual que no existeix,
+
+458
+00:23:57,080 --> 00:24:00,140
+doncs s'hauria de liberar per complet o replantejar de zero.
+
+459
+00:24:00,360 --> 00:24:04,440
+Hòstia, és que quina manera de sacsejar el paradigma educatiu, eh?
+
+460
+00:24:04,720 --> 00:24:08,040
+Si ens aturem un segon per connectar-ho tot i, vull dir,
+
+461
+00:24:08,200 --> 00:24:12,180
+per fer balanç del que hem extret de tota aquesta recopilació de fons,
+
+462
+00:24:12,680 --> 00:24:15,500
+hem vist que el somni de les dues sigmes de Blum,
+
+463
+00:24:16,280 --> 00:24:19,060
+malauradament, és més un horitzó estadístic extrem,
+
+464
+00:24:19,380 --> 00:24:23,080
+com un valor atípic que es dona en condicions immaculades de laboratori.
+
+465
+00:24:23,840 --> 00:24:24,900
+Sí, sí, tal qual.
+
+466
+00:24:24,900 --> 00:24:28,560
+No és pas un botó màgic que puguem prendre cada matí a classe i ja està.
+
+467
+00:24:29,500 --> 00:24:36,860
+Però tan amagadament, aquesta anàlisi tan rigorosa ens deixa molt clar què és el que exigeix l'aprenentatge veritable.
+
+468
+00:24:38,180 --> 00:24:43,800
+O sigui, si algú busca una adreçera real cap al coneixement dur, les dades li duen diverses coses.
+
+469
+00:24:44,740 --> 00:24:51,060
+Primer, que busqui instrucció cristallina i directa, sense ambigüedats ni amb focs lliures hippies.
+
+470
+00:24:51,680 --> 00:24:52,800
+Exacte, el gra.
+
+471
+00:24:52,800 --> 00:24:57,540
+Segon, que inverteixi en tutors d'intel·ligència artificial
+
+472
+00:24:57,540 --> 00:25:02,780
+dissenyats específicament per detectar aquests errors cognitius oculs,
+
+473
+00:25:03,020 --> 00:25:04,800
+perquè ho faran millor que els humans.
+
+474
+00:25:05,720 --> 00:25:08,600
+Tercer, que espai a les seves hores d'estudi,
+
+475
+00:25:09,140 --> 00:25:12,560
+forçant aquest esforç de recordar per criar mielina.
+
+476
+00:25:13,120 --> 00:25:14,140
+Essencial, això.
+
+477
+00:25:14,560 --> 00:25:17,640
+I finalment, que abandoni la il·lusió romàntica
+
+478
+00:25:17,640 --> 00:25:19,240
+que dominar una sola matèria
+
+479
+00:25:19,240 --> 00:25:22,380
+li atorgarà una saviesa automàtica o genèrica
+
+480
+00:25:22,380 --> 00:25:24,280
+en qualsevol altra cosa de la vida.
+
+481
+00:25:24,780 --> 00:25:26,040
+Són callaixos separats.
+
+482
+00:25:26,580 --> 00:25:28,920
+Doncs mira, has fet un resum perfecte.
+
+483
+00:25:29,320 --> 00:25:31,200
+Aquestes són, empíricament parlant,
+
+484
+00:25:31,580 --> 00:25:33,600
+les rutes de navegació més segures
+
+485
+00:25:33,600 --> 00:25:36,320
+per intentar arribar a aquest rendiment d'elit,
+
+486
+00:25:36,640 --> 00:25:40,060
+aquest que és superior al 97% de la població.
+
+487
+00:25:40,340 --> 00:25:42,000
+M'alegro perquè, justament,
+
+488
+00:25:42,100 --> 00:25:45,040
+lligant aquestes rutes d'èxit purament mecàniques,
+
+489
+00:25:45,500 --> 00:25:47,940
+no puc evitar que em vingui al cap un darrer pensament
+
+490
+00:25:47,940 --> 00:25:50,240
+que, ostres, podria alterar completament
+
+491
+00:25:50,240 --> 00:25:52,660
+la manera com enfoquem les institucions en el futur.
+
+492
+00:25:53,340 --> 00:25:56,520
+Perquè hem determinat dues coses clares avui.
+
+493
+00:25:57,080 --> 00:25:59,620
+Primera, la transferència del coneixement tècnic
+
+494
+00:25:59,620 --> 00:26:03,240
+entre disciplines és molt limitada, per no dir nula.
+
+495
+00:26:03,700 --> 00:26:03,900
+Sí.
+
+496
+00:26:04,240 --> 00:26:06,740
+I segona, l'estudi de DARPA que comentaves
+
+497
+00:26:06,740 --> 00:26:09,060
+demostra que un programari ben dissenyat
+
+498
+00:26:09,060 --> 00:26:12,800
+aniquila absolutament l'eficàcia dels millors professors humans
+
+499
+00:26:12,800 --> 00:26:16,500
+quan es tracta d'ensenyar processos, dades o habilitats concretes.
+
+500
+00:26:16,560 --> 00:26:18,360
+Fins i tot els veterans, sí.
+
+501
+00:26:18,360 --> 00:26:23,200
+Llavors, si ajuntem aquestes dues peces, a mi la conclusió em resulta profundament inquietant.
+
+502
+00:26:23,400 --> 00:26:24,520
+A veure, què penses?
+
+503
+00:26:24,860 --> 00:26:32,940
+Clar, sobre un esterari on el mestre humà tradicional queda potser completament desplaçat en l'àmbit purament acadèmic.
+
+504
+00:26:33,200 --> 00:26:33,840
+Exacte.
+
+505
+00:26:34,240 --> 00:26:43,120
+És que si les màquines i la IA poden transmetre coneixement procedimental i memorístic de forma incalculablement més ràpida,
+
+506
+00:26:43,120 --> 00:26:46,800
+més assequible i a sobre totalment adaptada
+
+507
+00:26:46,800 --> 00:26:50,180
+a les imperfeccions cognitives de cada alumne de forma individual,
+
+508
+00:26:50,960 --> 00:26:54,460
+llavors quin sentit tindran les escoles i les universitats físiques
+
+509
+00:26:54,460 --> 00:26:55,560
+en les properes dècades?
+
+510
+00:26:55,920 --> 00:26:57,100
+És una gran pregunta.
+
+511
+00:26:57,640 --> 00:27:01,280
+O sigui, potser el destí inevitable d'aquestes institucions humanes
+
+512
+00:27:01,280 --> 00:27:05,720
+és abandonar per complet aquesta pretensió d'ensenyar fets acadèmics.
+
+513
+00:27:06,340 --> 00:27:08,340
+Potser s'haurien de reconvertir exclusivament
+
+514
+00:27:08,340 --> 00:27:10,540
+en centres de socialització intensiva,
+
+515
+00:27:10,540 --> 00:27:15,300
+Espais on els joves hi vagin únicament i exclusivament a aprendre empatia,
+
+516
+00:27:15,720 --> 00:27:18,560
+a desenvolupar la seva intel·ligència emocional col·lectiva,
+
+517
+00:27:18,960 --> 00:27:23,900
+a treballar en equip, a negociar, a conviure pacíficament els uns amb els altres.
+
+518
+00:27:24,460 --> 00:27:26,580
+Deixant tota la teoria a les màquines.
+
+519
+00:27:26,920 --> 00:27:27,780
+Això mateix.
+
+520
+00:27:28,260 --> 00:27:31,660
+Deixant tota la feina feixuga d'assorbida de científiques
+
+521
+00:27:31,660 --> 00:27:33,940
+a l'eficiència implacable de l'algoritme,
+
+522
+00:27:34,080 --> 00:27:37,020
+per estar allà esperant en silenci a l'ordinador de casa, vull dir,
+
+523
+00:27:37,020 --> 00:27:40,440
+l'aprenentatge emocional i humà per als humans,
+
+524
+00:27:40,540 --> 00:27:44,080
+i la transferència tècnica pura i dura per a les màquines.
+
+525
+00:27:44,540 --> 00:27:47,220
+I la veritat és un canvi tan brutal de paradigma educatiu
+
+526
+00:27:47,220 --> 00:27:51,380
+que ho deixarem aquí sobre la taula perquè la gent hi pugui rumiar amb calma aquesta setmana.
+
+527
+00:27:51,860 --> 00:27:54,440
+Déu-n'hi-do per rumiar. Sí, molt ben vist.
+
+528
+00:27:54,760 --> 00:27:57,020
+Gràcies. I fins a la propera immersió.
+
