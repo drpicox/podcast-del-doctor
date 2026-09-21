@@ -313,6 +313,16 @@ EPISODIS = [
         "duration": "30:50",
         "tags": ["podcast", "història", "edat mitjana", "david rodenas", "podcast del doctor", "caiguda de l'imperi romà", "pobles germànics", "ostrogots", "teodoric", "visigots", "recared", "francs", "clodoveu", "anglosaxons", "alfred el gran", "al-àndalus", "batalla de vouillé", "batalla de poitiers", "2n eso", "ciències socials", "català"]
     },
+    {
+        "num": "030",
+        "fitxer": "030-els-rebentapartides-i-el-col-lapse-del-sistema.mp3",
+        "identifier": "podcast-del-doctor-030-els-rebentapartides-i-el-col-lapse-del-sistema",
+        "title": "Episodi 030: Els rebentapartides i el col·lapse del sistema",
+        "description": "El parent que roba bitllets de 500 al Monopoly vol guanyar: necessita que el tauler segueixi intacte. El que s'aixeca i llança les fitxes enlaire vol que el joc s'acabi. A partir de l'assaig «No Exit» de Charles J. Pratt i de l'Homo Ludens de Huizinga, desgranem la diferència entre el trampós i el rebentapartides, el cercle màgic que sosté tribunals, borses i eleccions, i la gran falla del present: totes les institucions es van dissenyar per gestionar tramposos, i cap per a qui ja no creu en el joc. Una anàlisi neutral, sense bàndols, de com es comporta un sistema de regles quan els jugadors hi perden la fe.",
+        "date": "2026-09-21",
+        "duration": "25:18",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "disseny de jocs", "teoria de jocs", "huizinga", "homo ludens", "cercle màgic", "rebentapartides", "spoilsport", "charles j pratt", "game design advance", "institucions", "contracte social", "política", "català"]
+    },
 ]
 
 
