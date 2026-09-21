@@ -95,6 +95,10 @@ def transcribe_audio_mlx(audio_path, model_size="large-v3", language="ca"):
         audio_path,
         path_or_hf_repo=model_id,
         language=language,
+        # Sense condicionar-se en el text anterior: amb el condicionament
+        # activat, Whisper pot entrar en bucle i repetir una frase durant
+        # minuts damunt de veu real (al 031 va perdre de l'1:24 al 6:53).
+        condition_on_previous_text=False,
         verbose=True
     )
 

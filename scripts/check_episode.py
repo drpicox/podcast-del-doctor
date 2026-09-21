@@ -88,6 +88,43 @@ def durada_mp3(camí):
     return float(sortida.stdout.strip())
 
 
+def silencis_llargs(camí, minim=8, llindar_db=-50):
+    """Trams de silenci digital de més de `minim` segons. Retorna [(inici, durada)].
+
+    Un MP3 generat amb defectes pot portar minuts de silenci absolut al mig
+    (va passar amb el 031: 6 minuts en dos trams i un passatge repetit tres
+    vegades). Una pausa natural de conversa no arriba mai a -50 dB durant 8 s.
+    """
+    try:
+        sortida = subprocess.run(
+            ["ffmpeg", "-hide_banner", "-nostats", "-i", camí,
+             "-af", f"silencedetect=noise={llindar_db}dB:d={minim}", "-f", "null", "-"],
+            capture_output=True, text=True, timeout=300).stderr
+    except (OSError, subprocess.SubprocessError):
+        return None
+    inicis = re.findall(r"silence_start: ([\d.]+)", sortida)
+    durades = re.findall(r"silence_duration: ([\d.]+)", sortida)
+    return [(float(i), float(d)) for i, d in zip(inicis, durades)]
+
+
+def bucle_srt(contingut_srt, minim=5):
+    """Text repetit en `minim` o més blocs seguits: al·lucinació de Whisper.
+
+    Retorna (text, repeticions, timestamp d'inici) del bucle més llarg, o None.
+    """
+    blocs = re.findall(r"(\d\d:\d\d:\d\d)[,.]\d+\s*-->[^\n]*\n(.*?)(?:\n\s*\n|\Z)", contingut_srt, re.S)
+    millor, actual = None, None
+    for inici, text in blocs:
+        text = " ".join(text.split())
+        if actual and text and text == actual[0]:
+            actual = (actual[0], actual[1] + 1, actual[2])
+        else:
+            actual = (text, 1, inici)
+        if actual[1] >= minim and (millor is None or actual[1] > millor[1]):
+            millor = actual
+    return millor
+
+
 def mida_png(camí):
     with open(camí, "rb") as f:
         cap = f.read(24)
@@ -132,6 +169,16 @@ def verifica(slug, fins_pas, remot, r, mp3_opcional=False):
     if inclou("1"):
         if te_mp3:
             r.be("1", f"MP3 present ({os.path.getsize(mp3):,} bytes)")
+            silencis = silencis_llargs(mp3)
+            if silencis is None:
+                r.avis("1", "No s'ha pogut executar ffmpeg; silencis de l'MP3 no comprovats")
+            elif silencis:
+                detall = ", ".join(f"{int(i // 60):02d}:{int(i % 60):02d} ({d:.0f}s)" for i, d in silencis[:5])
+                r.error("1", f"L'MP3 té {len(silencis)} trams de silenci absolut: {detall}. "
+                             "Sol ser un defecte de generació (i sovint porta passatges repetits): "
+                             "regenera l'àudio o retalla'l abans de continuar")
+            else:
+                r.be("1", "MP3 sense silencis llargs")
         elif mp3_opcional:
             r.avis("1", "MP3 no present en local (còpia de seguretat absent en aquesta màquina)")
         else:
@@ -147,7 +194,11 @@ def verifica(slug, fins_pas, remot, r, mp3_opcional=False):
         if os.path.isfile(srt):
             contingut_srt = open(srt, encoding="utf-8").read()
             blocs = len(re.findall(r"\d\d:\d\d:\d\d[,.]\d+\s*-->\s*\d\d:\d\d:\d\d", contingut_srt))
-            if blocs >= 10:
+            bucle = bucle_srt(contingut_srt)
+            if bucle:
+                r.error("2", f"L'SRT repeteix «{bucle[0][:40]}» {bucle[1]} vegades seguides des de {bucle[2]}: "
+                             "al·lucinació de Whisper, falta text real. Torna a transcriure")
+            elif blocs >= 10:
                 r.be("2", f"Subtítols .srt presents ({blocs} blocs)")
             else:
                 r.error("2", f"L'SRT només té {blocs} blocs amb timestamps: sembla corrupte. Regenera'l amb transcribe_episode.py")
