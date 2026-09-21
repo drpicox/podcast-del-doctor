@@ -144,6 +144,60 @@ Verifica que el fitxer existeix a `episodes/`.
 
 L'script reintentarà fins a 3 vegades automàticament. Si continua fallant, mostra l'error i continua amb el següent episodi.
 
+### Si l'script es queda esperant archive.org
+
+És normal que esperi una estona: després de pujar, archive.org ha de processar
+els fitxers i fer el *derive*. L'script sondeja amb **esperes creixents**
+(15 s, 30 s, 1 min, 2 min, 4 min), mai a interval fix curt, per no semblar un
+atac a archive.org. Amb la sortida línia a línia es veu cada espera:
+
+```
+🔎 verificant la caràtula…
+   ⏳ esperant 15s abans de comprovar…
+   ⏳ esperant 30s abans de comprovar…
+✅ Caràtula confirmada!
+```
+
+Si passa dels 8 minuts sense confirmar, entra al camí lent: espera que l'ítem
+no tingui tasques pendents, torna a pujar la caràtula i torna a sondejar.
+Per comprovar-ho a mà mentre espera:
+
+```bash
+curl -s https://archive.org/metadata/<identifier> | python3 -c "
+import sys, json
+d = json.load(sys.stdin)
+print([(f['name'], f.get('source'), f.get('size')) for f in d['files'] if f['name'].endswith(('.mp3', '.png'))])
+print('pending_tasks:', d.get('pending_tasks'))"
+```
+
+Si l'MP3 i el PNG hi surten com a `source: original` i la mida del PNG és la
+del fitxer local (`stat -f%z assets/thumbnails/XXX-nom.png`), la pujada és bona:
+es pot aturar l'script i posar `audio_file` a mà al markdown.
+
+#### Apunts de l'incident del 2026-09-20 (episodis 028 i 029)
+
+- **Símptoma:** pujar el 028, un MP3 de 0,7 MB, va trigar 18 minuts. El 029
+  portava 11 minuts esperant quan es va aturar a mà. De 41 minuts de procés,
+  29 eren aquesta espera.
+- **Causa:** l'script pujava MP3 i PNG junts, feia `sleep(30)` i comprovava la
+  caràtula **un sol cop**. Als 30 s l'API de metadades encara no llistava els
+  fitxers, i aquell fals negatiu es prenia per «caràtula perduda».
+- **Conseqüència:** entrava a `pujar_cover`, que espera que acabi el *derive*
+  per no perdre la pujada. Aquell vespre el *derive* va trigar uns 14 minuts.
+  Després re-pujava una caràtula que ja hi era i disparava un segon *derive*.
+- **Prova:** el registre de tasques d'archive.org (`ia tasks <identifier>`)
+  mostra el PNG pujat a les 21:51:53 amb la primera pujada, i una segona
+  pujada redundant a les 22:08:05.
+- **Fix:** `esperar_cover()` sondeja `cover_arribada()` amb
+  `esperes_creixents()`; `esperar_sense_tasques()` fa servir el mateix patró.
+  En el pitjor cas, el camí ràpid fa cinc peticions en 7:45.
+- **No provat encara:** una pujada nova sencera amb el fix. La primera serà el
+  proper episodi; convé mirar quantes esperes fa abans de confirmar.
+- **De passada:** `requirements.txt` demanava `lightning-whisper-mlx>=0.1.0`
+  (no existeix; la darrera és la 0.0.10) i el `.venv` apuntava a una ruta
+  antiga. El `.venv` s'ha de crear amb **Python 3.11**: amb 3.12 falla la
+  compilació del `tiktoken` antic que fixa `lightning-whisper-mlx`.
+
 ## Opcions avançades
 
 ```bash
