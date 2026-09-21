@@ -191,8 +191,14 @@ es pot aturar l'script i posar `audio_file` a mà al markdown.
 - **Fix:** `esperar_cover()` sondeja `cover_arribada()` amb
   `esperes_creixents()`; `esperar_sense_tasques()` fa servir el mateix patró.
   En el pitjor cas, el camí ràpid fa cinc peticions en 7:45.
-- **No provat encara:** una pujada nova sencera amb el fix. La primera serà el
-  proper episodi; convé mirar quantes esperes fa abans de confirmar.
+- **Primera prova real (episodi 030, 2026-09-21):** el fix funciona. Una sola
+  pujada de caràtula, cap re-pujada i cap segon *derive*, tot i que el *derive*
+  d'archive.org seguia en marxa dues hores després. Els fitxers van sortir a
+  l'API uns 2 minuts després de pujar: les comprovacions dels 15 s, 45 s i 1:45
+  van fallar, i la dels 3:45 és la que ho hauria confirmat. El temps total no
+  es va poder mesurar perquè el Mac es va adormir a mitja espera (de les 13:14
+  a les 14:50); en despertar-se va confirmar a la comprovació següent.
+  Durada esperable d'una pujada: **uns 4 minuts**.
 - **De passada:** `requirements.txt` demanava `lightning-whisper-mlx>=0.1.0`
   (no existeix; la darrera és la 0.0.10) i el `.venv` apuntava a una ruta
   antiga. El `.venv` s'ha de crear amb **Python 3.11**: amb 3.12 falla la
