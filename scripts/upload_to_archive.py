@@ -333,6 +333,16 @@ EPISODIS = [
         "duration": "27:57",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "aprenentatge", "educació", "bloom", "dues sigmes", "tutoria", "aprenentatge per domini", "instrucció directa", "darpa digital tutor", "repàs espaiat", "transferència del coneixement", "nintil", "català"]
     },
+    {
+        "num": "032",
+        "fitxer": "032-el-canon-tdd-de-kent-beck.mp3",
+        "identifier": "podcast-del-doctor-032-el-canon-tdd-de-kent-beck",
+        "title": "Episodi 032: El cànon TDD de Kent Beck",
+        "description": "Qui odiaria cuinar perquè abans cal escriure un receptari de 300 pàgines? Doncs és la caricatura amb què molts programadors critiquen el TDD. Kent Beck la desmunta a «Canon TDD»: una llista de comportaments, una sola prova començant per l'asserció, fer-la passar amb el canvi mínim, refactoritzar amb un sol barret i tornar a començar. Parlem del disseny lògic contra el físic, dels errors que maten el mètode, de per què l'ordre de les proves pot acabar en un bubble sort o en un quicksort, i de la recompensa final: convertir la por en avorriment.",
+        "date": "2026-09-27",
+        "duration": "18:10",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "tdd", "test-driven development", "kent beck", "canon tdd", "refactorització", "proves automatitzades", "disseny de programari", "català"]
+    },
 ]
 
 

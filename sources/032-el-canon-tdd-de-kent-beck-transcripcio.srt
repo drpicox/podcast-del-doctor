@@ -1,0 +1,1612 @@
+1
+00:00:00,260 --> 00:00:04,400
+Imaginem per un moment que algú ens diu que detesta l'art de cuinar
+
+2
+00:00:04,400 --> 00:00:09,100
+perquè ho deia profundament haver d'escriure un llibre de receptes de 300 pàgines
+
+3
+00:00:09,100 --> 00:00:10,760
+abans d'encendre els fogons.
+
+4
+00:00:11,200 --> 00:00:14,600
+Clar, qualsevol pensaria que aquesta persona ha perdut el seny completament.
+
+5
+00:00:14,900 --> 00:00:16,940
+Exacte, vull dir, aquí se li acut.
+
+6
+00:00:17,080 --> 00:00:20,640
+Ningú et demana que escriuïs una enciclopèdia abans de fer una simple truita.
+
+7
+00:00:20,660 --> 00:00:20,940
+I tant.
+
+8
+00:00:21,500 --> 00:00:24,700
+Doncs, encara que sembli mentida, aquesta lògica tan absurda
+
+9
+00:00:24,700 --> 00:00:29,220
+és exactament la mateixa que fan servir milers de desenvolupadors de programari cada dia.
+
+10
+00:00:29,220 --> 00:00:34,180
+O sigui, pot justificar el seu odi visceral cap al desenvolupament guiat per proves.
+
+11
+00:00:34,500 --> 00:00:35,340
+El famós TDD.
+
+12
+00:00:36,020 --> 00:00:38,100
+Sí, el TDD, que sempre porta cua.
+
+13
+00:00:38,980 --> 00:00:41,060
+Benvinguts a una nova anàlisi a fons d'avui,
+
+14
+00:00:41,340 --> 00:00:44,940
+on, com sempre, agafem informació densa i la transformem en idees clares.
+
+15
+00:00:45,480 --> 00:00:47,880
+Jo soc la primera que a vegades em perdo amb tanta teoria,
+
+16
+00:00:48,140 --> 00:00:49,840
+però l'emissió d'avui val molt la pena.
+
+17
+00:00:50,540 --> 00:00:52,740
+I aquesta frustració col·lectiva de la qual parlaves
+
+18
+00:00:52,740 --> 00:00:54,860
+és justament el que ha portat a Ken Beck,
+
+19
+00:00:55,100 --> 00:00:56,920
+que recordem que és el pare d'aquesta metodologia,
+
+20
+00:00:56,920 --> 00:00:59,500
+a escriure un article fascinant al seu bulletí.
+
+21
+00:00:59,840 --> 00:01:01,600
+L'article es diu Canon TDD, oi?
+
+22
+00:01:01,840 --> 00:01:03,160
+Exacte, Canon TDD.
+
+23
+00:01:03,500 --> 00:01:05,220
+I si connectem això amb la visió general,
+
+24
+00:01:05,220 --> 00:01:08,600
+l'autor es va adonar que la indústria informàtica porta dècades,
+
+25
+00:01:08,880 --> 00:01:11,500
+literalment dècades, criticant una caricatura.
+
+26
+00:01:11,920 --> 00:01:14,460
+Una caricatura? Vull dir que s'han inventat un monstre.
+
+27
+00:01:14,720 --> 00:01:15,180
+Totalment.
+
+28
+00:01:15,500 --> 00:01:18,400
+Estan atacant allò que en retòrica s'anomena un home de palla.
+
+29
+00:01:18,680 --> 00:01:22,280
+Ah, clar, un argument fals construït només perquè sigui fàcil de tombar.
+
+30
+00:01:22,720 --> 00:01:23,340
+Això mateix.
+
+31
+00:01:23,640 --> 00:01:27,380
+Critiquen l'obligació de planificar i escriure centenars de proves
+
+32
+00:01:27,380 --> 00:01:29,860
+abans de teclejar una sola línia de codi funcional.
+
+33
+00:01:30,480 --> 00:01:36,920
+Però la realitat és que el TDD original mai, i remarco mai, va proposar semblant tortura.
+
+34
+00:01:37,440 --> 00:01:39,640
+D'acord, doncs anem a desgranar això perquè és fascinant.
+
+35
+00:01:39,740 --> 00:01:43,200
+Avui destriparem aquest text per entendre què és realment aquest cànon.
+
+36
+00:01:43,640 --> 00:01:47,620
+I el més interessant és que no estem davant d'un manual d'instruccions sobre com picar codi.
+
+37
+00:01:48,040 --> 00:01:48,640
+No, en absolut.
+
+38
+00:01:49,140 --> 00:01:49,900
+Llavors, què és?
+
+39
+00:01:49,900 --> 00:01:54,360
+perquè llegint-ho fa la sensació de ser un tractat sobre com funciona la ment humana, saps?
+
+40
+00:01:54,460 --> 00:01:56,780
+Sobre com ens enfrontem a la complexitat.
+
+41
+00:01:57,380 --> 00:01:57,800
+És que ho és.
+
+42
+00:01:58,400 --> 00:02:02,600
+Ken Beck argumenta que el TDD és fonamentalment un flux de treball
+
+43
+00:02:02,600 --> 00:02:05,640
+dissenyat per canviar el comportament d'un sistema informàtic
+
+44
+00:02:05,640 --> 00:02:08,400
+però d'una manera segura i manejable per al nostre cervell.
+
+45
+00:02:08,820 --> 00:02:10,180
+Perquè no explotem, bàsicament.
+
+46
+00:02:10,440 --> 00:02:13,860
+Clar, per garantir que el que ja funcionava ho continuï fent
+
+47
+00:02:13,860 --> 00:02:15,880
+i que el nou comportament sigui el correcte.
+
+48
+00:02:16,640 --> 00:02:20,780
+Però, per entendre per què l'indústria s'ha desviat tant de la idea original,
+
+49
+00:02:21,320 --> 00:02:23,320
+cal situar-se una mica en el context històric, oi?
+
+50
+00:02:23,640 --> 00:02:24,880
+Sí, perquè si no, no s'entén res.
+
+51
+00:02:25,420 --> 00:02:28,060
+Les notes de l'autor ens porten als 90, oi?
+
+52
+00:02:28,460 --> 00:02:29,780
+Anys 90, exacte.
+
+53
+00:02:30,400 --> 00:02:32,500
+Beck explica com va redescobrir el TDD
+
+54
+00:02:32,500 --> 00:02:36,200
+i, de fet, va escriure S-Unit l'any 1994.
+
+55
+00:02:36,820 --> 00:02:38,700
+1994. Déu-n'hi-do.
+
+56
+00:02:39,300 --> 00:02:40,520
+Sí, però un client de consultoria.
+
+57
+00:02:41,040 --> 00:02:43,100
+I S-Unit no era una simple eina més.
+
+58
+00:02:43,100 --> 00:02:47,740
+va ser el primer marc de treball que permetia automatitzar les proves de manera senzilla
+
+59
+00:02:47,740 --> 00:02:50,820
+i integrar-les dins del mateix entorn de desenvolupament.
+
+60
+00:02:51,340 --> 00:02:52,960
+Una revolució total en aquell moment.
+
+61
+00:02:53,340 --> 00:02:54,620
+I després ho ensenya al món, clar.
+
+62
+00:02:55,060 --> 00:02:55,700
+Un any més tard.
+
+63
+00:02:56,220 --> 00:03:00,280
+Ho va demostrar Ward Cunningham a la conferència OPSLA a Austin.
+
+64
+00:03:00,820 --> 00:03:02,720
+Octubre del 95, crec recordar.
+
+65
+00:03:02,980 --> 00:03:07,220
+Sí, i cal dir que aquella conferència era l'epicentre mundial de la programació orientada a objectes,
+
+66
+00:03:07,680 --> 00:03:09,820
+el lloc on es marcava el rumb de la professió, vaja.
+
+67
+00:03:09,980 --> 00:03:12,940
+I aquí hi ha un detall de l'article que em va fer riure molt.
+
+68
+00:03:12,940 --> 00:03:16,260
+jo estava llegint i estava super sorpresa, perquè és gairebé còmic.
+
+69
+00:03:16,700 --> 00:03:21,140
+Malgrat tenir una eina tan potent, Beck va endarrerir l'escriptura del seu famós llibre,
+
+70
+00:03:21,200 --> 00:03:24,340
+el de TDD by Example, durant moltíssim temps.
+
+71
+00:03:24,700 --> 00:03:28,200
+I saps per què? Per por que a algú se li avancés i li robés la idea.
+
+72
+00:03:28,500 --> 00:03:32,820
+És molt fort. Sentia que havia trobat el sant grial del programari i el volia amagar.
+
+73
+00:03:33,260 --> 00:03:36,340
+Però, a veure, la pregunta que qualsevol es faria ara mateix és,
+
+74
+00:03:36,700 --> 00:03:39,760
+si era una idea tan brillant que volia protegir com un tresor,
+
+75
+00:03:39,760 --> 00:03:43,800
+per què avui dia genera tantíssim de rebuig entre la comunitat.
+
+76
+00:03:44,220 --> 00:03:46,420
+I aquí és on l'article posa el dit a l'anafre.
+
+77
+00:03:47,200 --> 00:03:48,380
+Assenyala un malentès crucial.
+
+78
+00:03:49,020 --> 00:03:54,080
+La confusió constant i històrica entre el disseny lògic i el disseny físic.
+
+79
+00:03:54,580 --> 00:03:55,840
+D'acord, aprofundim en això.
+
+80
+00:03:56,320 --> 00:03:58,180
+Disseny lògic i disseny físic.
+
+81
+00:03:58,300 --> 00:04:00,340
+Què vol dir exactament per als que ens escolten?
+
+82
+00:04:00,800 --> 00:04:02,800
+Aquesta confusió és la real de tot el problema.
+
+83
+00:04:03,500 --> 00:04:05,300
+O sigui, la mare de totes les frustracions.
+
+84
+00:04:05,900 --> 00:04:07,340
+Quan Beck era a la universitat,
+
+85
+00:04:07,340 --> 00:04:11,940
+Els professors ensenyaven que el disseny lògic i el físic no s'havien de barrejar mai de la vida.
+
+86
+00:04:12,140 --> 00:04:13,200
+Mai. Reglador.
+
+87
+00:04:13,540 --> 00:04:19,860
+Però, clar, de vegades obviaven explicar com aconseguir aquesta separació en un entorn de treball real.
+
+88
+00:04:20,920 --> 00:04:26,100
+I en el context del programari i del TDD, això es tradueix en dues dimensions completament diferents.
+
+89
+00:04:26,420 --> 00:04:27,380
+Vale, quines dimensions?
+
+90
+00:04:27,860 --> 00:04:31,260
+Per una banda hi ha la interfície, que defineix com s'invoca un comportament.
+
+91
+00:04:31,760 --> 00:04:36,340
+És a dir, quin és el nom de la funció, quins paràmetres li hem de passar i què s'espera que retorni.
+
+92
+00:04:36,940 --> 00:04:39,500
+Això seria el què i el com ens hi comuniquem.
+
+93
+00:04:39,800 --> 00:04:42,560
+Ah, exacte. I per l'altra banda, hi ha la implementació,
+
+94
+00:04:42,860 --> 00:04:46,540
+que fa referència a com el sistema executa realment aquell comportament per dins.
+
+95
+00:04:47,040 --> 00:04:50,220
+Són decisions de disseny que no tenen res a veure l'un amb l'altre.
+
+96
+00:04:50,720 --> 00:04:53,620
+Clar, i el drama es desencadena quan el pobre programador
+
+97
+00:04:53,620 --> 00:04:56,180
+intenta resoldre totes dues coses al mateix temps, no?
+
+98
+00:04:56,540 --> 00:04:56,920
+Bingo.
+
+99
+00:04:57,320 --> 00:05:00,900
+És que la crua realitat que subratlla l'autor, i ho fa amb molta humilitat,
+
+100
+00:05:00,900 --> 00:05:03,900
+és que els éssers humans som uns ordinadors pèssims.
+
+101
+00:05:03,900 --> 00:05:09,400
+El nostre cervell biològic no està fet per processar 50 variables d'implementació interna
+
+102
+00:05:09,400 --> 00:05:11,740
+mentre intenta dissenyar una interfàcia intuitiva.
+
+103
+00:05:12,140 --> 00:05:12,700
+Ens col·lobsem.
+
+104
+00:05:13,220 --> 00:05:13,780
+Literalment.
+
+105
+00:05:14,260 --> 00:05:16,560
+La sobrecàrrega cognitiva és immediata.
+
+106
+00:05:17,000 --> 00:05:20,320
+I per això mateix ens fa falta un procés pas a pas, el canon TDD,
+
+107
+00:05:20,800 --> 00:05:23,660
+per posar baranes al cervell abans que caigui pel precipici.
+
+108
+00:05:24,260 --> 00:05:27,520
+I el més curiós de tot plegat és que la manera d'evitar aquesta caiguda
+
+109
+00:05:27,520 --> 00:05:30,280
+comença sorprenentment lluny del teclat.
+
+110
+00:05:30,640 --> 00:05:31,980
+Sí? Com de lluny?
+
+111
+00:05:32,400 --> 00:05:32,700
+Molt.
+
+112
+00:05:33,380 --> 00:05:37,240
+S'ha de començar centrant-se exclusivament en l'anàlisi de comportament.
+
+113
+00:05:37,600 --> 00:05:40,980
+Ah, estem entrant al pas 1, oi? La famosa llista.
+
+114
+00:05:41,480 --> 00:05:42,600
+Exacte, al pas 1.
+
+115
+00:05:43,140 --> 00:05:45,220
+Quan un equip s'enfronta a un nou requeriment,
+
+116
+00:05:45,640 --> 00:05:48,360
+el primer impuls humà sempre és obrir l'editor de text
+
+117
+00:05:48,360 --> 00:05:50,380
+i començar a teclejar variables com un boig.
+
+118
+00:05:51,020 --> 00:05:53,360
+L'article proposa anar en contra d'aquest instint.
+
+119
+00:05:53,700 --> 00:05:54,460
+Aturar-se en sec.
+
+120
+00:05:54,460 --> 00:05:55,160
+Aturar-se.
+
+121
+00:05:55,540 --> 00:05:59,300
+I fer una llista detallada de totes les variants esperades del nou comportament.
+
+122
+00:05:59,920 --> 00:06:00,960
+Per posar un cas pràctic,
+
+123
+00:06:01,520 --> 00:06:03,240
+Imaginem un sistema d'autenticació.
+
+124
+00:06:03,940 --> 00:06:06,700
+Cal llistar què passa si l'usuari encerta la contrasenya.
+
+125
+00:06:07,020 --> 00:06:08,200
+El cas feliç, diguem-ne.
+
+126
+00:06:08,400 --> 00:06:08,600
+Això.
+
+127
+00:06:09,080 --> 00:06:12,040
+Però també què passa si el servidor cau en aquell precís instant
+
+128
+00:06:12,040 --> 00:06:15,000
+o si la clau proporcionada no és a la base de dades.
+
+129
+00:06:15,100 --> 00:06:16,000
+O està caducada, clar.
+
+130
+00:06:16,300 --> 00:06:16,780
+Exacte.
+
+131
+00:06:17,320 --> 00:06:20,980
+Aquesta fase és exclusivament per pensar en el domini del problema des de fora.
+
+132
+00:06:21,700 --> 00:06:23,920
+És anàlisi de comportament, no implementació.
+
+133
+00:06:24,260 --> 00:06:27,120
+Si algú necessita fer un esquema en un tovalló de paper de bar,
+
+134
+00:06:27,400 --> 00:06:28,280
+pot fer-ho perfectament.
+
+135
+00:06:28,280 --> 00:06:31,620
+L'objectiu no és planificar l'arquitectura del codi encara.
+
+136
+00:06:32,000 --> 00:06:35,200
+Però, espera un moment, perquè ara vull posar-me a la pell d'un desenvolupador,
+
+137
+00:06:35,500 --> 00:06:38,960
+posem per cas, un fanàtic de les metodologies àgils,
+
+138
+00:06:39,020 --> 00:06:41,500
+que ens estigui escoltant i que estigui arrufant el nas ara mateix.
+
+139
+00:06:41,640 --> 00:06:43,600
+Endavant, m'encanten aquestes objeccions.
+
+140
+00:06:44,000 --> 00:06:45,320
+O sigui, què vol dir tot això?
+
+141
+00:06:45,880 --> 00:06:49,040
+No havíem quedat que tota la filosofia del desenvolupament modern
+
+142
+00:06:49,040 --> 00:06:52,240
+es basa precisament a fugir del disseny inicial massiu,
+
+143
+00:06:52,600 --> 00:06:56,440
+d'aquelles èpoques fosques on es feien documents interminables abans de tocar una tecla?
+
+144
+00:06:56,440 --> 00:07:00,140
+fer una llista exhaustiva de tots els casos possibles al principi
+
+145
+00:07:00,140 --> 00:07:03,920
+no sona molt a tornar a aquesta planificació tan burocràtica?
+
+146
+00:07:04,120 --> 00:07:05,340
+És una objecció boníssima.
+
+147
+00:07:05,480 --> 00:07:07,280
+És la gran crítica al TDD
+
+148
+00:07:07,280 --> 00:07:10,080
+i té tot el sentit des d'una perspectiva àgil.
+
+149
+00:07:10,660 --> 00:07:11,880
+Però el que és fascinant d'aquí
+
+150
+00:07:11,880 --> 00:07:13,660
+és entendre què conté
+
+151
+00:07:13,660 --> 00:07:15,640
+i, sobretot, què no conté
+
+152
+00:07:15,640 --> 00:07:17,260
+aquesta llista de la qual parlem.
+
+153
+00:07:17,940 --> 00:07:18,880
+D'acord, il·lumina'm.
+
+154
+00:07:19,020 --> 00:07:19,800
+Què no conté?
+
+155
+00:07:20,320 --> 00:07:22,200
+L'error més comú, on tothom entropesa,
+
+156
+00:07:22,440 --> 00:07:24,600
+és barrejar decisions d'implementació interna
+
+157
+00:07:24,600 --> 00:07:25,500
+dins de la llista.
+
+158
+00:07:26,220 --> 00:07:26,920
+Cal relaxar-se.
+
+159
+00:07:27,360 --> 00:07:30,520
+La llista de Beck ha de contenir exclusivament comportaments
+
+160
+00:07:30,520 --> 00:07:32,480
+des de la perspectiva de la interfície.
+
+161
+00:07:33,160 --> 00:07:35,400
+Ah, d'acord. Res de bases de dades ni coses rares.
+
+162
+00:07:35,920 --> 00:07:36,320
+Exacte.
+
+163
+00:07:36,820 --> 00:07:39,120
+El llibre original no deia mai que t'haguessis de llançar
+
+164
+00:07:39,120 --> 00:07:41,080
+a dissenyar les estructures de la base de dades
+
+165
+00:07:41,080 --> 00:07:42,680
+o els patrons de disseny per endavant.
+
+166
+00:07:43,440 --> 00:07:44,920
+És només un inventari funcional
+
+167
+00:07:44,920 --> 00:07:46,760
+per buidar la memòria a curt termini.
+
+168
+00:07:47,300 --> 00:07:48,800
+Per no oblidar-te cap cas extrem.
+
+169
+00:07:49,400 --> 00:07:52,020
+Però mantenint la ment neta de solucions tècniques prematures.
+
+170
+00:07:52,740 --> 00:07:53,720
+Vist així, té sentit.
+
+171
+00:07:54,160 --> 00:07:55,400
+Així doncs tenim aquesta llista
+
+172
+00:07:55,400 --> 00:07:57,160
+que actua només com un recordatori
+
+173
+00:07:57,160 --> 00:07:58,940
+i arriba el moment d'anar a la pantalla,
+
+174
+00:07:59,320 --> 00:07:59,840
+al pas dos.
+
+175
+00:08:00,420 --> 00:08:02,060
+Aquí és on es fa la màgia, de debò.
+
+176
+00:08:02,300 --> 00:08:04,460
+I aquí la regla és d'una simplicitat gairebé,
+
+177
+00:08:04,740 --> 00:08:05,840
+no sé, provocadora.
+
+178
+00:08:06,360 --> 00:08:08,760
+Ens diu que hem de triar només un element de la llista,
+
+179
+00:08:08,920 --> 00:08:09,420
+només un.
+
+180
+00:08:09,560 --> 00:08:10,140
+Un sol element.
+
+181
+00:08:10,460 --> 00:08:12,860
+I escriure una única prova automatitzada.
+
+182
+00:08:13,220 --> 00:08:15,100
+Una sola prova amb la seva configuració,
+
+183
+00:08:15,360 --> 00:08:17,520
+invocació i comprovació del resultat.
+
+184
+00:08:17,920 --> 00:08:20,120
+Però dins d'això hi ha un consell de bec
+
+185
+00:08:20,120 --> 00:08:21,140
+que m'ha deixat parada.
+
+186
+00:08:21,620 --> 00:08:23,620
+Un consell professional espectacular.
+
+187
+00:08:23,940 --> 00:08:24,880
+Que ho canvia tot, oi?
+
+188
+00:08:24,880 --> 00:08:26,420
+El de treballar a la inversa.
+
+189
+00:08:27,060 --> 00:08:27,400
+Sí, sí.
+
+190
+00:08:28,020 --> 00:08:30,820
+Recomana començar per les assertions i anar cap enrere.
+
+191
+00:08:31,300 --> 00:08:34,080
+Aquest detall mecànic transforma completament el procés mental.
+
+192
+00:08:34,740 --> 00:08:36,780
+Perquè quan comences a taclejar en l'assertió,
+
+193
+00:08:36,980 --> 00:08:40,300
+o sigui, l'expressió final que comprova el resultat que esperes obtenir,
+
+194
+00:08:40,780 --> 00:08:44,520
+t'obligues a definir l'objectiu de manera superclara, inequívoca.
+
+195
+00:08:45,060 --> 00:08:47,080
+Clar, saps cap on vas des del primer segon.
+
+196
+00:08:47,740 --> 00:08:50,080
+Evita que et perdis en un laberint de configuracions,
+
+197
+00:08:50,420 --> 00:08:54,240
+dades simulades i objectes abans de saber tan sols què vols validar.
+
+198
+00:08:54,820 --> 00:08:57,300
+Treballar cap enrere manté la teva atenció clavada
+
+199
+00:08:57,300 --> 00:08:59,120
+en l'experiència d'ús de la interfície.
+
+200
+00:08:59,580 --> 00:09:01,400
+Però, malgrat els bons consells,
+
+201
+00:09:01,700 --> 00:09:04,180
+aplicar això és com caminar per un camp de mines.
+
+202
+00:09:04,600 --> 00:09:06,520
+Els mals hàbits afloren pertot arreu.
+
+203
+00:09:07,040 --> 00:09:10,440
+Jo mateixa he vist errors letals que destrueixen el sentit del TDD.
+
+204
+00:09:11,160 --> 00:09:12,000
+Com quins, a veure?
+
+205
+00:09:12,840 --> 00:09:15,240
+Doncs un clàssic, escriure proves sense assertions,
+
+206
+00:09:15,340 --> 00:09:17,360
+només per cobrir l'expedient i que el sistema et digui
+
+207
+00:09:17,360 --> 00:09:19,120
+que tens un 90% de cobertura.
+
+208
+00:09:19,120 --> 00:09:21,180
+Un teatre corporatiu absolut.
+
+209
+00:09:21,880 --> 00:09:24,240
+Por teatre, sí. Per quedar bé amb el cap.
+
+210
+00:09:24,560 --> 00:09:29,660
+Exacte. Però el pitjor error, i això connecta amb el que dèiem de la paròdia del cuiner al principi,
+
+211
+00:09:29,960 --> 00:09:34,800
+és la mania de convertir tota la llista del tovalló en desenes de proves concretes, totes de cop.
+
+212
+00:09:35,540 --> 00:09:38,860
+Buf, l'error número 1. Escriure 6 proves seguides.
+
+213
+00:09:39,180 --> 00:09:41,860
+Clar, perquè imagina't-ho. Fas 6 proves complexes.
+
+214
+00:09:42,260 --> 00:09:47,060
+Arribes a la primera, l'intentes fer passar i de sobte t'adones que la interfície que havies pensat no té sentit
+
+215
+00:09:47,060 --> 00:09:48,740
+o et falta un paràmetre fonamental.
+
+216
+00:09:49,340 --> 00:09:51,540
+I què fas? Toca llançar a les escombraries
+
+217
+00:09:51,540 --> 00:09:54,000
+tota la feina de les altres 5 proves especulatives?
+
+218
+00:09:54,400 --> 00:09:57,980
+Exacte. Si arribes a la sisena prova sense veure res funcionar,
+
+219
+00:09:58,380 --> 00:10:00,580
+causa la depressió o t'avorreixes mortalment.
+
+220
+00:10:01,000 --> 00:10:02,660
+És una pèrdua de temps absurda.
+
+221
+00:10:03,140 --> 00:10:06,980
+I aquesta caiguda moral és justament el que el mètode vol impedir.
+
+222
+00:10:07,360 --> 00:10:09,760
+Vull dir, escurçar el temps entre que tens un dubte
+
+223
+00:10:09,760 --> 00:10:11,720
+i el sistema dona una confirmació.
+
+224
+00:10:12,300 --> 00:10:14,560
+Però més enllà de fer una sola prova,
+
+225
+00:10:15,020 --> 00:10:16,900
+aquí entrem en un terreny fascinant.
+
+226
+00:10:17,420 --> 00:10:18,640
+L'efecte papallona.
+
+227
+00:10:18,740 --> 00:10:21,680
+Uh, m'encanta aquesta part. Parlem de l'ordre, oi?
+
+228
+00:10:21,940 --> 00:10:22,340
+Exacte.
+
+229
+00:10:22,740 --> 00:10:26,440
+Triar quina prova és la primera i quines seran les següents no és trivial.
+
+230
+00:10:26,760 --> 00:10:28,300
+Té un impacte brutal, massiu.
+
+231
+00:10:28,860 --> 00:10:32,680
+Els comentaris de l'article de Beck, fins i tot els experts, es mostraven sorpresos.
+
+232
+00:10:33,020 --> 00:10:37,040
+De fet, Big Boo va arribar a dibuixar un diagrama de flux visual de tot l'article,
+
+233
+00:10:37,220 --> 00:10:38,340
+de l'impacte que va tenir.
+
+234
+00:10:38,660 --> 00:10:41,120
+I aquí és on es posa realment interessant, com apuntaves tu.
+
+235
+00:10:41,540 --> 00:10:45,640
+Sí, perquè hi ha un comentari, crec que era d'en Philip Ramball, que em va volar el cap.
+
+236
+00:10:45,640 --> 00:10:49,920
+va mencionar una cosa anomenada la wardrobe cata, la cata de l'armari.
+
+237
+00:10:50,260 --> 00:10:54,000
+Ah, sí, i també està relacionat amb un famós blog de l'Uncle Bob, veritat?
+
+238
+00:10:54,540 --> 00:10:56,160
+Sí, l'Uncle Bob Martin.
+
+239
+00:10:56,760 --> 00:11:00,520
+Doncs la idea és que, depenent de quina dimensió triïs primer per fer el TDD,
+
+240
+00:11:01,040 --> 00:11:04,640
+la teva implementació final pot acabar sent completament diferent.
+
+241
+00:11:05,040 --> 00:11:08,840
+O sigui, no parlem de petites variacions, parlem de canvis radicals.
+
+242
+00:11:09,080 --> 00:11:10,080
+Clar, el codi muta.
+
+243
+00:11:10,540 --> 00:11:13,000
+Exacte. És com en els algoritmes d'ordenació.
+
+244
+00:11:13,000 --> 00:11:15,860
+Si tries un determinat ordre de proves al principi,
+
+245
+00:11:16,160 --> 00:11:18,380
+el codi et demana naturalment anar fent bucles
+
+246
+00:11:18,380 --> 00:11:21,580
+i acabes amb un algoritme d'ordenació de bombolla, un Babel sort.
+
+247
+00:11:21,780 --> 00:11:24,640
+Però si tries un altre ordre per a les mateixes proves,
+
+248
+00:11:25,120 --> 00:11:28,480
+l'estructura demana recursivitat i acabes amb un quicksort,
+
+249
+00:11:28,600 --> 00:11:31,920
+un divideix i vens, i els requeriments eren els mateixos.
+
+250
+00:11:32,300 --> 00:11:33,240
+Això és espectacular.
+
+251
+00:11:33,720 --> 00:11:36,560
+És que ens porta a la gran pregunta oberta que deixa caure en Beck.
+
+252
+00:11:37,020 --> 00:11:39,540
+És el codi sensible a les condicions inicials?
+
+253
+00:11:40,020 --> 00:11:41,180
+Com en la teoria del caos?
+
+254
+00:11:41,580 --> 00:11:42,020
+Exactament.
+
+255
+00:11:42,020 --> 00:11:44,320
+i la resposta sembla ser un sí rotund.
+
+256
+00:11:44,800 --> 00:11:48,080
+Això remarca per què triar l'ordre de les proves no és picar tecles.
+
+257
+00:11:48,520 --> 00:11:52,520
+És una habilitat estratègica increïble que només s'adquireix a base d'experiència.
+
+258
+00:11:52,880 --> 00:11:54,460
+I de piciar-la moltes vegades.
+
+259
+00:11:55,020 --> 00:11:56,300
+Però suposem que hem encertat.
+
+260
+00:11:56,520 --> 00:11:58,320
+Hem triat bé la primera prova.
+
+261
+00:11:58,820 --> 00:12:00,420
+Passem al pas 3 i al pas 4.
+
+262
+00:12:00,700 --> 00:12:02,140
+Fer-ho passar i el refactoring.
+
+263
+00:12:02,420 --> 00:12:07,560
+La llum vermella, tens la prova, falla perquè no hi acodi i el sistema et crida en vermell.
+
+264
+00:12:07,920 --> 00:12:09,580
+I l'instint humà ens fa posar nerviosos.
+
+265
+00:12:09,920 --> 00:12:11,100
+Volem fer que funcioni ja.
+
+266
+00:12:11,100 --> 00:12:13,720
+I aquí és on apareixen les trampes amagades, oi?
+
+267
+00:12:13,980 --> 00:12:15,740
+Les trampes de l'ego del programador.
+
+268
+00:12:16,060 --> 00:12:17,700
+Ui, l'ego és un perill constant.
+
+269
+00:12:18,200 --> 00:12:22,340
+L'objectiu del pas 3 és només canviar el sistema perquè la prova passi,
+
+270
+00:12:22,660 --> 00:12:25,440
+amb el canvi absolutament més mínim que et puguis imaginar.
+
+271
+00:12:26,160 --> 00:12:27,080
+Ridícul, fins i tot.
+
+272
+00:12:27,620 --> 00:12:30,140
+Però l'ego professional no ens deixa ser ridículs.
+
+273
+00:12:30,440 --> 00:12:31,960
+Volem fer-ho bonic des del minut zero.
+
+274
+00:12:32,540 --> 00:12:36,160
+Clar, i a sobre ens fem trampes al solitari per aconseguir el verd,
+
+275
+00:12:36,640 --> 00:12:40,220
+com allò que dèiem abans d'esborrar o comentar l'asserció perquè no molesti.
+
+276
+00:12:40,760 --> 00:12:41,660
+Això em fa riure molt.
+
+277
+00:12:41,820 --> 00:12:43,380
+És que, des de fora, si ho penses,
+
+278
+00:12:43,780 --> 00:12:45,960
+equivala a arrencar els cables de la sirena d'incendis
+
+279
+00:12:45,960 --> 00:12:47,000
+perquè fot massa soroll
+
+280
+00:12:47,000 --> 00:12:49,280
+mentre el menjador de casa s'està cremant.
+
+281
+00:12:49,480 --> 00:12:51,440
+O sigui, no s'ha apagat el foc, només es treu el soroll.
+
+282
+00:12:51,880 --> 00:12:52,240
+Totalment.
+
+283
+00:12:52,760 --> 00:12:55,860
+Una altra trampa brutal és copiar i enganxar els valors concrets.
+
+284
+00:12:56,440 --> 00:12:58,020
+Si la prova diu que espera el número 5,
+
+285
+00:12:58,020 --> 00:13:00,920
+el programador va al codi i posa que retorni sempre 5.
+
+286
+00:13:01,320 --> 00:13:03,540
+El famós codificant dur o hardcoding.
+
+287
+00:13:03,980 --> 00:13:04,460
+Exacte.
+
+288
+00:13:04,940 --> 00:13:06,580
+Si ho fas només per arrencar, d'acord.
+
+289
+00:13:06,900 --> 00:13:07,720
+Però si ho mantens,
+
+290
+00:13:07,720 --> 00:13:11,720
+destrueixes el valor de la doble comprovació del TDD, la triangulació.
+
+291
+00:13:12,460 --> 00:13:13,860
+El sistema perd la intel·ligència.
+
+292
+00:13:14,200 --> 00:13:16,500
+Només valida que dues cadenes de text són iguals,
+
+293
+00:13:16,800 --> 00:13:18,700
+no que el programa sàpiga calcular res.
+
+294
+00:13:19,200 --> 00:13:23,480
+I enmig de tot això, què passa si descobreixes que et cal una nova prova?
+
+295
+00:13:24,020 --> 00:13:27,440
+Per exemple, estàs validant contrasenyes i de cop i volta algú diu
+
+296
+00:13:27,440 --> 00:13:30,620
+«Escolta, què passa si fiquen un emoji de la flameta?»
+
+297
+00:13:30,620 --> 00:13:31,220
+El caos.
+
+298
+00:13:31,220 --> 00:13:36,620
+L'impuls és obrir vuit fitxers nous i posar-se a investigar els emojis de la flameta.
+
+299
+00:13:37,120 --> 00:13:39,100
+Però bé que ens talla les ales aquí, no?
+
+300
+00:13:39,480 --> 00:13:42,440
+Diu que no, que simplement l'afegeixes a la llista pendent
+
+301
+00:13:42,440 --> 00:13:43,860
+i tornes a la prova actual.
+
+302
+00:13:44,480 --> 00:13:44,800
+Focus.
+
+303
+00:13:45,320 --> 00:13:47,480
+Exacte. Llista i t'oblides.
+
+304
+00:13:48,180 --> 00:13:51,220
+Ara, si aquest descobriment dels emojis resulta que invalida
+
+305
+00:13:51,220 --> 00:13:53,620
+tota l'arquitectura que havies pensat, llavors sí.
+
+306
+00:13:54,100 --> 00:13:55,860
+Llavors agafes, esborres el codi
+
+307
+00:13:55,860 --> 00:13:58,580
+i tornes a començar amb un ordre diferent a la teva llista.
+
+308
+00:13:59,200 --> 00:14:00,840
+És un cop d'orgull, però és el que toca.
+
+309
+00:14:01,380 --> 00:14:02,520
+Costa en passar-se l'orgull.
+
+310
+00:14:02,520 --> 00:14:05,400
+Però imaginem que tot va bé i arribem a la llum verda.
+
+311
+00:14:05,820 --> 00:14:06,340
+Ja funciona.
+
+312
+00:14:06,620 --> 00:14:09,760
+Ara passem al pas 4, el refactoring opcional.
+
+313
+00:14:10,040 --> 00:14:12,640
+Això planteja una qüestió important, perquè ara sí,
+
+314
+00:14:13,080 --> 00:14:15,740
+ara és quan es prenen les decisions de disseny d'implementació,
+
+315
+00:14:16,440 --> 00:14:18,500
+espais de noms, variables...
+
+316
+00:14:18,500 --> 00:14:20,160
+Però el perill continua a la white.
+
+317
+00:14:21,020 --> 00:14:22,160
+Quin és l'error més greu aquí?
+
+318
+00:14:22,700 --> 00:14:25,160
+El problema de portar dos barrets a l'hora.
+
+319
+00:14:25,440 --> 00:14:25,980
+Dos barrets?
+
+320
+00:14:26,420 --> 00:14:30,160
+Sí. Intentar fer-ho funcionar i fer-ho bonic de manera simultània.
+
+321
+00:14:30,540 --> 00:14:33,060
+Primer fer-ho rutllar i només després fer-ho bé.
+
+322
+00:14:33,520 --> 00:14:35,140
+Barrejar-ho és catastròfic.
+
+323
+00:14:35,140 --> 00:14:37,860
+M'agrada una analogia que vaig llegir un cop.
+
+324
+00:14:38,300 --> 00:14:42,460
+És com intentar endreçar els mobles i polir els metalls d'una casa que encara està en flames.
+
+325
+00:14:43,060 --> 00:14:46,420
+Primer, apaga l'incendi. Atura l'aigua de la canaleta trencada.
+
+326
+00:14:46,780 --> 00:14:49,140
+I quan tinguis la pau mental, ja netejaràs.
+
+327
+00:14:49,660 --> 00:14:51,380
+Una analogia perfecta.
+
+328
+00:14:51,860 --> 00:14:55,340
+I dins d'això d'endreçar la casa, compta amb la trampa de l'abstracció.
+
+329
+00:14:55,840 --> 00:14:56,420
+Ah, sí.
+
+330
+00:14:57,460 --> 00:14:59,660
+Hi ha una cita de Beck sobre això que és memorable.
+
+331
+00:15:00,180 --> 00:15:03,060
+Diu que la duplicació és una pista, no una ordre.
+
+332
+00:15:03,320 --> 00:15:04,320
+Ho trobo superpotent.
+
+333
+00:15:04,320 --> 00:15:05,700
+És molt contundent, eh?
+
+334
+00:15:06,440 --> 00:15:07,180
+Què acostuma a passar?
+
+335
+00:15:07,680 --> 00:15:09,620
+Que veiem dues línies de codi repetides
+
+336
+00:15:09,620 --> 00:15:12,440
+i sentim una compulsió irracional gairebé física
+
+337
+00:15:12,440 --> 00:15:16,020
+per crear una funció genèrica supercomplexa per unificar-les?
+
+338
+00:15:16,280 --> 00:15:17,180
+Abstracció prematura.
+
+339
+00:15:17,680 --> 00:15:19,500
+Exacte. Fet purament per estètica.
+
+340
+00:15:20,100 --> 00:15:22,820
+I el resultat acaba sent una taranyina de dependències
+
+341
+00:15:22,820 --> 00:15:25,200
+on ningú pot tocar res sense trencar-ho tot.
+
+342
+00:15:25,920 --> 00:15:27,800
+Moltes vegades és més econòmic i pràctic
+
+343
+00:15:27,800 --> 00:15:29,580
+aguantar una mica de codi repetit
+
+344
+00:15:29,580 --> 00:15:32,720
+que crear una gàbia d'abstraccions de la qual no podrà sortir.
+
+345
+00:15:33,240 --> 00:15:36,660
+És molt interessant. Recareix molta humilitat acceptar la imperfecció.
+
+346
+00:15:37,100 --> 00:15:40,880
+El mateix Kent Beck admet obertament a l'article que estava encallat en un projecte personal
+
+347
+00:15:40,880 --> 00:15:42,980
+perquè no sabia com resoldre la següent prova.
+
+348
+00:15:43,720 --> 00:15:45,900
+És que ell mateix demostra que això no és màgia.
+
+349
+00:15:46,520 --> 00:15:51,320
+Clar. I bé, arribats a aquest punt, podem tancar el cicle cap a l'altre, el que seria el pas 5.
+
+350
+00:15:51,320 --> 00:15:55,320
+El resum del flux, eh? Ho fas funcionar, refactoritzes...
+
+351
+00:15:56,000 --> 00:15:59,800
+I què fas? Doncs tornar al pas 2, fins que la llista del tovalló estigui buida.
+
+352
+00:16:00,140 --> 00:16:01,240
+Seguir provant i codificant.
+
+353
+00:16:01,240 --> 00:16:03,080
+Un bucle de petites victòries.
+
+354
+00:16:03,760 --> 00:16:06,300
+Però vull centrar-me en la conclusió de l'autor sobre això,
+
+355
+00:16:06,380 --> 00:16:09,580
+perquè parla de la recompensa psicològica del canon TDD.
+
+356
+00:16:11,620 --> 00:16:15,280
+Sí, diu que el benefici definitiu, gairebé de manera alquímica,
+
+357
+00:16:15,600 --> 00:16:18,400
+és el moment en què la teva por pel comportament del codi
+
+358
+00:16:18,400 --> 00:16:20,120
+es converteix en pur avorriment.
+
+359
+00:16:20,620 --> 00:16:23,400
+Estàs tan segur que funciona que ja no tens nervis a la panxa.
+
+360
+00:16:26,360 --> 00:16:29,100
+Però, escolta, jo vull plantejar un dubte sobre això.
+
+361
+00:16:29,100 --> 00:16:33,380
+La indústria sempre ens veu que hem de tenir passió per la innovació, viure al límit, no?
+
+362
+00:16:34,040 --> 00:16:36,300
+Aspirar a avorrir-se no és matar la creativitat?
+
+363
+00:16:36,720 --> 00:16:40,560
+Comprec per què ho dius, però l'avorriment al qual es refereix no és apatia.
+
+364
+00:16:41,460 --> 00:16:43,660
+És l'avorriment de la fiabilitat extrema.
+
+365
+00:16:44,520 --> 00:16:48,000
+Si el teu sistema és tan robust que actualitzar-lo no et provoca un atac de cor.
+
+366
+00:16:48,620 --> 00:16:50,000
+Llavors dorms bé a les nits.
+
+367
+00:16:50,760 --> 00:16:53,980
+Dorms bé i alliberes una quantitat brutal d'energia mental.
+
+368
+00:16:54,660 --> 00:16:56,700
+Quan no estàs apagant focs a les 3 de la matinada,
+
+369
+00:16:56,700 --> 00:16:59,300
+aquella energia la pots invertir a conceptualitzar
+
+370
+00:16:59,300 --> 00:17:01,700
+característiques realment pioneres per al producte.
+
+371
+00:17:02,640 --> 00:17:03,500
+L'avorriment operatiu
+
+372
+00:17:03,500 --> 00:17:05,320
+és la base de la verdadera innovació.
+
+373
+00:17:05,920 --> 00:17:07,600
+Vist així, és un luxe.
+
+374
+00:17:08,280 --> 00:17:09,560
+Ens permet pensar a gran escala
+
+375
+00:17:09,560 --> 00:17:11,040
+i ja per acomiadar-nos
+
+376
+00:17:11,040 --> 00:17:13,160
+volia deixar a qui ens escolti un pensament
+
+377
+00:17:13,160 --> 00:17:15,640
+provocador final, una idea per mullar-hi pa
+
+378
+00:17:15,640 --> 00:17:17,500
+que va una mica més enllà de l'article.
+
+379
+00:17:18,320 --> 00:17:19,920
+A veure, quina és la reflexió?
+
+380
+00:17:20,880 --> 00:17:22,140
+Hem vist, com apuntava Beck
+
+381
+00:17:22,140 --> 00:17:24,140
+amb la pregunta sobre les condicions inicials
+
+382
+00:17:24,140 --> 00:17:26,040
+que l'ordre en què imaginem
+
+383
+00:17:26,040 --> 00:17:28,260
+els escenaris de prova dicta fonamentalment
+
+384
+00:17:28,260 --> 00:17:29,960
+la forma i l'eficiència que tindrà
+
+385
+00:17:29,960 --> 00:17:32,040
+el nostre codi final. Doncs, fins
+
+386
+00:17:32,040 --> 00:17:34,100
+a quin punt l'arquitectura d'un sistema
+
+387
+00:17:34,100 --> 00:17:35,440
+no és res més que
+
+388
+00:17:35,440 --> 00:17:38,040
+un registre històric de l'estat d'ànim
+
+389
+00:17:38,040 --> 00:17:39,960
+i els biaixos de pensament que tenia el
+
+390
+00:17:39,960 --> 00:17:41,700
+programador el dia que va crear la llista?
+
+391
+00:17:42,520 --> 00:17:43,960
+Ostres, això és
+
+392
+00:17:43,960 --> 00:17:45,900
+profund, eh? És que, rere tota
+
+393
+00:17:45,900 --> 00:17:48,160
+aquesta lògica freda dels sistemes informàtics,
+
+394
+00:17:48,500 --> 00:17:49,860
+el disseny de programari acaba sent
+
+395
+00:17:49,860 --> 00:17:51,960
+inevitablement un exercici de relacions
+
+396
+00:17:51,960 --> 00:17:54,020
+humanes i de psicologia. I en
+
+397
+00:17:54,020 --> 00:17:55,860
+l'era de les intel·ligències artificials,
+
+398
+00:17:56,040 --> 00:17:59,460
+Vés a saber si el TDD no acabarà sent l'única eina d'auditoria
+
+399
+00:17:59,460 --> 00:18:01,680
+que tindrem per entendre'ns amb les màquines.
+
+400
+00:18:02,340 --> 00:18:05,400
+Un trencaclosques fascinant per acabar, sens dubte.
+
+401
+00:18:05,980 --> 00:18:07,800
+Ha estat una anàlisi immillorable.
+
+402
+00:18:08,500 --> 00:18:08,920
+A reveure.
+
+403
+00:18:09,620 --> 00:18:10,280
+Fins la propera.
+

@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 032: El cànon TDD de Kent Beck",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 136.6, "title": "D'SUnit a l'OOPSLA del 95" },
+    { "startTime": 224.2, "title": "Disseny lògic i disseny físic" },
+    { "startTime": 337.6, "title": "Pas 1: la llista de proves" },
+    { "startTime": 474.2, "title": "Pas 2: una sola prova, començant per l'asserció" },
+    { "startTime": 612.3, "title": "L'ordre de les proves i les condicions inicials" },
+    { "startTime": 715.0, "title": "Pas 3: fer-la passar sense trampes" },
+    { "startTime": 846.6, "title": "Pas 4: refactoritzar amb un sol barret" },
+    { "startTime": 946.5, "title": "Pas 5: de la por a l'avorriment" },
+    { "startTime": 1031.0, "title": "Reflexió final" }
+  ]
+}
