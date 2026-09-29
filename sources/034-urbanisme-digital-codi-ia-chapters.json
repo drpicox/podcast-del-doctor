@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 034: Urbanistes del codi que escriu la IA",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 151.2, "title": "El mapa: 528 fitxers i una xarxa de món petit" },
+    { "startTime": 321.54, "title": "Els hubs: Feature.ts com l'aeroport de Frankfurt" },
+    { "startTime": 475.62, "title": "La geografia del canvi: fitxers que es congelen" },
+    { "startTime": 544.52, "title": "Hotspots sense proves i els límits de context" },
+    { "startTime": 773.4, "title": "Acoblament lògic: els pares divorciats" },
+    { "startTime": 946.98, "title": "La zona de dolor de Robert C. Martin" },
+    { "startTime": 1097.72, "title": "El trinquet: la qualitat només va endavant" },
+    { "startTime": 1337.6, "title": "Conclusions" },
+    { "startTime": 1414.78, "title": "Reflexió final: urbanistes digitals" }
+  ]
+}

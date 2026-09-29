@@ -353,6 +353,16 @@ EPISODIS = [
         "duration": "18:23",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents d'ia", "aws", "amazon bedrock", "agentcore", "converse api", "strands agents", "guardrails", "raonament automatitzat", "observabilitat", "català"]
     },
+    {
+        "num": "034",
+        "fitxer": "034-urbanisme-digital-codi-ia.mp3",
+        "identifier": "podcast-del-doctor-034-urbanisme-digital-codi-ia",
+        "title": "Episodi 034: Urbanistes del codi que escriu la IA",
+        "description": "Si una IA aixeca tot l'edifici, a l'humà només li queda fer d'urbanista. Analitzem dos assajos de David Rodenas sobre una web escrita íntegrament per Claude: 528 fitxers que formen una xarxa de món petit, hubs com Feature.ts que fan d'aeroport de Frankfurt, hotspots sense cap prova, acoblaments lògics que es mouen junts com dos pares divorciats, la zona de dolor de Robert C. Martin i el trinquet, un test que només deixa que la qualitat vagi endavant. I una pregunta final: què hem d'ensenyar si ja no piquem codi?",
+        "date": "2026-09-29",
+        "duration": "25:13",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "arquitectura de programari", "claude", "codi generat per ia", "xarxes de món petit", "acoblament lògic", "hotspots", "robert c. martin", "trinquet", "català"]
+    },
 ]
 
 
