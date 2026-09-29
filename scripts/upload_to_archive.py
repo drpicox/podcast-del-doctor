@@ -363,6 +363,16 @@ EPISODIS = [
         "duration": "25:13",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "arquitectura de programari", "claude", "codi generat per ia", "xarxes de món petit", "acoblament lògic", "hotspots", "robert c. martin", "trinquet", "català"]
     },
+    {
+        "num": "035",
+        "fitxer": "035-arquitectura-oculta-codi.mp3",
+        "identifier": "podcast-del-doctor-035-arquitectura-oculta-codi",
+        "title": "Episodi 035: L'arquitectura oculta que col·lapsa el codi",
+        "description": "El codi no envelleix per culpa d'un mal programador, sinó per lleis de xarxa gairebé ineludibles. Tot programari creix com una xarxa de món petit plena de hubs asimètrics: ho mostren 50 aplicacions Java i també una web escrita per IA. Veiem com els hotspots de CodeScene troben on es concentren l'esforç i els errors, i com un trinquet impedeix que la qualitat reculi. I contraposem la zona de dolor de Robert C. Martin a la crítica d'Oliver Drotbohm: una interfície buida posa el gràfic en verd sense arreglar res.",
+        "date": "2026-09-29",
+        "duration": "23:32",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "arquitectura de programari", "xarxes de món petit", "hotspots", "codescene", "robert c. martin", "zona de dolor", "llei de goodhart", "trinquet", "codi generat per ia", "català"]
+    },
 ]
 
 

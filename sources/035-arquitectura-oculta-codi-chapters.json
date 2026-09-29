@@ -1,0 +1,16 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 035: L'arquitectura oculta que col·lapsa el codi",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 118.1, "title": "El codi com a xarxa de món petit" },
+    { "startTime": 228.6, "title": "50 aplicacions Java: dependències asimètriques i hubs" },
+    { "startTime": 367.0, "title": "Hotspots: complexitat per freqüència de canvi" },
+    { "startTime": 651.1, "title": "Una web escrita per IA amb els mateixos mals" },
+    { "startTime": 778.3, "title": "El trinquet: mètriques que només poden millorar" },
+    { "startTime": 935.9, "title": "Robert C. Martin i la zona de dolor" },
+    { "startTime": 1060.6, "title": "Drotbohm, les interfícies buides i la llei de Goodhart" },
+    { "startTime": 1226.5, "title": "Reflexió final" }
+  ]
+}
