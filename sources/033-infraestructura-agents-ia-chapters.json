@@ -1,0 +1,16 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 033: El xassi dels agents d'IA",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: un cotxe conceptual sense frens" },
+    { "startTime": 176.4, "title": "AgentCore: la fontaneria feixuga i no diferenciada" },
+    { "startTime": 301.2, "title": "El 0% del màrqueting" },
+    { "startTime": 380.0, "title": "Casos reals: Druva, Thomson Reuters i Cox Automotive" },
+    { "startTime": 470.5, "title": "L'API Converse contra el bloqueig de proveïdor" },
+    { "startTime": 690.9, "title": "Eines i guardrails: la targeta de crèdit amb límits" },
+    { "startTime": 812.9, "title": "Raonament automatitzat: seguretat demostrada" },
+    { "startTime": 922.0, "title": "Observabilitat: la caixa negra de l'agent" },
+    { "startTime": 966.0, "title": "Reflexió final: la IA que contracta i acomiada IA" }
+  ]
+}

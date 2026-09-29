@@ -343,6 +343,16 @@ EPISODIS = [
         "duration": "18:10",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "tdd", "test-driven development", "kent beck", "canon tdd", "refactorització", "proves automatitzades", "disseny de programari", "català"]
     },
+    {
+        "num": "033",
+        "fitxer": "033-infraestructura-agents-ia.mp3",
+        "identifier": "podcast-del-doctor-033-infraestructura-agents-ia",
+        "title": "Episodi 033: El xassi dels agents d'IA",
+        "description": "Un cotxe conceptual espectacular al garatge, amb un motor que fa por... i sense frens. Així són moltes demos d'agents d'IA quan intenten sortir a producció. Amb la documentació d'AWS, parlem del xassi que els falta: AgentCore i la fontaneria feixuga (credencials, MCP, lambdas), l'API Converse per canviar de model amb una sola línia, les eines i els guardrails com una targeta de crèdit amb límits, el raonament automatitzat que demostra matemàticament que un error és impossible, i l'observabilitat com a caixa negra. I una pregunta final: qui dirigirà els agents quan el mànager també sigui una IA?",
+        "date": "2026-09-29",
+        "duration": "18:23",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents d'ia", "aws", "amazon bedrock", "agentcore", "converse api", "strands agents", "guardrails", "raonament automatitzat", "observabilitat", "català"]
+    },
 ]
 
 
