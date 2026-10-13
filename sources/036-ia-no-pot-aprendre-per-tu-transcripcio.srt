@@ -1,0 +1,3416 @@
+1
+00:00:00,000 --> 00:00:05,320
+Avui resoldrem un misteri que, a veure, crec que és molt profund i bastant contraintuitiu.
+
+2
+00:00:06,260 --> 00:00:07,420
+O sigui, pensem-hi un moment.
+
+3
+00:00:08,120 --> 00:00:12,060
+Per què, tenint ara mateix la tecnologia més avançada de tota la història,
+
+4
+00:00:12,560 --> 00:00:13,860
+literalment a les nostres butxaques,
+
+5
+00:00:14,380 --> 00:00:17,500
+amb un accés gairebé màgic a qualsevol dada imaginable,
+
+6
+00:00:18,180 --> 00:00:20,180
+doncs per què els resultats acadèmics generals
+
+7
+00:00:20,180 --> 00:00:23,360
+no estan caient pel seu propi pes cap a l'excel·lència absoluta?
+
+8
+00:00:23,560 --> 00:00:24,920
+Exacte, és una gran pregunta.
+
+9
+00:00:25,400 --> 00:00:29,260
+I la resposta a aquesta paradoxa no es troba pas als despatxos de Silicon Valley, saps?
+
+10
+00:00:29,260 --> 00:00:32,120
+està amagada en un lloc molt més fosc i antic.
+
+11
+00:00:32,460 --> 00:00:34,100
+A la nostra pròpia biologia, oi?
+
+12
+00:00:34,420 --> 00:00:36,800
+Exactament, a la biologia del nostre cervell.
+
+13
+00:00:37,320 --> 00:00:39,000
+I és una paradoxa fascinant,
+
+14
+00:00:39,140 --> 00:00:40,760
+justament perquè xoca directament
+
+15
+00:00:40,760 --> 00:00:42,860
+amb totes les nostres expectatives modernes.
+
+16
+00:00:43,300 --> 00:00:45,960
+Avui dia creiem que una eina més ràpida
+
+17
+00:00:45,960 --> 00:00:47,900
+equivale automàticament a un cervell més ràpid.
+
+18
+00:00:48,060 --> 00:00:51,440
+Però la realitat neurològica resulta que és molt més tossuda.
+
+19
+00:00:51,880 --> 00:00:52,700
+Sí, sí, totalment.
+
+20
+00:00:53,020 --> 00:00:55,520
+I per arrencar, imaginem la següent escena,
+
+21
+00:00:55,720 --> 00:00:57,140
+que crec que il·lustra molt bé això.
+
+22
+00:00:57,840 --> 00:00:58,900
+Hi ha una pantalla al davant.
+
+23
+00:00:59,260 --> 00:01:02,440
+I una intel·ligència artificial, amb una veu així super suau,
+
+24
+00:01:02,780 --> 00:01:05,840
+infinitament pacient i absolutament impecable,
+
+25
+00:01:06,420 --> 00:01:08,360
+fa de tutor de geometria d'un alumne.
+
+26
+00:01:08,540 --> 00:01:09,840
+El somni de qualsevol, vaja.
+
+27
+00:01:10,320 --> 00:01:14,740
+I tant. Li demana identificar l'angle alfa d'un triangle, per exemple.
+
+28
+00:01:15,360 --> 00:01:18,560
+Llavors, si la persona dubta, ja assenyala el costat equivocat,
+
+29
+00:01:18,720 --> 00:01:19,980
+no hi ha cap penalització.
+
+30
+00:01:20,300 --> 00:01:21,460
+Cap cara de decepció.
+
+31
+00:01:21,820 --> 00:01:25,500
+Zero. La IA corregeix allò amb una delicadesa mil·limètrica.
+
+32
+00:01:25,620 --> 00:01:27,680
+Et diu una cosa com, gairebé,
+
+33
+00:01:28,100 --> 00:01:29,940
+Però aquest és el costat adjacent.
+
+34
+00:01:30,300 --> 00:01:31,740
+Recordem on és l'angle recte.
+
+35
+00:01:32,320 --> 00:01:34,880
+I quan per fi s'arriba a la conclusió correcta,
+
+36
+00:01:35,060 --> 00:01:36,140
+dient que és la hipotenusa,
+
+37
+00:01:36,540 --> 00:01:38,960
+la màquina ho celebra amb un entusiasme perfecte.
+
+38
+00:01:39,240 --> 00:01:41,640
+Clar, i és un escenari que, vist així des de fora,
+
+39
+00:01:42,080 --> 00:01:43,100
+sembla pura màgia.
+
+40
+00:01:43,360 --> 00:01:44,540
+És precís, net,
+
+41
+00:01:44,780 --> 00:01:47,420
+gairebé com una cirurgia educativa perfecta i sense dolor.
+
+42
+00:01:47,760 --> 00:01:49,140
+Una promesa molt temptadora.
+
+43
+00:01:49,300 --> 00:01:51,420
+Estic segura que molts ho signarien ara mateix.
+
+44
+00:01:51,740 --> 00:01:53,320
+És aquesta idea d'una revolució
+
+45
+00:01:53,320 --> 00:01:56,740
+on l'aprenentatge, finalment, deixa de ser una lluita.
+
+46
+00:01:56,740 --> 00:01:58,400
+I justament d'això parlarem avui.
+
+47
+00:01:58,940 --> 00:02:02,140
+En aquesta anàlisi ens adinjarem a fons a l'impacte real
+
+48
+00:02:02,140 --> 00:02:05,220
+que eines com la IA tindran en l'aprenentatge humà.
+
+49
+00:02:05,800 --> 00:02:08,480
+I ho farem basant-nos en una conferència que, personalment,
+
+50
+00:02:08,900 --> 00:02:10,480
+trobo absolutament reveladora.
+
+51
+00:02:10,740 --> 00:02:11,720
+Sí, és boníssima.
+
+52
+00:02:11,960 --> 00:02:13,440
+És una presentació d'en Derek Muller,
+
+53
+00:02:13,780 --> 00:02:16,160
+ja saps, el brillant creador del canal de ciència Veritasium.
+
+54
+00:02:16,820 --> 00:02:20,160
+Ell la va impartir al Perimeter Institute for Theoretical Physics.
+
+55
+00:02:20,840 --> 00:02:22,180
+Un lloc de molt nivell.
+
+56
+00:02:22,520 --> 00:02:22,880
+Déu-n'hi-do.
+
+57
+00:02:23,420 --> 00:02:24,960
+Doncs el nostre gran objectiu d'avui
+
+58
+00:02:24,960 --> 00:02:28,480
+és desmuntar aquest mite recurrent de la revolució educativa tecnològica
+
+59
+00:02:28,480 --> 00:02:30,940
+i entendre quin és l'únic coll d'ampolla
+
+60
+00:02:30,940 --> 00:02:34,180
+que, literalment, cap codi de programació pot saltar-se.
+
+61
+00:02:34,920 --> 00:02:37,720
+Crec que és el punt de partida perfecte per aquesta exploració,
+
+62
+00:02:38,140 --> 00:02:39,840
+perquè, si mirem de prop les dades
+
+63
+00:02:39,840 --> 00:02:42,000
+i la investigació científica que cita en Muller,
+
+64
+00:02:42,480 --> 00:02:44,120
+veiem que el veritable aprenentatge
+
+65
+00:02:44,120 --> 00:02:46,440
+no tracta gens de com s'entrega la informació.
+
+66
+00:02:46,760 --> 00:02:48,880
+Clar, el continent versus el contingut.
+
+67
+00:02:49,040 --> 00:02:52,520
+Exacte. L'error constant, al llarg de... bé, de dècades,
+
+68
+00:02:52,520 --> 00:02:55,760
+ha estat centrar-se exclusivament en la missatgeria, saps?
+
+69
+00:02:56,280 --> 00:03:00,100
+En l'envoltat, la velocitat d'entrega, la resolució de la pantalla
+
+70
+00:03:00,100 --> 00:03:02,760
+o com de personalitzat està el contingut.
+
+71
+00:03:03,100 --> 00:03:07,080
+Però l'aprenentatge és, abans que res, un procés purament fisiològic.
+
+72
+00:03:07,520 --> 00:03:10,340
+Tracta exclusivament de com es processa aquesta informació
+
+73
+00:03:10,340 --> 00:03:15,180
+i com modifica físicament l'arquitectura neuronal un cop entrat al cap.
+
+74
+00:03:15,560 --> 00:03:18,120
+D'acord, desgranem tot això, perquè em sembla clau.
+
+75
+00:03:18,780 --> 00:03:22,200
+Abans de coronar la IA com la salvadora definitiva de l'educació,
+
+76
+00:03:22,520 --> 00:03:25,120
+Crec que és fonamental mirar una mica l'hemeroteca, no?
+
+77
+00:03:25,280 --> 00:03:26,700
+Sempre va bé mirar enrere, sí.
+
+78
+00:03:27,020 --> 00:03:30,320
+És que em recorda moltíssim a la indústria de les dietes miracle.
+
+79
+00:03:30,620 --> 00:03:31,280
+Ui, totalment.
+
+80
+00:03:31,720 --> 00:03:34,480
+Cada dècada apareix una pastilla nova, un batut estrany,
+
+81
+00:03:34,820 --> 00:03:38,600
+o una màquina vibradora que et promet tenir uns abdominals perfectes
+
+82
+00:03:38,600 --> 00:03:39,900
+sense suar ni una gota.
+
+83
+00:03:40,460 --> 00:03:43,240
+Però clar, la biologia del metabolisme humà no ha canviat gens.
+
+84
+00:03:43,560 --> 00:03:44,620
+I segueix calent suar.
+
+85
+00:03:44,900 --> 00:03:47,900
+I tant. Doncs amb la tecnologia a les aules passa exactament el mateix.
+
+86
+00:03:48,380 --> 00:03:50,300
+Si connectem això amb el panorama general
+
+87
+00:03:50,300 --> 00:03:52,200
+de la història de l'educació del darrer segle,
+
+88
+00:03:52,520 --> 00:03:56,580
+Bueno, la llista de profecies fracassades és senzillament espectacular.
+
+89
+00:03:56,880 --> 00:03:58,060
+És per riure per no plorar.
+
+90
+00:03:58,500 --> 00:04:01,480
+Perquè fa més d'un segle, atenció, l'any 1922,
+
+91
+00:04:02,000 --> 00:04:04,880
+el mateix Thomas Edison va fer una predicció superaudaç.
+
+92
+00:04:04,960 --> 00:04:06,720
+Sí, i molt coneguda en aquest àmbit.
+
+93
+00:04:06,920 --> 00:04:10,200
+Ell va declarar que les pel·lícules revolucionarien el sistema educatiu
+
+94
+00:04:10,200 --> 00:04:13,960
+de tal manera que s'acabarien substituint tots els llibres de text.
+
+95
+00:04:14,040 --> 00:04:14,520
+Increïble.
+
+96
+00:04:14,520 --> 00:04:19,220
+De fet, va afirmar literalment que l'educació amb llibres era només un 2% eficient.
+
+97
+00:04:19,400 --> 00:04:19,680
+Uf.
+
+98
+00:04:19,680 --> 00:04:23,660
+Sí, sí, mentre que ensenyar en pel·lícules seria un 98% eficient.
+
+99
+00:04:24,200 --> 00:04:25,620
+D'on treia els números? Ni idea.
+
+100
+00:04:25,820 --> 00:04:26,440
+Doncs d'enlloc.
+
+101
+00:04:26,860 --> 00:04:31,060
+Unes xifres que, per descomptat, no tenien absolutament cap base científica.
+
+102
+00:04:31,100 --> 00:04:32,020
+Clar, us ho vaig mentar una mica.
+
+103
+00:04:32,280 --> 00:04:36,780
+Però il·lustren a la perfecció l'esperit de cada nova època tecnològica, saps?
+
+104
+00:04:37,140 --> 00:04:39,700
+És aquesta fe cega en el mitjà audiovisual.
+
+105
+00:04:40,280 --> 00:04:43,940
+Edison assumia que, bueno, que el simple fet de veure imatges en moviment
+
+106
+00:04:43,940 --> 00:04:47,520
+transferiria automàticament el coneixement cap al cervell de l'espectador.
+
+107
+00:04:47,520 --> 00:04:50,200
+Com si fóssim memòries USB o alguna cosa així.
+
+108
+00:04:50,460 --> 00:04:52,480
+Exacte, com si fóssim esponges passives.
+
+109
+00:04:52,880 --> 00:04:54,880
+I atenció, perquè aquest bucle no s'atura pas allà.
+
+110
+00:04:55,480 --> 00:04:58,120
+Als anys 30, la nova promesa daurada va ser la ràdio.
+
+111
+00:04:58,720 --> 00:05:02,060
+Es va arribar a creure que es podrien eliminar pràcticament tots els mestres.
+
+112
+00:05:02,260 --> 00:05:02,840
+Una bogeria.
+
+113
+00:05:03,120 --> 00:05:05,700
+La idea era posar simples cuidadors o vigilants a l'aula,
+
+114
+00:05:06,140 --> 00:05:09,800
+mentre un sol gran expert emetia una lliçó magistral per ràdio
+
+115
+00:05:09,800 --> 00:05:12,020
+per a centenars de milers d'alumnes a la vegada.
+
+116
+00:05:12,220 --> 00:05:14,440
+I després d'això, doncs, cap als anys 50,
+
+117
+00:05:14,440 --> 00:05:18,080
+l'esperança de cop va recaure en la televisió en circuit tancat.
+
+118
+00:05:18,240 --> 00:05:18,620
+Ah, cert.
+
+119
+00:05:18,860 --> 00:05:21,560
+I d'això en tenim dades concretes que són molt interessants.
+
+120
+00:05:21,960 --> 00:05:25,020
+Van fer estudis superrigorosos separant alumnes en grups.
+
+121
+00:05:25,280 --> 00:05:26,000
+A veure, com ho van fer?
+
+122
+00:05:26,320 --> 00:05:29,920
+Doncs uns estaven en una aula amb un professor presencial de tota la vida, vaja,
+
+123
+00:05:30,460 --> 00:05:34,520
+i uns altres estaven en una sala adjacent veient exactament la mateixa classe,
+
+124
+00:05:34,980 --> 00:05:36,300
+però transmesa per una televisió.
+
+125
+00:05:36,560 --> 00:05:38,500
+I suposo que esperaven resultats increïbles, no?
+
+126
+00:05:38,960 --> 00:05:43,660
+Clar, però el resultat real va ser que no hi va haver cap diferència significativa en l'aprenentatge.
+
+127
+00:05:43,660 --> 00:05:44,100
+Zero.
+
+128
+00:05:44,440 --> 00:05:47,940
+El simple fet de tenir una pantalla, pel simple fet de ser una pantalla,
+
+129
+00:05:48,380 --> 00:05:51,320
+no va millorar ni un pèl la retenció d'informació.
+
+130
+00:05:51,780 --> 00:05:56,060
+I després, avancem cap als 80, hi van arribar els ordinadors interactius.
+
+131
+00:05:56,700 --> 00:06:00,460
+Crec que a l'MIT estaven convençudíssims que si s'ensenyava als nens
+
+132
+00:06:00,460 --> 00:06:03,500
+a programar el moviment d'una petita tortuga virtual a la pantalla,
+
+133
+00:06:03,880 --> 00:06:07,680
+amb aquell famós llenguatge Logo, això milloraria les seves habilitats.
+
+134
+00:06:08,200 --> 00:06:12,020
+Sí, la idea era millorar el seu raonament lògic o matemàtic de manera general.
+
+135
+00:06:12,560 --> 00:06:14,720
+Però, espera un moment, això no funcionava així?
+
+136
+00:06:15,220 --> 00:06:19,380
+Vull dir, la programació lògica pura hauria d'ensenyar a pensar millor en general, no?
+
+137
+00:06:19,840 --> 00:06:21,120
+Això és el que sempre ens han venut.
+
+138
+00:06:21,720 --> 00:06:24,800
+Doncs això és exactament el que dictava el sentit comú d'aquella època.
+
+139
+00:06:25,180 --> 00:06:28,680
+I a veure, els nens efectivament van aprendre a moure la tortuga per la pantalla.
+
+140
+00:06:29,160 --> 00:06:32,100
+Van dominar perfectament aquesta microhabilitat concreta.
+
+141
+00:06:32,100 --> 00:06:35,800
+Però els estudis posteriors van revelar una realitat molt incòmoda.
+
+142
+00:06:36,240 --> 00:06:41,720
+Aquestes habilitats de raonament lògic no es van transferir a pràcticament cap altre àmbit acadèmic.
+
+143
+00:06:42,020 --> 00:06:44,000
+O sigui, que només sabien moure tortugues.
+
+144
+00:06:44,720 --> 00:06:47,900
+Literalment. Saber moure la tortuga no els va fer millors
+
+145
+00:06:47,900 --> 00:06:50,400
+resolent problemes de matemàtiques o de física
+
+146
+00:06:50,400 --> 00:06:52,580
+quan sortien d'aquell programa específic.
+
+147
+00:06:53,220 --> 00:06:56,720
+I, bueno, clar, tampoc podem oblidar l'arribada dels videodiscus als 90.
+
+148
+00:06:57,220 --> 00:06:57,620
+Ui, sí.
+
+149
+00:06:58,120 --> 00:07:00,840
+O aquell gran pànic, crec que va ser cap al 2013,
+
+150
+00:07:01,060 --> 00:07:04,060
+quan tothom jurava i perjurava que els MOOCs,
+
+151
+00:07:04,300 --> 00:07:07,380
+aquells cursos massius oberts i en línia de les universitats top,
+
+152
+00:07:07,720 --> 00:07:10,500
+provocarien la fallida total de l'educació tradicional.
+
+153
+00:07:11,020 --> 00:07:14,860
+Perquè clar, suposadament qualsevol podria rebre classes de professors de Harvard
+
+154
+00:07:14,860 --> 00:07:16,860
+des del sofà de casa en pijama.
+
+155
+00:07:17,100 --> 00:07:21,700
+Exacte. I ja hem vist que les universitats de maons i ciment segueixen allà, ben dretes.
+
+156
+00:07:22,060 --> 00:07:27,020
+Sí. I fixa't, el que és fascinant aquí, i el que en Muller subratlla superbé a la conferència,
+
+157
+00:07:27,020 --> 00:07:30,980
+és que la paraula revolucionar, aquesta paraula tan forta,
+
+158
+00:07:31,340 --> 00:07:34,880
+s'ha utilitzat sempre per intentar solucionar el problema equivocat.
+
+159
+00:07:34,960 --> 00:07:37,640
+Ah, interessant. Quin era el problema equivocat?
+
+160
+00:07:38,260 --> 00:07:40,760
+Doncs creure que el fre era la falta d'informació.
+
+161
+00:07:41,300 --> 00:07:45,180
+El veritable fre de l'aprenentatge humà mai ha estat la falta d'accés a les dades.
+
+162
+00:07:45,340 --> 00:07:49,460
+Vull dir, hem tingut biblioteques plenes a vessar de llibres i coneixement durant segles.
+
+163
+00:07:49,800 --> 00:07:50,460
+Tens tota la raó.
+
+164
+00:07:51,040 --> 00:07:54,040
+Per tant, si la falta d'accés no era el problema d'arrel,
+
+165
+00:07:54,040 --> 00:07:58,720
+i això és clau, la solució mai de la vida podia ser simplement dissenyar mètodes
+
+166
+00:07:58,720 --> 00:08:02,440
+per lliurar dades d'una manera més ràpida, més barata o més entretinguda.
+
+167
+00:08:03,160 --> 00:08:05,600
+Això em fa plantejar una qüestió crítica, llavors.
+
+168
+00:08:05,600 --> 00:08:08,400
+Si el mecanisme de lliurament no es passa al coll d'ampolla,
+
+169
+00:08:08,780 --> 00:08:13,340
+i, com dèiem, tenir literalment tot el coneixement de la humanitat a Google o a ChatGPT
+
+170
+00:08:13,340 --> 00:08:16,080
+no ens ha convertit a tots en premis Nobel instantanis,
+
+171
+00:08:16,460 --> 00:08:18,260
+on falla exactament aquest procés?
+
+172
+00:08:18,500 --> 00:08:19,180
+Bona pregunta.
+
+173
+00:08:19,560 --> 00:08:21,420
+Perquè si no és la màquina que emmet el senyal,
+
+174
+00:08:21,880 --> 00:08:24,880
+ha de ser per força la màquina que el rep, oi? El nostre cervell.
+
+175
+00:08:25,540 --> 00:08:26,320
+Completament d'acord.
+
+176
+00:08:27,400 --> 00:08:30,340
+Hem de mirar cap a dins, a la nostra arquitectura cognitiva.
+
+177
+00:08:30,600 --> 00:08:33,080
+I per entendre per què l'aprenentatge sovint es trenca,
+
+178
+00:08:33,080 --> 00:08:36,760
+perquè els humans podem rebre informació claríssima, superben explicada,
+
+179
+00:08:37,120 --> 00:08:38,860
+i tot i així no assimilar-la,
+
+180
+00:08:39,240 --> 00:08:42,300
+ens hem de basar en els fonaments que va establir en Daniel Kahneman.
+
+181
+00:08:42,620 --> 00:08:44,200
+El famós psicòleg guanyador del Nobel.
+
+182
+00:08:44,820 --> 00:08:45,280
+El mateix.
+
+183
+00:08:45,840 --> 00:08:50,020
+Ell modela el cervell humà dividint-lo bàsicament en dos sistemes d'operació principals.
+
+184
+00:08:50,380 --> 00:08:51,720
+I mira, per veure'ls en acció,
+
+185
+00:08:52,260 --> 00:08:54,540
+a les fonts de la conferència es menten un problema clàssic.
+
+186
+00:08:55,060 --> 00:08:57,060
+És una trampa mental meravellosa que m'encanta.
+
+187
+00:08:57,500 --> 00:08:58,840
+Sí, endavant, planteja-la.
+
+188
+00:08:59,280 --> 00:09:01,180
+El comparteixo tal qual, a veure com sona.
+
+189
+00:09:01,920 --> 00:09:03,840
+Imaginem que un bat de béisbol i una pilota
+
+190
+00:09:03,840 --> 00:09:06,460
+costen, en total, un dòlar amb 10 cèntims.
+
+191
+00:09:06,740 --> 00:09:07,180
+D'acord.
+
+192
+00:09:07,480 --> 00:09:09,960
+El bat costa exactament un dòlar més que la pilota.
+
+193
+00:09:10,640 --> 00:09:12,680
+La gran pregunta és quant costa la pilota.
+
+194
+00:09:13,340 --> 00:09:15,180
+Anem a veure quin és el primer instint.
+
+195
+00:09:15,580 --> 00:09:18,100
+Quina resposta salta així automàticament a la ment
+
+196
+00:09:18,100 --> 00:09:19,040
+sense pensar-ho gaire?
+
+197
+00:09:19,520 --> 00:09:20,840
+Jo ho admeto sense problemes.
+
+198
+00:09:21,080 --> 00:09:22,820
+La primera vegada que vaig sentir això, fa anys,
+
+199
+00:09:23,080 --> 00:09:25,400
+el meu cervell em va cridar instantàniament 10 cèntims.
+
+200
+00:09:26,160 --> 00:09:27,920
+Esclar, és el que ens passa gairebé a tots.
+
+201
+00:09:28,320 --> 00:09:30,840
+És la resposta que sembla absolutament òbvia i de sentit comú.
+
+202
+00:09:31,180 --> 00:09:34,080
+Però clar, si ens aturem un segon i fem la matemàtica real,
+
+203
+00:09:34,560 --> 00:09:37,700
+si la pilota costa 10 cèntims i el bat costa un dòlar més,
+
+204
+00:09:38,060 --> 00:09:39,940
+això vol dir que el bat hauria de costar 1 en 10.
+
+205
+00:09:40,460 --> 00:09:40,860
+Exacte.
+
+206
+00:09:41,080 --> 00:09:42,180
+Llavors sumem-ho tot.
+
+207
+00:09:42,520 --> 00:09:45,960
+1 en 10 del bat més els 10 cèntims de la pilota i fan 1 dòlar en 20.
+
+208
+00:09:46,320 --> 00:09:47,540
+La xifra ja no quadra gens.
+
+209
+00:09:47,840 --> 00:09:48,620
+Gens ni mica.
+
+210
+00:09:49,100 --> 00:09:52,520
+La resposta correcta, lògicament, és que la pilota costa 5 cèntims.
+
+211
+00:09:53,060 --> 00:09:55,120
+D'aquesta manera, el bat costa 1 dòlar en 5
+
+212
+00:09:55,120 --> 00:09:57,520
+i junts sumen exactament el dòlar en 10 inicial.
+
+213
+00:09:58,340 --> 00:10:01,640
+Però a veure, per què sentim aquella necessitat gairebé, no sé,
+
+214
+00:10:02,020 --> 00:10:04,360
+gairebé física de cridar 10 cèntims de primeres?
+
+215
+00:10:04,760 --> 00:10:08,460
+Doncs just aquí tens l'essència d'aquests dos sistemes que deien Kahneman.
+
+216
+00:10:08,920 --> 00:10:12,480
+Aquesta resposta tan ràpida, impulsiva i completament errònia
+
+217
+00:10:12,480 --> 00:10:16,700
+que tenim al principi a aquesta veu, és el que ell anomena el sistema 1.
+
+218
+00:10:16,900 --> 00:10:17,440
+El ràpid.
+
+219
+00:10:17,780 --> 00:10:20,320
+Això mateix. És un sistema increïblement veloç.
+
+220
+00:10:20,320 --> 00:10:22,600
+Sempre està funcionant en segon pla, com un ràdar,
+
+221
+00:10:22,940 --> 00:10:24,980
+no exigeix absolutament cap esforç conscient
+
+222
+00:10:24,980 --> 00:10:29,200
+i és justament l'encarregat de gestionar tota la nostra memòria a llarg termini.
+
+223
+00:10:29,400 --> 00:10:31,360
+O sigui, és el mateix sistema que s'activa
+
+224
+00:10:31,360 --> 00:10:34,040
+quan algú diu el nostre nom en una sala plena de gent.
+
+225
+00:10:34,480 --> 00:10:37,500
+O el que sap de sobres que la gravetat fa caure les coses cap avall
+
+226
+00:10:37,500 --> 00:10:40,360
+sense que necessitis formular cap equació mental, saps?
+
+227
+00:10:40,660 --> 00:10:43,180
+Clar. I llavors entra en joc el famós sistema 2,
+
+228
+00:10:43,720 --> 00:10:46,440
+que seria aquella veu interior molt més lenta i analítica.
+
+229
+00:10:46,980 --> 00:10:50,680
+És bàsicament el pensament conscient, quan ens assallem a pensar de debò.
+
+230
+00:10:51,220 --> 00:10:52,680
+Però, segons entenc de les fonts,
+
+231
+00:10:52,680 --> 00:10:55,540
+aquest sistema 2 té un gran problema biològic
+
+232
+00:10:55,540 --> 00:10:57,220
+o podríem fer-ne una analogia
+
+233
+00:10:57,220 --> 00:10:58,860
+a veure què et sembla. És com
+
+234
+00:10:58,860 --> 00:11:01,300
+aquell amic fantàstic que és un geni
+
+235
+00:11:01,300 --> 00:11:03,160
+absolut resolent problemes de matemàtiques
+
+236
+00:11:03,160 --> 00:11:05,520
+complexos, però que és extremadament
+
+237
+00:11:05,520 --> 00:11:07,360
+gandul i es nega en rodó
+
+238
+00:11:07,360 --> 00:11:09,320
+a aixecar-se del sofà, tret que sigui
+
+239
+00:11:09,320 --> 00:11:11,240
+qüestió de vida o mort. És una
+
+240
+00:11:11,240 --> 00:11:13,020
+metàfora brutal i molt precisa.
+
+241
+00:11:13,360 --> 00:11:15,260
+El sistema 2 és certament potent,
+
+242
+00:11:15,460 --> 00:11:17,320
+sí, però pateix d'unes limitacions
+
+243
+00:11:17,320 --> 00:11:19,120
+biològiques que són francament
+
+244
+00:11:19,120 --> 00:11:20,720
+brutals. En quin sentit?
+
+245
+00:11:21,280 --> 00:11:22,980
+Principalment pel que fa a la memòria de treball.
+
+246
+00:11:23,460 --> 00:11:26,720
+Aquest sistema només pot sostenir, manipular o retenir alhora
+
+247
+00:11:26,720 --> 00:11:30,560
+unes quatre com a molt potser cinc idees o variables noves alhora.
+
+248
+00:11:31,220 --> 00:11:33,060
+A la que n'hi poses una sisena, es col·lapsa.
+
+249
+00:11:33,380 --> 00:11:34,600
+Uf, quina limitació.
+
+250
+00:11:35,240 --> 00:11:38,320
+I, de fet, posar aquest amic gandul a treballar
+
+251
+00:11:38,320 --> 00:11:40,720
+té un cos físic molt real per al cos humà.
+
+252
+00:11:41,000 --> 00:11:41,560
+I tant que sí.
+
+253
+00:11:41,880 --> 00:11:44,100
+A la conferència del Muller esmenten un experiment
+
+254
+00:11:44,100 --> 00:11:45,580
+que a mi em sembla fascinant,
+
+255
+00:11:45,720 --> 00:11:47,600
+que demostra visualment aquesta limitació.
+
+256
+00:11:48,380 --> 00:11:52,220
+Als participants se'ls dona una seqüència de números completament aleatoris
+
+257
+00:11:52,220 --> 00:11:55,740
+i se'ls obliga a sumar la xifra 1 a cada nombre en veu alta.
+
+258
+00:11:56,220 --> 00:11:56,620
+D'acord.
+
+259
+00:11:56,800 --> 00:12:00,520
+Però el truc és que ho han de fer seguint exactament el ritme marcat per un metrònom.
+
+260
+00:12:00,980 --> 00:12:02,800
+Tic, tac, tic, tac.
+
+261
+00:12:03,220 --> 00:12:04,940
+Superestressant, només d'imaginar-ho.
+
+262
+00:12:05,100 --> 00:12:05,400
+Sí, sí.
+
+263
+00:12:05,860 --> 00:12:07,480
+Llavors, quan algú intenta fer això,
+
+264
+00:12:07,480 --> 00:12:11,460
+el seu sistema 2 es posa a treballar d'una manera tan i tan intensa
+
+265
+00:12:11,460 --> 00:12:13,540
+que el cos s'encè i reacciona físicament.
+
+266
+00:12:14,140 --> 00:12:16,560
+Les dades mostren que el ritme cardíac puja de cop,
+
+267
+00:12:16,560 --> 00:12:20,540
+la conductivitat de la pell canvia i comença una lleugera sudoració.
+
+268
+00:12:21,120 --> 00:12:24,080
+I el més fort, si els mires fixament als ulls mentre ho fan,
+
+269
+00:12:24,520 --> 00:12:27,580
+es veu perfectament com les pupiles es dilaten ostensiblement.
+
+270
+00:12:27,900 --> 00:12:31,160
+Clar, perquè el cervell literalment està devorant tota la glucosa que troba
+
+271
+00:12:31,160 --> 00:12:32,840
+per poder mantenir aquell ritme.
+
+272
+00:12:32,900 --> 00:12:37,340
+Llavors, bàsicament, el nostre sistema 2 és el processador central, la CPU,
+
+273
+00:12:37,880 --> 00:12:39,760
+però té una bateria absolutament pèssima,
+
+274
+00:12:40,000 --> 00:12:43,220
+que s'esgota en qüestió de minuts per l'esgotament d'energia disponible, oi?
+
+275
+00:12:43,640 --> 00:12:44,320
+Això mateix.
+
+276
+00:12:44,320 --> 00:12:47,120
+I això, de fet, planteja una qüestió important,
+
+277
+00:12:47,440 --> 00:12:50,100
+diria que la més important de tota l'arquitectura educativa.
+
+278
+00:12:50,640 --> 00:12:54,060
+Si viure constantment utilitzant el sistema 2 és esgotador
+
+279
+00:12:54,060 --> 00:12:57,220
+i, francament, biològicament insostenible a mitjan termini,
+
+280
+00:12:57,600 --> 00:13:01,000
+com nassos avancem? Com aprenem coses complexes?
+
+281
+00:13:01,500 --> 00:13:02,800
+Aquesta és la clau.
+
+282
+00:13:03,000 --> 00:13:06,340
+Clar, perquè l'objectiu últim de qualsevol procés d'aprenentatge real
+
+283
+00:13:06,340 --> 00:13:09,660
+no és fer servir contínuament aquest sistema 2 tan limitat.
+
+284
+00:13:10,200 --> 00:13:13,320
+La veritable meta és utilitzar el sistema 2 només temporalment.
+
+285
+00:13:14,140 --> 00:13:15,120
+Per fer de pont, vols dir?
+
+286
+00:13:15,580 --> 00:13:19,420
+Això. Utilitzar-lo per processar la informació nova amb esforç
+
+287
+00:13:19,420 --> 00:13:22,720
+i de seguida transferir-la i emmagatzemar-la al sistema 1.
+
+288
+00:13:23,260 --> 00:13:26,400
+O sigui, patir aquest esforç cognitiu conscient al principi perquè,
+
+289
+00:13:26,400 --> 00:13:29,320
+a base de repetició, pràctica i molta fricció,
+
+290
+00:13:29,780 --> 00:13:32,760
+el cervell vagi modificant les seves pròpies connexions neuronals.
+
+291
+00:13:33,300 --> 00:13:36,220
+I així, un cop queda ben guardat el sistema 1,
+
+292
+00:13:36,700 --> 00:13:40,520
+aquelles tasques que al principi semblaven d'una complexitat inassumible
+
+293
+00:13:40,520 --> 00:13:42,420
+es tornen completament automàtiques.
+
+294
+00:13:42,420 --> 00:13:44,340
+gairebé invisibles per nosaltres,
+
+295
+00:13:44,780 --> 00:13:46,960
+com anar amb bicicleta o conduir un cotxe cap a la feina.
+
+296
+00:13:47,760 --> 00:13:48,480
+Exactament això.
+
+297
+00:13:48,780 --> 00:13:50,800
+I fixa't que el mecanisme pel qual els humans
+
+298
+00:13:50,800 --> 00:13:54,260
+aconseguim emmagatzemar quantitats ingents d'informació
+
+299
+00:13:54,260 --> 00:13:56,300
+tan complexa en aquest sistema 1 ràpid
+
+300
+00:13:56,300 --> 00:13:59,800
+és mitjançant un fenomen meravellós de la nostra memòria.
+
+301
+00:14:00,280 --> 00:14:01,580
+I això ens connecta directament
+
+302
+00:14:01,580 --> 00:14:03,680
+amb un altre estudi emblemàtic que tracta en Muller,
+
+303
+00:14:04,100 --> 00:14:06,520
+un experiment històric amb jugadors d'escacs.
+
+304
+00:14:07,080 --> 00:14:10,320
+Uf, aquí és on es posa realment interessant tot el tema.
+
+305
+00:14:11,120 --> 00:14:13,980
+Aquest estudi dels escacs m'ha deixat absolutament glaçat.
+
+306
+00:14:14,260 --> 00:14:15,120
+És que és boníssim.
+
+307
+00:14:15,560 --> 00:14:16,020
+Però passem-ho.
+
+308
+00:14:16,560 --> 00:14:20,900
+Els investigadors van agafar el tauler d'una partida real d'escacs de molt al nivell
+
+309
+00:14:20,900 --> 00:14:25,560
+i el van ensenyar durant un instant, molt fugàs, estem parlant de només 5 segons,
+
+310
+00:14:26,000 --> 00:14:27,220
+a diferents perfils de persones.
+
+311
+00:14:28,260 --> 00:14:30,800
+Després d'aquests 5 segons, ràpidament tapaven el tauler
+
+312
+00:14:30,800 --> 00:14:34,180
+i els demanaven que reconstruïssin físicament el que acabaven de veure.
+
+313
+00:14:34,640 --> 00:14:36,380
+La clàssica prova de memòria visual.
+
+314
+00:14:36,780 --> 00:14:37,320
+Exacte.
+
+315
+00:14:37,840 --> 00:14:40,240
+Doncs el resultat inicial sembla d'allò més lògic.
+
+316
+00:14:40,320 --> 00:14:42,760
+Un principiant, algú que gairebé no juga,
+
+317
+00:14:43,220 --> 00:14:46,480
+en prou fent es recordava la posició de quatre peces aïllades pel tauler.
+
+318
+00:14:47,300 --> 00:14:50,820
+Però atenció, un gran mestre internacional en col·locava una 16,
+
+319
+00:14:51,040 --> 00:14:52,680
+perfectament al seu lloc, 16.
+
+320
+00:14:53,060 --> 00:14:54,540
+Una diferència abismal, clar.
+
+321
+00:14:55,000 --> 00:14:57,520
+L'observació òbvia aquí seria pensar, espera,
+
+322
+00:14:57,960 --> 00:15:02,220
+els grans mestres simplement deuen tenir una memòria fotogràfica increïble per naixement, oi?
+
+323
+00:15:02,640 --> 00:15:05,160
+O un coeficient intel·lectual bàsic molt superior
+
+324
+00:15:05,160 --> 00:15:08,800
+que els permet resoldre problemes abstractes en general d'una manera més eficient.
+
+325
+00:15:09,340 --> 00:15:11,560
+Doncs aquesta va ser justament la primera hipòtesi
+
+326
+00:15:11,560 --> 00:15:12,580
+ingenua de molta gent.
+
+327
+00:15:12,940 --> 00:15:15,400
+Però clar, els investigadors en psicologia cognitiva
+
+328
+00:15:15,400 --> 00:15:17,800
+sabien de sobres que no tot és el que sembla.
+
+329
+00:15:18,320 --> 00:15:20,500
+La diferència tan brutal entre els dos subjectes
+
+330
+00:15:20,500 --> 00:15:22,580
+no era una capacitat de processament bruta
+
+331
+00:15:22,580 --> 00:15:23,880
+superior del gran mestre.
+
+332
+00:15:24,080 --> 00:15:25,340
+No tenien un servei màgic?
+
+333
+00:15:25,560 --> 00:15:27,960
+No. Era una qüestió purament d'agrupació,
+
+334
+00:15:28,360 --> 00:15:31,120
+allò que en la literatura científica s'anomena chunking.
+
+335
+00:15:31,520 --> 00:15:32,000
+Chunking?
+
+336
+00:15:32,160 --> 00:15:34,100
+Sí, de chunk, tross o bloc en anglès.
+
+337
+00:15:34,660 --> 00:15:36,600
+El gran mestre, en realitat, no està fent servir
+
+338
+00:15:36,600 --> 00:15:38,980
+gens el seu limitat sistema 2 per memoritzar
+
+339
+00:15:38,980 --> 00:15:41,100
+16 peces individuals una per una.
+
+340
+00:15:41,500 --> 00:15:42,960
+Allò faria petar la memòria de treball
+
+341
+00:15:42,960 --> 00:15:44,900
+de qualsevol. Clar, perquè hem dit que el limit
+
+342
+00:15:44,900 --> 00:15:47,120
+era de 4 o 5. Exacte.
+
+343
+00:15:47,400 --> 00:15:49,080
+El que passa és que, al llarg de molts anys
+
+344
+00:15:49,080 --> 00:15:51,300
+de pràctica dolorosa i moltes partides,
+
+345
+00:15:51,800 --> 00:15:53,040
+el gran mestre ha construït
+
+346
+00:15:53,040 --> 00:15:55,300
+patrons molt complexos al seu sistema 1.
+
+347
+00:15:55,880 --> 00:15:57,140
+Així que, quan ell mira el tauler
+
+348
+00:15:57,140 --> 00:15:58,940
+durant aquells 5 segons, no veu
+
+349
+00:15:58,940 --> 00:16:01,000
+un peó solitari a la casella E4
+
+350
+00:16:01,000 --> 00:16:02,960
+i després un cavall a F3.
+
+351
+00:16:03,560 --> 00:16:04,900
+Ell veu directament l'obertura
+
+352
+00:16:04,900 --> 00:16:06,720
+Ruy López variant tancada.
+
+353
+00:16:07,300 --> 00:16:08,960
+És a dir, que per ell, desenes de peces
+
+354
+00:16:08,960 --> 00:16:11,260
+es fusionen directament en un sol concepte
+
+355
+00:16:11,260 --> 00:16:12,360
+o bloc d'informació, oi?
+
+356
+00:16:12,580 --> 00:16:14,880
+Això mateix. És exactament de la mateixa manera
+
+357
+00:16:14,880 --> 00:16:16,720
+que tu i jo ara mateix ja no llegim
+
+358
+00:16:16,720 --> 00:16:18,440
+lletres individuals quan obrim un llibre,
+
+359
+00:16:18,780 --> 00:16:20,760
+sinó que processem paraules senceres
+
+360
+00:16:20,760 --> 00:16:23,260
+o fins i tot frases curtes d'un sol cop d'ull.
+
+361
+00:16:23,540 --> 00:16:25,400
+És clar. El famós chunking.
+
+362
+00:16:25,800 --> 00:16:27,320
+I llavors això és el que per mi
+
+363
+00:16:27,320 --> 00:16:28,700
+trenca tots els esquemes.
+
+364
+00:16:29,000 --> 00:16:30,980
+És el gir argumental de la segona part d'aquest estudi
+
+365
+00:16:30,980 --> 00:16:32,740
+dels escacs. És que aquí està la gràcia.
+
+366
+00:16:32,960 --> 00:16:34,780
+Els científics van voler comprovar de debò
+
+367
+00:16:34,780 --> 00:16:38,860
+si aquests grans mestres realment tenien una millor memòria pura o no.
+
+368
+00:16:39,600 --> 00:16:41,340
+Així que van canviar les regles del joc.
+
+369
+00:16:41,960 --> 00:16:43,160
+Van agafar les mateixes peces
+
+370
+00:16:43,160 --> 00:16:46,600
+i les van escampar pel tauler de manera absolutament aleatòria,
+
+371
+00:16:47,200 --> 00:16:49,900
+formant estructures caòtiques i completament absurdes,
+
+372
+00:16:49,980 --> 00:16:53,800
+que seria impossible que es donessin en una partida real, en sentit.
+
+373
+00:16:53,920 --> 00:16:55,500
+Sí, trencant totes les regles.
+
+374
+00:16:55,940 --> 00:16:58,400
+Llavors, les van ensenyar durant els mateixos cinc segons.
+
+375
+00:16:59,040 --> 00:16:59,400
+I saps què?
+
+376
+00:17:00,040 --> 00:17:02,760
+El gran mestre ho va fer tant i tan malament com el principiant.
+
+377
+00:17:02,960 --> 00:17:04,660
+Només va recordar quatre peces.
+
+378
+00:17:04,780 --> 00:17:06,320
+Només quatre, com qualsevol fill de veí.
+
+379
+00:17:06,520 --> 00:17:08,740
+És una constatació demolidora per molts mites.
+
+380
+00:17:09,080 --> 00:17:12,040
+El gran mestre no té una memòria màgica, no és un superhéroe.
+
+381
+00:17:12,440 --> 00:17:14,600
+Simplement, quan el tauler és completament aleatori,
+
+382
+00:17:15,020 --> 00:17:18,180
+tots aquells patrons complexos preestablerts que té el seu sistema 1
+
+383
+00:17:18,180 --> 00:17:20,660
+resulten inútils, no li serveixen de res.
+
+384
+00:17:21,020 --> 00:17:24,420
+Així que se l'obliga de cop a recórrer al seu limitat sistema 2,
+
+385
+00:17:24,720 --> 00:17:25,960
+igual que ha de fer el principiant.
+
+386
+00:17:26,380 --> 00:17:27,960
+I aquest sistema, com ja hem establert,
+
+387
+00:17:28,240 --> 00:17:31,500
+només pot gestionar aquelles famoses quatre o cinc unitats com a màxim.
+
+388
+00:17:31,500 --> 00:17:35,220
+i el que això demostra, de forma absolutament inapel·lable, diria jo,
+
+389
+00:17:35,620 --> 00:17:38,780
+és que no existeix una habilitat universal de resolució de problemes
+
+390
+00:17:38,780 --> 00:17:40,500
+que sigui transferible a tot arreu.
+
+391
+00:17:40,900 --> 00:17:43,240
+O sigui que una persona, per molt llesta que sembli,
+
+392
+00:17:43,660 --> 00:17:46,140
+pot ser brillant en biologia celular, per exemple,
+
+393
+00:17:46,580 --> 00:17:49,540
+però si la poses a resoldre un problema d'enginyeria de ponts,
+
+394
+00:17:49,620 --> 00:17:52,000
+estarà pràcticament al nivell d'un aprenent complet,
+
+395
+00:17:52,700 --> 00:17:53,900
+tot i ser molt intel·ligent.
+
+396
+00:17:53,900 --> 00:17:56,900
+Perquè el seu sistema 1 està buit de patrons arquitectònics.
+
+397
+00:17:57,860 --> 00:17:58,900
+Li falten els xancs d'enginyeria.
+
+398
+00:17:59,700 --> 00:18:01,200
+Quina bufetada de realitat.
+
+399
+00:18:01,500 --> 00:18:05,180
+Exacte. Només existeixen dominis molt específics de coneixement
+
+400
+00:18:05,180 --> 00:18:08,900
+que s'han anat construint gràcies a aquest chunking a la memòria a llarg termini.
+
+401
+00:18:09,380 --> 00:18:11,960
+I fixa't que això posa molta llum sobre el gran perill
+
+402
+00:18:11,960 --> 00:18:14,540
+que tenen algunes metodologies educatives modernes.
+
+403
+00:18:14,720 --> 00:18:15,840
+A quines en refereixes?
+
+404
+00:18:16,340 --> 00:18:18,680
+Doncs, per exemple, el constructivisme més pur
+
+405
+00:18:18,680 --> 00:18:21,540
+o tot aquest tema de l'aprenentatge per descobriment lliure.
+
+406
+00:18:22,040 --> 00:18:24,140
+Ah, sí. Aquesta idea tan popular de
+
+407
+00:18:24,140 --> 00:18:26,960
+no li diguis mai la resposta a l'alumne directament.
+
+408
+00:18:26,960 --> 00:18:29,440
+Deixa que ell mateix descobreixi el concepte
+
+409
+00:18:29,440 --> 00:18:31,480
+explorant en un entorn no dirigit.
+
+410
+00:18:31,500 --> 00:18:33,660
+que són apreciós sobre el paper, en veritat.
+
+411
+00:18:34,140 --> 00:18:35,800
+Sones superidílic, no ho negaré,
+
+412
+00:18:36,140 --> 00:18:38,860
+però xoca frontalment amb la nostra arquitectura neuronal.
+
+413
+00:18:39,320 --> 00:18:41,540
+A veure, si retires tota l'estructura,
+
+414
+00:18:41,700 --> 00:18:44,140
+si treus la vestida guiada pas a pas per l'expert
+
+415
+00:18:44,140 --> 00:18:47,780
+i deixes algú principiant, sol, davant d'un problema complex
+
+416
+00:18:47,780 --> 00:18:50,740
+perquè construeixi el coneixement del no-res...
+
+417
+00:18:50,740 --> 00:18:51,100
+Què passa?
+
+418
+00:18:51,660 --> 00:18:53,260
+Doncs el que fas, inevitablement,
+
+419
+00:18:53,320 --> 00:18:56,160
+és sobrecarregar instantàniament el seu sistema 2.
+
+420
+00:18:56,660 --> 00:18:58,900
+Aquí entra en joc un concepte científic clau,
+
+421
+00:18:59,020 --> 00:19:01,420
+que és la càrrega cognitiva intrínseca.
+
+422
+00:19:01,500 --> 00:19:06,280
+Que seria, corregeix-me si m'equivoco, la dificultat natural i inherent
+
+423
+00:19:06,280 --> 00:19:08,820
+que ja té una tasca o un concepte per si sol, oi?
+
+424
+00:19:09,080 --> 00:19:11,280
+Independentment de com de bé o malament s'ensenyi.
+
+425
+00:19:12,020 --> 00:19:16,280
+Això mateix. Llavors, si un aprenent encara no té els blocs bàsics creats,
+
+426
+00:19:16,380 --> 00:19:18,980
+aquest chunking previ consolidat al sistema 1,
+
+427
+00:19:18,980 --> 00:19:24,060
+doncs aquesta dificultat natural esgota la capacitat del sistema 2 en qüestió de segons.
+
+428
+00:19:24,580 --> 00:19:28,480
+La ment senzillament es col·lapsa, com un ordinador quan obres massa pestanyes,
+
+429
+00:19:28,700 --> 00:19:31,480
+i l'aprenentatge queda completament bloquejat per estrès.
+
+430
+00:19:32,200 --> 00:19:32,680
+Claríssim.
+
+431
+00:19:33,080 --> 00:19:34,900
+I mira, per fer-ho molt visual per a TITOM,
+
+432
+00:19:35,300 --> 00:19:37,860
+a les fonts de la xerrada porten una metàfora que trobo brillant,
+
+433
+00:19:38,260 --> 00:19:40,520
+amb el tema del GPS, dels telèfons intel·ligents.
+
+434
+00:19:40,960 --> 00:19:42,040
+Sí, aquesta és de les millors.
+
+435
+00:19:42,240 --> 00:19:43,840
+Veritat. L'explico ràpid.
+
+436
+00:19:44,320 --> 00:19:47,020
+Quan viatgem a una ciutat completament nova, per primera vegada,
+
+437
+00:19:47,320 --> 00:19:51,060
+i anem pel carrer mirant exclusivament aquell puntet blau del GPS a la pantalla
+
+438
+00:19:51,060 --> 00:19:52,800
+per anar del punt A al punt B,
+
+439
+00:19:53,540 --> 00:19:56,320
+doncs el nostre sistema 2 es relaxa completament.
+
+440
+00:19:56,980 --> 00:20:00,660
+Bàsicament, hem externalitzat tot l'esforç cognitiu de navegació a la màquina.
+
+441
+00:20:01,120 --> 00:20:02,340
+Ens movem sense cap problema.
+
+442
+00:20:03,020 --> 00:20:03,560
+Sense pensar.
+
+443
+00:20:03,920 --> 00:20:06,120
+Però, clar, què passa si just a mig carrer
+
+444
+00:20:06,120 --> 00:20:08,020
+el telèfon es queda de cop sense bateria?
+
+445
+00:20:08,580 --> 00:20:09,980
+Doncs que aixequem la vista de la pantalla
+
+446
+00:20:09,980 --> 00:20:12,900
+i ens adonem amb terror que estem perduts al mig del Nora.
+
+447
+00:20:13,340 --> 00:20:13,920
+Pànic total.
+
+448
+00:20:14,240 --> 00:20:15,780
+No tenim absolutament ni idea d'on som.
+
+449
+00:20:16,340 --> 00:20:16,820
+I per què?
+
+450
+00:20:17,260 --> 00:20:19,940
+Perquè, en no haver fet l'esforç previ de parar a atenció real,
+
+451
+00:20:20,300 --> 00:20:22,340
+de buscar referències visuals als edificis
+
+452
+00:20:22,340 --> 00:20:24,720
+i, sobretot, d'haver-nos frustrat una miqueta
+
+453
+00:20:24,720 --> 00:20:26,560
+observant cruïlles i equivocant-nos,
+
+454
+00:20:27,020 --> 00:20:29,640
+el nostre cervell no ha construït cap mena de mapa mental intern.
+
+455
+00:20:30,240 --> 00:20:32,340
+El GPS ens ho ha posat tan fàcil
+
+456
+00:20:32,340 --> 00:20:34,260
+que hem passat de llarg de l'aprenentatge.
+
+457
+00:20:35,100 --> 00:20:38,640
+Per tant, l'aprenentatge biològic exigeix certa fricció
+
+458
+00:20:38,640 --> 00:20:40,660
+per poder crear aquella estructura de carrers
+
+459
+00:20:40,660 --> 00:20:42,200
+dins la memòria a llarg termini.
+
+460
+00:20:42,200 --> 00:20:43,380
+El que és fascinant aquí,
+
+461
+00:20:43,580 --> 00:20:46,120
+si connectem precisament aquesta metàfora del GPS
+
+462
+00:20:46,120 --> 00:20:48,500
+amb l'actualitat més urgent que tenim a sobre,
+
+463
+00:20:49,000 --> 00:20:51,740
+és com jutgem el paper de la intel·ligència artificial avui dia.
+
+464
+00:20:52,140 --> 00:20:55,220
+O sigui, en quin punt es troba exactament la IA a les aules?
+
+465
+00:20:55,560 --> 00:20:56,440
+És el gran debat.
+
+466
+00:20:56,820 --> 00:20:58,820
+Crec que podem dividir clarament la qüestió
+
+467
+00:20:58,820 --> 00:21:00,960
+en dues facetes molt diferenciades.
+
+468
+00:21:01,380 --> 00:21:04,820
+D'una banda, la IA té un costat extraordinàriament positiu,
+
+469
+00:21:04,920 --> 00:21:05,620
+no ho podem negar.
+
+470
+00:21:06,020 --> 00:21:08,260
+És immillorable proporcionant allò que en diem
+
+471
+00:21:08,260 --> 00:21:09,840
+feedback immediat i precis.
+
+472
+00:21:10,240 --> 00:21:11,660
+I sabem que aquest feedback instantani
+
+473
+00:21:11,660 --> 00:21:14,020
+és absolutament vital per rectificar.
+
+474
+00:21:14,540 --> 00:21:16,700
+Si posem l'exemple d'aprendre a tocar un instrument clàssic,
+
+475
+00:21:16,920 --> 00:21:18,040
+com per exemple un arpa.
+
+476
+00:21:18,520 --> 00:21:20,100
+Si tu toques la corda incorrecta,
+
+477
+00:21:20,340 --> 00:21:22,540
+el so desafinat t'entra a l'oïda gairebé a l'instant,
+
+478
+00:21:23,020 --> 00:21:25,100
+et castiga amb la dissonància immediata
+
+479
+00:21:25,100 --> 00:21:27,700
+i el teu cervell corregeix el tir per la pròxima vegada.
+
+480
+00:21:28,360 --> 00:21:29,820
+El mateix passa en els esports?
+
+481
+00:21:30,200 --> 00:21:30,900
+Clar, en el tenis.
+
+482
+00:21:31,420 --> 00:21:32,740
+Colpeges la pilota amb la raqueta
+
+483
+00:21:32,740 --> 00:21:35,080
+i veus directament com surt fora dels límits de la pista.
+
+484
+00:21:35,680 --> 00:21:39,580
+Hi ha una retroalimentació visual i sensorial instantània que t'ensenya.
+
+485
+00:21:40,100 --> 00:21:42,840
+Doncs en camps com les matemàtiques o l'escriptura d'assajos,
+
+486
+00:21:43,180 --> 00:21:46,660
+la IA actua ara mateix exactament com aquell so dissonant de l'arpa.
+
+487
+00:21:46,960 --> 00:21:47,400
+Totalment.
+
+488
+00:21:47,520 --> 00:21:49,740
+Et pot aturar just en l'acte i dir-te
+
+489
+00:21:49,740 --> 00:21:53,700
+mira, exactament aquí és on s'ha trencat la teva cadena de raonament lògic.
+
+490
+00:21:54,240 --> 00:21:55,940
+I ho fas sense que hagis d'esperar cinc dies
+
+491
+00:21:55,940 --> 00:21:58,640
+a rebre un examen corregit amb bolígraf vermell per un professor.
+
+492
+00:21:59,120 --> 00:22:03,520
+I aquest és l'ús on la tecnologia brilla com a eina d'ajust cognitiu.
+
+493
+00:22:04,140 --> 00:22:07,700
+Però hem de mirar de cara al costat fosc d'això,
+
+494
+00:22:07,700 --> 00:22:11,060
+que genera una preocupació molt, molt profonda
+
+495
+00:22:11,060 --> 00:22:13,240
+en tota la comunitat científica ara mateix.
+
+496
+00:22:13,560 --> 00:22:18,100
+I és el risc massiu que la IA acabi eliminant del tot
+
+497
+00:22:18,100 --> 00:22:20,600
+allò que anomenem pràctica esforçada.
+
+498
+00:22:21,020 --> 00:22:23,620
+La pràctica que causa incomoditat real.
+
+499
+00:22:23,980 --> 00:22:25,800
+Aquesta mateixa. Pensem-ho bé.
+
+500
+00:22:25,940 --> 00:22:28,720
+A veure, si un noi demana a un model de llenguatge
+
+501
+00:22:28,720 --> 00:22:32,460
+que li escrigui tot un assaig llarguíssim sobre la revolució industrial
+
+502
+00:22:32,460 --> 00:22:36,220
+o que li resolgui en tres segons tota una pàgina d'equacions diferencials,
+
+503
+00:22:36,700 --> 00:22:38,160
+el que està fent, en realitat,
+
+504
+00:22:38,520 --> 00:22:43,680
+és saltar-se deliberadament tot el procés dolorós d'estar sol enfront del full en blanc.
+
+505
+00:22:44,020 --> 00:22:45,720
+Està agafant la dracera definitiva.
+
+506
+00:22:45,920 --> 00:22:50,400
+Clar, evitar el dolor, aquell dolor necessari d'haver d'escollir paraules una a una,
+
+507
+00:22:50,800 --> 00:22:52,440
+d'esborrar frases mal construïdes,
+
+508
+00:22:52,440 --> 00:22:57,940
+de frustrar-se i de, literalment, haver de forçar el cervell a trobar solucions noves des de zero.
+
+509
+00:22:58,380 --> 00:23:02,660
+Fixa't que per mi l'analogia perfecta, seguint aquesta línia de la necessitat de fricció,
+
+510
+00:23:03,220 --> 00:23:04,620
+seria el fet d'anar al gimnàs.
+
+511
+00:23:05,160 --> 00:23:05,460
+A veure.
+
+512
+00:23:05,940 --> 00:23:09,280
+Si nosaltres utilitzem la IA per escriure'ns els assajos des de zero,
+
+513
+00:23:09,720 --> 00:23:12,540
+en comptes de fer-la servir només com un corrector al final del procés,
+
+514
+00:23:13,040 --> 00:23:16,940
+és literalment l'equivalent a contractar un culturista professional enorme
+
+515
+00:23:16,940 --> 00:23:20,380
+perquè aixegui les peses per nosaltres cada tarda al gimnàs.
+
+516
+00:23:20,400 --> 00:23:20,820
+Tal qual.
+
+517
+00:23:21,220 --> 00:23:24,280
+Nosaltres ens assallam a la banqueta, bevent aigua mentre ell s'esforça,
+
+518
+00:23:24,600 --> 00:23:27,740
+i llavors, al cap d'un mes, ens mirem al mirall completament indignats,
+
+519
+00:23:27,880 --> 00:23:30,060
+preguntant-nos per què no tenim uns músculs marcats.
+
+520
+00:23:30,400 --> 00:23:32,380
+És que és una imatge meravellosa.
+
+521
+00:23:32,820 --> 00:23:35,240
+I, a més a més, és biològicament precisa.
+
+522
+00:23:35,600 --> 00:23:38,620
+Perquè justament aquell procés que tu descrius com a frustrant,
+
+523
+00:23:38,620 --> 00:23:42,380
+aquell mal de cap d'equivocar-se, d'esborrar i de refer l'assaig,
+
+524
+00:23:42,680 --> 00:23:46,660
+és justament allò que físicament activa la neuroplasticitat al cervell.
+
+525
+00:23:46,740 --> 00:23:48,180
+O sigui, el procés físic.
+
+526
+00:23:48,180 --> 00:23:53,440
+Sí, sí, és el que crea i consolida la mielina al voltant d'aquelles connexions neuronals noves
+
+527
+00:23:53,440 --> 00:23:55,780
+per poder-les fer ràpides i automàtiques en el futur.
+
+528
+00:23:56,340 --> 00:24:00,460
+Si no hi ha aquesta fricció química, sense aquest estrès cognitiu temporal,
+
+529
+00:24:01,000 --> 00:24:03,460
+el sistema 1 mai de la vida rep el material.
+
+530
+00:24:04,000 --> 00:24:07,180
+És impossible crear experts sense passar abans per aquesta vall de la frustració.
+
+531
+00:24:07,860 --> 00:24:08,060
+Clar.
+
+532
+00:24:08,440 --> 00:24:11,420
+De fet, la investigació científica demostra molt clarament
+
+533
+00:24:11,420 --> 00:24:15,940
+que introduir més dificultat artificialment, en lloc de posar-ho tot més fàcil,
+
+534
+00:24:15,940 --> 00:24:18,920
+sovint acaba potenciant la retenció a llarg termini.
+
+535
+00:24:19,260 --> 00:24:20,800
+I això em sembla super sorprenent.
+
+536
+00:24:21,080 --> 00:24:23,620
+Perquè van contra del que ens ven sempre el mercat tecnològic.
+
+537
+00:24:24,140 --> 00:24:25,960
+I crec que això es demostra molt bé en les fonts,
+
+538
+00:24:26,360 --> 00:24:29,320
+recuperant aquell famós test inicial del bat i la pilota de béisbol.
+
+539
+00:24:29,660 --> 00:24:31,240
+Ah, sí, l'estudi de la lletra.
+
+540
+00:24:31,640 --> 00:24:32,200
+Aquest mateix.
+
+541
+00:24:32,740 --> 00:24:35,580
+Al laboratori, els investigadors van agafar aquestes preguntes,
+
+542
+00:24:35,660 --> 00:24:39,060
+que la gran majoria de gent fallava sempre per culpa del seu sistema impulsiu,
+
+543
+00:24:39,520 --> 00:24:42,040
+però hi van fer una modificació que sembla gairebé cruel.
+
+544
+00:24:42,720 --> 00:24:43,640
+Explica-ho, explica-ho.
+
+545
+00:24:43,640 --> 00:24:47,420
+En comptes d'imprimir les preguntes clarament en un paper blanc impecable,
+
+546
+00:24:47,820 --> 00:24:50,780
+les van imprimir deliberadament amb una font de lletra terrible.
+
+547
+00:24:51,420 --> 00:24:54,220
+Gairebé illegible, amb totes les borres difuminades,
+
+548
+00:24:54,440 --> 00:24:58,720
+com si allò fos la fotocòpia d'una fotocòpia on la màquina s'estava quedant sense tinta.
+
+549
+00:24:59,240 --> 00:25:00,000
+Tot burrós.
+
+550
+00:25:00,300 --> 00:25:06,040
+Exacte. I clar, el sentit comú de qualsevol ens diria que fer un test matemàtic molt més difícil de llegir
+
+551
+00:25:06,040 --> 00:25:09,000
+portaria per força pitjors resultats i més errors, oi?
+
+552
+00:25:09,340 --> 00:25:10,160
+Era l'esperable.
+
+553
+00:25:10,640 --> 00:25:11,940
+Doncs va passar just el contrari.
+
+554
+00:25:12,540 --> 00:25:15,120
+La taxa d'error general, la quantitat de gent que deia
+
+555
+00:25:15,120 --> 00:25:18,460
+la resposta precipitada dels 10 cèntims, va caure en picat,
+
+556
+00:25:18,920 --> 00:25:22,720
+d'un desastrós 90% inicial a només un 35%,
+
+557
+00:25:22,720 --> 00:25:25,120
+només empitjorant la font de lletra.
+
+558
+00:25:25,720 --> 00:25:27,720
+És que la mecànica interna d'aquest fenomen
+
+559
+00:25:27,720 --> 00:25:30,080
+és realment el cor de tot el que estem parlant avui.
+
+560
+00:25:30,440 --> 00:25:33,900
+Què passa exactament dins del cap quan la lletra del test és tan borrosa?
+
+561
+00:25:34,260 --> 00:25:36,600
+Doncs que el sistema 1, que ja sabem que és automàtic
+
+562
+00:25:36,600 --> 00:25:38,600
+i vol anar superràpid llegint en diagonal,
+
+563
+00:25:39,020 --> 00:25:40,440
+no pot llegir el paper B.
+
+564
+00:25:40,800 --> 00:25:41,180
+S'encalla.
+
+565
+00:25:41,180 --> 00:25:47,240
+Sí, s'encalla, així que no pot saltar de pressa aquella conclusió precipitada i errònia dels 10 cèntims.
+
+566
+00:25:47,720 --> 00:25:52,420
+Aquesta dificultat purament mecànica, aquesta barrera d'entrada visual que han posat al paper,
+
+567
+00:25:52,840 --> 00:25:59,160
+fa que s'emeti una mena d'alerta interna i es desperti a la força aquell amic gandul del qual parlàvem abans, el sistema 2.
+
+568
+00:25:59,460 --> 00:26:00,180
+El pensador lent.
+
+569
+00:26:00,620 --> 00:26:03,100
+Exacte. La ment, de sobte, frena en sec.
+
+570
+00:26:03,240 --> 00:26:06,180
+S'esforça moltíssim visualment per desxifrar aquelles lletres
+
+571
+00:26:06,180 --> 00:26:09,760
+i, clar, mentre desxifra les paraules laboriosament, una a una,
+
+572
+00:26:09,760 --> 00:26:13,220
+resulta que té temps de sobres per adonar-se de la trampa matemàtica
+
+573
+00:26:13,220 --> 00:26:14,360
+que hi havia amagada a la frase.
+
+574
+00:26:15,240 --> 00:26:15,640
+Claríssim.
+
+575
+00:26:15,720 --> 00:26:17,940
+O sigui que obligant el cervell a treballar dur
+
+576
+00:26:17,940 --> 00:26:19,920
+amb la forma superficial de l'exercici
+
+577
+00:26:19,920 --> 00:26:22,760
+s'acaba processant molt millor el fons o contingut.
+
+578
+00:26:23,360 --> 00:26:26,400
+I, de fet, a les notes de la conferència s'esmenta fins i tot
+
+579
+00:26:26,400 --> 00:26:29,460
+com el món de la publicitat, que de ximples no en tenen un pèl,
+
+580
+00:26:29,900 --> 00:26:32,240
+aprofita sovint aquesta mateixa mecànica de la fricció
+
+581
+00:26:32,240 --> 00:26:33,080
+per captar l'atenció.
+
+582
+00:26:33,760 --> 00:26:36,520
+Es veu que a Austràlia van llançar una campanya de màrqueting
+
+583
+00:26:36,520 --> 00:26:38,520
+enorme per una companyia de assegurances.
+
+584
+00:26:39,100 --> 00:26:40,680
+Sí, me'n recordo d'aquest exemple.
+
+585
+00:26:41,120 --> 00:26:43,760
+I en comptes de fer servir missatges senzills i directes com tothom,
+
+586
+00:26:44,160 --> 00:26:46,260
+van omplir el país de cartells immensos
+
+587
+00:26:46,260 --> 00:26:48,280
+amb prefixos completament inventats
+
+588
+00:26:48,280 --> 00:26:50,360
+posats just davant de paraules positives.
+
+589
+00:26:51,100 --> 00:26:51,740
+Com per exemple?
+
+590
+00:26:52,180 --> 00:26:55,320
+Coses com unworry o unstress,
+
+591
+00:26:55,940 --> 00:26:57,200
+que clar, per als qui ens escolten,
+
+592
+00:26:57,580 --> 00:26:59,600
+aquests prefixos en anglès normalment impliquen
+
+593
+00:26:59,600 --> 00:27:02,420
+l'acció d'esborrar o desfer allò que ve després,
+
+594
+00:27:02,560 --> 00:27:03,400
+com desfer.
+
+595
+00:27:04,040 --> 00:27:06,660
+Així que dir despreocupació o desestrès,
+
+596
+00:27:06,800 --> 00:27:07,680
+en paraules inventades,
+
+597
+00:27:07,680 --> 00:27:10,500
+era una decisió gramaticalment tan i tan estranya,
+
+598
+00:27:10,620 --> 00:27:12,540
+tan dissonant de veure en un cartell,
+
+599
+00:27:13,000 --> 00:27:14,880
+que obligava la gent que anava caminant o conduint
+
+600
+00:27:14,880 --> 00:27:17,180
+a aturar els seus pensaments rutinaris de cop.
+
+601
+00:27:17,960 --> 00:27:19,820
+Els obligava a despertar el sistema 2.
+
+602
+00:27:20,420 --> 00:27:20,860
+Exactament.
+
+603
+00:27:21,420 --> 00:27:23,460
+A mirar bé el cartell i intentar dexifrar
+
+604
+00:27:23,460 --> 00:27:25,320
+què nassos els estaven intentant vendre allà.
+
+605
+00:27:25,740 --> 00:27:27,200
+Perquè si el cartell hagués posat simplement
+
+606
+00:27:27,200 --> 00:27:29,140
+sense estrès, amb la lletra normal,
+
+607
+00:27:29,520 --> 00:27:30,880
+tothom hauria passat per davant de llarg
+
+608
+00:27:30,880 --> 00:27:32,900
+sense ni tan sols registrar-ho al cervell.
+
+609
+00:27:33,380 --> 00:27:34,100
+És el que dèiem.
+
+610
+00:27:34,340 --> 00:27:36,020
+És un augment completament artificial
+
+611
+00:27:36,020 --> 00:27:37,320
+de la càrrega cognitiva
+
+612
+00:27:37,320 --> 00:27:39,760
+dissenyat expressament pels publicistes
+
+613
+00:27:39,760 --> 00:27:42,140
+per trencar aquell pilot automàtic en què vivim.
+
+614
+00:27:42,260 --> 00:27:42,780
+Intel·ligent?
+
+615
+00:27:43,200 --> 00:27:43,460
+Molt.
+
+616
+00:27:43,820 --> 00:27:46,720
+Però clar, fixa't que tot això ens condueix directament
+
+617
+00:27:46,720 --> 00:27:49,380
+al gran dilema existencial de la tecnologia actual
+
+618
+00:27:49,380 --> 00:27:50,300
+en el món educatiu.
+
+619
+00:27:50,840 --> 00:27:53,000
+Tota l'evolució del programari a Silicon Valley,
+
+620
+00:27:53,300 --> 00:27:56,240
+i aquí incloc de ple els impressionants chatbots actuals
+
+621
+00:27:56,240 --> 00:27:56,920
+que tots coneixem,
+
+622
+00:27:57,400 --> 00:28:00,340
+es dissenya al capdavall amb un sol objectiu en ment.
+
+623
+00:28:00,720 --> 00:28:03,600
+Eliminar absolutament qualsevol rastre de fricció
+
+624
+00:28:03,600 --> 00:28:05,000
+de la vida de l'usuari final.
+
+625
+00:28:05,240 --> 00:28:06,540
+Tot a un clic de distància.
+
+626
+00:28:06,540 --> 00:28:11,600
+La idea és que tot sigui superràpid, extremadament predictiu i, sobretot, indolor.
+
+627
+00:28:12,040 --> 00:28:14,800
+No obstant això, com acabem de veure i desgranar amb els estudis,
+
+628
+00:28:15,080 --> 00:28:19,340
+l'aprenentatge humà autèntic exigeix, per la seva pròpia naturalesa biològica,
+
+629
+00:28:19,680 --> 00:28:22,420
+un cert nivell de fricció mental innegociable.
+
+630
+00:28:22,760 --> 00:28:23,980
+No hi ha dresseres cap al cervell.
+
+631
+00:28:24,740 --> 00:28:29,480
+Llavors, si la fricció és, ens agradi o no, el requisit indispensable de la biologia,
+
+632
+00:28:30,040 --> 00:28:33,440
+qui o què coi pot convèncer les persones, dia rere dia,
+
+633
+00:28:33,440 --> 00:28:36,320
+de posar el seu sistema 2 gandul a treballar
+
+634
+00:28:36,320 --> 00:28:39,120
+en lloc de simplement delegar-ho tot còmodament a la màquina.
+
+635
+00:28:39,360 --> 00:28:40,620
+Uf, quina gran pregunta.
+
+636
+00:28:41,020 --> 00:28:45,120
+I crec que aquí és on precisament retornem al factor humà més primari de tots,
+
+637
+00:28:45,480 --> 00:28:47,740
+perquè l'educació mai ha estat un procés aïllat,
+
+638
+00:28:47,980 --> 00:28:51,280
+d'algú sol en una habitació buida llegint una enciclopèdia al seu ritme.
+
+639
+00:28:51,700 --> 00:28:55,100
+És fonamentalment una activitat enormement social i emocional.
+
+640
+00:28:55,480 --> 00:28:58,260
+Totalment. No som només màquines de processar dades.
+
+641
+00:28:58,800 --> 00:29:01,620
+I crec que Muller deixa aquest argument magistralment
+
+642
+00:29:01,620 --> 00:29:04,240
+amb una expansió de la metàfora del gimnàs i el culturista
+
+643
+00:29:04,240 --> 00:29:05,300
+que comentaves fa un moment.
+
+644
+00:29:05,860 --> 00:29:07,300
+Ah, sí, m'encanta aquesta part.
+
+645
+00:29:07,860 --> 00:29:09,620
+És una imatge molt potent, per entendre-ho.
+
+646
+00:29:09,980 --> 00:29:11,340
+Ell hi reflexiona i diu
+
+647
+00:29:11,340 --> 00:29:14,400
+mirem un moment al nostre voltant, amb sinceritat.
+
+648
+00:29:15,060 --> 00:29:17,580
+El món modern està absolutament ple d'objectes pesants
+
+649
+00:29:17,580 --> 00:29:19,220
+que pràcticament qualsevol de nosaltres
+
+650
+00:29:19,220 --> 00:29:21,380
+podria aixecar al carrer si volgués fer exercici, oi?
+
+651
+00:29:22,020 --> 00:29:24,540
+I, a més a més, pràcticament a cada cantonada del barri
+
+652
+00:29:24,540 --> 00:29:26,260
+hi ha gimnasos perfectament equipats.
+
+653
+00:29:26,780 --> 00:29:28,100
+Amb màquines de tota mena.
+
+654
+00:29:28,160 --> 00:29:30,140
+I, per si fos poc, tota la informació teòrica
+
+655
+00:29:30,140 --> 00:29:33,320
+sobre com entrenar, quin múscul moure i què menjar
+
+656
+00:29:33,320 --> 00:29:36,500
+és completament gratuït a internet, en forma de vídeos i tutorials.
+
+657
+00:29:37,140 --> 00:29:39,120
+Aleshores, amb tota aquesta abundància,
+
+658
+00:29:39,560 --> 00:29:41,320
+com és que la immensa majoria de la població
+
+659
+00:29:41,320 --> 00:29:43,340
+no té cossos atlètics i supermusculats?
+
+660
+00:29:43,700 --> 00:29:46,320
+Lògic, si només fos tenir la informació o les eines.
+
+661
+00:29:46,800 --> 00:29:49,000
+L'equipament és literalment a l'abast de tothom.
+
+662
+00:29:49,420 --> 00:29:50,460
+La teoria hi és tota.
+
+663
+00:29:50,960 --> 00:29:52,980
+Però el que veritablement marca la diferència
+
+664
+00:29:52,980 --> 00:29:55,640
+entre l'abundància d'eines i el resultat físic real
+
+665
+00:29:55,640 --> 00:29:58,680
+de posar-se en forma és l'entrenador personal.
+
+666
+00:29:59,320 --> 00:29:59,820
+Sens dubte.
+
+667
+00:30:00,140 --> 00:30:03,040
+És aquest ésser humà de carn i ossos que es planta al costat d'algú,
+
+668
+00:30:03,380 --> 00:30:05,360
+el mira directament als ulls mentre està esgotat
+
+669
+00:30:05,360 --> 00:30:08,760
+i li exigeix que faci una repetició més quan els braços ja li cremen de dolor.
+
+670
+00:30:09,380 --> 00:30:12,680
+És aquesta relació social, la rendició de comptes de saber que,
+
+671
+00:30:13,060 --> 00:30:17,300
+si demà no hi vas, hi haurà algú allà esperant-te que s'enfadarà o es decepserà profundament.
+
+672
+00:30:17,880 --> 00:30:21,300
+Això és justament el que acaba generant els resultats, el compromís humà.
+
+673
+00:30:21,840 --> 00:30:22,240
+És clar.
+
+674
+00:30:22,660 --> 00:30:26,680
+I aquesta necessitat absoluta, tan humana, de rendre comptes davant d'una altra persona,
+
+675
+00:30:26,680 --> 00:30:29,480
+té uns reflexos dramàtics en les aules d'avui dia,
+
+676
+00:30:29,760 --> 00:30:30,940
+amb les dades actuals a la mà.
+
+677
+00:30:31,320 --> 00:30:32,680
+A veure, què diuen aquestes dades?
+
+678
+00:30:33,120 --> 00:30:36,100
+Doncs mira, a la secció final de preguntes i respostes de la conferència
+
+679
+00:30:36,100 --> 00:30:37,900
+es comenta un cas molt actual
+
+680
+00:30:37,900 --> 00:30:40,980
+que ja estan veient molts professors de física a nivell universitari.
+
+681
+00:30:41,600 --> 00:30:43,960
+Observen, i de manera força alarmant, tot s'ha de dir,
+
+682
+00:30:44,360 --> 00:30:47,100
+com desenes d'alumnes estan utilitzant el ChatGPT
+
+683
+00:30:47,100 --> 00:30:49,060
+i altres eines d'intel·ligència artificial
+
+684
+00:30:49,060 --> 00:30:51,200
+com una crossa permanent i diària.
+
+685
+00:30:51,400 --> 00:30:52,220
+Per fer deures.
+
+686
+00:30:52,600 --> 00:30:55,920
+Sí, ho fan servir per enllestir feliçment i ràpidament
+
+687
+00:30:55,920 --> 00:30:57,400
+tots els treballs de física a casa.
+
+688
+00:30:57,800 --> 00:31:00,400
+I clar, la conseqüència inicial és que estan traient
+
+689
+00:31:00,400 --> 00:31:03,340
+unes notes espectaculars a les tasques que s'entreguen online.
+
+690
+00:31:04,100 --> 00:31:07,620
+Lògic i normal si la IA els està fent tot l'esforç pesat de calcular.
+
+691
+00:31:07,960 --> 00:31:09,380
+Són notes de la IA, de fet.
+
+692
+00:31:09,880 --> 00:31:11,500
+Exacte. Però on està el drama?
+
+693
+00:31:11,920 --> 00:31:14,520
+Que quan aquests mateixos alumnes, amb notes fantàstiques,
+
+694
+00:31:14,660 --> 00:31:17,000
+arriben als exàmens finals presencials a la facultat,
+
+695
+00:31:17,300 --> 00:31:19,580
+on allà no hi ha cap rescat algorítmic possible,
+
+696
+00:31:19,960 --> 00:31:22,020
+i l'avaluació es fa exclusivament en paper,
+
+697
+00:31:22,020 --> 00:31:25,000
+un llapis i la seva pròpia capacitat cerebral al moment,
+
+698
+00:31:25,000 --> 00:31:29,360
+doncs els resultats cauen en picat, fins a unes mitjanes desoladores,
+
+699
+00:31:29,460 --> 00:31:32,520
+del voltant del 40%, suspesos rotuns.
+
+700
+00:31:33,060 --> 00:31:37,000
+És brutal, però vist des del que hem explicat avui, és perfectament coherent.
+
+701
+00:31:37,820 --> 00:31:40,400
+El seu sistema 1 està absolutament buit de coneixement.
+
+702
+00:31:40,740 --> 00:31:41,260
+Buit del tot.
+
+703
+00:31:41,760 --> 00:31:45,600
+Com explicaves abans, no han construït mai cap mena de xarxa de chunking
+
+704
+00:31:45,600 --> 00:31:47,880
+per integrar visualment aquelles fórmules de física.
+
+705
+00:31:48,560 --> 00:31:51,640
+Senzillament perquè no han experimentat mai, en cap tard a casa seva,
+
+706
+00:31:51,640 --> 00:31:54,520
+la frustració d'equivocar-se, de bloquejar-se
+
+707
+00:31:54,520 --> 00:31:56,920
+i de suar mentalment davant del full en blanc.
+
+708
+00:31:57,660 --> 00:32:01,100
+Han estat conduint cecs, seguint l'esquena del GPS, de la IA,
+
+709
+00:32:01,560 --> 00:32:04,700
+fins que el dia de l'examen se'ls ha apagat la pantalla del tot.
+
+710
+00:32:05,320 --> 00:32:07,220
+I clar, s'han trobat totalment perduts
+
+711
+00:32:07,220 --> 00:32:09,540
+al mig del centre de la ciutat de la física avançada
+
+712
+00:32:09,540 --> 00:32:10,840
+sense saber cap on anar.
+
+713
+00:32:11,580 --> 00:32:14,860
+I per això mateix topem avui amb el gran mur insuperable.
+
+714
+00:32:15,580 --> 00:32:17,660
+Històricament s'ha volgut escalar l'educació,
+
+715
+00:32:17,920 --> 00:32:20,380
+de la mateixa manera que un enginyer escala un programari
+
+716
+00:32:20,380 --> 00:32:22,280
+d'una app per a milions de descàrregues.
+
+717
+00:32:22,800 --> 00:32:25,160
+Es parla constantment, especialment a Silicon Valley,
+
+718
+00:32:25,600 --> 00:32:28,800
+de crear aquest mite del supertutor intel·ligent perfecte, oi?
+
+719
+00:32:29,000 --> 00:32:31,920
+I distribuir-lo de forma gratuïta o molt barata
+
+720
+00:32:31,920 --> 00:32:33,600
+per a milions de persones al món,
+
+721
+00:32:34,000 --> 00:32:36,260
+amb la càndida esperança de solucionar el problema
+
+722
+00:32:36,260 --> 00:32:38,560
+de la qualitat educativa global de la nit al dia.
+
+723
+00:32:39,060 --> 00:32:41,000
+Però l'educació, i això és l'essència,
+
+724
+00:32:41,480 --> 00:32:43,960
+justament perquè depèn d'aquesta transferència social
+
+725
+00:32:43,960 --> 00:32:45,900
+i d'aquest vincle i compromís emocional
+
+726
+00:32:45,900 --> 00:32:48,440
+per poder desencadenar l'esforç conscient que cal,
+
+727
+00:32:48,440 --> 00:32:51,340
+no escala d'aquesta manera tecnològica i abstracta.
+
+728
+00:32:51,460 --> 00:32:52,160
+No funciona així.
+
+729
+00:32:52,520 --> 00:32:55,140
+No. I com conclouen les fonts de manera magistral,
+
+730
+00:32:55,520 --> 00:32:59,260
+no es pot escalar infinitament a un bon lampista o a un bon entrenador personal.
+
+731
+00:32:59,740 --> 00:33:04,580
+Com a societat, l'única opció real que tens és intentar contractar-ne i formar-ne més.
+
+732
+00:33:05,260 --> 00:33:06,940
+Aleshores, clar, la gran pregunta.
+
+733
+00:33:07,620 --> 00:33:09,860
+Què vol dir tot això a efectes pràctics del nostre futur?
+
+734
+00:33:10,760 --> 00:33:13,640
+Si mirem el panorama de les grans indústries mundials actuals,
+
+735
+00:33:13,920 --> 00:33:16,500
+la majoria han estat disrompudes ràpidament,
+
+736
+00:33:16,500 --> 00:33:18,080
+com els agrada dir als emprenedors,
+
+737
+00:33:18,540 --> 00:33:20,000
+gairebé d'un dia per l'altre.
+
+738
+00:33:20,140 --> 00:33:21,500
+Vull dir, la música, per exemple,
+
+739
+00:33:21,760 --> 00:33:23,380
+va passar del disc físic o el CD
+
+740
+00:33:23,380 --> 00:33:25,660
+a l'streaming universal i instantani
+
+741
+00:33:25,660 --> 00:33:27,280
+en qüestió de molt pocs anys,
+
+742
+00:33:27,600 --> 00:33:29,820
+eliminant vells formats del mapa per complet.
+
+743
+00:33:30,480 --> 00:33:32,620
+La mobilitat urbana es va revolucionar també
+
+744
+00:33:32,620 --> 00:33:34,100
+amb totes aquestes aplicacions
+
+745
+00:33:34,100 --> 00:33:36,220
+on simplement amb un sol clic al mòbil
+
+746
+00:33:36,220 --> 00:33:38,220
+tens un cotxe esperant a la porta de casa.
+
+747
+00:33:38,940 --> 00:33:39,560
+Això és així perquè
+
+748
+00:33:39,560 --> 00:33:41,300
+quan un ciutadà agafa un taxi,
+
+749
+00:33:41,820 --> 00:33:44,000
+l'únic interès real i pràctic que té en aquell moment
+
+750
+00:33:44,000 --> 00:33:45,480
+és traslladar el seu cos
+
+751
+00:33:45,480 --> 00:33:49,140
+del punt A al punt B el més aviat possible, sense complicacions.
+
+752
+00:33:49,700 --> 00:33:52,300
+Li importa molt i molt poc qui condueixi aquell cotxe,
+
+753
+00:33:52,760 --> 00:33:54,660
+quina ruta exacta se segueix per arribar-hi
+
+754
+00:33:54,660 --> 00:33:58,260
+o si l'experiència del trajecte és enriquidora o formativa per a ell.
+
+755
+00:33:58,440 --> 00:33:59,600
+És només una transacció.
+
+756
+00:34:00,060 --> 00:34:00,460
+Exacte.
+
+757
+00:34:00,560 --> 00:34:02,980
+És un simple canvi d'estat extern de la persona i prou.
+
+758
+00:34:03,420 --> 00:34:04,500
+Ja sóc aquí. Final.
+
+759
+00:34:04,980 --> 00:34:06,900
+Però clar, i aquí està el punt d'inflexió.
+
+760
+00:34:07,320 --> 00:34:10,400
+El paradigma educatiu es troba literalment a les antípodes
+
+761
+00:34:10,400 --> 00:34:13,600
+d'aquesta mentalitat transaccional purament eficientista
+
+762
+00:34:13,600 --> 00:34:14,920
+que governa les aplicacions.
+
+763
+00:34:15,020 --> 00:34:15,240
+I tant.
+
+764
+00:34:15,480 --> 00:34:23,780
+És que en l'educació profunda i real, el producte final no és un arxiu lliurat correctament ni un punt B geogràfic assolit amb èxit.
+
+765
+00:34:24,240 --> 00:34:28,240
+El producte final som nosaltres mateixos sent esculpits pel coneixement.
+
+766
+00:34:28,820 --> 00:34:29,340
+Sens dubte.
+
+767
+00:34:29,680 --> 00:34:35,840
+I justament aquell viatge ple de sots, dubtes i frustracions és, en essència, el resultat.
+
+768
+00:34:36,500 --> 00:34:41,500
+Llavors, intentant resumir de forma sintètica tot el nucli dur de la nostra exploració d'avui, per recollir-ho bé,
+
+769
+00:34:41,500 --> 00:34:50,440
+L'aprenentatge no es pot tractar mai, mai, com una simple transferència d'arxius d'un disdomassiu, el núvol, a un disdomà petit.
+
+770
+00:34:51,000 --> 00:34:57,340
+És, ho hem deixat molt clar, un procés completament fisiològic de destrucció i creació constant de noves xarxes neuronals,
+
+771
+00:34:57,680 --> 00:35:00,120
+de mielinizació, de reconexió física.
+
+772
+00:35:00,700 --> 00:35:06,020
+I això, al final del dia, només succeeix biològicament a través d'una bona dosi de fricció mental.
+
+773
+00:35:06,380 --> 00:35:08,420
+I és una màxima innegociable de la natura.
+
+774
+00:35:08,420 --> 00:35:13,480
+I, a veure, sens dubte, la intel·ligència artificial continuarà millorant a passos gegants
+
+775
+00:35:13,480 --> 00:35:18,180
+i ens proporcionarà solucions cada cop a una velocitat de vèrtega més espectacular.
+
+776
+00:35:18,640 --> 00:35:22,940
+Acabarà sent, i d'això n'estic totalment segura, una eina formidable per a les aules.
+
+777
+00:35:23,240 --> 00:35:24,440
+L'eina definitiva, potser.
+
+778
+00:35:24,660 --> 00:35:28,460
+L'eina definitiva per avaluar, per exemple, els nostres errors en temps real
+
+779
+00:35:28,460 --> 00:35:32,980
+per poder obtenir aquella retroalimentació personalitzada ràpida, com dèiem, de l'arquiri,
+
+780
+00:35:33,420 --> 00:35:36,840
+sense demores pesades que acaben eternitzant els dubtes dels alumnes.
+
+781
+00:35:36,840 --> 00:35:41,540
+i en casos puntuals potser ens estalviarà tasques molt rutinàries i repetitives
+
+782
+00:35:41,540 --> 00:35:44,260
+que realment no porten res al pensament profund.
+
+783
+00:35:44,760 --> 00:35:46,220
+Però, i sobratllu aquest però,
+
+784
+00:35:46,780 --> 00:35:49,680
+hi ha un límit biològic absolutament infranquejable
+
+785
+00:35:49,680 --> 00:35:52,580
+que marca una línia vermella claríssima per al nostre futur.
+
+786
+00:35:53,220 --> 00:35:56,260
+Una màquina computacional, per molt avançada que arribi a ser algun dia,
+
+787
+00:35:56,720 --> 00:36:00,160
+i per molt empàtica o humana que soni la seva veu a través d'uns auriculars,
+
+788
+00:36:00,720 --> 00:36:03,980
+mai de la vida, sota cap concepte, podrà anar al gimnàs per nosaltres.
+
+789
+00:36:04,280 --> 00:36:04,840
+Així de clar.
+
+790
+00:36:04,840 --> 00:36:11,640
+Mai podrà suar intel·lectualment en nom nostre per tal de modificar positivament la complexa arquitectura del nostre propi cervell.
+
+791
+00:36:12,160 --> 00:36:18,100
+Ens agradi o no la responsabilitat última de la cognició, romant tossudament, tancada dins el nostre propi crani.
+
+792
+00:36:18,280 --> 00:36:18,760
+Totalment.
+
+793
+00:36:19,200 --> 00:36:24,160
+I tota aquesta immensa paradoxa entre eina digital fàcil i esforç biològic necessari
+
+794
+00:36:24,160 --> 00:36:29,300
+ens deixa precisament davant d'una reflexió final que crec que és profundament provocadora.
+
+795
+00:36:29,940 --> 00:36:34,400
+Una reflexió per intentar pair de mica en mica tot el que hem viscut i disseccionat avui aquí.
+
+796
+00:36:34,840 --> 00:36:40,980
+És una idea que, fixa't, crec que potser va molt més enllà de la simple esfera educativa o escolar.
+
+797
+00:36:41,700 --> 00:36:43,020
+A veure, cap on apuntes?
+
+798
+00:36:43,460 --> 00:36:49,580
+Pensem-hi. Si, com a societat impulsada cada cop més per la conveniència, la velocitat i la facilitat extrema,
+
+799
+00:36:50,100 --> 00:36:55,320
+ens acostumem a externalitzar sistemàticament i sense miraments tots els sobressalts intel·lectuals,
+
+800
+00:36:55,440 --> 00:36:59,520
+aquells moments essencials d'impàs on el cervell es queda un segon aturat pensant,
+
+801
+00:36:59,800 --> 00:37:03,760
+si deixem lentament que aquests algoritmes, que són certament extremadament capaços,
+
+802
+00:37:03,760 --> 00:37:07,000
+facin cada cop més tots els raonaments complexos del dia a dia
+
+803
+00:37:07,000 --> 00:37:10,320
+i totes aquelles connexions i vincles insospitats entre conceptes
+
+804
+00:37:10,320 --> 00:37:14,700
+que abans sobrecarregaven i posaven a prova el nostre molest i limitat sistema 2.
+
+805
+00:37:15,420 --> 00:37:19,040
+La gran pregunta és, podríem estar llascant imperceptiblement
+
+806
+00:37:19,040 --> 00:37:23,320
+cap a una societat futura d'humans completament, o més aviat biològicament,
+
+807
+00:37:23,740 --> 00:37:27,180
+incapaços de tenir pensaments autènticament originals o disruptius propis?
+
+808
+00:37:27,480 --> 00:37:29,180
+Buf, és una perspectiva inquietant.
+
+809
+00:37:29,600 --> 00:37:33,180
+I és que potser en aquest noble i vell intent de fer que l'experiència de la vida
+
+810
+00:37:33,180 --> 00:37:35,860
+sigui sempre infinitament menys passada, menys frustrant
+
+811
+00:37:35,860 --> 00:37:37,840
+i, sobretot, més eficient per a tothom,
+
+812
+00:37:38,500 --> 00:37:40,340
+podríem estar delegant sense adonar-nos-en
+
+813
+00:37:40,340 --> 00:37:43,840
+la nostra mateixa capacitat innata de tenir revelacions espontànies
+
+814
+00:37:43,840 --> 00:37:45,100
+i de crear idees fresques.
+
+815
+00:37:45,720 --> 00:37:46,880
+I llavors, si arribem a aquest punt,
+
+816
+00:37:47,340 --> 00:37:50,060
+ens condemnaríem a poc a poc, generació rere generació,
+
+817
+00:37:50,460 --> 00:37:52,980
+a consumir, celebrar i reproduir únicament
+
+818
+00:37:52,980 --> 00:37:56,200
+la gran mitjana sintetitzada de tota la genialitat humana
+
+819
+00:37:56,200 --> 00:37:57,980
+d'aquells que van viure en el passat.
+
+820
+00:37:58,520 --> 00:38:01,220
+Tota una genialitat calculada fredament, és clar,
+
+821
+00:38:01,220 --> 00:38:03,580
+per una màquina predictiva impressionant, sí,
+
+822
+00:38:03,940 --> 00:38:05,800
+però que en el fons és incapaç d'albirar
+
+823
+00:38:05,800 --> 00:38:07,740
+absolutament cap descobriment real
+
+824
+00:38:07,740 --> 00:38:09,540
+o cap innovació genuïna
+
+825
+00:38:09,540 --> 00:38:11,920
+que quedi fora d'allò que ja se li ha abocat abans
+
+826
+00:38:11,920 --> 00:38:14,300
+en les seves immenses bases de dades.
+
+827
+00:38:15,080 --> 00:38:16,020
+Què en pensem de tot això?
+
+828
+00:38:16,600 --> 00:38:18,600
+És tota una idea o un avís per a navegants
+
+829
+00:38:18,600 --> 00:38:21,160
+per rumiar-hi profundament aquesta setmana que ve.
+
+830
+00:38:21,560 --> 00:38:22,660
+Sense cap mena de dubte.
+
+831
+00:38:23,580 --> 00:38:24,440
+Dona, per a molt.
+
+832
+00:38:24,840 --> 00:38:25,960
+Al final, qui sap,
+
+833
+00:38:26,300 --> 00:38:28,860
+potser algun dia acabarem totalment fascinats i bocabadats
+
+834
+00:38:28,860 --> 00:38:31,640
+davant d'aquella meravellosa pantalla compassiva
+
+835
+00:38:31,640 --> 00:38:33,020
+que esmentàvem a l'inici, oi?
+
+836
+00:38:33,480 --> 00:38:35,360
+Veient passivament com aquells sistemes
+
+837
+00:38:35,360 --> 00:38:37,520
+ens localitzen l'error i ens calculen
+
+838
+00:38:37,520 --> 00:38:39,700
+l'angle d'una hipotenusa en dèsimes de segon,
+
+839
+00:38:40,060 --> 00:38:42,040
+gairebé per pur art de màgia informàtica.
+
+840
+00:38:42,720 --> 00:38:43,880
+Mentre que, mentrestant,
+
+841
+00:38:44,180 --> 00:38:46,080
+el nostre propi mapa mental intern,
+
+842
+00:38:46,380 --> 00:38:48,040
+completament esgotat per l'hàbit
+
+843
+00:38:48,040 --> 00:38:49,320
+de no fer res durant tant de temps
+
+844
+00:38:49,320 --> 00:38:51,060
+i sense haver suat mai de debò
+
+845
+00:38:51,060 --> 00:38:52,460
+cap resposta pel seu compte,
+
+846
+00:38:52,980 --> 00:38:54,940
+doncs, simplement, es va encongint
+
+847
+00:38:54,940 --> 00:38:57,040
+i esveïnt en silenci dins el nostre cap.
+
+848
+00:38:57,040 --> 00:39:01,160
+I bé, arribats aquí, només queda agrair que ens hàgiu acompanyat
+
+849
+00:39:01,160 --> 00:39:02,840
+en aquesta nova exploració d'idees.
+
+850
+00:39:03,340 --> 00:39:07,200
+I recordeu, sigui on sigui l'atenció que capti la pròxima gran pantalla.
+
+851
+00:39:07,820 --> 00:39:09,680
+No deixem mai de buscar de manera conscient
+
+852
+00:39:09,680 --> 00:39:12,600
+aquesta fricció necessària per entendre el món directament
+
+853
+00:39:12,600 --> 00:39:14,940
+i tossudament amb el nostre propi esforç vital.
+
+854
+00:39:15,680 --> 00:39:18,400
+Ens retrobem molt aviat, a la propera Inversió Profunda.
+

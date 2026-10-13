@@ -373,6 +373,16 @@ EPISODIS = [
         "duration": "23:32",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "arquitectura de programari", "xarxes de món petit", "hotspots", "codescene", "robert c. martin", "zona de dolor", "llei de goodhart", "trinquet", "codi generat per ia", "català"]
     },
+    {
+        "num": "036",
+        "fitxer": "036-ia-no-pot-aprendre-per-tu.mp3",
+        "identifier": "podcast-del-doctor-036-ia-no-pot-aprendre-per-tu",
+        "title": "Episodi 036: La IA no pot aprendre per tu",
+        "description": "Edison va prometre el 1922 que el cinema substituiria els llibres de text. Després van venir la ràdio, la televisió, Logo i els MOOCs, i cap no va revolucionar res. A partir de la conferència de Derek Muller (Veritasium) al Perimeter Institute, veiem per què: el coll d'ampolla no és l'accés a la informació, sinó un sistema 2 gandul amb quatre idees de memòria de treball. Escacs, chunking, lletra borrosa que millora els resultats i la IA com un culturista que aixeca les peses per tu: deures de 10 i exàmens del 40%.",
+        "date": "2026-10-13",
+        "duration": "39:18",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "aprenentatge", "educació", "veritasium", "derek muller", "kahneman", "chunking", "càrrega cognitiva", "pràctica esforçada", "català"]
+    },
 ]
 
 
