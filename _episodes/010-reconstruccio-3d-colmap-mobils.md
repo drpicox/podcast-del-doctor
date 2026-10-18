@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-010-reconstruccio-3d-colmap-mobils/010-reconstruccio-3d-colmap-mobils.mp3"
-audio_size: 9272561
+audio_size: 9321499
 chapters_file: "010-reconstruccio-3d-colmap-mobils-chapters.json"
 date: '2026-04-20'
 description: "Com pot un simple telèfon mòbil capturar espais exteriors gegantins en 3D sense drons ni GPS? En aquest tercer episodi de la sèrie sobre COLMAP — en català — repassem tot el pipeline de reconstrucció 3D des de la perspectiva pràctica: extracció SIFT amb descriptors de 128 dimensions, distorsió radial de lents (K1/K2), estratègies d'emparellament (exhaustiva, seqüencial, arbre de vocabulari), triangulació i paral·laxi, bundle adjustment, el drama CPU vs GPU, GLOMAP amb loop closures, i una reflexió final sobre privacitat i reconstrucció 3D de fotos turístiques."
-duration: '19:18'
+duration: '19:25'
 episode_number: 10
 season: 1
-soundbite_start: 832.3
+soundbite_start: 834.1
 soundbite_duration: 60.0
 soundbite_title: "3.000€ en GPU i el detectiu solitari de la CPU fa tota la feina"
 sources:
