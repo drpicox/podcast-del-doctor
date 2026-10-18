@@ -4,14 +4,14 @@
   "title": "Episodi 032: El cànon TDD de Kent Beck",
   "chapters": [
     { "startTime": 0, "title": "Introducció" },
-    { "startTime": 136.6, "title": "D'SUnit a l'OOPSLA del 95" },
-    { "startTime": 224.2, "title": "Disseny lògic i disseny físic" },
-    { "startTime": 337.6, "title": "Pas 1: la llista de proves" },
-    { "startTime": 474.2, "title": "Pas 2: una sola prova, començant per l'asserció" },
-    { "startTime": 612.3, "title": "L'ordre de les proves i les condicions inicials" },
-    { "startTime": 715.0, "title": "Pas 3: fer-la passar sense trampes" },
-    { "startTime": 846.6, "title": "Pas 4: refactoritzar amb un sol barret" },
-    { "startTime": 946.5, "title": "Pas 5: de la por a l'avorriment" },
-    { "startTime": 1031.0, "title": "Reflexió final" }
+    { "startTime": 138.4, "title": "D'SUnit a l'OOPSLA del 95" },
+    { "startTime": 226.0, "title": "Disseny lògic i disseny físic" },
+    { "startTime": 339.4, "title": "Pas 1: la llista de proves" },
+    { "startTime": 476.0, "title": "Pas 2: una sola prova, començant per l'asserció" },
+    { "startTime": 614.1, "title": "L'ordre de les proves i les condicions inicials" },
+    { "startTime": 716.8, "title": "Pas 3: fer-la passar sense trampes" },
+    { "startTime": 848.4, "title": "Pas 4: refactoritzar amb un sol barret" },
+    { "startTime": 948.3, "title": "Pas 5: de la por a l'avorriment" },
+    { "startTime": 1032.8, "title": "Reflexió final" }
   ]
 }

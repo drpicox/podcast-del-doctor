@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-032-el-canon-tdd-de-kent-beck/032-el-canon-tdd-de-kent-beck.mp3"
-audio_size: 8725869
+audio_size: 8774809
 chapters_file: "032-el-canon-tdd-de-kent-beck-chapters.json"
 date: '2026-09-27'
 description: "Qui odiaria cuinar perquè abans cal escriure un receptari de 300 pàgines? Doncs és la caricatura amb què molts programadors critiquen el TDD. Kent Beck la desmunta a «Canon TDD»: una llista de comportaments, una sola prova començant per l'asserció, fer-la passar amb el canvi mínim, refactoritzar amb un sol barret i tornar a començar. Parlem del disseny lògic contra el físic, dels errors que maten el mètode, de per què l'ordre de les proves pot acabar en un bubble sort o en un quicksort, i de la recompensa final: convertir la por en avorriment."
-duration: '18:10'
+duration: '18:16'
 episode_number: 32
 season: 1
-soundbite_start: 656.8
+soundbite_start: 658.6
 soundbite_duration: 55.7
 soundbite_title: "Mateixes proves, ordre diferent: d'un bubble sort a un quicksort"
 sources:
