@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Genera un thumbnail per a un episodi del podcast amb Qwen Image (Draw Things).
+Genera un thumbnail per a un episodi del podcast amb Qwen Image 2.1 (Draw Things).
 
 Hi ha dos backends:
 
@@ -15,12 +15,17 @@ d'ollama només funciona amb 0.32.5 o anterior.
     python scripts/generate_thumbnail.py \\
         --episodi 013 \\
         --nom 013-youtuber-revista-pantalles \\
-        --prompt-suffix "smartphones and magazine covers tumbling out, social media icons"
+        --prompt-suffix "an old 1920s film projector, a wooden radio and a boxy CRT \\
+television tumbling out one after another, followed by a huge muscular robot ..."
+
+El sufix ha de ser DETALLAT (objectes, com són, personatges i què fan, text curt):
+amb una frase curta el model hi posa quatre props genèrics i el tema no es llegeix.
 
 Requisits (draw-things-cli):
-    - brew install draw-things-cli
-    - El model qwen_image_2512_q8p.ckpt al directori de models de Draw Things.
-      Si falta: draw-things-cli models ensure --model qwen_image_2512_q8p.ckpt
+    - brew install draw-things-cli  (26.1011.0 o posterior: les anteriors no
+      coneixen Qwen Image 2.1)
+    - El model al directori de models de Draw Things. Si falta:
+        draw-things-cli models ensure --model qwen_image_2.1_turbo_q6p.ckpt
 
 Requisits (ollama, llegat):
     - ollama <= 0.32.5 i el model: ollama pull x/z-image-turbo
@@ -75,33 +80,46 @@ NEGATIVE_PROMPT = (
 )
 
 
-# Qwen segueix el prompt i escriu 'POLICE BOX' molt millor que Z-Image, a canvi
-# d'anar unes 3x més lent (~4 min per imatge contra ~1,5).
-DT_MODEL = "qwen_image_2512_q8p.ckpt"
-
-# Paràmetres de generació explícits.
+# Models de Draw Things, provats amb el 036 i un sufix detallat (2026-10):
 #
-# Sense passar-los, draw-things-cli aplica els "recommended settings" del model
-# base: desenes de passos amb guidance alta. Amb un model de 21 GB i la memòria
-# justa això no arriba a acabar mai — generant el 025 va superar dos cops el
-# límit de 900 s sense ni tan sols obrir el fitxer del model (4% de CPU, RSS
-# clavat a 0,6 GB: thrashing contra el swap).
+#   qwen21    Qwen Image 2.1 Turbo. Per defecte: el més dinàmic i el que es llegeix
+#             millor a 110 px. ~2 min. Ja ve destil·lat, no cal LoRA. Paràmetres
+#             de l'app de Draw Things del David, amb la mida a 1024.
+#             Sovint simplifica personatges (un "robot culturista" li surt home):
+#             si el sufix depèn d'un detall així, insisteix-hi o prova llavors.
+#   qwen2512  Qwen Image 2512 + LoRA turbo. El model fins al 038. ~3 min.
+#   krea      Krea 2 Turbo. El més fidel als detalls, però la cabina cau poc i
+#             les coses no sempre surten per la porta. ~4 min.
 #
-# Amb la LoRA turbo n'hi ha prou amb pocs passos i guidance 1: el mateix prompt
-# surt en ~2,5 min. És la configuració que fa servir el David a l'app de Draw
-# Things, aquí només se n'ha canviat la resolució a quadrada.
+# Paràmetres sempre explícits: sense passar-los, draw-things-cli aplica els
+# "recommended settings" del model base, i amb Qwen 2512 (21 GB) això feia
+# thrashing contra el swap i superava els 900 s sense acabar (es va veure
+# generant el 025).
 #
-# DT_STEPS: 8, no 5. Amb 5 passos la imatge ja és neta, però la guidance 1 no
-# arriba a resoldre les relacions espacials del prompt i els cascos surten
-# surant separats de la cabina en comptes de seure-hi a sobre (es va veure
-# generant el 025). Amb 8 la diadema torna a passar per sobre del sostre. Costa
-# uns 45 s més per imatge.
-DT_LORA = "wuli_qwen_image_2512_turbo_lora_2steps_v1.0_bf16_lora_f16.ckpt"
-DT_STEPS = 8
-DT_SAMPLER = 15
-DT_SHIFT = 1
-DT_GUIDANCE = 1
+# qwen2512 a 8 passos, no 5: amb 5 la guidance 1 no resolia les relacions
+# espacials i els cascos surten surant separats de la cabina (025).
 DT_SIZE = 1024  # tot el catàleg de thumbnails és 1024x1024
+DT_MODELS = {
+    "qwen21": {
+        "model": "qwen_image_2.1_turbo_q6p.ckpt",
+        "sampler": 16,
+        "steps": 8,
+        "guidanceScale": 1,
+        "shift": 6.5,
+        "resolutionDependentShift": False,
+        "loras": [],
+    },
+    "qwen2512": {
+        "model": "qwen_image_2512_q8p.ckpt",
+        "sampler": 15,
+        "steps": 8,
+        "guidanceScale": 1,
+        "shift": 1,
+        "loras": [{"mode": "all", "file": "wuli_qwen_image_2512_turbo_lora_2steps_v1.0_bf16_lora_f16.ckpt", "weight": 1}],
+    },
+    "krea": {"model": "krea_2_turbo_q6p.ckpt"},
+}
+DT_DEFAULT_MODEL = "qwen21"
 DT_TIMEOUT = 1800
 
 
@@ -118,25 +136,20 @@ def _resolve_backend(backend):
     sys.exit(1)
 
 
-def _generate_draw_things(full_prompt, dest_image, seed):
+def _generate_draw_things(full_prompt, dest_image, seed, model):
     """draw-things-cli escriu directament a --output; no cal temporal."""
-    config = {
-        "model": DT_MODEL,
-        "sampler": DT_SAMPLER,
-        "steps": DT_STEPS,
-        "guidanceScale": DT_GUIDANCE,
-        "shift": DT_SHIFT,
+    config = dict(DT_MODELS[model])
+    config.update({
         "width": DT_SIZE,
         "height": DT_SIZE,
         "batchCount": 1,
         "batchSize": 1,
         "strength": 1,
-        "loras": [{"mode": "all", "file": DT_LORA, "weight": 1}],
-    }
+    })
 
     cmd = [
         "draw-things-cli", "generate",
-        "--model", DT_MODEL,
+        "--model", config["model"],
         "--config-json", json.dumps(config),
         "--prompt", full_prompt,
         "--negative-prompt", NEGATIVE_PROMPT,
@@ -204,8 +217,8 @@ def _generate_ollama(full_prompt, dest_image, episodi):
 
 
 def generate_thumbnail(episodi, nom, prompt_suffix, output_dir="assets/thumbnails",
-                       backend="auto", seed=None):
-    """Genera un thumbnail amb Qwen Image i el desa a output_dir."""
+                       backend="auto", seed=None, model=DT_DEFAULT_MODEL):
+    """Genera un thumbnail amb Draw Things (o ollama) i el desa a output_dir."""
 
     full_prompt = BASE_PROMPT
     if prompt_suffix:
@@ -221,16 +234,16 @@ def generate_thumbnail(episodi, nom, prompt_suffix, output_dir="assets/thumbnail
     print(f"🎨 Generant thumbnail per episodi {episodi} ({nom})")
     print(f"🖼️ Suffix: {prompt_suffix}")
     print(f"📝 Prompt (primeres 150 chars): {full_prompt[:150]}...")
-    print(f"⚙️ Backend: {backend}")
+    print(f"⚙️ Backend: {backend}" + (f" ({model})" if backend == "draw-things" else ""))
     print(f"🎲 Seed: {seed}")
-    print(f"⏳ Generant (Qwen triga uns 4 min; Z-Image, ~1,5)...")
+    print(f"⏳ Generant (qwen21 ~2 min, qwen2512 ~3, krea ~4; Z-Image via ollama ~1,5)...")
 
     os.makedirs(output_dir, exist_ok=True)
     dest_image = os.path.join(output_dir, f"{nom}.png")
 
     start = time.perf_counter()
     if backend == "draw-things":
-        _generate_draw_things(full_prompt, dest_image, seed)
+        _generate_draw_things(full_prompt, dest_image, seed, model)
     else:
         _generate_ollama(full_prompt, dest_image, episodi)
     elapsed = time.perf_counter() - start
@@ -254,8 +267,11 @@ def main():
     parser.add_argument(
         "--prompt-suffix",
         default="",
-        help="Què surt per la porta oberta i espireja vòrtex avall, en anglès "
-             "(ex: 'glowing golden stock-market chart lines, tiny factories, gold coins')",
+        help="Què surt per la porta oberta i espireja vòrtex avall, en anglès i "
+             "DETALLAT: quins objectes, com són, quins personatges i què fan, quin "
+             "text curt hi surt (ex: 'an old 1920s film projector, a wooden radio and "
+             "a boxy CRT television tumbling out, followed by a huge muscular robot "
+             "lifting a golden barbell while a skinny student holds an exam marked 40%%')",
     )
     parser.add_argument(
         "--output-dir",
@@ -269,6 +285,12 @@ def main():
         help="Motor de generació (per defecte: auto — draw-things-cli si hi és)",
     )
     parser.add_argument(
+        "--model",
+        choices=sorted(DT_MODELS),
+        default=DT_DEFAULT_MODEL,
+        help="Model de Draw Things (per defecte: qwen21)",
+    )
+    parser.add_argument(
         "--seed", type=int, default=None,
         help="Llavor per a resultats reproduïbles (només backend draw-things)",
     )
@@ -277,7 +299,7 @@ def main():
 
     dest = generate_thumbnail(
         args.episodi, args.nom, args.prompt_suffix, args.output_dir,
-        backend=args.backend, seed=args.seed,
+        backend=args.backend, seed=args.seed, model=args.model,
     )
     ext = os.path.splitext(dest)[1]
     print(f"\n🔧 Afegeix al frontmatter de _episodes/{args.nom}.md:")

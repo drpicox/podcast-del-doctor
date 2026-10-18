@@ -237,7 +237,7 @@ Tots els episodis han d'incloure:
 ### **Thumbnails**
 - `scripts/generate_thumbnail.py` - Genera thumbnail per a un episodi
 - `scripts/generate_all_thumbnails.py` - Genera thumbnails per a tots els episodis
-- Model: Qwen Image 2512 via `draw-things-cli` (backend `ollama` encara disponible amb `--backend ollama`, però només funciona amb ollama <= 0.32.5)
+- Model: Qwen Image 2.1 Turbo via `draw-things-cli` (des del 039; `--model qwen2512` o `--model krea` com a alternatives) (backend `ollama` encara disponible amb `--backend ollama`, però només funciona amb ollama <= 0.32.5)
 - Cada generació imprimeix la **llavor** que ha fet servir: apunta-te-la si vols poder reproduir o retocar un thumbnail
 
 ### **Verificació** ✅
@@ -335,13 +335,13 @@ _episodes/XXX-nom.md els camps soundbite_start, soundbite_duration i soundbite_t
 ```bash
 # Primer cop: instal·lar l'eina i assegurar el model
 brew install draw-things-cli
-draw-things-cli models ensure --model qwen_image_2512_q8p.ckpt
+draw-things-cli models ensure --model qwen_image_2.1_turbo_q6p.ckpt
 
 # Generar thumbnail per un episodi
 python scripts/generate_thumbnail.py \
   --episodi 001 \
   --nom 001-nom-episodi \
-  --prompt-suffix "element visual específic en anglès"
+  --prompt-suffix "escena DETALLADA en anglès: objectes, personatges i què fan, text curt"
 
 # Generar thumbnails per a tots els episodis
 python scripts/generate_all_thumbnails.py
@@ -350,7 +350,7 @@ python scripts/generate_all_thumbnails.py
 python scripts/generate_all_thumbnails.py 001 --force
 ```
 
-**Prompt base del thumbnail (des del 023):** la TARDIS amb headphones cau inclinada per un vòrtex temporal lila i daurat que omple tot el marc, amb les **portes obertes** i el tema de l'episodi sortint-ne a raig i espirejant vòrtex avall. El `--prompt-suffix` descriu precisament això: què surt per la porta.
+**Prompt base del thumbnail (des del 023):** la TARDIS amb headphones cau inclinada per un vòrtex temporal lila i daurat que omple tot el marc, amb les **portes obertes** i el tema de l'episodi sortint-ne a raig i espirejant vòrtex avall. El `--prompt-suffix` descriu precisament això: què surt per la porta. Ha de ser **llarg i concret**: amb una frase curta el model hi posa quatre props genèrics i el tema no es llegeix a mida de llistat.
 
 Els thumbnails 001-022 fan servir la fórmula antiga (cabina dreta i centrada sobre fons clar, tema com a prop petit a sota). Es va canviar perquè a mida de llistat (~110 px) totes les portades eren indistingibles: la cabina hi ocupava el 70% del dibuix i era idèntica a tots els episodis.
 

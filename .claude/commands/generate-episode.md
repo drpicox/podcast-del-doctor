@@ -195,13 +195,25 @@ soundbite_title: "Títol curt del soundbite (màx 128 caràcters)"
 
 ### PAS 5d: Generar thumbnail
 
-Decidir un element visual específic per a l'episodi (en anglès, per millors resultats).
-Exemples: `"a futuristic code editor floating in space"`, `"microservices as tiny spaceships"`, `"a 3D point cloud reconstructed from photos"`.
+Escriure una **escena detallada** del que surt per les portes de la TARDIS i espireja
+vòrtex avall, en anglès: quins objectes, com són, quins personatges hi ha i què fan, quin
+text curt hi apareix. Amb una frase curta el model hi posa quatre props genèrics i el
+tema no es llegeix (es va veure amb el 036: només peses i cervells).
 
-**Prerequisit:** draw-things-cli instal·lat i model disponible:
+Exemple (036): `"a century of failed education revolutions: an old 1920s hand-cranked
+film projector, a wooden vintage radio, a boxy grey CRT television and an open laptop
+showing an online course video, all tumbling out one after another. Among them flies a
+huge muscular bodybuilder robot lifting a heavy golden barbell with a big grin, while a
+small skinny student in a hoodie floats beside it doing nothing, holding a homework sheet
+marked with a big red \"10\" and an exam sheet marked with a big red \"40%\"."`
+
+Qwen 2.1 tendeix a simplificar personatges (el «robot culturista» li va sortir home): si
+un detall és clau, repeteix-lo o prova una altra llavor.
+
+**Prerequisit:** draw-things-cli (26.1011.0 o posterior) i el model Qwen Image 2.1:
 ```bash
 brew install draw-things-cli
-draw-things-cli models ensure --model z_image_turbo_1.0_q8p.ckpt
+draw-things-cli models ensure --model qwen_image_2.1_turbo_q6p.ckpt
 ```
 
 Executar:
@@ -209,8 +221,11 @@ Executar:
 python scripts/generate_thumbnail.py \
   --episodi XXX \
   --nom XXX-nom-episodi \
-  --prompt-suffix "element visual específic en anglès"
+  --prompt-suffix "escena DETALLADA en anglès"
 ```
+
+Triga uns 2 min. Alternatives: `--model qwen2512` (el model fins al 038, ~3 min) o
+`--model krea` (Krea 2, el més fidel als detalls però la cabina cau poc, ~4 min).
 
 L'script crea `assets/thumbnails/XXX-nom-episodi.png` i mostra la línia per afegir al frontmatter.
 Si draw-things-cli no està disponible, informar-ne l'usuari i continuar (es pot generar més tard).
@@ -404,5 +419,5 @@ web i acabes de fer push, torna-ho a provar al cap d'un parell de minuts.
 - **SRT**: Sempre es genera automàticament amb la transcripció — no cal acció addicional
 - **Capítols**: Sempre crear `sources/XXX-chapters.json` amb mínim introducció + temes principals + conclusió
 - **Soundbite**: Sempre seleccionar un fragment representatiu de 30-90 segons
-- **Thumbnail**: Sempre generar amb draw-things-cli (Z-Image-Turbo); si no està disponible, indicar-ho a l'usuari
+- **Thumbnail**: Sempre generar amb draw-things-cli (Qwen Image 2.1) i un sufix detallat; si no està disponible, indicar-ho a l'usuari
 - **Referències creuades**: Format `[Episodi XXX: Títol](/podcast-del-doctor/episodi/XXX-nom-episodi)` (permalink en singular: `/episodi/`)
