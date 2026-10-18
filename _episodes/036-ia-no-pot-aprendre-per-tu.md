@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-036-ia-no-pot-aprendre-per-tu/036-ia-no-pot-aprendre-per-tu.mp3"
-audio_size: 18870784
+audio_size: 18934978
 chapters_file: "036-ia-no-pot-aprendre-per-tu-chapters.json"
 date: '2026-10-13'
 description: "Edison va prometre el 1922 que el cinema substituiria els llibres de text. Després van venir la ràdio, la televisió, Logo i els MOOCs, i cap no va revolucionar res. A partir de la conferència de Derek Muller (Veritasium) al Perimeter Institute, veiem per què: el coll d'ampolla no és l'accés a la informació, sinó un sistema 2 gandul amb quatre idees de memòria de treball. Escacs, chunking, lletra borrosa que millora els resultats i la IA com un culturista que aixeca les peses per tu: deures de 10 i exàmens del 40%."
-duration: '39:18'
+duration: '39:26'
 episode_number: 36
 season: 1
-soundbite_start: 1378.4
+soundbite_start: 1382.1
 soundbite_duration: 68.8
 soundbite_title: "Fer escriure l'assaig a la IA és contractar un culturista perquè aixequi les peses per tu"
 sources:
