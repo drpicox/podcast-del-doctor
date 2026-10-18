@@ -32,7 +32,7 @@ BASEURL = "/podcast-del-doctor"
 WEB = "https://david-rodenas.com/podcast-del-doctor"
 
 # Ordre dels passos del workflow (generate-episode.md)
-PASSOS = ["1", "2", "3", "4", "5b", "5c", "5d", "6", "7", "8", "9"]
+PASSOS = ["1", "1b", "2", "3", "4", "5b", "5c", "5d", "6", "7", "8", "9"]
 
 DESCRIPCIO_MAX_OK = 750       # per sobre: avís (la guia diu ~650)
 DESCRIPCIO_MAX_ERROR = 1000   # per sobre: error (fa illegible el llistat)
@@ -56,6 +56,19 @@ class Resultat:
     def error(self, pas, msg):
         self.errors.append(msg)
         print(f"  ❌ PAS {pas}: {msg}")
+
+
+# Primer episodi publicat amb jingles d'entrada i sortida (scripts/add_jingles.py).
+# Si es posen retroactivament als anteriors, baixar aquest número.
+PRIMER_AMB_JINGLES = 39
+
+
+def te_jingles(camí):
+    out = subprocess.run(
+        ["ffprobe", "-v", "quiet", "-show_entries", "format_tags=jingles", "-of", "csv=p=0", camí],
+        capture_output=True, text=True,
+    ).stdout.strip()
+    return bool(out)
 
 
 def troba_slug(episodi):
@@ -183,6 +196,14 @@ def verifica(slug, fins_pas, remot, r, mp3_opcional=False):
             r.avis("1", "MP3 no present en local (còpia de seguretat absent en aquesta màquina)")
         else:
             r.error("1", f"Falta l'MP3: episodes/{slug}.mp3. Copia'l a episodes/ abans de començar")
+
+    # ── PAS 1b: jingles ───────────────────────────────────────────────
+    if inclou("1b") and te_mp3 and int(num) >= PRIMER_AMB_JINGLES:
+        if te_jingles(mp3):
+            r.be("1b", "MP3 amb jingles d'entrada i sortida")
+        else:
+            r.error("1b", "L'MP3 no té els jingles. Executa scripts/add_jingles.py --episodi "
+                          f"{num} ABANS de transcriure (si ja està transcrit, cal tornar-ho a fer)")
 
     # ── PAS 2: transcripció + markdown ────────────────────────────────
     fm, body = None, ""
