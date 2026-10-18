@@ -45,6 +45,7 @@ layout: landing
       El teu navegador no suporta l'element d'audio.
     </audio>
     {% endif %}
+    {% include listen-also.html %}
   </div>
   {% endif %}
 
@@ -175,6 +176,10 @@ layout: landing
 .episode-meta { color: var(--text-tertiary); font-size: 0.95rem; display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
 .episode-meta span { background: var(--bg-secondary); padding: 0.3rem 0.8rem; border-radius: 15px; color: var(--text-primary); }
 
+.listen-also { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.5rem; }
+.listen-also-label { color: var(--text-tertiary); font-size: 0.9rem; font-weight: 600; }
+.listen-also .btn { padding: 0.45rem 0.9rem; font-size: 0.85rem; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.12); }
+.listen-also .btn i { width: 15px; height: 15px; }
 .audio-player { margin: 3rem 0; text-align: center; background: var(--overlay-lighter); padding: 2rem; border-radius: 15px; border: 1px solid var(--border-color); }
 .audio-player audio { width: 100%; max-width: 600px; border-radius: 10px; }
 .player-with-thumb { display: flex; align-items: center; gap: 2rem; max-width: 700px; margin: 0 auto; }
