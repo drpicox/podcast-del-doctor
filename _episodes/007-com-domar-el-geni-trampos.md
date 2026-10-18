@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-007-com-domar-el-geni-trampos/007-com-domar-el-geni-trampos.mp3"
-audio_size: 17928495
+audio_size: 17977434
 chapters_file: "007-com-domar-el-geni-trampos-chapters.json"
 date: '2026-04-15'
 description: "La intel·ligència artificial d'avui és com un geni dels contes antics: immensament poderós, però trampós, descuidat i perillosament literal. Basant-nos en 'El geni trampós', una adaptació accessible dels patrons Augmented Coding de Lada Kessler, explorem per quin motiu la IA pateix amnèsia digital, per què una conversa es 'podreix', com evitar el biaix de complacència i les al·lucinacions, i com aplicar l'enginyeria de la conversa pas a pas per obtenir resultats d'excel·lència."
-duration: '37:21'
+duration: '37:27'
 episode_number: 7
 season: 1
-soundbite_start: 1970.0
+soundbite_start: 1971.8
 soundbite_duration: 47.0
 soundbite_title: "L'avantatge competitiu real no és la programació: és saber comunicar"
 sources:

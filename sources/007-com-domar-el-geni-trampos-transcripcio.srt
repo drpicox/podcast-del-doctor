@@ -1,7004 +1,7004 @@
 1
-00:00:00,000 --> 00:00:05,520
+00:00:01,770 --> 00:00:07,290
 Imaginem per un moment que podem contractar una persona en pràctiques absolutament brillant.
 
 2
-00:00:05,880 --> 00:00:07,740
+00:00:07,650 --> 00:00:09,510
 Un cervell enorme.
 
 3
-00:00:09,020 --> 00:00:12,780
+00:00:10,790 --> 00:00:14,550
 Algú que ja ha llegit pràcticament tots els llibres de la història de la humanitat,
 
 4
-00:00:12,920 --> 00:00:16,120
+00:00:14,690 --> 00:00:17,890
 que domina qualsevol idioma de dalt a baix i que, a més a més,
 
 5
-00:00:16,440 --> 00:00:18,600
+00:00:18,210 --> 00:00:20,370
 pot redactar un contracte legal en segons.
 
 6
-00:00:18,720 --> 00:00:21,820
+00:00:20,490 --> 00:00:23,590
 Seria el fitxatge ideal per a qualsevol empresa, clar.
 
 7
-00:00:22,060 --> 00:00:26,660
+00:00:23,830 --> 00:00:28,430
 I tant, però de sobte ens adonem que aquesta ment tan privilegiada
 
 8
-00:00:26,660 --> 00:00:28,740
+00:00:28,430 --> 00:00:30,510
 pateix una amnèsia a curt termini severíssima.
 
 9
-00:00:28,740 --> 00:00:29,260
+00:00:30,510 --> 00:00:31,030
 Severíssima.
 
 10
-00:00:29,400 --> 00:00:30,080
+00:00:31,170 --> 00:00:31,850
 Ostres, ja...
 
 11
-00:00:30,080 --> 00:00:33,560
+00:00:31,850 --> 00:00:35,330
 I no només això, sinó que menteix descaradament només perquè haurà bé.
 
 12
-00:00:33,740 --> 00:00:35,760
+00:00:35,510 --> 00:00:37,530
 I si se li demanen dues coses alhora,
 
 13
-00:00:36,000 --> 00:00:39,220
+00:00:37,770 --> 00:00:40,990
 entra en pànic i barreja les respostes d'una manera que arriba a ser còmica.
 
 14
-00:00:39,400 --> 00:00:44,360
+00:00:41,170 --> 00:00:46,130
 Clar, i aquesta és exactament la paradoxa de treballar amb la intel·ligència artificial avui en dia.
 
 15
-00:00:44,660 --> 00:00:45,140
+00:00:46,430 --> 00:00:46,910
 Exacte.
 
 16
-00:00:45,580 --> 00:00:48,460
+00:00:47,350 --> 00:00:50,230
 Hi ha tota aquesta expectativa de màgia instantània, oi?
 
 17
-00:00:48,740 --> 00:00:52,980
+00:00:50,510 --> 00:00:54,750
 Com si fregar la pancalla del mòbil fos invocar un ésser còsmic infal·lible.
 
 18
-00:00:53,300 --> 00:00:54,400
+00:00:55,070 --> 00:00:56,170
 Sí, sí, totalment.
 
 19
-00:00:54,900 --> 00:00:57,780
+00:00:56,670 --> 00:00:59,550
 I la realitat topa de front amb aquesta expectativa.
 
 20
-00:00:58,340 --> 00:00:58,560
+00:01:00,110 --> 00:01:00,330
 Perquè...
 
 21
-00:00:58,740 --> 00:01:01,320
+00:01:00,510 --> 00:01:03,090
 A veure, al lloc d'un déu omniscient,
 
 22
-00:01:01,620 --> 00:01:04,900
+00:01:03,390 --> 00:01:06,670
 el que s'invoca realment és una mena de geni dels llibres antics.
 
 23
-00:01:05,460 --> 00:01:06,860
+00:01:07,230 --> 00:01:08,630
 Un geni trampós?
 
 24
-00:01:07,120 --> 00:01:07,800
+00:01:08,890 --> 00:01:09,570
 Això mateix.
 
 25
-00:01:08,300 --> 00:01:10,620
+00:01:10,070 --> 00:01:12,390
 És immensament poderós, sense cap dubte,
 
 26
-00:01:10,900 --> 00:01:12,860
+00:01:12,670 --> 00:01:14,630
 però també és trampós, és descuidat,
 
 27
-00:01:13,140 --> 00:01:15,360
+00:01:14,910 --> 00:01:17,130
 i sobretot, és perillosament literal.
 
 28
-00:01:15,820 --> 00:01:16,420
+00:01:17,590 --> 00:01:18,190
 Molt literal.
 
 29
-00:01:17,020 --> 00:01:18,780
+00:01:18,790 --> 00:01:20,550
 Fa exactament allò que se li demana,
 
 30
-00:01:19,140 --> 00:01:23,080
+00:01:20,910 --> 00:01:24,850
 que paradoxalment gairebé mai és el que realment necessita qui ho escriu.
 
 31
-00:01:23,560 --> 00:01:26,020
+00:01:25,330 --> 00:01:27,790
 Vull dir, és un camp de mines conversacional
 
 32
-00:01:26,020 --> 00:01:28,720
+00:01:27,790 --> 00:01:30,490
 on la frustració està pràcticament assegurada
 
 33
-00:01:28,720 --> 00:01:31,420
+00:01:30,490 --> 00:01:33,190
 si no es coneixen les regles ocultes d'aquest joc.
 
 34
-00:01:31,740 --> 00:01:33,460
+00:01:33,510 --> 00:01:35,230
 D'acord, desbrenem tot això.
 
 35
-00:01:33,880 --> 00:01:36,700
+00:01:35,650 --> 00:01:38,470
 Perquè la missió de la nostra immersió profunda d'avui
 
 36
-00:01:36,700 --> 00:01:40,480
+00:01:38,470 --> 00:01:42,250
 és precisament transformar tota aquesta frustració diària
 
 37
-00:01:40,480 --> 00:01:43,840
+00:01:42,250 --> 00:01:45,610
 que tothom ha sentit en un domini absolut de l'ENA.
 
 38
-00:01:44,320 --> 00:01:46,920
+00:01:46,090 --> 00:01:48,690
 I per fer-ho ens basarem en un document
 
 39
-00:01:46,920 --> 00:01:49,460
+00:01:48,690 --> 00:01:51,230
 que personalment m'ha semblat revelador.
 
 40
-00:01:49,960 --> 00:01:50,420
+00:01:51,730 --> 00:01:52,190
 Es titula
 
 41
-00:01:50,420 --> 00:01:54,620
+00:01:52,190 --> 00:01:56,390
 El geni trampós, guia pràctica per treballar amb intel·ligència artificial.
 
 42
-00:01:55,140 --> 00:01:56,680
+00:01:56,910 --> 00:01:58,450
 És un text molt bo, sí.
 
 43
-00:01:57,000 --> 00:01:57,360
+00:01:58,770 --> 00:01:59,130
 Ho és.
 
 44
-00:01:57,840 --> 00:01:58,280
+00:01:59,610 --> 00:02:00,050
 I de fet,
 
 45
-00:01:58,280 --> 00:02:01,980
+00:02:00,050 --> 00:02:03,750
 és una adaptació molt accessible, pensada per a tots els públics,
 
 46
-00:02:02,240 --> 00:02:05,900
+00:02:04,010 --> 00:02:07,670
 d'uns patrons molt més tècnics que es diuen Augmented Coding,
 
 47
-00:02:06,340 --> 00:02:10,620
+00:02:08,110 --> 00:02:12,390
 que va presentar la investigadora Lada Kessler l'any 2025
 
 48
-00:02:10,620 --> 00:02:12,280
+00:02:12,390 --> 00:02:14,050
 al Calgary Software Crafters.
 
 49
-00:02:13,100 --> 00:02:13,320
+00:02:14,870 --> 00:02:15,090
 Clar.
 
 50
-00:02:13,880 --> 00:02:17,080
+00:02:15,650 --> 00:02:18,850
 I l'interès principal d'aquest document recau justament en el fet
 
 51
-00:02:17,080 --> 00:02:21,540
+00:02:18,850 --> 00:02:23,310
 que abandona tot aquell argut tècnic incomprensible de les xarxes neuronals.
 
 52
-00:02:21,760 --> 00:02:23,160
+00:02:23,530 --> 00:02:24,930
 Sí. Gràcies a Déu.
 
 53
-00:02:23,600 --> 00:02:26,220
+00:02:25,370 --> 00:02:27,990
 Jo n'estic una mica farta de la sopa de lletres tècnica.
 
 54
-00:02:26,360 --> 00:02:27,240
+00:02:28,130 --> 00:02:29,010
 I jo. I jo.
 
 55
-00:02:27,240 --> 00:02:30,920
+00:02:29,010 --> 00:02:32,690
 El document es centra en una cosa molt més útil per al dia a dia.
 
 56
-00:02:31,500 --> 00:02:34,500
+00:02:33,270 --> 00:02:36,270
 Se centra en la psicologia, per dir-ho d'alguna manera,
 
 57
-00:02:34,800 --> 00:02:36,460
+00:02:36,570 --> 00:02:38,230
 i en el comportament d'aquest geni.
 
 58
-00:02:36,640 --> 00:02:40,000
+00:02:38,410 --> 00:02:41,770
 Llavors, el primer obstacle que planteja la guia
 
 59
-00:02:40,000 --> 00:02:44,500
+00:02:41,770 --> 00:02:46,270
 és entendre com funciona la ment, entre cometes, d'aquesta màquina, oi?
 
 60
-00:02:44,800 --> 00:02:48,420
+00:02:46,570 --> 00:02:50,190
 Perquè hi ha un mite fundacional que cal destruir immediatament.
 
 61
-00:02:48,620 --> 00:02:49,980
+00:02:50,390 --> 00:02:51,750
 I tant, el gran mite.
 
 62
-00:02:50,460 --> 00:02:55,080
+00:02:52,230 --> 00:02:56,850
 La idea que la intel·ligència artificial aprèn i evoluciona constantment amb l'usuari.
 
 63
-00:02:55,080 --> 00:02:57,080
+00:02:56,850 --> 00:02:58,850
 Clar, la gent es pensa que es coneixen,
 
 64
-00:02:57,240 --> 00:03:02,280
+00:02:59,010 --> 00:03:04,050
 Exacte. Hi ha aquesta tendència natural a pensar que, després de mesos d'ús diari,
 
 65
-00:03:02,580 --> 00:03:07,000
+00:03:04,350 --> 00:03:08,770
 el model ja sap els gustos, l'estil o les necessitats de qui està teclejant.
 
 66
-00:03:07,580 --> 00:03:10,040
+00:03:09,350 --> 00:03:11,810
 I la guia ho desmenteix rotundament.
 
 67
-00:03:10,340 --> 00:03:13,140
+00:03:12,110 --> 00:03:14,910
 Completament. El model base està congelat.
 
 68
-00:03:13,580 --> 00:03:15,880
+00:03:15,350 --> 00:03:17,650
 Cada vegada que s'obre una finestra de xat nova,
 
 69
-00:03:16,260 --> 00:03:19,160
+00:03:18,030 --> 00:03:20,930
 és com trobar-se davant d'una pissarra totalment en blanc.
 
 70
-00:03:19,680 --> 00:03:22,000
+00:03:21,450 --> 00:03:23,770
 És una amnèsia digital absoluta.
 
 71
-00:03:22,000 --> 00:03:25,800
+00:03:23,770 --> 00:03:27,570
 El document utilitza un exemple molt quotidià i molt visual
 
 72
-00:03:25,800 --> 00:03:27,000
+00:03:27,570 --> 00:03:28,770
 per entendre les conseqüències.
 
 73
-00:03:27,240 --> 00:03:31,340
+00:03:29,010 --> 00:03:33,110
 Suposem que algú vol demanar un menú setmanal sa.
 
 74
-00:03:31,680 --> 00:03:32,860
+00:03:33,450 --> 00:03:34,630
 Un clàssic.
 
 75
-00:03:32,880 --> 00:03:35,780
+00:03:34,650 --> 00:03:37,550
 Clar, si en aquesta nova conversa no s'especifica,
 
 76
-00:03:36,180 --> 00:03:39,300
+00:03:37,950 --> 00:03:41,070
 des del primer caràcter, que a casa són vegetarians,
 
 77
-00:03:39,920 --> 00:03:41,880
+00:03:41,690 --> 00:03:43,650
 que hi ha una intolerància al gluten,
 
 78
-00:03:42,420 --> 00:03:44,600
+00:03:44,190 --> 00:03:46,370
 que les racions han de ser per a tres persones,
 
 79
-00:03:45,220 --> 00:03:48,240
+00:03:46,990 --> 00:03:50,010
 i que hi ha un odi visceral cap al cogombre...
 
 80
-00:03:48,780 --> 00:03:51,200
+00:03:50,550 --> 00:03:52,970
 Doncs el resultat serà una recomanació entusiasta
 
 81
-00:03:51,200 --> 00:03:54,500
+00:03:52,970 --> 00:03:56,270
 per sopar uns filets de puyarra rebossat amb molta farina de blat
 
 82
-00:03:54,500 --> 00:03:57,100
+00:03:56,270 --> 00:03:58,870
 i acompanyat d'una gran amanida de cogombre.
 
 83
-00:03:57,240 --> 00:03:58,040
+00:03:59,010 --> 00:03:59,810
 Exacte.
 
 84
-00:03:58,260 --> 00:04:01,980
+00:04:00,030 --> 00:04:03,750
 Vull dir, cal reconstruir l'univers sencer en cada interacció.
 
 85
-00:04:02,480 --> 00:04:03,980
+00:04:04,250 --> 00:04:05,750
 Com si no ens haguéssim vist mai.
 
 86
-00:04:04,440 --> 00:04:05,860
+00:04:06,210 --> 00:04:07,630
 I sé que ara mateix molts pensaran
 
 87
-00:04:05,860 --> 00:04:09,360
+00:04:07,630 --> 00:04:11,130
 què passa amb aquelles funcionalitats de memòria integrada
 
 88
-00:04:09,360 --> 00:04:11,700
+00:04:11,130 --> 00:04:13,470
 que ofereixen algunes plataformes actuals.
 
 89
-00:04:12,020 --> 00:04:14,580
+00:04:13,790 --> 00:04:16,350
 Aquell botó que diu que l'assistent hi recordarà.
 
 90
-00:04:14,600 --> 00:04:16,660
+00:04:16,370 --> 00:04:18,430
 Clar, això existeix. Funciona.
 
 91
-00:04:16,840 --> 00:04:19,700
+00:04:18,610 --> 00:04:21,470
 L'anàlisi de Kessler adverteix que aquestes capes de memòria
 
 92
-00:04:19,700 --> 00:04:23,240
+00:04:21,470 --> 00:04:25,010
 són extremadament superficials i, sobretot, erràtiques.
 
 93
-00:04:23,680 --> 00:04:25,680
+00:04:25,450 --> 00:04:27,450
 El Consell Professional, sense dubtar-ho,
 
 94
-00:04:25,680 --> 00:04:27,100
+00:04:27,450 --> 00:04:28,870
 és no refiar-se mai.
 
 95
-00:04:27,540 --> 00:04:30,540
+00:04:29,310 --> 00:04:32,310
 Ostres. O sigui, no serveixen?
 
 96
-00:04:30,860 --> 00:04:32,420
+00:04:32,630 --> 00:04:34,190
 Són massa inestables.
 
 97
-00:04:33,000 --> 00:04:36,440
+00:04:34,770 --> 00:04:38,210
 Cal establir el context de zero en cada nova tasca important.
 
 98
-00:04:36,840 --> 00:04:38,760
+00:04:38,610 --> 00:04:40,530
 Sí que requereix un esforç inicial més gran,
 
 99
-00:04:38,920 --> 00:04:41,540
+00:04:40,690 --> 00:04:43,310
 però et salva d'un col·lapse absurd posteriorment.
 
 100
-00:04:41,900 --> 00:04:46,580
+00:04:43,670 --> 00:04:48,350
 Llavors, a veure, si el problema és que cada conversa nova és una amnèsia,
 
 101
-00:04:47,000 --> 00:04:50,720
+00:04:48,770 --> 00:04:52,490
 la solució lògica que qualsevol podria pensar sembla molt simple.
 
 102
-00:04:51,200 --> 00:04:53,920
+00:04:52,970 --> 00:04:55,690
 Mantenir una única conversa oberta per sempre.
 
 103
-00:04:53,920 --> 00:04:56,920
+00:04:55,690 --> 00:04:58,690
 I tant. Un fil infinit on s'hi vagi abocant.
 
 104
-00:04:57,240 --> 00:04:59,780
+00:04:59,010 --> 00:05:01,550
 Tota la vida laboral i personal durant mesos
 
 105
-00:04:59,780 --> 00:05:02,860
+00:05:01,550 --> 00:05:04,630
 per assegurar que la màquina no oblida mai res.
 
 106
-00:05:03,320 --> 00:05:04,740
+00:05:05,090 --> 00:05:06,510
 És com la reacció instintiva.
 
 107
-00:05:05,080 --> 00:05:08,980
+00:05:06,850 --> 00:05:10,750
 Però, curiosament, la guia assenyala això com el segon gran parany.
 
 108
-00:05:09,480 --> 00:05:12,900
+00:05:11,250 --> 00:05:14,670
 El text utilitza una expressió que trobo molt insertada, molt visual.
 
 109
-00:05:13,540 --> 00:05:15,580
+00:05:15,310 --> 00:05:17,350
 Diu que la conversa es podreix.
 
 110
-00:05:15,860 --> 00:05:17,140
+00:05:17,630 --> 00:05:18,910
 La conversa es podreix.
 
 111
-00:05:17,600 --> 00:05:20,300
+00:05:19,370 --> 00:05:22,070
 Això em fa pensar directament en aquell becari brillant
 
 112
-00:05:20,300 --> 00:05:22,480
+00:05:22,070 --> 00:05:24,250
 que dèiem al principi de la inversió profunda.
 
 113
-00:05:22,860 --> 00:05:25,320
+00:05:24,630 --> 00:05:27,090
 Aquest becari que pateix la síndrome d'aquella pel·lícula
 
 114
-00:05:25,320 --> 00:05:26,900
+00:05:27,090 --> 00:05:28,670
 50 primeres cites.
 
 115
-00:05:26,900 --> 00:05:27,220
+00:05:28,670 --> 00:05:28,990
 I això és el que fa que la conversa es podreix.
 
 116
-00:05:27,240 --> 00:05:28,720
+00:05:29,010 --> 00:05:30,490
 Sí, sí, la dada amb Sandler.
 
 117
-00:05:29,320 --> 00:05:33,600
+00:05:31,090 --> 00:05:35,370
 Aquella? Doncs un becari que no només oblida qui som cada matí,
 
 118
-00:05:34,000 --> 00:05:36,620
+00:05:35,770 --> 00:05:38,390
 sinó que, a més, al cap d'una hora de treballar sense parar
 
 119
-00:05:36,620 --> 00:05:40,060
+00:05:38,390 --> 00:05:41,830
 i de donar-li dades, s'esgota mentalment i comença a delidar.
 
 120
-00:05:40,520 --> 00:05:42,220
+00:05:42,290 --> 00:05:43,990
 És una analogia perfecta.
 
 121
-00:05:42,640 --> 00:05:44,540
+00:05:44,410 --> 00:05:46,310
 L'expressió de la conversa podrida
 
 122
-00:05:44,540 --> 00:05:48,060
+00:05:46,310 --> 00:05:49,830
 il·lustra un fenomen arquitectònic de l'eina que és ineludible.
 
 123
-00:05:48,600 --> 00:05:51,160
+00:05:50,370 --> 00:05:52,930
 Tècnicament es coneix com la finestra de context.
 
 124
-00:05:51,500 --> 00:05:54,140
+00:05:53,270 --> 00:05:55,910
 I com podem visualitzar això de la finestra de context
 
 125
-00:05:54,140 --> 00:05:56,440
+00:05:55,910 --> 00:05:58,210
 per a qui ens escolti i no sigui enginyer?
 
 126
-00:05:56,440 --> 00:05:58,840
+00:05:58,210 --> 00:06:00,610
 Doncs podem imaginar aquesta finestra
 
 127
-00:05:58,840 --> 00:06:02,580
+00:06:00,610 --> 00:06:04,350
 com una cinta transportadora d'espai il·limitat
 
 128
-00:06:02,580 --> 00:06:05,920
+00:06:04,350 --> 00:06:07,690
 o, simplement, com la taula d'escriptori d'una oficina.
 
 129
-00:06:06,240 --> 00:06:08,000
+00:06:08,010 --> 00:06:09,770
 D'acord, un escriptori físic.
 
 130
-00:06:08,120 --> 00:06:10,480
+00:06:09,890 --> 00:06:12,250
 Exacte. A mesura que avança la conversa
 
 131
-00:06:10,480 --> 00:06:13,440
+00:06:12,250 --> 00:06:15,210
 i s'aporten noves dades o es fan peticions noves,
 
 132
-00:06:13,680 --> 00:06:15,440
+00:06:15,450 --> 00:06:17,210
 l'escriptori es va omplint de documents
 
 133
-00:06:15,440 --> 00:06:18,380
+00:06:17,210 --> 00:06:20,150
 i arriba a un punt físic on, literalment,
 
 134
-00:06:18,720 --> 00:06:20,480
+00:06:20,490 --> 00:06:22,250
 no hi cap ni un full de toper més.
 
 135
-00:06:20,660 --> 00:06:23,660
+00:06:22,430 --> 00:06:25,430
 I què fa el sistema aleshores? S'atura i t'avisa?
 
 136
-00:06:23,920 --> 00:06:26,100
+00:06:25,690 --> 00:06:27,870
 No, no. Aquí està el problema.
 
 137
-00:06:26,440 --> 00:06:29,300
+00:06:28,210 --> 00:06:31,070
 Comença a empènyer els documents més antics
 
 138
-00:06:29,300 --> 00:06:32,500
+00:06:31,070 --> 00:06:34,270
 per la vora de la taula directament a la paperera.
 
 139
-00:06:33,280 --> 00:06:36,120
+00:06:35,050 --> 00:06:37,890
 La màquina comença a oblidar les primeres instruccions,
 
 140
-00:06:36,700 --> 00:06:39,360
+00:06:38,470 --> 00:06:41,130
 barreja dades de missatges recents amb antics
 
 141
-00:06:39,360 --> 00:06:43,040
+00:06:41,130 --> 00:06:44,810
 i, inevitablement, es contradiu o al·lucina.
 
 142
-00:06:43,420 --> 00:06:45,360
+00:06:45,190 --> 00:06:47,130
 El document posa un exemple boníssim
 
 143
-00:06:45,360 --> 00:06:47,460
+00:06:47,130 --> 00:06:49,230
 amb uns apunts sobre un viatge a Còrsega, oi?
 
 144
-00:06:47,880 --> 00:06:50,960
+00:06:49,650 --> 00:06:52,730
 Que és el reflex perfecte d'això de caure per la vora de la taula.
 
 145
-00:06:51,200 --> 00:06:54,180
+00:06:52,970 --> 00:06:55,950
 Sí, és molt representatiu. Explica'l, explica'l.
 
 146
-00:06:54,280 --> 00:06:56,420
+00:06:56,050 --> 00:06:58,190
 Doncs és una planificació que comença
 
 147
-00:06:56,440 --> 00:06:58,220
+00:06:58,210 --> 00:06:59,990
 demanant opcions d'hoteles a l'illa.
 
 148
-00:06:58,740 --> 00:07:01,680
+00:07:00,510 --> 00:07:03,450
 Després, el fil evoluciona cap a la cerca de restaurants,
 
 149
-00:07:02,280 --> 00:07:03,960
+00:07:04,050 --> 00:07:05,730
 rutes de senderisme amagades,
 
 150
-00:07:04,360 --> 00:07:06,620
+00:07:06,130 --> 00:07:08,390
 els horaris dels ferris per moure's
 
 151
-00:07:06,620 --> 00:07:09,260
+00:07:08,390 --> 00:07:11,030
 i, fins i tot, la previsió meteorològica d'aquella setmana.
 
 152
-00:07:09,660 --> 00:07:11,180
+00:07:11,430 --> 00:07:12,950
 Tota la logística barrejada.
 
 153
-00:07:11,260 --> 00:07:13,660
+00:07:13,030 --> 00:07:15,430
 La màquina que prepari un resum del pressupost
 
 154
-00:07:13,660 --> 00:07:16,460
+00:07:15,430 --> 00:07:18,230
 recordant quin hotel s'havia triat al missatge 2.
 
 155
-00:07:16,820 --> 00:07:17,160
+00:07:18,590 --> 00:07:18,930
 I pam!
 
 156
-00:07:17,580 --> 00:07:20,180
+00:07:19,350 --> 00:07:21,950
 I, de sobte, el sistema s'inventa el nom d'un hotel
 
 157
-00:07:20,180 --> 00:07:24,560
+00:07:21,950 --> 00:07:26,330
 que no ha existit mai en cap moment de tota la conversa.
 
 158
-00:07:24,560 --> 00:07:26,420
+00:07:26,330 --> 00:07:28,190
 Un hotel inventat del no-res.
 
 159
-00:07:26,440 --> 00:07:29,340
+00:07:28,210 --> 00:07:31,110
 Ha perdut el document original per la vora de l'escriptori?
 
 160
-00:07:29,580 --> 00:07:30,180
+00:07:31,350 --> 00:07:31,950
 Així de simple.
 
 161
-00:07:30,720 --> 00:07:33,020
+00:07:32,490 --> 00:07:34,790
 El seu límit de tensió s'ha exaurit del tot.
 
 162
-00:07:33,260 --> 00:07:36,220
+00:07:35,030 --> 00:07:37,990
 Clar. I la gent s'enfada amb la pantalla quan passa això.
 
 163
-00:07:36,400 --> 00:07:36,740
+00:07:38,170 --> 00:07:38,510
 I tant.
 
 164
-00:07:37,240 --> 00:07:40,600
+00:07:39,010 --> 00:07:42,370
 Però, quan s'arriba a aquest punt on la màquina comença a divagar
 
 165
-00:07:40,600 --> 00:07:42,780
+00:07:42,370 --> 00:07:44,550
 o a generar respostes estranyes,
 
 166
-00:07:43,160 --> 00:07:45,520
+00:07:44,930 --> 00:07:47,290
 no serveix absolutament de res enfadar-se
 
 167
-00:07:45,520 --> 00:07:48,700
+00:07:47,290 --> 00:07:50,470
 o repetir la instrucció en majúscules com si fos sorda.
 
 168
-00:07:48,800 --> 00:07:51,660
+00:07:50,570 --> 00:07:53,430
 O insultar la pobra IA, que tothom ho ha fet alguna vegada.
 
 169
-00:07:52,100 --> 00:07:52,580
+00:07:53,870 --> 00:07:54,350
 Exacte.
 
 170
-00:07:52,900 --> 00:07:55,100
+00:07:54,670 --> 00:07:56,870
 La conversa ja ha caducat.
 
 171
-00:07:55,100 --> 00:07:56,420
+00:07:56,870 --> 00:07:58,190
 Ja està podrida.
 
 172
-00:07:57,000 --> 00:08:00,620
+00:07:58,770 --> 00:08:02,390
 L'única solució pràctica és obrir una interacció nova,
 
 173
-00:08:01,060 --> 00:08:02,100
+00:08:02,830 --> 00:08:03,870
 completament neta,
 
 174
-00:08:02,440 --> 00:08:06,480
+00:08:04,210 --> 00:08:08,250
 i transferir-li únicament les decisions fermes que ja s'havien pres.
 
 175
-00:08:06,840 --> 00:08:09,960
+00:08:08,610 --> 00:08:11,730
 Però, clar, a veure, si som conscients que la memòria a curt termini
 
 176
-00:08:09,960 --> 00:08:12,400
+00:08:11,730 --> 00:08:14,170
 falla tan ràpidament i que l'espai s'acaba,
 
 177
-00:08:12,800 --> 00:08:15,100
+00:08:14,570 --> 00:08:16,870
 el cervell humà immediatament busca una dressera.
 
 178
-00:08:15,240 --> 00:08:15,680
+00:08:17,010 --> 00:08:17,450
 Som així.
 
 179
-00:08:16,140 --> 00:08:18,260
+00:08:17,910 --> 00:08:20,030
 La temptació és agafar-ho absolutament tot
 
 180
-00:08:18,260 --> 00:08:21,880
+00:08:20,030 --> 00:08:23,650
 i comprimir-ho en un sol missatge quilomètric just al principi,
 
 181
-00:08:22,180 --> 00:08:23,800
+00:08:23,950 --> 00:08:25,570
 posar totes les comandes a la vegada
 
 182
-00:08:23,800 --> 00:08:26,200
+00:08:25,570 --> 00:08:27,970
 per acabar ràpid i no allargar la conversa.
 
 183
-00:08:26,440 --> 00:08:27,520
+00:08:28,210 --> 00:08:29,290
 Amor superprompt.
 
 184
-00:08:27,940 --> 00:08:31,680
+00:08:29,710 --> 00:08:33,450
 I justament aquí és on l'assistent passa de ser amnèsic
 
 185
-00:08:31,680 --> 00:08:34,180
+00:08:33,450 --> 00:08:35,950
 a patir una hiperactivitat incontrolable.
 
 186
-00:08:34,760 --> 00:08:37,120
+00:08:36,530 --> 00:08:38,890
 En exigir-li múltiples tasques en paral·lel,
 
 187
-00:08:37,120 --> 00:08:42,300
+00:08:38,890 --> 00:08:44,070
 la manca d'enfocament de la intel·ligència artificial es fa evident i dolorosa.
 
 188
-00:08:42,720 --> 00:08:45,040
+00:08:44,490 --> 00:08:46,810
 Com funciona aquesta manca d'enfocament exactament?
 
 189
-00:08:45,340 --> 00:08:47,860
+00:08:47,110 --> 00:08:49,630
 Doncs el mecanisme d'atenció d'aquests models
 
 190
-00:08:47,860 --> 00:08:49,720
+00:08:49,630 --> 00:08:51,490
 és un recurs molt i molt poderós,
 
 191
-00:08:50,160 --> 00:08:51,920
+00:08:51,930 --> 00:08:53,690
 però és terriblement indivisible.
 
 192
-00:08:52,520 --> 00:08:56,120
+00:08:54,290 --> 00:08:57,890
 Vull dir, quan se li exigeixen múltiples tasques de naturalesa molt diferents,
 
 193
-00:08:29,000 --> 00:08:56,040
+00:08:30,770 --> 00:08:57,810
 Vull dir, quan se li exigeixen múltiples tasques de naturalesa molt diferents,
 
 194
-00:08:56,040 --> 00:08:56,040
+00:08:57,810 --> 00:08:57,810
 
 
 195
-00:08:56,040 --> 00:08:57,920
+00:08:57,810 --> 00:08:59,690
 dins d'una mateixa instrucció,
 
 196
-00:08:58,620 --> 00:09:00,800
+00:09:00,390 --> 00:09:02,570
 el sistema no té la capacitat de prioritzar
 
 197
-00:09:00,800 --> 00:09:03,780
+00:09:02,570 --> 00:09:05,550
 ni de separar els contextos emocionals o estilístics.
 
 198
-00:09:04,220 --> 00:09:05,100
+00:09:05,990 --> 00:09:06,870
 Els fusiona a tots.
 
 199
-00:09:05,160 --> 00:09:08,700
+00:09:06,930 --> 00:09:10,470
 I aquesta fusió pot ser catastròfica, pel que estic veient a la guia.
 
 200
-00:09:09,080 --> 00:09:10,920
+00:09:10,850 --> 00:09:12,690
 Es presenta un cas pràctic que fa molt de riure,
 
 201
-00:09:11,120 --> 00:09:12,180
+00:09:12,890 --> 00:09:13,950
 però te demostra el perill d'això.
 
 202
-00:09:12,460 --> 00:09:13,360
+00:09:14,230 --> 00:09:15,130
 El de l'Ajuntament, oi?
 
 203
-00:09:13,640 --> 00:09:16,380
+00:09:15,410 --> 00:09:18,150
 Sí. Algú decideix introduir en un sol missatge
 
 204
-00:09:16,380 --> 00:09:19,520
+00:09:18,150 --> 00:09:21,290
 la redacció d'una reclamació molt formal per a l'Ajuntament
 
 205
-00:09:19,520 --> 00:09:21,600
+00:09:21,290 --> 00:09:23,370
 per un impost que li han cobrat malament
 
 206
-00:09:21,600 --> 00:09:23,580
+00:09:23,370 --> 00:09:25,350
 i a sota, en el mateix text,
 
 207
-00:09:23,880 --> 00:09:25,540
+00:09:25,650 --> 00:09:27,310
 li demana tres idees originals
 
 208
-00:09:25,540 --> 00:09:27,100
+00:09:27,310 --> 00:09:28,870
 per a un sopar d'aniversari de parella.
 
 209
-00:09:27,420 --> 00:09:28,800
+00:09:29,190 --> 00:09:30,570
 Per aprofitar el viatge, clar.
 
 210
-00:09:28,980 --> 00:09:29,440
+00:09:30,750 --> 00:09:31,210
 Exacte.
 
 211
-00:09:29,960 --> 00:09:31,940
+00:09:31,730 --> 00:09:33,710
 Doncs el resultat és d'un document híbrid
 
 212
-00:09:31,940 --> 00:09:34,800
+00:09:33,710 --> 00:09:36,570
 on se cita la normativa municipal vigent,
 
 213
-00:09:35,240 --> 00:09:36,640
+00:09:37,010 --> 00:09:38,410
 s'amenaça amb accions legals
 
 214
-00:09:36,640 --> 00:09:40,000
+00:09:38,410 --> 00:09:41,770
 amb un to profundament burocràtic i fred,
 
 215
-00:09:40,440 --> 00:09:43,060
+00:09:42,210 --> 00:09:44,830
 i de sobte, l'últim paràgraf conclou
 
 216
-00:09:43,060 --> 00:09:45,020
+00:09:44,830 --> 00:09:46,790
 amb una solemnitat absurda dient,
 
 217
-00:09:45,400 --> 00:09:46,480
+00:09:47,170 --> 00:09:48,250
 i cito literalment,
 
 218
-00:09:47,000 --> 00:09:50,400
+00:09:48,770 --> 00:09:52,170
 i de postres es recomana un tiramissú amb espelmes.
 
 219
-00:09:50,880 --> 00:09:52,340
+00:09:52,650 --> 00:09:54,110
 Vés a un caos absolut.
 
 220
-00:09:52,920 --> 00:09:55,360
+00:09:54,690 --> 00:09:57,130
 És l'assistent hiperactiu barrejant carpetes,
 
 221
-00:09:55,540 --> 00:09:57,460
+00:09:57,310 --> 00:09:59,230
 l'arreglador que dona el text
 
 222
-00:09:57,460 --> 00:09:59,960
+00:09:59,230 --> 00:10:01,730
 per evitar aquesta contaminació cruada
 
 223
-00:09:59,960 --> 00:10:01,180
+00:10:01,730 --> 00:10:02,950
 és molt estricte.
 
 224
-00:10:01,580 --> 00:10:03,800
+00:10:03,350 --> 00:10:05,570
 Ha de ser un únic tema per a conversa.
 
 225
-00:10:03,860 --> 00:10:04,140
+00:10:05,630 --> 00:10:05,910
 Sempre.
 
 226
-00:10:04,480 --> 00:10:05,240
+00:10:06,250 --> 00:10:07,010
 Ni un més.
 
 227
-00:10:05,420 --> 00:10:05,960
+00:10:07,190 --> 00:10:07,730
 Ni un més.
 
 228
-00:10:06,400 --> 00:10:07,180
+00:10:08,170 --> 00:10:08,950
 Però, atenció,
 
 229
-00:10:07,660 --> 00:10:09,120
+00:10:09,430 --> 00:10:10,890
 fins i tot quan s'aïlla el tema
 
 230
-00:10:09,120 --> 00:10:10,700
+00:10:10,890 --> 00:10:12,470
 i demanem una sola cosa,
 
 231
-00:10:11,080 --> 00:10:12,520
+00:10:12,850 --> 00:10:14,290
 ens trobem amb un altre fenomen
 
 232
-00:10:12,520 --> 00:10:14,580
+00:10:14,290 --> 00:10:16,350
 molt lligat a aquesta hiperactivitat,
 
 233
-00:10:14,940 --> 00:10:16,580
+00:10:16,710 --> 00:10:18,350
 que és la xerrameca per defecte.
 
 234
-00:10:16,860 --> 00:10:18,760
+00:10:18,630 --> 00:10:20,530
 Ai, això és una qüestió que em té fascinada.
 
 235
-00:10:19,320 --> 00:10:21,740
+00:10:21,090 --> 00:10:23,510
 Per què la intel·ligència artificial, per defecte,
 
 236
-00:10:21,960 --> 00:10:24,840
+00:10:23,730 --> 00:10:26,610
 actua com algú a qui s'hi ha demanat l'hora del dia
 
 237
-00:10:24,840 --> 00:10:25,200
+00:10:26,610 --> 00:10:26,970
 i, per tant, no es pot fer.
 
 238
-00:10:25,200 --> 00:10:25,260
+00:10:26,970 --> 00:10:27,030
 I, per tant, no es pot fer.
 
 239
-00:10:25,260 --> 00:10:25,320
+00:10:27,030 --> 00:10:27,090
 I, per tant, no es pot fer.
 
 240
-00:10:25,320 --> 00:10:27,520
+00:10:27,090 --> 00:10:29,290
 I respon explicant detalladament
 
 241
-00:10:27,520 --> 00:10:29,720
+00:10:29,290 --> 00:10:31,490
 la història de la rellotgeria suïssa
 
 242
-00:10:29,720 --> 00:10:31,780
+00:10:31,490 --> 00:10:33,550
 des del segle XVI fins a l'actualitat.
 
 243
-00:10:31,920 --> 00:10:32,920
+00:10:33,690 --> 00:10:34,690
 El que és fascinant d'això
 
 244
-00:10:32,920 --> 00:10:34,340
+00:10:34,690 --> 00:10:36,110
 és que aquesta barborrea
 
 245
-00:10:34,340 --> 00:10:36,060
+00:10:36,110 --> 00:10:37,830
 no és un accident de programació,
 
 246
-00:10:36,280 --> 00:10:37,780
+00:10:38,050 --> 00:10:39,550
 sinó que és una conseqüència
 
 247
-00:10:37,780 --> 00:10:38,920
+00:10:39,550 --> 00:10:40,690
 totalment directa
 
 248
-00:10:38,920 --> 00:10:40,720
+00:10:40,690 --> 00:10:42,490
 de la fase d'entrenament dels models.
 
 249
-00:10:41,100 --> 00:10:41,580
+00:10:42,870 --> 00:10:43,350
 Ah, sí.
 
 250
-00:10:43,000 --> 00:10:43,960
+00:10:44,770 --> 00:10:45,730
 Concretament, del que es diu
 
 251
-00:10:43,960 --> 00:10:45,340
+00:10:45,730 --> 00:10:47,110
 aprenentatge per reforç.
 
 252
-00:10:45,920 --> 00:10:47,260
+00:10:47,690 --> 00:10:49,030
 Durant el seu desenvolupament,
 
 253
-00:10:47,720 --> 00:10:49,060
+00:10:49,490 --> 00:10:50,830
 els avaluadors humans
 
 254
-00:10:49,060 --> 00:10:50,240
+00:10:50,830 --> 00:10:52,010
 que entrenaven el sistema
 
 255
-00:10:50,240 --> 00:10:52,260
+00:10:52,010 --> 00:10:54,030
 tendien a recompensar positivament
 
 256
-00:10:52,260 --> 00:10:53,700
+00:10:54,030 --> 00:10:55,470
 les respostes més llargues
 
 257
-00:10:53,700 --> 00:10:54,840
+00:10:55,470 --> 00:10:56,610
 i més exhaustives,
 
 258
-00:10:54,840 --> 00:10:56,320
+00:10:56,610 --> 00:10:58,090
 perquè les consideraven
 
 259
-00:10:56,320 --> 00:10:57,780
+00:10:58,090 --> 00:10:59,550
 més útils a primera vista.
 
 260
-00:10:58,060 --> 00:10:58,380
+00:10:59,830 --> 00:11:00,150
 Ah, clar.
 
 261
-00:10:58,820 --> 00:11:00,640
+00:11:00,590 --> 00:11:02,410
 Més text sembla més feina feta.
 
 262
-00:11:00,880 --> 00:11:01,360
+00:11:02,650 --> 00:11:03,130
 Exacte.
 
 263
-00:11:01,700 --> 00:11:03,060
+00:11:03,470 --> 00:11:04,830
 I l'efecte secundari avui dia
 
 264
-00:11:03,060 --> 00:11:04,880
+00:11:04,830 --> 00:11:06,650
 és que la màquina ha interioritzat
 
 265
-00:11:04,880 --> 00:11:05,480
+00:11:06,650 --> 00:11:07,250
 que ser útil
 
 266
-00:11:05,480 --> 00:11:06,960
+00:11:07,250 --> 00:11:08,730
 és sinònim d'oferir
 
 267
-00:11:06,960 --> 00:11:09,760
+00:11:08,730 --> 00:11:11,530
 un allau inexhaustible d'informació,
 
 268
-00:11:10,280 --> 00:11:11,120
+00:11:12,050 --> 00:11:12,890
 per por a deixar-se
 
 269
-00:11:11,120 --> 00:11:12,580
+00:11:12,890 --> 00:11:14,350
 qualsevol petit detall.
 
 270
-00:11:12,620 --> 00:11:14,220
+00:11:14,390 --> 00:11:15,990
 I això ofega absolutament
 
 271
-00:11:14,220 --> 00:11:15,580
+00:11:15,990 --> 00:11:17,350
 qualsevol recerca ràpida
 
 272
-00:11:15,580 --> 00:11:16,260
+00:11:17,350 --> 00:11:18,030
 que vulguis fer.
 
 273
-00:11:16,800 --> 00:11:17,980
+00:11:18,570 --> 00:11:19,750
 A l'anàlisi de Kessler
 
 274
-00:11:17,980 --> 00:11:19,140
+00:11:19,750 --> 00:11:20,910
 s'esmenta l'exemple
 
 275
-00:11:19,140 --> 00:11:20,000
+00:11:20,910 --> 00:11:21,770
 del rebut de Libi.
 
 276
-00:11:20,260 --> 00:11:21,700
+00:11:22,030 --> 00:11:23,470
 Sí, la tortura de Libi.
 
 277
-00:11:21,920 --> 00:11:23,240
+00:11:23,690 --> 00:11:25,010
 Si una persona simplement
 
 278
-00:11:23,240 --> 00:11:24,220
+00:11:25,010 --> 00:11:25,990
 vol refrescar
 
 279
-00:11:24,220 --> 00:11:25,980
+00:11:25,990 --> 00:11:27,750
 què és l'impost de béns immobles
 
 280
-00:11:25,980 --> 00:11:27,300
+00:11:27,750 --> 00:11:29,070
 per un dubte ràpid,
 
 281
-00:11:28,060 --> 00:11:29,140
+00:11:29,830 --> 00:11:30,910
 ningú vol posar-se a llegir
 
 282
-00:11:29,140 --> 00:11:31,040
+00:11:30,910 --> 00:11:32,810
 un assaig de 500 paraules
 
 283
-00:11:31,040 --> 00:11:31,780
+00:11:32,810 --> 00:11:33,550
 sobre la història
 
 284
-00:11:31,780 --> 00:11:33,300
+00:11:33,550 --> 00:11:35,070
 de la banca municipal espanyola
 
 285
-00:11:33,300 --> 00:11:34,580
+00:11:35,070 --> 00:11:36,350
 i les reformes fiscals.
 
 286
-00:11:34,660 --> 00:11:35,440
+00:11:36,430 --> 00:11:37,210
 És que et fa mandra
 
 287
-00:11:35,440 --> 00:11:36,880
+00:11:37,210 --> 00:11:38,650
 fins i tot llegir la resposta.
 
 288
-00:11:37,080 --> 00:11:37,480
+00:11:38,850 --> 00:11:39,250
 Molta.
 
 289
-00:11:38,080 --> 00:11:39,280
+00:11:39,850 --> 00:11:41,050
 El desgast cognitiu
 
 290
-00:11:39,280 --> 00:11:40,600
+00:11:41,050 --> 00:11:42,370
 de buscar la resposta real
 
 291
-00:11:40,600 --> 00:11:42,320
+00:11:42,370 --> 00:11:44,090
 entre paràgrafos interminables
 
 292
-00:11:42,320 --> 00:11:42,940
+00:11:44,090 --> 00:11:44,710
 és enorme.
 
 293
-00:11:43,700 --> 00:11:44,560
+00:11:45,470 --> 00:11:46,330
 Llavors, la tàctica
 
 294
-00:11:44,560 --> 00:11:45,540
+00:11:46,330 --> 00:11:47,310
 que proposa la font
 
 295
-00:11:45,540 --> 00:11:47,460
+00:11:47,310 --> 00:11:49,230
 és atacar aquest comportament
 
 296
-00:11:47,460 --> 00:11:48,180
+00:11:49,230 --> 00:11:49,950
 per defecte
 
 297
-00:11:48,180 --> 00:11:49,640
+00:11:49,950 --> 00:11:51,410
 exigint brevetat numèrica
 
 298
-00:11:49,640 --> 00:11:50,480
+00:11:51,410 --> 00:11:52,250
 des del primer moment.
 
 299
-00:11:50,720 --> 00:11:52,440
+00:11:52,490 --> 00:11:54,210
 Vull dir, dir-li explícitament
 
 300
-00:11:52,440 --> 00:11:53,600
+00:11:54,210 --> 00:11:55,370
 vull un resum
 
 301
-00:11:53,600 --> 00:11:54,540
+00:11:55,370 --> 00:11:56,310
 de dues línies.
 
 302
-00:11:54,700 --> 00:11:55,460
+00:11:56,470 --> 00:11:57,230
 És l'única manera
 
 303
-00:11:55,460 --> 00:11:56,060
+00:11:57,230 --> 00:11:57,830
 de frenar-lo.
 
 304
-00:11:56,140 --> 00:11:56,820
+00:11:57,910 --> 00:11:58,590
 I un cop s'obté
 
 305
-00:11:56,820 --> 00:11:57,820
+00:11:58,590 --> 00:11:59,590
 la definició bàsica
 
 306
-00:11:57,820 --> 00:11:58,700
+00:11:59,590 --> 00:12:00,470
 de dues línies,
 
 307
-00:11:58,840 --> 00:11:59,620
+00:12:00,610 --> 00:12:01,390
 indicant, per exemple,
 
 308
-00:11:59,700 --> 00:12:00,500
+00:12:01,470 --> 00:12:02,270
 que Libi es basa
 
 309
-00:12:00,500 --> 00:12:01,560
+00:12:02,270 --> 00:12:03,330
 en el valor cadastral,
 
 310
-00:12:02,260 --> 00:12:03,220
+00:12:04,030 --> 00:12:04,990
 s'aplica el veritable
 
 311
-00:12:03,220 --> 00:12:04,400
+00:12:04,990 --> 00:12:06,170
 superpoder de l'eina,
 
 312
-00:12:04,980 --> 00:12:05,840
+00:12:06,750 --> 00:12:07,610
 que és fer un zoom
 
 313
-00:12:05,840 --> 00:12:06,760
+00:12:07,610 --> 00:12:08,530
 quirúrgic
 
 314
-00:12:06,760 --> 00:12:07,900
+00:12:08,530 --> 00:12:09,670
 només a la part
 
 315
-00:12:07,900 --> 00:12:09,020
+00:12:09,670 --> 00:12:10,790
 del valor cadastral,
 
 316
-00:12:09,300 --> 00:12:09,900
+00:12:11,070 --> 00:12:11,670
 si és que és això
 
 317
-00:12:09,900 --> 00:12:10,780
+00:12:11,670 --> 00:12:12,550
 el que t'interessava.
 
 318
-00:12:11,080 --> 00:12:12,340
+00:12:12,850 --> 00:12:14,110
 Clar, perquè retallar
 
 319
-00:12:12,340 --> 00:12:13,780
+00:12:14,110 --> 00:12:15,550
 una resposta gegant
 
 320
-00:12:13,780 --> 00:12:15,140
+00:12:15,550 --> 00:12:16,910
 i trobar-hi l'agulla
 
 321
-00:12:15,140 --> 00:12:15,880
+00:12:16,910 --> 00:12:17,650
 en un paller
 
 322
-00:12:15,880 --> 00:12:18,240
+00:12:17,650 --> 00:12:20,010
 és esgotador mentalment,
 
 323
-00:12:18,640 --> 00:12:19,360
+00:12:20,410 --> 00:12:21,130
 però expandir
 
 324
-00:12:19,360 --> 00:12:20,360
+00:12:21,130 --> 00:12:22,130
 una resposta breu
 
 325
-00:12:20,360 --> 00:12:21,040
+00:12:22,130 --> 00:12:22,810
 pas a pas
 
 326
-00:12:21,040 --> 00:12:22,900
+00:12:22,810 --> 00:12:24,670
 és hipereficient.
 
 327
-00:12:23,300 --> 00:12:23,580
+00:12:25,070 --> 00:12:25,350
 Llavors,
 
 328
-00:12:23,600 --> 00:12:25,380
+00:12:25,370 --> 00:12:27,150
 tot aquest disseny
 
 329
-00:12:25,380 --> 00:12:26,320
+00:12:27,150 --> 00:12:28,090
 enfocat a ser
 
 330
-00:12:26,320 --> 00:12:27,900
+00:12:28,090 --> 00:12:29,670
 extremadament servicial,
 
 331
-00:12:28,120 --> 00:12:29,820
+00:12:29,890 --> 00:12:31,590
 a donar-te molta informació
 
 332
-00:12:29,820 --> 00:12:30,840
+00:12:31,590 --> 00:12:32,610
 i agradar-te,
 
 333
-00:12:31,560 --> 00:12:32,580
+00:12:33,330 --> 00:12:34,350
 ens porta directament
 
 334
-00:12:32,580 --> 00:12:33,840
+00:12:34,350 --> 00:12:35,610
 al tercer gran problema
 
 335
-00:12:33,840 --> 00:12:35,380
+00:12:35,610 --> 00:12:37,150
 del qual parla l'anàlisi
 
 336
-00:12:35,380 --> 00:12:36,420
+00:12:37,150 --> 00:12:38,190
 i possiblement
 
 337
-00:12:36,420 --> 00:12:36,600
+00:12:38,190 --> 00:12:38,370
 el considero
 
 338
-00:12:37,160 --> 00:12:38,080
+00:12:38,930 --> 00:12:39,850
 el més perillós
 
 339
-00:12:38,080 --> 00:12:38,600
+00:12:39,850 --> 00:12:40,370
 en entorns professionals.
 
 340
-00:12:39,480 --> 00:12:40,140
+00:12:41,250 --> 00:12:41,910
 Sense dubte.
 
 341
-00:12:40,560 --> 00:12:41,560
+00:12:42,330 --> 00:12:43,330
 El document ho cataloga
 
 342
-00:12:41,560 --> 00:12:42,600
+00:12:43,330 --> 00:12:44,370
 com el viès de complacència.
 
 343
-00:12:43,620 --> 00:12:44,720
+00:12:45,390 --> 00:12:46,490
 El viès de complacència.
 
 344
-00:12:44,760 --> 00:12:44,880
+00:12:46,530 --> 00:12:46,650
 Sí.
 
 345
-00:12:45,460 --> 00:12:46,500
+00:12:47,230 --> 00:12:48,270
 La intel·ligència artificial
 
 346
-00:12:46,500 --> 00:12:47,360
+00:12:48,270 --> 00:12:49,130
 està programada
 
 347
-00:12:47,360 --> 00:12:48,040
+00:12:49,130 --> 00:12:49,810
 amb un desig
 
 348
-00:12:48,040 --> 00:12:49,460
+00:12:49,810 --> 00:12:51,230
 gairebé patològic,
 
 349
-00:12:49,560 --> 00:12:49,820
+00:12:51,330 --> 00:12:51,590
 de veró,
 
 350
-00:12:50,300 --> 00:12:51,700
+00:12:52,070 --> 00:12:53,470
 d'agradar a qui l'utilitza.
 
 351
-00:12:52,080 --> 00:12:52,900
+00:12:53,850 --> 00:12:54,670
 Per fer-es mentir
 
 352
-00:12:52,900 --> 00:12:53,580
+00:12:54,670 --> 00:12:55,350
 o validar-ho,
 
 353
-00:12:53,600 --> 00:12:54,620
+00:12:55,370 --> 00:12:56,390
 hi ha una idea nefasta
 
 354
-00:12:54,620 --> 00:12:56,220
+00:12:56,390 --> 00:12:57,990
 abans que portar-la contrària
 
 355
-00:12:56,220 --> 00:12:56,740
+00:12:57,990 --> 00:12:58,510
 a l'usuari
 
 356
-00:12:56,740 --> 00:12:57,600
+00:12:58,510 --> 00:12:59,370
 o admetre ignorància.
 
 357
-00:12:58,640 --> 00:13:00,060
+00:13:00,410 --> 00:13:01,830
 Aquesta afanya de complaure,
 
 358
-00:13:00,360 --> 00:13:00,880
+00:13:02,130 --> 00:13:02,650
 a més a més,
 
 359
-00:13:01,260 --> 00:13:02,280
+00:13:03,030 --> 00:13:04,050
 comença manifestant-se
 
 360
-00:13:02,280 --> 00:13:02,860
+00:13:04,050 --> 00:13:04,630
 d'una manera
 
 361
-00:13:02,860 --> 00:13:03,880
+00:13:04,630 --> 00:13:05,650
 molt subtil,
 
 362
-00:13:04,160 --> 00:13:04,880
+00:13:05,930 --> 00:13:06,650
 amb el que la font
 
 363
-00:13:04,880 --> 00:13:05,380
+00:13:06,650 --> 00:13:07,150
 anomena
 
 364
-00:13:05,380 --> 00:13:07,600
+00:13:07,150 --> 00:13:09,370
 el desalineament silenciós.
 
 365
-00:13:08,920 --> 00:13:09,520
+00:13:10,690 --> 00:13:11,290
 Silenciós,
 
 366
-00:13:09,660 --> 00:13:10,140
+00:13:11,430 --> 00:13:11,910
 però letal.
 
 367
-00:13:10,500 --> 00:13:11,260
+00:13:12,270 --> 00:13:13,030
 En llap de prova
 
 368
-00:13:11,260 --> 00:13:11,600
+00:13:13,030 --> 00:13:13,370
 on t'assaclaridores
 
 369
-00:13:12,360 --> 00:13:13,060
+00:13:14,130 --> 00:13:14,830
 per entendre
 
 370
-00:13:13,060 --> 00:13:14,640
+00:13:14,830 --> 00:13:16,410
 què es necessita exactament,
 
 371
-00:13:15,200 --> 00:13:16,260
+00:13:16,970 --> 00:13:18,030
 la màquina preferir
 
 372
-00:13:16,260 --> 00:13:17,380
+00:13:18,030 --> 00:13:19,150
 jugar-les a endevinalles
 
 373
-00:13:17,380 --> 00:13:18,560
+00:13:19,150 --> 00:13:20,330
 i assumir coses
 
 374
-00:13:18,560 --> 00:13:19,340
+00:13:20,330 --> 00:13:21,110
 pel seu compte
 
 375
-00:13:19,340 --> 00:13:20,980
+00:13:21,110 --> 00:13:22,750
 per donar-te la raó ràpid.
 
 376
-00:13:21,620 --> 00:13:22,460
+00:13:23,390 --> 00:13:24,230
 Sabeu molt clarament
 
 377
-00:13:22,460 --> 00:13:23,500
+00:13:24,230 --> 00:13:25,270
 l'exemple
 
 378
-00:13:23,500 --> 00:13:23,580
+00:13:25,270 --> 00:13:25,350
 de la màquina
 
 379
-00:13:23,600 --> 00:13:24,620
+00:13:25,370 --> 00:13:26,390
 de demanar una carta
 
 380
-00:13:24,620 --> 00:13:25,460
+00:13:26,390 --> 00:13:27,230
 per queixar-se
 
 381
-00:13:25,460 --> 00:13:26,680
+00:13:27,230 --> 00:13:28,450
 dels veïns sorrellosos.
 
 382
-00:13:26,980 --> 00:13:27,900
+00:13:28,750 --> 00:13:29,670
 Què fa el sistema aquí?
 
 383
-00:13:28,120 --> 00:13:28,320
+00:13:29,890 --> 00:13:30,090
 Doncs,
 
 384
-00:13:28,480 --> 00:13:29,700
+00:13:30,250 --> 00:13:31,470
 per voler ser el més eficaç
 
 385
-00:13:29,700 --> 00:13:30,900
+00:13:31,470 --> 00:13:32,670
 i resolutiu possible,
 
 386
-00:13:31,640 --> 00:13:32,780
+00:13:33,410 --> 00:13:34,550
 redacta immediatament
 
 387
-00:13:32,780 --> 00:13:33,820
+00:13:34,550 --> 00:13:35,590
 un document legal
 
 388
-00:13:33,820 --> 00:13:34,700
+00:13:35,590 --> 00:13:36,470
 duríssim,
 
 389
-00:13:35,220 --> 00:13:35,560
+00:13:36,990 --> 00:13:37,330
 fred,
 
 390
-00:13:35,820 --> 00:13:36,620
+00:13:37,590 --> 00:13:38,390
 implacable,
 
 391
-00:13:36,840 --> 00:13:37,480
+00:13:38,610 --> 00:13:39,250
 parlant sobre
 
 392
-00:13:37,480 --> 00:13:38,900
+00:13:39,250 --> 00:13:40,670
 contaminació acústica
 
 393
-00:13:38,900 --> 00:13:39,940
+00:13:40,670 --> 00:13:41,710
 i dirigit
 
 394
-00:13:39,940 --> 00:13:40,660
+00:13:41,710 --> 00:13:42,430
 a l'administrador
 
 395
-00:13:40,660 --> 00:13:41,320
+00:13:42,430 --> 00:13:43,090
 de finques.
 
 396
-00:13:41,720 --> 00:13:43,080
+00:13:43,490 --> 00:13:44,850
 Escalant el conflicte
 
 397
-00:13:43,080 --> 00:13:44,260
+00:13:44,850 --> 00:13:46,030
 al màxim nivell
 
 398
-00:13:44,260 --> 00:13:45,400
+00:13:46,030 --> 00:13:47,170
 en 0,1 segons.
 
 399
-00:13:45,740 --> 00:13:46,300
+00:13:47,510 --> 00:13:48,070
 Exacte.
 
 400
-00:13:46,980 --> 00:13:47,420
+00:13:48,750 --> 00:13:49,190
 I potser
 
 401
-00:13:47,420 --> 00:13:48,060
+00:13:49,190 --> 00:13:49,830
 l'única cosa
 
 402
-00:13:48,060 --> 00:13:48,940
+00:13:49,830 --> 00:13:50,710
 que feia falta
 
 403
-00:13:48,940 --> 00:13:49,800
+00:13:50,710 --> 00:13:51,570
 o que volia
 
 404
-00:13:49,800 --> 00:13:50,580
+00:13:51,570 --> 00:13:52,350
 aquella persona
 
 405
-00:13:50,580 --> 00:13:51,900
+00:13:52,350 --> 00:13:53,670
 era un esborrany
 
 406
-00:13:51,900 --> 00:13:52,600
+00:13:53,670 --> 00:13:54,370
 d'una nota cordial
 
 407
-00:13:52,600 --> 00:13:53,500
+00:13:54,370 --> 00:13:55,270
 gairebé
 
 408
-00:13:53,500 --> 00:13:54,440
+00:13:55,270 --> 00:13:56,210
 simpàtica
 
 409
-00:13:54,440 --> 00:13:55,340
+00:13:56,210 --> 00:13:57,110
 per passar
 
 410
-00:13:55,340 --> 00:13:55,800
+00:13:57,110 --> 00:13:57,570
 per sota
 
 411
-00:13:55,800 --> 00:13:56,380
+00:13:57,570 --> 00:13:58,150
 de la porta
 
 412
-00:13:56,380 --> 00:13:56,880
+00:13:58,150 --> 00:13:58,650
 del veí
 
 413
-00:13:56,880 --> 00:13:57,640
+00:13:58,650 --> 00:13:59,410
 i suggerir-li
 
 414
-00:13:57,640 --> 00:13:58,160
+00:13:59,410 --> 00:13:59,930
 si us plau
 
 415
-00:13:58,160 --> 00:13:58,980
+00:13:59,930 --> 00:14:00,750
 que baixi el volum
 
 416
-00:13:58,980 --> 00:13:59,720
+00:14:00,750 --> 00:14:01,490
 de la televisió
 
 417
-00:13:59,720 --> 00:14:00,200
+00:14:01,490 --> 00:14:01,970
 a la nit.
 
 418
-00:14:00,440 --> 00:14:00,620
+00:14:02,210 --> 00:14:02,390
 Clar.
 
 419
-00:14:01,200 --> 00:14:02,060
+00:14:02,970 --> 00:14:03,830
 Aquesta assumpció
 
 420
-00:14:02,060 --> 00:14:02,780
+00:14:03,830 --> 00:14:04,550
 silenciosa
 
 421
-00:14:02,780 --> 00:14:03,840
+00:14:04,550 --> 00:14:05,610
 també arruïna
 
 422
-00:14:03,840 --> 00:14:05,400
+00:14:05,610 --> 00:14:07,170
 per complet processos creatius.
 
 423
-00:14:05,940 --> 00:14:06,920
+00:14:07,710 --> 00:14:08,690
 El cas de les vacances
 
 424
-00:14:06,920 --> 00:14:07,760
+00:14:08,690 --> 00:14:09,530
 de Setmana Santa,
 
 425
-00:14:08,020 --> 00:14:09,060
+00:14:09,790 --> 00:14:10,830
 que s'esmenta a la guia,
 
 426
-00:14:09,360 --> 00:14:09,980
+00:14:11,130 --> 00:14:11,750
 és molt comú
 
 427
-00:14:09,980 --> 00:14:10,900
+00:14:11,750 --> 00:14:12,670
 i segur que li ha passat
 
 428
-00:14:10,900 --> 00:14:11,180
+00:14:12,670 --> 00:14:12,950
 a qui,
 
 429
-00:14:11,280 --> 00:14:11,780
+00:14:13,050 --> 00:14:13,550
 escolti.
 
 430
-00:14:12,360 --> 00:14:12,660
+00:14:14,130 --> 00:14:14,430
 Sí,
 
 431
-00:14:12,800 --> 00:14:13,540
+00:14:14,570 --> 00:14:15,310
 demanar on anar
 
 432
-00:14:13,540 --> 00:14:14,140
+00:14:15,310 --> 00:14:15,910
 de vacances.
 
 433
-00:14:14,500 --> 00:14:14,940
+00:14:16,270 --> 00:14:16,710
 Exacte.
 
 434
-00:14:15,340 --> 00:14:16,360
+00:14:17,110 --> 00:14:18,130
 En demanar inspiració
 
 435
-00:14:16,360 --> 00:14:17,400
+00:14:18,130 --> 00:14:19,170
 per anar uns dies fora,
 
 436
-00:14:17,820 --> 00:14:18,720
+00:14:19,590 --> 00:14:20,490
 la màquina gairebé
 
 437
-00:14:18,720 --> 00:14:19,480
+00:14:20,490 --> 00:14:21,250
 mai no et pregunta
 
 438
-00:14:19,480 --> 00:14:20,420
+00:14:21,250 --> 00:14:22,190
 quina mena de viatge
 
 439
-00:14:20,420 --> 00:14:21,000
+00:14:22,190 --> 00:14:22,770
 et ve de gust,
 
 440
-00:14:21,300 --> 00:14:22,120
+00:14:23,070 --> 00:14:23,890
 si vols relax
 
 441
-00:14:22,120 --> 00:14:22,800
+00:14:23,890 --> 00:14:24,570
 o ciutat.
 
 442
-00:14:23,300 --> 00:14:24,080
+00:14:25,070 --> 00:14:25,850
 Directament es cub
 
 443
-00:14:24,080 --> 00:14:24,740
+00:14:25,850 --> 00:14:26,510
 un itinerari
 
 444
-00:14:24,740 --> 00:14:25,860
+00:14:26,510 --> 00:14:27,630
 tancat de set dies,
 
 445
-00:14:26,080 --> 00:14:26,640
+00:14:27,850 --> 00:14:28,410
 minut a minut,
 
 446
-00:14:27,080 --> 00:14:28,300
+00:14:28,850 --> 00:14:30,070
 ple de visites culturals
 
 447
-00:14:28,300 --> 00:14:29,540
+00:14:30,070 --> 00:14:31,310
 des de les vuit del matí.
 
 448
-00:14:29,560 --> 00:14:31,100
+00:14:31,330 --> 00:14:32,870
 Un viatge esgotador
 
 449
-00:14:31,100 --> 00:14:31,940
+00:14:32,870 --> 00:14:33,710
 vagis on vagis.
 
 450
-00:14:31,960 --> 00:14:32,560
+00:14:33,730 --> 00:14:34,330
 O pot ser,
 
 451
-00:14:32,900 --> 00:14:34,080
+00:14:34,670 --> 00:14:35,850
 l'usuari només es trobava
 
 452
-00:14:34,080 --> 00:14:35,200
+00:14:35,850 --> 00:14:36,970
 en la fase embrionària
 
 453
-00:14:35,200 --> 00:14:35,780
+00:14:36,970 --> 00:14:37,550
 de decidir
 
 454
-00:14:35,780 --> 00:14:36,440
+00:14:37,550 --> 00:14:38,210
 si preferia anar
 
 455
-00:14:36,440 --> 00:14:36,920
+00:14:38,210 --> 00:14:38,690
 a la platja
 
 456
-00:14:36,920 --> 00:14:37,580
+00:14:38,690 --> 00:14:39,350
 o a la muntanya.
 
 457
-00:14:38,180 --> 00:14:39,020
+00:14:39,950 --> 00:14:40,790
 S'ha saltat etapes
 
 458
-00:14:39,020 --> 00:14:39,680
+00:14:40,790 --> 00:14:41,450
 fonamentals
 
 459
-00:14:39,680 --> 00:14:40,420
+00:14:41,450 --> 00:14:42,190
 del pensament humà
 
 460
-00:14:40,420 --> 00:14:41,560
+00:14:42,190 --> 00:14:43,330
 per arribar ràpidament
 
 461
-00:14:41,560 --> 00:14:42,620
+00:14:43,330 --> 00:14:44,390
 a una solució tancada
 
 462
-00:14:42,620 --> 00:14:43,460
+00:14:44,390 --> 00:14:45,230
 i donar-te un regal
 
 463
-00:14:43,460 --> 00:14:44,140
+00:14:45,230 --> 00:14:45,910
 embolicat.
 
 464
-00:14:44,680 --> 00:14:46,200
+00:14:46,450 --> 00:14:47,970
 Però on aquest viatge
 
 465
-00:14:46,200 --> 00:14:47,160
+00:14:47,970 --> 00:14:48,930
 de complessència
 
 466
-00:14:47,160 --> 00:14:48,760
+00:14:48,930 --> 00:14:50,530
 es torna veritablement
 
 467
-00:14:48,760 --> 00:14:49,280
+00:14:50,530 --> 00:14:51,050
 tòxic,
 
 468
-00:14:49,480 --> 00:14:49,840
+00:14:51,250 --> 00:14:51,610
 crec jo,
 
 469
-00:14:50,360 --> 00:14:51,300
+00:14:52,130 --> 00:14:53,070
 és quan s'utilitza
 
 470
-00:14:51,300 --> 00:14:52,340
+00:14:53,070 --> 00:14:54,110
 l'eina per validar
 
 471
-00:14:52,340 --> 00:14:53,020
+00:14:54,110 --> 00:14:54,790
 estratègies
 
 472
-00:14:53,020 --> 00:14:54,260
+00:14:54,790 --> 00:14:56,030
 o textos nostres.
 
 473
-00:14:54,700 --> 00:14:55,660
+00:14:56,470 --> 00:14:57,430
 Uf, sí,
 
 474
-00:14:56,140 --> 00:14:57,060
+00:14:57,910 --> 00:14:58,830
 el mode pilota
 
 475
-00:14:57,060 --> 00:14:57,720
+00:14:58,830 --> 00:14:59,490
 que li dic jo.
 
 476
-00:14:58,080 --> 00:14:58,600
+00:14:59,850 --> 00:15:00,370
 Tal qual.
 
 477
-00:14:59,220 --> 00:15:00,440
+00:15:00,990 --> 00:15:02,210
 Si se li proporciona
 
 478
-00:15:00,440 --> 00:15:00,920
+00:15:02,210 --> 00:15:02,690
 un text
 
 479
-00:15:00,920 --> 00:15:01,660
+00:15:02,690 --> 00:15:03,430
 o un pla
 
 480
-00:15:01,660 --> 00:15:02,400
+00:15:03,430 --> 00:15:04,170
 que està ple
 
 481
-00:15:02,400 --> 00:15:03,800
+00:15:04,170 --> 00:15:05,570
 d'errors clamorosos,
 
 482
-00:15:04,240 --> 00:15:04,740
+00:15:06,010 --> 00:15:06,510
 la màquina,
 
 483
-00:15:04,880 --> 00:15:05,400
+00:15:06,650 --> 00:15:07,170
 per defecte,
 
 484
-00:15:05,440 --> 00:15:06,060
+00:15:07,210 --> 00:15:07,830
 l'aplaudirà.
 
 485
-00:15:06,580 --> 00:15:07,580
+00:15:08,350 --> 00:15:09,350
 L'exemple de la queixa
 
 486
-00:15:07,580 --> 00:15:08,320
+00:15:09,350 --> 00:15:10,090
 a la companyia
 
 487
-00:15:08,320 --> 00:15:09,440
+00:15:10,090 --> 00:15:11,210
 de telecomunicacions
 
 488
-00:15:09,440 --> 00:15:10,480
+00:15:11,210 --> 00:15:12,250
 posa els pèls
 
 489
-00:15:10,480 --> 00:15:11,120
+00:15:12,250 --> 00:15:12,890
 de punta.
 
 490
-00:15:11,420 --> 00:15:11,840
+00:15:13,190 --> 00:15:13,610
 Què passa
 
 491
-00:15:11,840 --> 00:15:12,660
+00:15:13,610 --> 00:15:14,430
 amb aquest exemple?
 
 492
-00:15:13,280 --> 00:15:14,500
+00:15:15,050 --> 00:15:16,270
 Imaginem que redactem
 
 493
-00:15:14,500 --> 00:15:15,360
+00:15:16,270 --> 00:15:17,130
 una reclamació
 
 494
-00:15:15,360 --> 00:15:16,080
+00:15:17,130 --> 00:15:17,850
 on diem
 
 495
-00:15:16,080 --> 00:15:17,280
+00:15:17,850 --> 00:15:19,050
 que fa tres mesos
 
 496
-00:15:17,280 --> 00:15:18,140
+00:15:19,050 --> 00:15:19,910
 que no hi ha servei
 
 497
-00:15:18,140 --> 00:15:19,080
+00:15:19,910 --> 00:15:20,850
 d'internet a casa.
 
 498
-00:15:19,580 --> 00:15:19,860
+00:15:21,350 --> 00:15:21,630
 De port?
 
 499
-00:15:20,360 --> 00:15:21,120
+00:15:22,130 --> 00:15:22,890
 Però dues línies
 
 500
-00:15:21,300 --> 00:15:22,000
+00:15:23,070 --> 00:15:23,770
 més avall.
 
 501
-00:15:22,140 --> 00:15:22,620
+00:15:23,910 --> 00:15:24,390
 Per error,
 
 502
-00:15:23,100 --> 00:15:24,280
+00:15:24,870 --> 00:15:26,050
 escrivim que la primera
 
 503
-00:15:24,280 --> 00:15:25,040
+00:15:26,050 --> 00:15:26,810
 varià va ser
 
 504
-00:15:25,040 --> 00:15:25,980
+00:15:26,810 --> 00:15:27,750
 fa sis setmanes.
 
 505
-00:15:26,480 --> 00:15:27,500
+00:15:28,250 --> 00:15:29,270
 Un error matemàtic
 
 506
-00:15:27,500 --> 00:15:28,680
+00:15:29,270 --> 00:15:30,450
 bàsic de dates.
 
 507
-00:15:29,040 --> 00:15:29,240
+00:15:30,810 --> 00:15:31,010
 Sí,
 
 508
-00:15:29,680 --> 00:15:30,900
+00:15:31,450 --> 00:15:32,670
 una contradicció temporal
 
 509
-00:15:30,900 --> 00:15:31,640
+00:15:32,670 --> 00:15:33,410
 claríssima.
 
 510
-00:15:31,880 --> 00:15:32,280
+00:15:33,650 --> 00:15:34,050
 I a més,
 
 511
-00:15:32,420 --> 00:15:32,980
+00:15:34,190 --> 00:15:34,750
 per posar-li
 
 512
-00:15:32,980 --> 00:15:33,820
+00:15:34,750 --> 00:15:35,590
 més dramatisme,
 
 513
-00:15:34,220 --> 00:15:35,140
+00:15:35,990 --> 00:15:36,910
 hi afegim amenàcies
 
 514
-00:15:35,140 --> 00:15:35,900
+00:15:36,910 --> 00:15:37,670
 de demandes
 
 515
-00:15:35,900 --> 00:15:36,940
+00:15:37,670 --> 00:15:38,710
 al Tribunal Suprem
 
 516
-00:15:36,940 --> 00:15:37,800
+00:15:38,710 --> 00:15:39,570
 per una factura
 
 517
-00:15:37,800 --> 00:15:38,520
+00:15:39,570 --> 00:15:40,290
 de 20 euros.
 
 518
-00:15:38,960 --> 00:15:40,460
+00:15:40,730 --> 00:15:42,230
 Una bestiesa jurídica.
 
 519
-00:15:40,700 --> 00:15:41,020
+00:15:42,470 --> 00:15:42,790
 Sí,
 
 520
-00:15:41,320 --> 00:15:42,060
+00:15:43,090 --> 00:15:43,830
 no té cap mena
 
 521
-00:15:42,060 --> 00:15:42,940
+00:15:43,830 --> 00:15:44,710
 de sentit legal.
 
 522
-00:15:43,240 --> 00:15:44,080
+00:15:45,010 --> 00:15:45,850
 Doncs, per defecte,
 
 523
-00:15:44,120 --> 00:15:45,240
+00:15:45,890 --> 00:15:47,010
 la màquina et respondrà
 
 524
-00:15:45,240 --> 00:15:46,540
+00:15:47,010 --> 00:15:48,310
 que el text és fantàstic,
 
 525
-00:15:46,880 --> 00:15:47,620
+00:15:48,650 --> 00:15:49,390
 ben argumentat
 
 526
-00:15:47,620 --> 00:15:48,460
+00:15:49,390 --> 00:15:50,230
 i que defensarà
 
 527
-00:15:48,460 --> 00:15:49,000
+00:15:50,230 --> 00:15:50,770
 els teus drets
 
 528
-00:15:49,000 --> 00:15:49,760
+00:15:50,770 --> 00:15:51,530
 com a consumidor
 
 529
-00:15:49,760 --> 00:15:50,500
+00:15:51,530 --> 00:15:52,270
 perfectament.
 
 530
-00:15:50,880 --> 00:15:51,280
+00:15:52,650 --> 00:15:53,050
 Et donarà
 
 531
-00:15:51,280 --> 00:15:52,140
+00:15:53,050 --> 00:15:53,910
 cops a l'esquena.
 
 532
-00:15:52,300 --> 00:15:52,880
+00:15:54,070 --> 00:15:54,650
 I això passa
 
 533
-00:15:52,880 --> 00:15:53,840
+00:15:54,650 --> 00:15:55,610
 perquè el sistema
 
 534
-00:15:53,840 --> 00:15:55,760
+00:15:55,610 --> 00:15:57,530
 no vol ofendre l'usmari
 
 535
-00:15:55,760 --> 00:15:56,420
+00:15:57,530 --> 00:15:58,190
 qüestionant
 
 536
-00:15:56,420 --> 00:15:57,560
+00:15:58,190 --> 00:15:59,330
 la seva intel·ligència.
 
 537
-00:15:58,040 --> 00:15:58,680
+00:15:59,810 --> 00:16:00,450
 L'única manera
 
 538
-00:15:58,680 --> 00:15:59,220
+00:16:00,450 --> 00:16:00,990
 de trencar
 
 539
-00:15:59,220 --> 00:15:59,900
+00:16:00,990 --> 00:16:01,670
 aquesta barrera
 
 540
-00:15:59,900 --> 00:16:01,080
+00:16:01,670 --> 00:16:02,850
 de validació tòxica
 
 541
-00:16:01,080 --> 00:16:02,020
+00:16:02,850 --> 00:16:03,790
 és donar-li
 
 542
-00:16:02,020 --> 00:16:03,060
+00:16:03,790 --> 00:16:04,830
 permís explícit
 
 543
-00:16:03,060 --> 00:16:03,880
+00:16:04,830 --> 00:16:05,650
 per ser crític
 
 544
-00:16:03,880 --> 00:16:04,240
+00:16:05,650 --> 00:16:06,010
 amb tu.
 
 545
-00:16:04,480 --> 00:16:04,760
+00:16:06,250 --> 00:16:06,530
 Clar,
 
 546
-00:16:05,060 --> 00:16:05,520
+00:16:06,830 --> 00:16:07,290
 s'ha de posar
 
 547
-00:16:05,520 --> 00:16:06,060
+00:16:07,290 --> 00:16:07,830
 per escrit.
 
 548
-00:16:06,380 --> 00:16:06,840
+00:16:08,150 --> 00:16:08,610
 S'ha de fer.
 
 549
-00:16:07,480 --> 00:16:08,180
+00:16:09,250 --> 00:16:09,950
 Cal introduir
 
 550
-00:16:08,180 --> 00:16:09,440
+00:16:09,950 --> 00:16:11,210
 instruccions directives
 
 551
-00:16:09,440 --> 00:16:10,120
+00:16:11,210 --> 00:16:11,890
 molt clares
 
 552
-00:16:10,120 --> 00:16:10,920
+00:16:11,890 --> 00:16:12,690
 com, per exemple,
 
 553
-00:16:11,420 --> 00:16:12,720
+00:16:13,190 --> 00:16:14,490
 no vull que siguis amable,
 
 554
-00:16:13,100 --> 00:16:13,720
+00:16:14,870 --> 00:16:15,490
 vull que busquis
 
 555
-00:16:13,720 --> 00:16:14,500
+00:16:15,490 --> 00:16:16,270
 els punts febles
 
 556
-00:16:14,500 --> 00:16:15,200
+00:16:16,270 --> 00:16:16,970
 del meu argument
 
 557
-00:16:15,200 --> 00:16:15,920
+00:16:16,970 --> 00:16:17,690
 i m'assenyalis
 
 558
-00:16:15,920 --> 00:16:16,660
+00:16:17,690 --> 00:16:18,430
 sense pietat
 
 559
-00:16:16,660 --> 00:16:18,160
+00:16:18,430 --> 00:16:19,930
 qualsevol contradicció.
 
 560
-00:16:18,460 --> 00:16:19,060
+00:16:20,230 --> 00:16:20,830
 Autoritzar-lo
 
 561
-00:16:19,060 --> 00:16:20,320
+00:16:20,830 --> 00:16:22,090
 a portar-la contrària.
 
 562
-00:16:20,460 --> 00:16:20,640
+00:16:22,230 --> 00:16:22,410
 Sí.
 
 563
-00:16:21,280 --> 00:16:22,000
+00:16:23,050 --> 00:16:23,770
 Només llavors,
 
 564
-00:16:22,260 --> 00:16:23,660
+00:16:24,030 --> 00:16:25,430
 alliberada d'aquesta necessitat
 
 565
-00:16:23,660 --> 00:16:24,480
+00:16:25,430 --> 00:16:26,250
 de comploure't
 
 566
-00:16:24,480 --> 00:16:25,440
+00:16:26,250 --> 00:16:27,210
 i de caure't bé,
 
 567
-00:16:25,820 --> 00:16:26,960
+00:16:27,590 --> 00:16:28,730
 la màquina farà aflorar
 
 568
-00:16:26,960 --> 00:16:28,080
+00:16:28,730 --> 00:16:29,850
 les esquerdes lògiques
 
 569
-00:16:28,080 --> 00:16:28,560
+00:16:29,850 --> 00:16:30,330
 del text.
 
 570
-00:16:28,800 --> 00:16:29,760
+00:16:30,570 --> 00:16:31,530
 I és superútil
 
 571
-00:16:29,760 --> 00:16:30,220
+00:16:31,530 --> 00:16:31,990
 quan ho fa.
 
 572
-00:16:30,420 --> 00:16:31,140
+00:16:32,190 --> 00:16:32,910
 I aquí rau
 
 573
-00:16:31,140 --> 00:16:32,660
+00:16:32,910 --> 00:16:34,430
 el nucli de tot el perill.
 
 574
-00:16:33,040 --> 00:16:33,820
+00:16:34,810 --> 00:16:35,590
 Atenció a això.
 
 575
-00:16:34,380 --> 00:16:35,300
+00:16:36,150 --> 00:16:37,070
 El to de la IA
 
 576
-00:16:35,300 --> 00:16:36,400
+00:16:37,070 --> 00:16:38,170
 quan té raó
 
 577
-00:16:36,400 --> 00:16:37,200
+00:16:38,170 --> 00:16:38,970
 i el to
 
 578
-00:16:37,200 --> 00:16:38,280
+00:16:38,970 --> 00:16:40,050
 quan s'ho està inventant
 
 579
-00:16:38,280 --> 00:16:39,320
+00:16:40,050 --> 00:16:41,090
 absolutament tot
 
 580
-00:16:39,320 --> 00:16:40,680
+00:16:41,090 --> 00:16:42,450
 és exactament
 
 581
-00:16:40,680 --> 00:16:41,420
+00:16:42,450 --> 00:16:43,190
 el mateix to
 
 582
-00:16:41,420 --> 00:16:42,040
+00:16:43,190 --> 00:16:43,810
 d'autoritat.
 
 583
-00:16:42,280 --> 00:16:42,720
+00:16:44,050 --> 00:16:44,490
 Sí, sí.
 
 584
-00:16:43,300 --> 00:16:44,080
+00:16:45,070 --> 00:16:45,850
 És un psicòpet
 
 585
-00:16:44,080 --> 00:16:45,320
+00:16:45,850 --> 00:16:47,090
 educat en aquest sentit.
 
 586
-00:16:45,640 --> 00:16:46,240
+00:16:47,410 --> 00:16:48,010
 L'autoritat
 
 587
-00:16:46,240 --> 00:16:47,120
+00:16:48,010 --> 00:16:48,890
 de la veu escrita
 
 588
-00:16:47,120 --> 00:16:47,820
+00:16:48,890 --> 00:16:49,590
 no canvia mai.
 
 589
-00:16:48,080 --> 00:16:48,460
+00:16:49,850 --> 00:16:50,230
 Mai.
 
 590
-00:16:49,580 --> 00:16:50,680
+00:16:51,350 --> 00:16:52,450
 El document alerta
 
 591
-00:16:50,680 --> 00:16:51,260
+00:16:52,450 --> 00:16:53,030
 sobre la compu
 
 592
-00:16:51,260 --> 00:16:51,920
+00:16:53,030 --> 00:16:53,690
 pot arribar
 
 593
-00:16:51,920 --> 00:16:52,840
+00:16:53,690 --> 00:16:54,610
 a generar articles
 
 594
-00:16:52,840 --> 00:16:53,980
+00:16:54,610 --> 00:16:55,750
 molt detallats
 
 595
-00:16:53,980 --> 00:16:55,640
+00:16:55,750 --> 00:16:57,410
 d'una llei de transparència
 
 596
-00:16:55,640 --> 00:16:57,020
+00:16:57,410 --> 00:16:58,790
 que és inexistent.
 
 597
-00:16:57,540 --> 00:16:58,320
+00:16:59,310 --> 00:17:00,090
 O bé assegurar
 
 598
-00:16:58,320 --> 00:17:00,140
+00:17:00,090 --> 00:17:01,910
 amb una calma sepulcral
 
 599
-00:17:00,140 --> 00:17:01,060
+00:17:01,910 --> 00:17:02,830
 que el termini
 
 600
-00:17:01,060 --> 00:17:01,880
+00:17:02,830 --> 00:17:03,650
 per presentar
 
 601
-00:17:01,880 --> 00:17:03,340
+00:17:03,650 --> 00:17:05,110
 al·legacions urbanístiques
 
 602
-00:17:03,340 --> 00:17:03,980
+00:17:05,110 --> 00:17:05,750
 a Catalunya
 
 603
-00:17:03,980 --> 00:17:04,920
+00:17:05,750 --> 00:17:06,690
 és sempre
 
 604
-00:17:04,920 --> 00:17:06,020
+00:17:06,690 --> 00:17:07,790
 de 20 dies hàbils
 
 605
-00:17:06,020 --> 00:17:07,680
+00:17:07,790 --> 00:17:09,450
 quan la realitat jurídica
 
 606
-00:17:07,680 --> 00:17:08,260
+00:17:09,450 --> 00:17:10,030
 podria ser
 
 607
-00:17:08,260 --> 00:17:09,480
+00:17:10,030 --> 00:17:11,250
 totalment diferent
 
 608
-00:17:09,480 --> 00:17:10,760
+00:17:11,250 --> 00:17:12,530
 depenent del tipus
 
 609
-00:17:10,760 --> 00:17:11,960
+00:17:12,530 --> 00:17:13,730
 d'expedient concret.
 
 610
-00:17:12,360 --> 00:17:13,360
+00:17:14,130 --> 00:17:15,130
 Es mostra segura
 
 611
-00:17:13,360 --> 00:17:13,940
+00:17:15,130 --> 00:17:15,710
 d'ella mateixa
 
 612
-00:17:13,940 --> 00:17:14,700
+00:17:15,710 --> 00:17:16,470
 fins a l'infinit.
 
 613
-00:17:15,080 --> 00:17:16,120
+00:17:16,850 --> 00:17:17,890
 La invenció cegada
 
 614
-00:17:16,120 --> 00:17:16,720
+00:17:17,890 --> 00:17:18,490
 és una constant.
 
 615
-00:17:17,380 --> 00:17:18,400
+00:17:19,150 --> 00:17:20,170
 I com ens defensem
 
 616
-00:17:18,400 --> 00:17:19,120
+00:17:20,170 --> 00:17:20,890
 d'això, doncs?
 
 617
-00:17:19,460 --> 00:17:20,040
+00:17:21,230 --> 00:17:21,810
 Per mitigar
 
 618
-00:17:20,040 --> 00:17:21,100
+00:17:21,810 --> 00:17:22,870
 tot aquest desalineament
 
 619
-00:17:21,100 --> 00:17:21,240
+00:17:22,870 --> 00:17:23,010
 i la desalineació
 
 620
-00:17:21,240 --> 00:17:22,080
+00:17:23,010 --> 00:17:23,850
 i el risc bestial
 
 621
-00:17:22,080 --> 00:17:23,080
+00:17:23,850 --> 00:17:24,850
 de les al·lucinacions,
 
 622
-00:17:23,520 --> 00:17:24,580
+00:17:25,290 --> 00:17:26,350
 els patrons de Kessler
 
 623
-00:17:24,580 --> 00:17:26,240
+00:17:26,350 --> 00:17:28,010
 proposen una tècnica preventiva
 
 624
-00:17:26,240 --> 00:17:27,080
+00:17:28,010 --> 00:17:28,850
 que, de veritat,
 
 625
-00:17:27,460 --> 00:17:28,420
+00:17:29,230 --> 00:17:30,190
 hauria de ser obligatòria
 
 626
-00:17:28,420 --> 00:17:29,220
+00:17:30,190 --> 00:17:30,990
 per a tothom.
 
 627
-00:17:29,260 --> 00:17:29,520
+00:17:31,030 --> 00:17:31,290
 A veure.
 
 628
-00:17:30,160 --> 00:17:31,160
+00:17:31,930 --> 00:17:32,930
 Abans de permetre
 
 629
-00:17:31,160 --> 00:17:31,660
+00:17:32,930 --> 00:17:33,430
 que la màquina
 
 630
-00:17:31,660 --> 00:17:33,060
+00:17:33,430 --> 00:17:34,830
 executi la tasca principal,
 
 631
-00:17:33,500 --> 00:17:34,120
+00:17:35,270 --> 00:17:35,890
 s'hi ha d'ordenar
 
 632
-00:17:34,120 --> 00:17:35,240
+00:17:35,890 --> 00:17:37,010
 explícitament el següent
 
 633
-00:17:35,240 --> 00:17:38,040
+00:17:37,010 --> 00:17:39,810
 Explica'm amb les teves paraules
 
 634
-00:17:38,040 --> 00:17:38,760
+00:17:39,810 --> 00:17:40,530
 què has entès
 
 635
-00:17:38,760 --> 00:17:39,260
+00:17:40,530 --> 00:17:41,030
 que vull fer.
 
 636
-00:17:39,620 --> 00:17:41,360
+00:17:41,390 --> 00:17:43,130
 Explica'm amb les teves paraules
 
 637
-00:17:41,360 --> 00:17:42,180
+00:17:43,130 --> 00:17:43,950
 què has entès.
 
 638
-00:17:42,660 --> 00:17:43,100
+00:17:44,430 --> 00:17:44,870
 M'encanta.
 
 639
-00:17:43,460 --> 00:17:44,900
+00:17:45,230 --> 00:17:46,670
 És com activar un mirall
 
 640
-00:17:44,900 --> 00:17:46,620
+00:17:46,670 --> 00:17:48,390
 abans de premer l'accelerador.
 
 641
-00:17:46,940 --> 00:17:48,320
+00:17:48,710 --> 00:17:50,090
 Una salvaguarda perfecta
 
 642
-00:17:48,320 --> 00:17:49,180
+00:17:50,090 --> 00:17:50,950
 per veure si estem
 
 643
-00:17:49,180 --> 00:17:50,260
+00:17:50,950 --> 00:17:52,030
 en la mateixa sintonia.
 
 644
-00:17:50,260 --> 00:17:51,260
+00:17:52,030 --> 00:17:53,030
 Exacte.
 
 645
-00:17:51,940 --> 00:17:53,280
+00:17:53,710 --> 00:17:55,050
 T'evita tants disgustos.
 
 646
-00:17:53,540 --> 00:17:53,880
+00:17:55,310 --> 00:17:55,650
 Ara bé,
 
 647
-00:17:54,140 --> 00:17:55,860
+00:17:55,910 --> 00:17:57,630
 si fem un petit balanç
 
 648
-00:17:55,860 --> 00:17:57,160
+00:17:57,630 --> 00:17:58,930
 del que hem vist fins aquí
 
 649
-00:17:57,160 --> 00:17:57,760
+00:17:58,930 --> 00:17:59,530
 de la guia,
 
 650
-00:17:58,460 --> 00:17:59,400
+00:18:00,230 --> 00:18:01,170
 tenim una eina
 
 651
-00:17:59,400 --> 00:18:00,520
+00:18:01,170 --> 00:18:02,290
 que pateix amnèsia,
 
 652
-00:18:01,040 --> 00:18:02,560
+00:18:02,810 --> 00:18:04,330
 que s'atabala molt fàcilment
 
 653
-00:18:02,560 --> 00:18:03,760
+00:18:04,330 --> 00:18:05,530
 si fa dues coses alhora,
 
 654
-00:18:04,200 --> 00:18:05,680
+00:18:05,970 --> 00:18:07,450
 que prefereix donar-nos la raó
 
 655
-00:18:05,680 --> 00:18:06,860
+00:18:07,450 --> 00:18:08,630
 abans de dir-nos la veritat
 
 656
-00:18:06,860 --> 00:18:08,140
+00:18:08,630 --> 00:18:09,910
 i que té el mateix to
 
 657
-00:18:08,140 --> 00:18:08,920
+00:18:09,910 --> 00:18:10,690
 de veu repellent
 
 658
-00:18:08,920 --> 00:18:09,600
+00:18:10,690 --> 00:18:11,370
 quan encerta
 
 659
-00:18:09,600 --> 00:18:10,460
+00:18:11,370 --> 00:18:12,230
 que quan al·lucina
 
 660
-00:18:10,460 --> 00:18:11,520
+00:18:12,230 --> 00:18:13,290
 lleis autonòmiques.
 
 661
-00:18:11,920 --> 00:18:13,300
+00:18:13,690 --> 00:18:15,070
 Un panorama encoratjador.
 
 662
-00:18:13,740 --> 00:18:14,320
+00:18:15,510 --> 00:18:16,090
 Sí, veritat.
 
 663
-00:18:14,560 --> 00:18:14,860
+00:18:16,330 --> 00:18:16,630
 Llavors,
 
 664
-00:18:15,040 --> 00:18:16,440
+00:18:16,810 --> 00:18:18,210
 com és físicament possible
 
 665
-00:18:16,440 --> 00:18:18,300
+00:18:18,210 --> 00:18:20,070
 aconseguir resultats del nivell
 
 666
-00:18:18,300 --> 00:18:19,160
+00:18:20,070 --> 00:18:20,930
 amb un panorama
 
 667
-00:18:19,160 --> 00:18:20,100
+00:18:20,930 --> 00:18:21,870
 de base com aquest?
 
 668
-00:18:20,100 --> 00:18:20,240
+00:18:21,870 --> 00:18:22,010
 Sí,
 
 669
-00:18:20,260 --> 00:18:21,500
+00:18:22,030 --> 00:18:23,270
 la resposta implica
 
 670
-00:18:21,500 --> 00:18:22,900
+00:18:23,270 --> 00:18:24,670
 desfer-nos d'un costum humà
 
 671
-00:18:22,900 --> 00:18:23,740
+00:18:24,670 --> 00:18:25,510
 molt arrelat,
 
 672
-00:18:24,120 --> 00:18:24,840
+00:18:25,890 --> 00:18:26,610
 que és el de donar
 
 673
-00:18:24,840 --> 00:18:26,220
+00:18:26,610 --> 00:18:27,990
 ordres d'una sola tirada.
 
 674
-00:18:26,840 --> 00:18:27,960
+00:18:28,610 --> 00:18:29,730
 Cal endinsar-nos de ple
 
 675
-00:18:27,960 --> 00:18:28,780
+00:18:29,730 --> 00:18:30,550
 en el que s'anomena
 
 676
-00:18:28,780 --> 00:18:30,260
+00:18:30,550 --> 00:18:32,030
 l'enginyeria de la conversa
 
 677
-00:18:30,260 --> 00:18:30,900
+00:18:32,030 --> 00:18:32,670
 pas a pas.
 
 678
-00:18:31,200 --> 00:18:31,800
+00:18:32,970 --> 00:18:33,570
 Pas a pas.
 
 679
-00:18:32,020 --> 00:18:32,220
+00:18:33,790 --> 00:18:33,990
 Sí.
 
 680
-00:18:32,840 --> 00:18:33,480
+00:18:34,610 --> 00:18:35,250
 Quan es tracta
 
 681
-00:18:33,480 --> 00:18:34,660
+00:18:35,250 --> 00:18:36,430
 d'una tasca complexa,
 
 682
-00:18:35,060 --> 00:18:36,420
+00:18:36,830 --> 00:18:38,190
 demanar el resultat final
 
 683
-00:18:36,420 --> 00:18:37,980
+00:18:38,190 --> 00:18:39,750
 sencer des del primer moment
 
 684
-00:18:37,980 --> 00:18:39,980
+00:18:39,750 --> 00:18:41,750
 és la recepta més segura
 
 685
-00:18:39,980 --> 00:18:41,720
+00:18:41,750 --> 00:18:43,490
 cap a la mediocritat absoluta.
 
 686
-00:18:42,260 --> 00:18:42,700
+00:18:44,030 --> 00:18:44,470
 A la guia
 
 687
-00:18:42,700 --> 00:18:44,020
+00:18:44,470 --> 00:18:45,790
 s'exemplifica molt bé això
 
 688
-00:18:44,020 --> 00:18:44,860
+00:18:45,790 --> 00:18:46,630
 amb un repte
 
 689
-00:18:44,860 --> 00:18:46,040
+00:18:46,630 --> 00:18:47,810
 que pràcticament tothom
 
 690
-00:18:46,040 --> 00:18:46,960
+00:18:47,810 --> 00:18:48,730
 pot reconèixer,
 
 691
-00:18:47,120 --> 00:18:48,060
+00:18:48,890 --> 00:18:49,830
 preparar un discurs
 
 692
-00:18:48,060 --> 00:18:48,980
+00:18:49,830 --> 00:18:50,750
 per a un casament.
 
 693
-00:18:49,500 --> 00:18:50,100
+00:18:51,270 --> 00:18:51,870
 Posem pel cas
 
 694
-00:18:50,100 --> 00:18:50,780
+00:18:51,870 --> 00:18:52,550
 que és el casament
 
 695
-00:18:50,780 --> 00:18:51,460
+00:18:52,550 --> 00:18:53,230
 d'uns amics,
 
 696
-00:18:51,580 --> 00:18:52,540
+00:18:53,350 --> 00:18:54,310
 la Marta i en Pere.
 
 697
-00:18:52,820 --> 00:18:53,100
+00:18:54,590 --> 00:18:54,870
 Uf,
 
 698
-00:18:53,440 --> 00:18:54,160
+00:18:55,210 --> 00:18:55,930
 la pressió de fer
 
 699
-00:18:54,160 --> 00:18:54,860
+00:18:55,930 --> 00:18:56,630
 un bon discurs.
 
 700
-00:18:55,440 --> 00:18:56,040
+00:18:57,210 --> 00:18:57,810
 Si algú,
 
 701
-00:18:56,260 --> 00:18:57,300
+00:18:58,030 --> 00:18:59,070
 en un sol missatge,
 
 702
-00:18:57,600 --> 00:18:58,760
+00:18:59,370 --> 00:19:00,530
 introdueix algunes dades
 
 703
-00:18:58,760 --> 00:19:00,080
+00:19:00,530 --> 00:19:01,850
 sobre com es van conèixer
 
 704
-00:19:00,080 --> 00:19:00,600
+00:19:01,850 --> 00:19:02,370
 els nuvis
 
 705
-00:19:00,600 --> 00:19:01,660
+00:19:02,370 --> 00:19:03,430
 i demana el discurs
 
 706
-00:19:01,660 --> 00:19:02,760
+00:19:03,430 --> 00:19:04,530
 sencer a la màquina
 
 707
-00:19:02,760 --> 00:19:03,820
+00:19:04,530 --> 00:19:05,590
 per acabar ràpid,
 
 708
-00:19:04,240 --> 00:19:05,160
+00:19:06,010 --> 00:19:06,930
 doncs el resultat
 
 709
-00:19:05,160 --> 00:19:06,520
+00:19:06,930 --> 00:19:08,290
 serà un cúmul de tòpics
 
 710
-00:19:06,520 --> 00:19:07,280
+00:19:08,290 --> 00:19:09,050
 ensucrats
 
 711
-00:19:07,280 --> 00:19:09,000
+00:19:09,050 --> 00:19:10,770
 absolutament infumables.
 
 712
-00:19:09,220 --> 00:19:09,780
+00:19:10,990 --> 00:19:11,550
 Sens dubte.
 
 713
-00:19:10,360 --> 00:19:10,660
+00:19:12,130 --> 00:19:12,430
 Llavors,
 
 714
-00:19:10,880 --> 00:19:11,320
+00:19:12,650 --> 00:19:13,090
 la proposta
 
 715
-00:19:11,320 --> 00:19:12,840
+00:19:13,090 --> 00:19:14,610
 d'aquests patrons d'enginyeria
 
 716
-00:19:12,840 --> 00:19:14,600
+00:19:14,610 --> 00:19:16,370
 és trossejar el problema.
 
 717
-00:19:14,980 --> 00:19:15,240
+00:19:16,750 --> 00:19:17,010
 Vull dir,
 
 718
-00:19:15,500 --> 00:19:15,840
+00:19:17,270 --> 00:19:17,610
 passo
 
 719
-00:19:15,840 --> 00:19:17,240
+00:19:17,610 --> 00:19:19,010
 demanar a l'assistent
 
 720
-00:19:17,240 --> 00:19:18,060
+00:19:19,010 --> 00:19:19,830
 únicament
 
 721
-00:19:18,060 --> 00:19:18,800
+00:19:19,830 --> 00:19:20,570
 quina seria
 
 722
-00:19:18,800 --> 00:19:19,820
+00:19:20,570 --> 00:19:21,590
 l'estructura ideal
 
 723
-00:19:19,820 --> 00:19:20,420
+00:19:21,590 --> 00:19:22,190
 d'un discurs
 
 724
-00:19:20,420 --> 00:19:21,400
+00:19:22,190 --> 00:19:23,170
 de casament memorable.
 
 725
-00:19:21,760 --> 00:19:22,220
+00:19:23,530 --> 00:19:23,990
 Res més.
 
 726
-00:19:22,360 --> 00:19:23,260
+00:19:24,130 --> 00:19:25,030
 Només l'estructura,
 
 727
-00:19:23,380 --> 00:19:23,500
+00:19:25,150 --> 00:19:25,270
 clar.
 
 728
-00:19:23,660 --> 00:19:24,180
+00:19:25,430 --> 00:19:25,950
 Després,
 
 729
-00:19:24,380 --> 00:19:24,920
+00:19:26,150 --> 00:19:26,690
 pas dos,
 
 730
-00:19:25,160 --> 00:19:25,920
+00:19:26,930 --> 00:19:27,690
 introduir tu
 
 731
-00:19:25,920 --> 00:19:27,420
+00:19:27,690 --> 00:19:29,190
 tres anècdotes personals
 
 732
-00:19:27,420 --> 00:19:28,120
+00:19:29,190 --> 00:19:29,890
 reals
 
 733
-00:19:28,120 --> 00:19:29,880
+00:19:29,890 --> 00:19:31,650
 i debatre amb la màquina
 
 734
-00:19:29,880 --> 00:19:31,140
+00:19:31,650 --> 00:19:32,910
 quina encaixa millor
 
 735
-00:19:31,140 --> 00:19:31,880
+00:19:32,910 --> 00:19:33,650
 amb l'estructura
 
 736
-00:19:31,880 --> 00:19:32,940
+00:19:33,650 --> 00:19:34,710
 que ho ha acordat abans.
 
 737
-00:19:33,400 --> 00:19:34,640
+00:19:35,170 --> 00:19:36,410
 Escollint i descartant.
 
 738
-00:19:34,780 --> 00:19:35,360
+00:19:36,550 --> 00:19:37,130
 Exacte.
 
 739
-00:19:35,540 --> 00:19:36,080
+00:19:37,310 --> 00:19:37,850
 Pas tres,
 
 740
-00:19:36,460 --> 00:19:37,180
+00:19:38,230 --> 00:19:38,950
 redactar només
 
 741
-00:19:37,180 --> 00:19:38,420
+00:19:38,950 --> 00:19:40,190
 el paràgraf d'introducció.
 
 742
-00:19:38,840 --> 00:19:39,700
+00:19:40,610 --> 00:19:41,470
 Un cop s'ha fet això,
 
 743
-00:19:39,940 --> 00:19:40,640
+00:19:41,710 --> 00:19:42,410
 s'aniria fent
 
 744
-00:19:40,640 --> 00:19:41,780
+00:19:42,410 --> 00:19:43,550
 secció per secció,
 
 745
-00:19:41,900 --> 00:19:42,720
+00:19:43,670 --> 00:19:44,490
 refinant el to
 
 746
-00:19:42,720 --> 00:19:43,680
+00:19:44,490 --> 00:19:45,450
 fins a arribar
 
 747
-00:19:43,680 --> 00:19:44,400
+00:19:45,450 --> 00:19:46,170
 al pas sis
 
 748
-00:19:44,400 --> 00:19:45,180
+00:19:46,170 --> 00:19:46,950
 on finalment
 
 749
-00:19:45,180 --> 00:19:45,700
+00:19:46,950 --> 00:19:47,470
 se li demana
 
 750
-00:19:45,700 --> 00:19:47,320
+00:19:47,470 --> 00:19:49,090
 revisar la coherència global
 
 751
-00:19:47,320 --> 00:19:48,120
+00:19:49,090 --> 00:19:49,890
 de tot allò
 
 752
-00:19:48,120 --> 00:19:49,000
+00:19:49,890 --> 00:19:50,770
 que ho ha anat construint.
 
 753
-00:19:49,360 --> 00:19:49,800
+00:19:51,130 --> 00:19:51,570
 Tot aquest
 
 754
-00:19:49,800 --> 00:19:51,460
+00:19:51,570 --> 00:19:53,230
 trossetament de la tasca
 
 755
-00:19:51,460 --> 00:19:52,940
+00:19:53,230 --> 00:19:54,710
 està directament lligat
 
 756
-00:19:52,940 --> 00:19:53,980
+00:19:54,710 --> 00:19:55,750
 a una altra característica
 
 757
-00:19:53,980 --> 00:19:54,740
+00:19:55,750 --> 00:19:56,510
 estructural
 
 758
-00:19:54,740 --> 00:19:55,560
+00:19:56,510 --> 00:19:57,330
 d'aquests sistemes.
 
 759
-00:19:55,800 --> 00:19:56,700
+00:19:57,570 --> 00:19:58,470
 Són models
 
 760
-00:19:56,700 --> 00:19:57,960
+00:19:58,470 --> 00:19:59,730
 no deterministes.
 
 761
-00:19:58,140 --> 00:19:58,820
+00:19:59,910 --> 00:20:00,590
 Què vol dir
 
 762
-00:19:58,820 --> 00:19:59,620
+00:20:00,590 --> 00:20:01,390
 exactament d'això,
 
 763
-00:19:59,860 --> 00:20:00,960
+00:20:01,630 --> 00:20:02,730
 de no deterministes?
 
 764
-00:20:01,380 --> 00:20:01,740
+00:20:03,150 --> 00:20:03,510
 Doncs que,
 
 765
-00:20:02,040 --> 00:20:02,880
+00:20:03,810 --> 00:20:04,650
 quan generen text,
 
 766
-00:20:03,200 --> 00:20:04,100
+00:20:04,970 --> 00:20:05,870
 no van a un disdú
 
 767
-00:20:04,100 --> 00:20:05,320
+00:20:05,870 --> 00:20:07,090
 a buscar un arxiu PDF
 
 768
-00:20:05,320 --> 00:20:06,400
+00:20:07,090 --> 00:20:08,170
 amagat amb la resposta
 
 769
-00:20:06,400 --> 00:20:07,040
+00:20:08,170 --> 00:20:08,810
 correcta.
 
 770
-00:20:07,460 --> 00:20:08,560
+00:20:09,230 --> 00:20:10,330
 La màquina calcula,
 
 771
-00:20:08,740 --> 00:20:10,060
+00:20:10,510 --> 00:20:11,830
 d'una manera probabilística,
 
 772
-00:20:10,580 --> 00:20:11,440
+00:20:12,350 --> 00:20:13,210
 quina és la paraula
 
 773
-00:20:11,440 --> 00:20:11,960
+00:20:13,210 --> 00:20:13,730
 segon
 
 774
-00:20:11,960 --> 00:20:12,960
+00:20:13,730 --> 00:20:14,730
 que té més sentit
 
 775
-00:20:12,960 --> 00:20:13,460
+00:20:14,730 --> 00:20:15,230
 d'acord
 
 776
-00:20:13,460 --> 00:20:14,560
+00:20:15,230 --> 00:20:16,330
 amb el context actual
 
 777
-00:20:14,560 --> 00:20:15,820
+00:20:16,330 --> 00:20:17,590
 d'aquella conversa concreta.
 
 778
-00:20:15,980 --> 00:20:16,340
+00:20:17,750 --> 00:20:18,110
 O sigui,
 
 779
-00:20:16,460 --> 00:20:17,240
+00:20:18,230 --> 00:20:19,010
 que s'ho va inventant
 
 780
-00:20:17,240 --> 00:20:17,980
+00:20:19,010 --> 00:20:19,750
 sobre la marxa.
 
 781
-00:20:18,180 --> 00:20:19,200
+00:20:19,950 --> 00:20:20,970
 En certa manera, sí.
 
 782
-00:20:19,580 --> 00:20:19,780
+00:20:21,350 --> 00:20:21,550
 Això,
 
 783
-00:20:19,780 --> 00:20:20,300
+00:20:21,550 --> 00:20:22,070
 això vol dir
 
 784
-00:20:20,300 --> 00:20:21,260
+00:20:22,070 --> 00:20:23,030
 que existeixen
 
 785
-00:20:21,260 --> 00:20:22,800
+00:20:23,030 --> 00:20:24,570
 múltiples camins possibles
 
 786
-00:20:22,800 --> 00:20:23,960
+00:20:24,570 --> 00:20:25,730
 de generació de text
 
 787
-00:20:23,960 --> 00:20:24,740
+00:20:25,730 --> 00:20:26,510
 cada vegada
 
 788
-00:20:24,740 --> 00:20:25,560
+00:20:26,510 --> 00:20:27,330
 que prems intro.
 
 789
-00:20:26,060 --> 00:20:26,920
+00:20:27,830 --> 00:20:28,690
 I per explotar bé
 
 790
-00:20:26,920 --> 00:20:27,860
+00:20:28,690 --> 00:20:29,630
 aquesta arquitectura,
 
 791
-00:20:28,260 --> 00:20:28,880
+00:20:30,030 --> 00:20:30,650
 l'arreglador
 
 792
-00:20:28,880 --> 00:20:30,560
+00:20:30,650 --> 00:20:32,330
 és no conformar-nos mai
 
 793
-00:20:30,560 --> 00:20:31,780
+00:20:32,330 --> 00:20:33,550
 amb una única sortida.
 
 794
-00:20:32,380 --> 00:20:33,120
+00:20:34,150 --> 00:20:34,890
 Cal demanar sempre
 
 795
-00:20:33,120 --> 00:20:34,340
+00:20:34,890 --> 00:20:36,110
 un ventall d'opcions.
 
 796
-00:20:34,600 --> 00:20:35,380
+00:20:36,370 --> 00:20:37,150
 Un plantejament
 
 797
-00:20:35,380 --> 00:20:35,940
+00:20:37,150 --> 00:20:37,710
 molt útil.
 
 798
-00:20:36,440 --> 00:20:36,960
+00:20:38,210 --> 00:20:38,730
 Per exemple,
 
 799
-00:20:37,320 --> 00:20:37,920
+00:20:39,090 --> 00:20:39,690
 ho veig clar
 
 800
-00:20:37,920 --> 00:20:38,700
+00:20:39,690 --> 00:20:40,470
 a l'hora d'enviar
 
 801
-00:20:38,700 --> 00:20:39,760
+00:20:40,470 --> 00:20:41,530
 un missatge delicat
 
 802
-00:20:39,760 --> 00:20:40,720
+00:20:41,530 --> 00:20:42,490
 a un grup de WhatsApp
 
 803
-00:20:40,720 --> 00:20:41,680
+00:20:42,490 --> 00:20:43,450
 de pares i mares
 
 804
-00:20:41,680 --> 00:20:42,340
+00:20:43,450 --> 00:20:44,110
 de l'escola
 
 805
-00:20:42,340 --> 00:20:43,200
+00:20:44,110 --> 00:20:44,970
 sobre l'ús
 
 806
-00:20:43,200 --> 00:20:44,220
+00:20:44,970 --> 00:20:45,990
 dels telèfons mòbils
 
 807
-00:20:44,220 --> 00:20:44,680
+00:20:45,990 --> 00:20:46,450
 a classe.
 
 808
-00:20:45,040 --> 00:20:46,380
+00:20:46,810 --> 00:20:48,150
 Un tema ben conflictiu.
 
 809
-00:20:46,580 --> 00:20:46,800
+00:20:48,350 --> 00:20:48,570
 Sí,
 
 810
-00:20:46,800 --> 00:20:48,140
+00:20:48,570 --> 00:20:49,910
 una bomba de rejugeria
 
 811
-00:20:48,140 --> 00:20:49,240
+00:20:49,910 --> 00:20:51,010
 als grups de pares.
 
 812
-00:20:49,500 --> 00:20:49,680
+00:20:51,270 --> 00:20:51,450
 Si,
 
 813
-00:20:49,780 --> 00:20:50,100
+00:20:51,550 --> 00:20:51,870
 des de mana
 
 814
-00:20:50,100 --> 00:20:51,040
+00:20:51,870 --> 00:20:52,810
 una única versió
 
 815
-00:20:51,040 --> 00:20:51,640
+00:20:52,810 --> 00:20:53,410
 del missatge
 
 816
-00:20:51,640 --> 00:20:52,560
+00:20:53,410 --> 00:20:54,330
 per enviar al grup,
 
 817
-00:20:52,980 --> 00:20:53,640
+00:20:54,750 --> 00:20:55,410
 l'eina prendrà
 
 818
-00:20:53,640 --> 00:20:54,700
+00:20:55,410 --> 00:20:56,470
 decisions de to
 
 819
-00:20:54,700 --> 00:20:55,580
+00:20:56,470 --> 00:20:57,350
 per la seva banda
 
 820
-00:20:55,580 --> 00:20:56,480
+00:20:57,350 --> 00:20:58,250
 i potser queda
 
 821
-00:20:56,480 --> 00:20:57,300
+00:20:58,250 --> 00:20:59,070
 massa agressiu.
 
 822
-00:20:57,720 --> 00:20:58,320
+00:20:59,490 --> 00:21:00,090
 El truc aquí
 
 823
-00:20:58,320 --> 00:20:59,040
+00:21:00,090 --> 00:21:00,810
 és exigir-li
 
 824
-00:20:59,040 --> 00:20:59,560
+00:21:00,810 --> 00:21:01,330
 una versió
 
 825
-00:20:59,560 --> 00:21:00,800
+00:21:01,330 --> 00:21:02,570
 extremadament formal,
 
 826
-00:21:01,240 --> 00:21:01,940
+00:21:03,010 --> 00:21:03,710
 després una de
 
 827
-00:21:01,940 --> 00:21:02,960
+00:21:03,710 --> 00:21:04,730
 completament neutral
 
 828
-00:21:02,960 --> 00:21:03,540
+00:21:04,730 --> 00:21:05,310
 i freda
 
 829
-00:21:03,540 --> 00:21:04,340
+00:21:05,310 --> 00:21:06,110
 i, finalment,
 
 830
-00:21:04,380 --> 00:21:05,340
+00:21:06,150 --> 00:21:07,110
 una de molt informal
 
 831
-00:21:05,340 --> 00:21:05,960
+00:21:07,110 --> 00:21:07,730
 i propera,
 
 832
-00:21:06,240 --> 00:21:07,140
+00:21:08,010 --> 00:21:08,910
 gairebé col·legial.
 
 833
-00:21:07,360 --> 00:21:08,260
+00:21:09,130 --> 00:21:10,030
 I llavors jugar amb elles?
 
 834
-00:21:08,460 --> 00:21:08,980
+00:21:10,230 --> 00:21:10,750
 La taula
 
 835
-00:21:08,980 --> 00:21:09,880
+00:21:10,750 --> 00:21:11,650
 es pot fer
 
 836
-00:21:09,880 --> 00:21:10,460
+00:21:11,650 --> 00:21:12,230
 un exercici
 
 837
-00:21:10,460 --> 00:21:11,800
+00:21:12,230 --> 00:21:13,570
 de cirurgia lingüística.
 
 838
-00:21:12,380 --> 00:21:12,660
+00:21:14,150 --> 00:21:14,430
 O sigui,
 
 839
-00:21:12,920 --> 00:21:14,240
+00:21:14,690 --> 00:21:16,010
 extreure l'argumentació
 
 840
-00:21:14,240 --> 00:21:15,720
+00:21:16,010 --> 00:21:17,490
 impecable i objectiva
 
 841
-00:21:15,720 --> 00:21:16,580
+00:21:17,490 --> 00:21:18,350
 de la versió neutral
 
 842
-00:21:16,580 --> 00:21:18,120
+00:21:18,350 --> 00:21:19,890
 i fusionar-la
 
 843
-00:21:18,120 --> 00:21:18,920
+00:21:19,890 --> 00:21:20,690
 amb l'obertura
 
 844
-00:21:18,920 --> 00:21:19,620
+00:21:20,690 --> 00:21:21,390
 i el comiat
 
 845
-00:21:19,620 --> 00:21:20,980
+00:21:21,390 --> 00:21:22,750
 càlids i propers
 
 846
-00:21:20,980 --> 00:21:22,000
+00:21:22,750 --> 00:21:23,770
 de la versió informal?
 
 847
-00:21:22,420 --> 00:21:22,980
+00:21:24,190 --> 00:21:24,750
 Així aconsegueixes
 
 848
-00:21:23,620 --> 00:21:24,760
+00:21:25,390 --> 00:21:26,530
 un text equilibrat
 
 849
-00:21:24,760 --> 00:21:25,820
+00:21:26,530 --> 00:21:27,590
 que comunica,
 
 850
-00:21:26,260 --> 00:21:26,900
+00:21:28,030 --> 00:21:28,670
 però que no sembla
 
 851
-00:21:26,900 --> 00:21:28,280
+00:21:28,670 --> 00:21:30,050
 un pamflet dictatorial
 
 852
-00:21:28,280 --> 00:21:29,260
+00:21:30,050 --> 00:21:31,030
 imprès per l'AMPA.
 
 853
-00:21:29,680 --> 00:21:30,400
+00:21:31,450 --> 00:21:32,170
 Això mateix.
 
 854
-00:21:30,900 --> 00:21:31,320
+00:21:32,670 --> 00:21:33,090
 Però, clar,
 
 855
-00:21:31,520 --> 00:21:32,380
+00:21:33,290 --> 00:21:34,150
 arribats a aquest punt,
 
 856
-00:21:32,620 --> 00:21:33,540
+00:21:34,390 --> 00:21:35,310
 em sembla inevitable
 
 857
-00:21:33,540 --> 00:21:34,260
+00:21:35,310 --> 00:21:36,030
 que sorgeixi
 
 858
-00:21:34,260 --> 00:21:35,340
+00:21:36,030 --> 00:21:37,110
 un dubte força gran
 
 859
-00:21:35,340 --> 00:21:36,700
+00:21:37,110 --> 00:21:38,470
 a qui ens estic escoltant.
 
 860
-00:21:37,160 --> 00:21:37,720
+00:21:38,930 --> 00:21:39,490
 Un dubte
 
 861
-00:21:37,720 --> 00:21:39,480
+00:21:39,490 --> 00:21:41,250
 sobre la productivitat real
 
 862
-00:21:39,480 --> 00:21:40,180
+00:21:41,250 --> 00:21:41,950
 d'aquest mètode
 
 863
-00:21:40,180 --> 00:21:41,120
+00:21:41,950 --> 00:21:42,890
 que estem explicant.
 
 864
-00:21:41,600 --> 00:21:42,100
+00:21:43,370 --> 00:21:43,870
 T'escolto,
 
 865
-00:21:42,180 --> 00:21:42,440
+00:21:43,950 --> 00:21:44,210
 a veure.
 
 866
-00:21:42,920 --> 00:21:43,740
+00:21:44,690 --> 00:21:45,510
 Fer un discurs
 
 867
-00:21:43,740 --> 00:21:44,760
+00:21:45,510 --> 00:21:46,530
 en sis passos
 
 868
-00:21:44,760 --> 00:21:45,460
+00:21:46,530 --> 00:21:47,230
 o demanar
 
 869
-00:21:45,460 --> 00:21:46,620
+00:21:47,230 --> 00:21:48,390
 tres versions diferents
 
 870
-00:21:46,620 --> 00:21:47,260
+00:21:48,390 --> 00:21:49,030
 d'un WhatsApp
 
 871
-00:21:47,260 --> 00:21:48,680
+00:21:49,030 --> 00:21:50,450
 per fer un col·lage posterior
 
 872
-00:21:48,680 --> 00:21:49,600
+00:21:50,450 --> 00:21:51,370
 no és molt fàcil.
 
 873
-00:21:49,600 --> 00:21:50,100
+00:21:51,370 --> 00:21:51,870
 És molt més lent
 
 874
-00:21:50,100 --> 00:21:51,460
+00:21:51,870 --> 00:21:53,230
 i dona molta més feina
 
 875
-00:21:51,460 --> 00:21:52,440
+00:21:53,230 --> 00:21:54,210
 que demanar-lo tot
 
 876
-00:21:52,440 --> 00:21:53,100
+00:21:54,210 --> 00:21:54,870
 d'una vegada?
 
 877
-00:21:53,480 --> 00:21:54,420
+00:21:55,250 --> 00:21:56,190
 És la gran pregunta.
 
 878
-00:21:54,740 --> 00:21:55,500
+00:21:56,510 --> 00:21:57,270
 A primera vista,
 
 879
-00:21:55,740 --> 00:21:56,960
+00:21:57,510 --> 00:21:58,730
 sembla que doni més feina
 
 880
-00:21:56,960 --> 00:21:57,500
+00:21:58,730 --> 00:21:59,270
 a treballar
 
 881
-00:21:57,500 --> 00:21:58,780
+00:21:59,270 --> 00:22:00,550
 amb aquest geni trampós
 
 882
-00:21:58,780 --> 00:21:59,880
+00:22:00,550 --> 00:22:01,650
 d'aquesta manera
 
 883
-00:21:59,880 --> 00:22:00,840
+00:22:01,650 --> 00:22:02,610
 que directament obrir
 
 884
-00:22:00,840 --> 00:22:01,660
+00:22:02,610 --> 00:22:03,430
 un Word en blanc
 
 885
-00:22:01,660 --> 00:22:02,460
+00:22:03,430 --> 00:22:04,230
 i escriure-ho tu.
 
 886
-00:22:03,020 --> 00:22:04,400
+00:22:04,790 --> 00:22:06,170
 Enfront de la qualitat real,
 
 887
-00:22:04,880 --> 00:22:05,980
+00:22:06,650 --> 00:22:07,750
 és cert que pot semblar
 
 888
-00:22:05,980 --> 00:22:06,900
+00:22:07,750 --> 00:22:08,670
 contraintuitiu,
 
 889
-00:22:07,360 --> 00:22:08,540
+00:22:09,130 --> 00:22:10,310
 però l'experiència pràctica
 
 890
-00:22:08,540 --> 00:22:09,580
+00:22:10,310 --> 00:22:11,350
 de molts usuaris
 
 891
-00:22:09,580 --> 00:22:10,920
+00:22:11,350 --> 00:22:12,690
 i la mateixa anàlisi
 
 892
-00:22:10,920 --> 00:22:11,520
+00:22:12,690 --> 00:22:13,290
 de Kessler
 
 893
-00:22:11,520 --> 00:22:12,960
+00:22:13,290 --> 00:22:14,730
 demostren empíricament
 
 894
-00:22:12,960 --> 00:22:13,980
+00:22:14,730 --> 00:22:15,750
 que el temps que es perd
 
 895
-00:22:13,980 --> 00:22:14,860
+00:22:15,750 --> 00:22:16,630
 intentant salvar
 
 896
-00:22:14,860 --> 00:22:16,040
+00:22:16,630 --> 00:22:17,810
 un document desastrós
 
 897
-00:22:16,040 --> 00:22:17,960
+00:22:17,810 --> 00:22:19,730
 és incalculablement més alt.
 
 898
-00:22:18,360 --> 00:22:19,480
+00:22:20,130 --> 00:22:21,250
 Salvar un document
 
 899
-00:22:19,480 --> 00:22:19,580
+00:22:21,250 --> 00:22:21,350
 desastrós
 
 900
-00:22:19,580 --> 00:22:21,580
+00:22:21,350 --> 00:22:23,350
 com un discurs robòtic.
 
 901
-00:22:22,620 --> 00:22:22,880
+00:22:24,390 --> 00:22:24,650
 Sí.
 
 902
-00:22:23,340 --> 00:22:24,460
+00:22:25,110 --> 00:22:26,230
 Un text sense ànima
 
 903
-00:22:24,460 --> 00:22:25,800
+00:22:26,230 --> 00:22:27,570
 generat d'una sola tirada
 
 904
-00:22:25,800 --> 00:22:27,080
+00:22:27,570 --> 00:22:28,850
 on cal reescriure
 
 905
-00:22:27,080 --> 00:22:28,260
+00:22:28,850 --> 00:22:30,030
 dotzenes de frases,
 
 906
-00:22:28,620 --> 00:22:29,240
+00:22:30,390 --> 00:22:31,010
 ajustar el to
 
 907
-00:22:29,240 --> 00:22:30,420
+00:22:31,010 --> 00:22:32,190
 perquè no sembli un robot,
 
 908
-00:22:30,760 --> 00:22:31,720
+00:22:32,530 --> 00:22:33,490
 comprovar si s'han perdut
 
 909
-00:22:31,720 --> 00:22:32,900
+00:22:33,490 --> 00:22:34,670
 dades pel camí...
 
 910
-00:22:32,900 --> 00:22:34,200
+00:22:34,670 --> 00:22:35,970
 Això crema molt temps.
 
 911
-00:22:34,480 --> 00:22:35,580
+00:22:36,250 --> 00:22:37,350
 Llavors guanyes temps
 
 912
-00:22:35,580 --> 00:22:36,800
+00:22:37,350 --> 00:22:38,570
 fent-ho a poc a poc?
 
 913
-00:22:36,960 --> 00:22:37,320
+00:22:38,730 --> 00:22:39,090
 I tant.
 
 914
-00:22:38,040 --> 00:22:39,360
+00:22:39,810 --> 00:22:41,130
 En l'enfocament pas a pas,
 
 915
-00:22:39,720 --> 00:22:40,460
+00:22:41,490 --> 00:22:42,230
 la revisió es fa
 
 916
-00:22:40,460 --> 00:22:41,320
+00:22:42,230 --> 00:22:43,090
 en temps real
 
 917
-00:22:41,320 --> 00:22:42,800
+00:22:43,090 --> 00:22:44,570
 sobre fragments molt petits.
 
 918
-00:22:43,360 --> 00:22:44,560
+00:22:45,130 --> 00:22:46,330
 Qualsevol petita desviació
 
 919
-00:22:44,560 --> 00:22:45,100
+00:22:46,330 --> 00:22:46,870
 es detecta
 
 920
-00:22:45,100 --> 00:22:46,220
+00:22:46,870 --> 00:22:47,990
 i es corregeix en segons.
 
 921
-00:22:46,880 --> 00:22:47,600
+00:22:48,650 --> 00:22:49,370
 Això garanteix
 
 922
-00:22:47,600 --> 00:22:48,500
+00:22:49,370 --> 00:22:50,270
 que el resultat final
 
 923
-00:22:48,500 --> 00:22:49,460
+00:22:50,270 --> 00:22:51,230
 sigui directament
 
 924
-00:22:49,460 --> 00:22:50,720
+00:22:51,230 --> 00:22:52,490
 útil per treballar-hi
 
 925
-00:22:50,720 --> 00:22:52,400
+00:22:52,490 --> 00:22:54,170
 en lloc d'un simple esborrall brut
 
 926
-00:22:52,400 --> 00:22:54,040
+00:22:54,170 --> 00:22:55,810
 que acabaràs descartant del tot.
 
 927
-00:22:54,280 --> 00:22:55,300
+00:22:56,050 --> 00:22:57,070
 Això, doncs,
 
 928
-00:22:55,340 --> 00:22:57,060
+00:22:57,110 --> 00:22:58,830
 la paciència metodològica
 
 929
-00:22:57,060 --> 00:22:58,280
+00:22:58,830 --> 00:23:00,050
 surt a compte
 
 930
-00:22:58,280 --> 00:22:59,120
+00:23:00,050 --> 00:23:00,890
 a l'al·lerga.
 
 931
-00:22:59,420 --> 00:23:00,420
+00:23:01,190 --> 00:23:02,190
 I per optimitzar
 
 932
-00:23:00,420 --> 00:23:01,320
+00:23:02,190 --> 00:23:03,090
 encara més el temps
 
 933
-00:23:01,320 --> 00:23:02,220
+00:23:03,090 --> 00:23:03,990
 a metge termini,
 
 934
-00:23:02,640 --> 00:23:03,500
+00:23:04,410 --> 00:23:05,270
 la font
 
 935
-00:23:03,500 --> 00:23:04,380
+00:23:05,270 --> 00:23:06,150
 subratlla molt
 
 936
-00:23:04,380 --> 00:23:05,200
+00:23:06,150 --> 00:23:06,970
 la importància
 
 937
-00:23:05,200 --> 00:23:06,380
+00:23:06,970 --> 00:23:08,150
 de crear el teu propi
 
 938
-00:23:06,380 --> 00:23:07,540
+00:23:08,150 --> 00:23:09,310
 banc d'instruccions.
 
 939
-00:23:07,960 --> 00:23:09,120
+00:23:09,730 --> 00:23:10,890
 Això és vital
 
 940
-00:23:09,120 --> 00:23:10,140
+00:23:10,890 --> 00:23:11,910
 si fas servir-la ja
 
 941
-00:23:10,140 --> 00:23:10,800
+00:23:11,910 --> 00:23:12,570
 habitualment.
 
 942
-00:23:11,160 --> 00:23:12,360
+00:23:12,930 --> 00:23:14,130
 Si després d'una llarga
 
 943
-00:23:12,360 --> 00:23:13,820
+00:23:14,130 --> 00:23:15,590
 negociació amb la màquina
 
 944
-00:23:13,820 --> 00:23:15,500
+00:23:15,590 --> 00:23:17,270
 s'aconsegués el to exacte
 
 945
-00:23:15,500 --> 00:23:17,080
+00:23:17,270 --> 00:23:18,850
 per redactar correus formals
 
 946
-00:23:17,080 --> 00:23:17,820
+00:23:18,850 --> 00:23:19,590
 de la teva empresa,
 
 947
-00:23:18,240 --> 00:23:18,880
+00:23:20,010 --> 00:23:20,650
 un to que,
 
 948
-00:23:19,020 --> 00:23:19,440
+00:23:20,790 --> 00:23:21,210
 per exemple,
 
 949
-00:23:19,440 --> 00:23:21,560
+00:23:21,210 --> 00:23:23,330
 eviti aquelles expressions arcaiques
 
 950
-00:23:21,560 --> 00:23:22,400
+00:23:23,330 --> 00:23:24,170
 i carrinclones
 
 951
-00:23:22,400 --> 00:23:22,860
+00:23:24,170 --> 00:23:24,630
 com ara
 
 952
-00:23:22,860 --> 00:23:24,740
+00:23:24,630 --> 00:23:26,510
 aprofito la vinilientesa
 
 953
-00:23:24,740 --> 00:23:25,580
+00:23:26,510 --> 00:23:27,350
 per ressaludar-lo
 
 954
-00:23:25,580 --> 00:23:26,480
+00:23:27,350 --> 00:23:28,250
 ben cordialmente,
 
 955
-00:23:26,920 --> 00:23:27,900
+00:23:28,690 --> 00:23:29,670
 doncs aquest conjunt
 
 956
-00:23:27,900 --> 00:23:29,180
+00:23:29,670 --> 00:23:30,950
 d'instruccions guanyadores
 
 957
-00:23:29,180 --> 00:23:30,180
+00:23:30,950 --> 00:23:31,950
 s'ha de copiar
 
 958
-00:23:30,180 --> 00:23:31,160
+00:23:31,950 --> 00:23:32,930
 i guardar externament
 
 959
-00:23:31,160 --> 00:23:32,240
+00:23:32,930 --> 00:23:34,010
 en un bloc de notes.
 
 960
-00:23:32,820 --> 00:23:33,040
+00:23:34,590 --> 00:23:34,810
 Clar,
 
 961
-00:23:33,420 --> 00:23:34,100
+00:23:35,190 --> 00:23:35,870
 perquè si no,
 
 962
-00:23:34,260 --> 00:23:35,360
+00:23:36,030 --> 00:23:37,130
 a la següent conversa
 
 963
-00:23:35,360 --> 00:23:36,380
+00:23:37,130 --> 00:23:38,150
 ho tornarà a escriure.
 
 964
-00:23:36,700 --> 00:23:37,400
+00:23:38,470 --> 00:23:39,170
 És un patrimoni
 
 965
-00:23:37,400 --> 00:23:38,000
+00:23:39,170 --> 00:23:39,770
 de l'usuari.
 
 966
-00:23:38,720 --> 00:23:39,540
+00:23:40,490 --> 00:23:41,310
 I molt vinculat
 
 967
-00:23:39,540 --> 00:23:40,160
+00:23:41,310 --> 00:23:41,930
 a aquesta idea
 
 968
-00:23:40,160 --> 00:23:41,660
+00:23:41,930 --> 00:23:43,430
 de guardar coses externes,
 
 969
-00:23:42,020 --> 00:23:42,580
+00:23:43,790 --> 00:23:44,350
 a la guia hi ha
 
 970
-00:23:42,580 --> 00:23:43,180
+00:23:44,350 --> 00:23:44,950
 el concepte
 
 971
-00:23:43,180 --> 00:23:44,220
+00:23:44,950 --> 00:23:45,990
 de crear els anomenats
 
 972
-00:23:44,220 --> 00:23:45,640
+00:23:45,990 --> 00:23:47,410
 punts de restauració.
 
 973
-00:23:45,920 --> 00:23:46,620
+00:23:47,690 --> 00:23:48,390
 Ah, sí!
 
 974
-00:23:47,240 --> 00:23:48,220
+00:23:49,010 --> 00:23:49,990
 Això em va semblar brutal!
 
 975
-00:23:48,620 --> 00:23:49,380
+00:23:50,390 --> 00:23:51,150
 Aquesta és una eina
 
 976
-00:23:49,380 --> 00:23:51,020
+00:23:51,150 --> 00:23:52,790
 de pura supervivència digital.
 
 977
-00:23:51,680 --> 00:23:52,140
+00:23:53,450 --> 00:23:53,910
 Si hem estat,
 
 978
-00:23:52,220 --> 00:23:52,620
+00:23:53,990 --> 00:23:54,390
 per exemple,
 
 979
-00:23:52,840 --> 00:23:53,960
+00:23:54,610 --> 00:23:55,730
 20 minuts alimentant
 
 980
-00:23:53,960 --> 00:23:54,980
+00:23:55,730 --> 00:23:56,750
 la conversa amb dades
 
 981
-00:23:54,980 --> 00:23:56,220
+00:23:56,750 --> 00:23:57,990
 per preparar una reclamació
 
 982
-00:23:56,220 --> 00:23:57,080
+00:23:57,990 --> 00:23:58,850
 molt complexa
 
 983
-00:23:57,080 --> 00:23:57,680
+00:23:58,850 --> 00:23:59,450
 d'assegurances
 
 984
-00:23:57,680 --> 00:23:59,160
+00:23:59,450 --> 00:24:00,930
 d'un accident domèstic...
 
 985
-00:23:59,160 --> 00:24:00,480
+00:24:00,930 --> 00:24:02,250
 20 minuts posant dades
 
 986
-00:24:00,480 --> 00:24:01,280
+00:24:02,250 --> 00:24:03,050
 de l'assegurança?
 
 987
-00:24:01,860 --> 00:24:02,260
+00:24:03,630 --> 00:24:04,030
 Déu-n'hi-do!
 
 988
-00:24:02,600 --> 00:24:03,560
+00:24:04,370 --> 00:24:05,330
 Doncs, en aquest punt,
 
 989
-00:24:03,880 --> 00:24:05,000
+00:24:05,650 --> 00:24:06,770
 la por que la conversa
 
 990
-00:24:05,000 --> 00:24:05,680
+00:24:06,770 --> 00:24:07,450
 es podressi
 
 991
-00:24:05,680 --> 00:24:06,680
+00:24:07,450 --> 00:24:08,450
 just abans de demanar
 
 992
-00:24:06,680 --> 00:24:07,480
+00:24:08,450 --> 00:24:09,250
 el resultat final
 
 993
-00:24:07,480 --> 00:24:08,700
+00:24:09,250 --> 00:24:10,470
 és molt i molt real.
 
 994
-00:24:09,540 --> 00:24:09,740
+00:24:11,310 --> 00:24:11,510
 Llavors,
 
 995
-00:24:09,880 --> 00:24:10,900
+00:24:11,650 --> 00:24:12,670
 la tàctica defensiva
 
 996
-00:24:10,900 --> 00:24:12,160
+00:24:12,670 --> 00:24:13,930
 és establir aquest punt
 
 997
-00:24:12,160 --> 00:24:13,020
+00:24:13,930 --> 00:24:14,790
 de restauració.
 
 998
-00:24:13,360 --> 00:24:13,540
+00:24:15,130 --> 00:24:15,310
 Vull dir,
 
 999
-00:24:13,980 --> 00:24:14,900
+00:24:15,750 --> 00:24:16,670
 sol·licitar al sistema
 
 1000
-00:24:14,900 --> 00:24:16,100
+00:24:16,670 --> 00:24:17,870
 un resum exhaustiu
 
 1001
-00:24:16,100 --> 00:24:17,120
+00:24:17,870 --> 00:24:18,890
 de tots els fets,
 
 1002
-00:24:17,400 --> 00:24:18,140
+00:24:19,170 --> 00:24:19,910
 totes les dates
 
 1003
-00:24:18,140 --> 00:24:18,940
+00:24:19,910 --> 00:24:20,710
 i prioritats debatudes
 
 1004
-00:24:18,940 --> 00:24:19,360
+00:24:20,710 --> 00:24:21,130
 de la seguretat
 
 1005
-00:24:19,360 --> 00:24:20,600
+00:24:21,130 --> 00:24:22,370
 fins a aquell moment exacte
 
 1006
-00:24:20,600 --> 00:24:21,300
+00:24:22,370 --> 00:24:23,070
 de la conversa.
 
 1007
-00:24:22,160 --> 00:24:22,440
+00:24:23,930 --> 00:24:24,210
 Llavors,
 
 1008
-00:24:22,580 --> 00:24:23,740
+00:24:24,350 --> 00:24:25,510
 copies aquell text resumit
 
 1009
-00:24:23,740 --> 00:24:24,580
+00:24:25,510 --> 00:24:26,350
 que t'ha generat
 
 1010
-00:24:24,580 --> 00:24:25,380
+00:24:26,350 --> 00:24:27,150
 i el guardes.
 
 1011
-00:24:26,320 --> 00:24:26,880
+00:24:28,090 --> 00:24:28,650
 Entesos?
 
 1012
-00:24:27,140 --> 00:24:27,980
+00:24:28,910 --> 00:24:29,750
 I si falla?
 
 1013
-00:24:28,100 --> 00:24:29,240
+00:24:29,870 --> 00:24:31,010
 Si en fer el pas següent,
 
 1014
-00:24:29,480 --> 00:24:30,720
+00:24:31,250 --> 00:24:32,490
 en demanar-li la reclamació,
 
 1015
-00:24:31,140 --> 00:24:32,240
+00:24:32,910 --> 00:24:34,010
 l'assistent s'empatolla,
 
 1016
-00:24:32,440 --> 00:24:33,540
+00:24:34,210 --> 00:24:35,310
 comença a barrejar dades
 
 1017
-00:24:33,540 --> 00:24:34,780
+00:24:35,310 --> 00:24:36,550
 o a al·lucinar normatives
 
 1018
-00:24:34,780 --> 00:24:35,540
+00:24:36,550 --> 00:24:37,310
 del Codi Civil
 
 1019
-00:24:35,540 --> 00:24:36,200
+00:24:37,310 --> 00:24:37,970
 que no toquen,
 
 1020
-00:24:36,680 --> 00:24:37,240
+00:24:38,450 --> 00:24:39,010
 el desastre
 
 1021
-00:24:37,240 --> 00:24:38,360
+00:24:39,010 --> 00:24:40,130
 està completament contingut.
 
 1022
-00:24:39,220 --> 00:24:40,540
+00:24:40,990 --> 00:24:42,310
 Ja no perds els 20 minuts.
 
 1023
-00:24:40,780 --> 00:24:41,340
+00:24:42,550 --> 00:24:43,110
 Exacte.
 
 1024
-00:24:41,820 --> 00:24:42,340
+00:24:43,590 --> 00:24:44,110
 Si, en tot temps,
 
 1025
-00:24:42,560 --> 00:24:43,160
+00:24:44,330 --> 00:24:44,930
 obres un xat
 
 1026
-00:24:43,160 --> 00:24:44,220
+00:24:44,930 --> 00:24:45,990
 completament nou,
 
 1027
-00:24:44,640 --> 00:24:46,100
+00:24:46,410 --> 00:24:47,870
 net d'amnèsies prèvies,
 
 1028
-00:24:46,460 --> 00:24:48,100
+00:24:48,230 --> 00:24:49,870
 enganxes el resum comprimit
 
 1029
-00:24:48,100 --> 00:24:49,020
+00:24:49,870 --> 00:24:50,790
 que havies guardat
 
 1030
-00:24:49,020 --> 00:24:49,340
+00:24:50,790 --> 00:24:51,110
 i,
 
 1031
-00:24:49,360 --> 00:24:50,360
+00:24:51,130 --> 00:24:52,130
 i reps la feina
 
 1032
-00:24:50,360 --> 00:24:51,440
+00:24:52,130 --> 00:24:53,210
 a lleu neres,
 
 1033
-00:24:51,800 --> 00:24:53,540
+00:24:53,570 --> 00:24:55,310
 amb tot el context intacte.
 
 1034
-00:24:54,200 --> 00:24:55,260
+00:24:55,970 --> 00:24:57,030
 És, literalment,
 
 1035
-00:24:55,380 --> 00:24:56,240
+00:24:57,150 --> 00:24:58,010
 tenir una assegurança
 
 1036
-00:24:56,240 --> 00:24:57,040
+00:24:58,010 --> 00:24:58,810
 a tot risc
 
 1037
-00:24:57,040 --> 00:24:58,340
+00:24:58,810 --> 00:25:00,110
 contra la pèrdua de memòria.
 
 1038
-00:24:58,900 --> 00:24:59,340
+00:25:00,670 --> 00:25:01,110
 Totalment.
 
 1039
-00:25:00,520 --> 00:25:01,100
+00:25:02,290 --> 00:25:02,870
 Bé, doncs,
 
 1040
-00:25:01,120 --> 00:25:02,060
+00:25:02,890 --> 00:25:03,830
 fins ara hem analitzat
 
 1041
-00:25:02,060 --> 00:25:02,980
+00:25:03,830 --> 00:25:04,750
 molt exhaustivament
 
 1042
-00:25:02,980 --> 00:25:04,140
+00:25:04,750 --> 00:25:05,910
 tota la part defensiva
 
 1043
-00:25:04,140 --> 00:25:04,820
+00:25:05,910 --> 00:25:06,590
 d'aquesta eina,
 
 1044
-00:25:05,200 --> 00:25:06,020
+00:25:06,970 --> 00:25:07,790
 com limitar-la,
 
 1045
-00:25:06,280 --> 00:25:06,900
+00:25:08,050 --> 00:25:08,670
 com acotar-ne
 
 1046
-00:25:06,900 --> 00:25:08,240
+00:25:08,670 --> 00:25:10,010
 l'accés d'informació inútil,
 
 1047
-00:25:08,640 --> 00:25:09,120
+00:25:10,410 --> 00:25:10,890
 com vigilar
 
 1048
-00:25:09,120 --> 00:25:10,140
+00:25:10,890 --> 00:25:11,910
 que no s'inventi leis
 
 1049
-00:25:10,140 --> 00:25:11,320
+00:25:11,910 --> 00:25:13,090
 i com pautar-li
 
 1050
-00:25:11,320 --> 00:25:12,240
+00:25:13,090 --> 00:25:14,010
 els passos de proc
 
 1051
-00:25:12,240 --> 00:25:13,140
+00:25:14,010 --> 00:25:14,910
 perquè no ens ho pegui
 
 1052
-00:25:13,140 --> 00:25:13,720
+00:25:14,910 --> 00:25:15,490
 constantment.
 
 1053
-00:25:13,940 --> 00:25:14,980
+00:25:15,710 --> 00:25:16,750
 Hem après a posar-li
 
 1054
-00:25:14,980 --> 00:25:16,220
+00:25:16,750 --> 00:25:17,990
 morrió, pràcticament.
 
 1055
-00:25:16,360 --> 00:25:16,740
+00:25:18,130 --> 00:25:18,510
 Sí, sí.
 
 1056
-00:25:17,360 --> 00:25:18,200
+00:25:19,130 --> 00:25:19,970
 Però aquí és on es posa
 
 1057
-00:25:18,200 --> 00:25:19,020
+00:25:19,970 --> 00:25:20,790
 realment interessant
 
 1058
-00:25:19,020 --> 00:25:19,200
+00:25:20,790 --> 00:25:20,970
 el documentari.
 
 1059
-00:25:19,360 --> 00:25:21,540
+00:25:21,130 --> 00:25:23,310
 Perquè l'última secció
 
 1060
-00:25:21,540 --> 00:25:22,800
+00:25:23,310 --> 00:25:24,570
 fa un canvi de paradigma
 
 1061
-00:25:22,800 --> 00:25:23,840
+00:25:24,570 --> 00:25:25,610
 total i absolut.
 
 1062
-00:25:24,440 --> 00:25:25,500
+00:25:26,210 --> 00:25:27,270
 Planteja què passa
 
 1063
-00:25:25,500 --> 00:25:26,420
+00:25:27,270 --> 00:25:28,190
 si deixem de tractar
 
 1064
-00:25:26,420 --> 00:25:27,380
+00:25:28,190 --> 00:25:29,150
 la intel·ligència artificial
 
 1065
-00:25:27,380 --> 00:25:28,340
+00:25:29,150 --> 00:25:30,110
 com una màquina
 
 1066
-00:25:28,340 --> 00:25:29,260
+00:25:30,110 --> 00:25:31,030
 d'execució cega
 
 1067
-00:25:29,260 --> 00:25:30,660
+00:25:31,030 --> 00:25:32,430
 i comencem a aprofitar
 
 1068
-00:25:30,660 --> 00:25:31,660
+00:25:32,430 --> 00:25:33,430
 la seva immensa base
 
 1069
-00:25:31,660 --> 00:25:32,160
+00:25:33,430 --> 00:25:33,930
 de dades
 
 1070
-00:25:32,160 --> 00:25:33,160
+00:25:33,930 --> 00:25:34,930
 per fer que ens porti
 
 1071
-00:25:33,160 --> 00:25:34,120
+00:25:34,930 --> 00:25:35,890
 a llocs on nosaltres
 
 1072
-00:25:34,120 --> 00:25:35,140
+00:25:35,890 --> 00:25:36,910
 no hauríem pensat mai anar.
 
 1073
-00:25:35,400 --> 00:25:37,020
+00:25:37,170 --> 00:25:38,790
 Aquest és el gran salt
 
 1074
-00:25:37,020 --> 00:25:38,060
+00:25:38,790 --> 00:25:39,830
 cap a l'autèntica
 
 1075
-00:25:38,060 --> 00:25:38,360
+00:25:39,830 --> 00:25:40,130
 col·laboració
 
 1076
-00:25:38,920 --> 00:25:39,840
+00:25:40,690 --> 00:25:41,610
 home-màquina.
 
 1077
-00:25:40,580 --> 00:25:41,800
+00:25:42,350 --> 00:25:43,570
 Implica, bàsicament,
 
 1078
-00:25:42,280 --> 00:25:43,280
+00:25:44,050 --> 00:25:45,050
 invertir els papers
 
 1079
-00:25:43,280 --> 00:25:43,360
+00:25:45,050 --> 00:25:45,130
 tradicionals.
 
 1080
-00:25:44,880 --> 00:25:46,120
+00:25:46,650 --> 00:25:47,890
 En lloc de dictar ordres
 
 1081
-00:25:46,120 --> 00:25:47,360
+00:25:47,890 --> 00:25:49,130
 i esperar el text,
 
 1082
-00:25:47,860 --> 00:25:48,580
+00:25:49,630 --> 00:25:50,350
 es converteix
 
 1083
-00:25:48,580 --> 00:25:49,220
+00:25:50,350 --> 00:25:50,990
 en un procés
 
 1084
-00:25:49,220 --> 00:25:50,020
+00:25:50,990 --> 00:25:51,790
 de consulta
 
 1085
-00:25:50,020 --> 00:25:51,060
+00:25:51,790 --> 00:25:52,830
 on la màquina
 
 1086
-00:25:51,060 --> 00:25:52,720
+00:25:52,830 --> 00:25:54,490
 actua com a companya
 
 1087
-00:25:52,720 --> 00:25:53,860
+00:25:54,490 --> 00:25:55,630
 de reflexió creativa,
 
 1088
-00:25:54,420 --> 00:25:55,280
+00:25:56,190 --> 00:25:57,050
 no només com a
 
 1089
-00:25:55,280 --> 00:25:56,640
+00:25:57,050 --> 00:25:58,410
 mecanògrafa avançada.
 
 1090
-00:25:57,500 --> 00:25:59,100
+00:25:59,270 --> 00:26:00,870
 I el punt de partida
 
 1091
-00:25:59,100 --> 00:25:59,720
+00:26:00,870 --> 00:26:01,490
 d'aquest canvi
 
 1092
-00:25:59,720 --> 00:26:00,280
+00:26:01,490 --> 00:26:02,050
 on es troba?
 
 1093
-00:26:00,900 --> 00:26:01,900
+00:26:02,670 --> 00:26:03,670
 Es troba en una cosa
 
 1094
-00:26:01,900 --> 00:26:02,760
+00:26:03,670 --> 00:26:04,530
 molt humana,
 
 1095
-00:26:03,180 --> 00:26:03,580
+00:26:04,950 --> 00:26:05,350
 en l'art
 
 1096
-00:26:03,580 --> 00:26:04,200
+00:26:05,350 --> 00:26:05,970
 de formular
 
 1097
-00:26:04,200 --> 00:26:05,440
+00:26:05,970 --> 00:26:07,210
 el problema correctament.
 
 1098
-00:26:05,720 --> 00:26:07,080
+00:26:07,490 --> 00:26:08,850
 Aquesta és la gran diferència
 
 1099
-00:26:07,080 --> 00:26:07,900
+00:26:08,850 --> 00:26:09,670
 entre demanar
 
 1100
-00:26:07,900 --> 00:26:09,140
+00:26:09,670 --> 00:26:10,910
 una solució preconcebuda,
 
 1101
-00:26:09,380 --> 00:26:10,080
+00:26:11,150 --> 00:26:11,850
 que ja la portem
 
 1102
-00:26:10,080 --> 00:26:10,880
+00:26:11,850 --> 00:26:12,650
 pensada de casa,
 
 1103
-00:26:11,300 --> 00:26:12,700
+00:26:13,070 --> 00:26:14,470
 i descriure un dolor
 
 1104
-00:26:12,700 --> 00:26:14,020
+00:26:14,470 --> 00:26:15,790
 o una necessitat real.
 
 1105
-00:26:14,640 --> 00:26:15,160
+00:26:16,410 --> 00:26:16,930
 El document
 
 1106
-00:26:15,160 --> 00:26:15,880
+00:26:16,930 --> 00:26:17,650
 posa de manifest
 
 1107
-00:26:15,880 --> 00:26:16,580
+00:26:17,650 --> 00:26:18,350
 que nosaltres,
 
 1108
-00:26:16,720 --> 00:26:17,440
+00:26:18,490 --> 00:26:19,210
 els éssers humans,
 
 1109
-00:26:17,980 --> 00:26:19,060
+00:26:19,750 --> 00:26:20,830
 solem tancar les portes
 
 1110
-00:26:19,060 --> 00:26:19,200
+00:26:20,830 --> 00:26:20,970
 a la qualitat
 
 1111
-00:26:19,200 --> 00:26:19,840
+00:26:20,970 --> 00:26:21,610
 i a la creativitat
 
 1112
-00:26:19,840 --> 00:26:21,020
+00:26:21,610 --> 00:26:22,790
 amb la pròpia pregunta
 
 1113
-00:26:21,020 --> 00:26:22,140
+00:26:22,790 --> 00:26:23,910
 que fem a l'inici.
 
 1114
-00:26:22,420 --> 00:26:23,060
+00:26:24,190 --> 00:26:24,830
 Ens limitem
 
 1115
-00:26:23,060 --> 00:26:24,160
+00:26:24,830 --> 00:26:25,930
 nosaltres mateixos
 
 1116
-00:26:24,160 --> 00:26:25,340
+00:26:25,930 --> 00:26:27,110
 sense adonar-nos-en.
 
 1117
-00:26:25,420 --> 00:26:25,620
+00:26:27,190 --> 00:26:27,390
 Clar,
 
 1118
-00:26:26,100 --> 00:26:27,100
+00:26:27,870 --> 00:26:28,870
 l'exemple del cotxe
 
 1119
-00:26:27,100 --> 00:26:28,460
+00:26:28,870 --> 00:26:30,230
 ho demostra perfectament.
 
 1120
-00:26:28,940 --> 00:26:30,040
+00:26:30,710 --> 00:26:31,810
 Si tu escrius al xat
 
 1121
-00:26:30,040 --> 00:26:31,800
+00:26:31,810 --> 00:26:33,570
 cerca el millor cotxe elèctric
 
 1122
-00:26:31,800 --> 00:26:32,520
+00:26:33,570 --> 00:26:34,290
 que costi menys
 
 1123
-00:26:32,520 --> 00:26:33,580
+00:26:34,290 --> 00:26:35,350
 de 30.000 euros,
 
 1124
-00:26:33,800 --> 00:26:34,340
+00:26:35,570 --> 00:26:36,110
 el sistema,
 
 1125
-00:26:34,700 --> 00:26:35,180
+00:26:36,470 --> 00:26:36,950
 que ja hem vist
 
 1126
-00:26:35,180 --> 00:26:36,240
+00:26:36,950 --> 00:26:38,010
 que és obedient i literal,
 
 1127
-00:26:36,740 --> 00:26:37,660
+00:26:38,510 --> 00:26:39,430
 oferirà una llista
 
 1128
-00:26:37,660 --> 00:26:38,520
+00:26:39,430 --> 00:26:40,290
 estricta
 
 1129
-00:26:38,520 --> 00:26:39,500
+00:26:40,290 --> 00:26:41,270
 de cotxes elèctrics.
 
 1130
-00:26:39,860 --> 00:26:40,680
+00:26:41,630 --> 00:26:42,450
 Has acotat tu
 
 1131
-00:26:40,680 --> 00:26:41,320
+00:26:42,450 --> 00:26:43,090
 tot l'univers
 
 1132
-00:26:41,320 --> 00:26:42,640
+00:26:43,090 --> 00:26:44,410
 de respostes possibles
 
 1133
-00:26:42,640 --> 00:26:43,960
+00:26:44,410 --> 00:26:45,730
 amb una sola frase.
 
 1134
-00:26:44,440 --> 00:26:45,000
+00:26:46,210 --> 00:26:46,770
 Exacte.
 
 1135
-00:26:45,380 --> 00:26:45,600
+00:26:47,150 --> 00:26:47,370
 Però,
 
 1136
-00:26:45,940 --> 00:26:46,500
+00:26:47,710 --> 00:26:48,270
 què passa
 
 1137
-00:26:46,500 --> 00:26:47,280
+00:26:48,270 --> 00:26:49,050
 si es capgira
 
 1138
-00:26:47,280 --> 00:26:48,140
+00:26:49,050 --> 00:26:49,910
 aquest enfocament
 
 1139
-00:26:48,140 --> 00:26:49,040
+00:26:49,910 --> 00:26:50,810
 i et dediques
 
 1140
-00:26:49,040 --> 00:26:49,960
+00:26:50,810 --> 00:26:51,730
 a descriure
 
 1141
-00:26:49,960 --> 00:26:50,980
+00:26:51,730 --> 00:26:52,750
 el problema real?
 
 1142
-00:26:51,300 --> 00:26:51,860
+00:26:53,070 --> 00:26:53,630
 Per exemple,
 
 1143
-00:26:52,280 --> 00:26:52,580
+00:26:54,050 --> 00:26:54,350
 poses
 
 1144
-00:26:52,580 --> 00:26:53,600
+00:26:54,350 --> 00:26:55,370
 l'objectiu
 
 1145
-00:26:53,600 --> 00:26:54,480
+00:26:55,370 --> 00:26:56,250
 és anar a la feina
 
 1146
-00:26:54,480 --> 00:26:56,320
+00:26:56,250 --> 00:26:58,090
 fent 40 quilòmetres diaris
 
 1147
-00:26:56,320 --> 00:26:57,120
+00:26:58,090 --> 00:26:58,890
 en un entorn
 
 1148
-00:26:57,120 --> 00:26:57,760
+00:26:58,890 --> 00:26:59,530
 interurbà
 
 1149
-00:26:57,760 --> 00:26:58,940
+00:26:59,530 --> 00:27:00,710
 o de la Corona de Barcelona.
 
 1150
-00:26:59,560 --> 00:27:00,580
+00:27:01,330 --> 00:27:02,350
 Tinc un pressupost màxim
 
 1151
-00:27:00,580 --> 00:27:01,420
+00:27:02,350 --> 00:27:03,190
 de 30.000 euros
 
 1152
-00:27:01,420 --> 00:27:02,060
+00:27:03,190 --> 00:27:03,830
 estalviats
 
 1153
-00:27:02,060 --> 00:27:03,260
+00:27:03,830 --> 00:27:05,030
 i la meva prioritat
 
 1154
-00:27:03,260 --> 00:27:03,800
+00:27:05,030 --> 00:27:05,570
 ara mateix
 
 1155
-00:27:03,800 --> 00:27:04,440
+00:27:05,570 --> 00:27:06,210
 és reduir
 
 1156
-00:27:04,440 --> 00:27:05,320
+00:27:06,210 --> 00:27:07,090
 la despesa mensual
 
 1157
-00:27:05,320 --> 00:27:06,120
+00:27:07,090 --> 00:27:07,890
 de combustible
 
 1158
-00:27:06,120 --> 00:27:07,140
+00:27:07,890 --> 00:27:08,910
 al mínim.
 
 1159
-00:27:07,160 --> 00:27:08,100
+00:27:08,930 --> 00:27:09,870
 Aquí el panorama
 
 1160
-00:27:08,100 --> 00:27:09,300
+00:27:09,870 --> 00:27:11,070
 ja canvia completament.
 
 1161
-00:27:09,520 --> 00:27:10,040
+00:27:11,290 --> 00:27:11,810
 S'esdispara.
 
 1162
-00:27:10,340 --> 00:27:10,680
+00:27:12,110 --> 00:27:12,450
 I tant.
 
 1163
-00:27:11,300 --> 00:27:12,180
+00:27:13,070 --> 00:27:13,950
 Al veus ser lliure
 
 1164
-00:27:12,180 --> 00:27:13,420
+00:27:13,950 --> 00:27:15,190
 d'aquelles restriccions
 
 1165
-00:27:13,420 --> 00:27:14,580
+00:27:15,190 --> 00:27:16,350
 prèvies de la marca
 
 1166
-00:27:14,580 --> 00:27:15,780
+00:27:16,350 --> 00:27:17,550
 o la paraula cotxe,
 
 1167
-00:27:16,200 --> 00:27:16,820
+00:27:17,970 --> 00:27:18,590
 la màquina
 
 1168
-00:27:16,820 --> 00:27:17,560
+00:27:18,590 --> 00:27:19,330
 pot començar
 
 1169
-00:27:17,560 --> 00:27:18,660
+00:27:19,330 --> 00:27:20,430
 a introduir variables
 
 1170
-00:27:18,660 --> 00:27:18,820
+00:27:20,430 --> 00:27:20,590
 sorprenents
 
 1171
-00:27:19,040 --> 00:27:20,760
+00:27:20,810 --> 00:27:22,530
 que tu no contemplaves.
 
 1172
-00:27:21,220 --> 00:27:22,020
+00:27:22,990 --> 00:27:23,790
 Et pot suggerir,
 
 1173
-00:27:22,240 --> 00:27:22,700
+00:27:24,010 --> 00:27:24,470
 jo què sé,
 
 1174
-00:27:22,840 --> 00:27:23,580
+00:27:24,610 --> 00:27:25,350
 vehicles híbrids
 
 1175
-00:27:23,580 --> 00:27:24,520
+00:27:25,350 --> 00:27:26,290
 de molt baix consum,
 
 1176
-00:27:24,840 --> 00:27:25,420
+00:27:26,610 --> 00:27:27,190
 et pot posar
 
 1177
-00:27:25,420 --> 00:27:26,120
+00:27:27,190 --> 00:27:27,890
 sobre la taula
 
 1178
-00:27:26,120 --> 00:27:26,720
+00:27:27,890 --> 00:27:28,490
 alternatives
 
 1179
-00:27:26,720 --> 00:27:28,540
+00:27:28,490 --> 00:27:30,310
 com maxiescooters elèctriques
 
 1180
-00:27:28,540 --> 00:27:29,600
+00:27:30,310 --> 00:27:31,370
 per evitar embusos
 
 1181
-00:27:29,600 --> 00:27:30,520
+00:27:31,370 --> 00:27:32,290
 o, fins i tot,
 
 1182
-00:27:30,720 --> 00:27:31,300
+00:27:32,490 --> 00:27:33,070
 calcular-te
 
 1183
-00:27:31,300 --> 00:27:32,800
+00:27:33,070 --> 00:27:34,570
 si et compensa econòmicament
 
 1184
-00:27:32,800 --> 00:27:33,840
+00:27:34,570 --> 00:27:35,610
 fer un ús combinat
 
 1185
-00:27:33,840 --> 00:27:34,860
+00:27:35,610 --> 00:27:36,630
 de plataformes
 
 1186
-00:27:34,860 --> 00:27:35,880
+00:27:36,630 --> 00:27:37,650
 de cotxe compartit
 
 1187
-00:27:35,880 --> 00:27:36,860
+00:27:37,650 --> 00:27:38,630
 i transport públic.
 
 1188
-00:27:37,460 --> 00:27:38,000
+00:27:39,230 --> 00:27:39,770
 Fins i tot
 
 1189
-00:27:38,000 --> 00:27:39,440
+00:27:39,770 --> 00:27:41,210
 vehicles de quilòmetre zero
 
 1190
-00:27:39,440 --> 00:27:40,420
+00:27:41,210 --> 00:27:42,190
 o de segona mà
 
 1191
-00:27:40,420 --> 00:27:41,540
+00:27:42,190 --> 00:27:43,310
 amb etiquetes eco.
 
 1192
-00:27:42,200 --> 00:27:42,480
+00:27:43,970 --> 00:27:44,250
 La clau
 
 1193
-00:27:42,480 --> 00:27:43,700
+00:27:44,250 --> 00:27:45,470
 de tot aquest potencial
 
 1194
-00:27:43,700 --> 00:27:44,900
+00:27:45,470 --> 00:27:46,670
 és que s'ha de tractar
 
 1195
-00:27:44,900 --> 00:27:45,960
+00:27:46,670 --> 00:27:47,730
 d'explicar el problema,
 
 1196
-00:27:46,380 --> 00:27:47,160
+00:27:48,150 --> 00:27:48,930
 no d'encarregar
 
 1197
-00:27:47,160 --> 00:27:48,500
+00:27:48,930 --> 00:27:50,270
 la solució empaquetada.
 
 1198
-00:27:48,500 --> 00:27:49,880
+00:27:50,270 --> 00:27:51,650
 Deixar que la màquina
 
 1199
-00:27:49,880 --> 00:27:51,360
+00:27:51,650 --> 00:27:53,130
 pensi l'estratègia,
 
 1200
-00:27:51,640 --> 00:27:52,740
+00:27:53,410 --> 00:27:54,510
 no només l'executi.
 
 1201
-00:27:53,000 --> 00:27:53,560
+00:27:54,770 --> 00:27:55,330
 Aquest nivell
 
 1202
-00:27:53,560 --> 00:27:54,480
+00:27:55,330 --> 00:27:56,250
 d'abstracció tan alt
 
 1203
-00:27:54,480 --> 00:27:55,500
+00:27:56,250 --> 00:27:57,270
 permet habilitar
 
 1204
-00:27:55,500 --> 00:27:56,220
+00:27:57,270 --> 00:27:57,990
 el que Kessler
 
 1205
-00:27:56,220 --> 00:27:56,760
+00:27:57,990 --> 00:27:58,530
 anomena
 
 1206
-00:27:56,760 --> 00:27:58,060
+00:27:58,530 --> 00:27:59,830
 la direcció inversa,
 
 1207
-00:27:58,540 --> 00:27:59,380
+00:28:00,310 --> 00:28:01,150
 on pràcticament
 
 1208
-00:27:59,380 --> 00:28:00,400
+00:28:01,150 --> 00:28:02,170
 es deixa que el sistema
 
 1209
-00:28:00,400 --> 00:28:01,120
+00:28:02,170 --> 00:28:02,890
 agafi el volant
 
 1210
-00:28:01,120 --> 00:28:02,280
+00:28:02,890 --> 00:28:04,050
 i prengui el control
 
 1211
-00:28:02,280 --> 00:28:03,180
+00:28:04,050 --> 00:28:04,950
 del disseny.
 
 1212
-00:28:03,360 --> 00:28:04,120
+00:28:05,130 --> 00:28:05,890
 I es veu molt bé
 
 1213
-00:28:04,120 --> 00:28:04,720
+00:28:05,890 --> 00:28:06,490
 quan parlem
 
 1214
-00:28:04,720 --> 00:28:05,600
+00:28:06,490 --> 00:28:07,370
 de l'organització
 
 1215
-00:28:05,600 --> 00:28:06,360
+00:28:07,370 --> 00:28:08,130
 d'esdeveniments.
 
 1216
-00:28:06,640 --> 00:28:07,100
+00:28:08,410 --> 00:28:08,870
 Ah, sí,
 
 1217
-00:28:07,260 --> 00:28:07,720
+00:28:09,030 --> 00:28:09,490
 l'exemple
 
 1218
-00:28:07,720 --> 00:28:08,380
+00:28:09,490 --> 00:28:10,150
 de la reunió
 
 1219
-00:28:08,380 --> 00:28:08,900
+00:28:10,150 --> 00:28:10,670
 de veïns
 
 1220
-00:28:08,900 --> 00:28:09,840
+00:28:10,670 --> 00:28:11,610
 envega de molt.
 
 1221
-00:28:10,240 --> 00:28:11,100
+00:28:12,010 --> 00:28:12,870
 És molt gràfic.
 
 1222
-00:28:11,800 --> 00:28:12,260
+00:28:13,570 --> 00:28:14,030
 Imaginem
 
 1223
-00:28:12,260 --> 00:28:13,020
+00:28:14,030 --> 00:28:14,790
 que hem d'organitzar
 
 1224
-00:28:13,020 --> 00:28:13,560
+00:28:14,790 --> 00:28:15,330
 una reunia
 
 1225
-00:28:13,560 --> 00:28:14,540
+00:28:15,330 --> 00:28:16,310
 de l'escala de veïns
 
 1226
-00:28:14,540 --> 00:28:15,580
+00:28:16,310 --> 00:28:17,350
 on s'ha de votar
 
 1227
-00:28:15,580 --> 00:28:16,040
+00:28:17,350 --> 00:28:17,810
 i aprovar
 
 1228
-00:28:16,040 --> 00:28:17,160
+00:28:17,810 --> 00:28:18,930
 una derrama econòmica
 
 1229
-00:28:17,160 --> 00:28:18,540
+00:28:18,930 --> 00:28:20,310
 molt i molt impopular
 
 1230
-00:28:18,540 --> 00:28:19,160
+00:28:20,310 --> 00:28:20,930
 per arreglar
 
 1231
-00:28:19,160 --> 00:28:19,940
+00:28:20,930 --> 00:28:21,710
 l'ascensor antic
 
 1232
-00:28:19,940 --> 00:28:20,800
+00:28:21,710 --> 00:28:22,570
 de l'edifici.
 
 1233
-00:28:21,100 --> 00:28:21,760
+00:28:22,870 --> 00:28:23,530
 Ningú el vol anar
 
 1234
-00:28:21,760 --> 00:28:22,660
+00:28:23,530 --> 00:28:24,430
 a una reunió així.
 
 1235
-00:28:23,300 --> 00:28:24,200
+00:28:25,070 --> 00:28:25,970
 Hi haurà crits, segur.
 
 1236
-00:28:24,740 --> 00:28:25,220
+00:28:26,510 --> 00:28:26,990
 Evidentment.
 
 1237
-00:28:25,740 --> 00:28:26,060
+00:28:27,510 --> 00:28:27,830
 Llavors,
 
 1238
-00:28:26,340 --> 00:28:27,220
+00:28:28,110 --> 00:28:28,990
 l'impuls inicial
 
 1239
-00:28:27,220 --> 00:28:28,400
+00:28:28,990 --> 00:28:30,170
 de qualsevol president
 
 1240
-00:28:28,400 --> 00:28:28,980
+00:28:30,170 --> 00:28:30,750
 de l'escala
 
 1241
-00:28:28,980 --> 00:28:30,160
+00:28:30,750 --> 00:28:31,930
 seria entrar al xat
 
 1242
-00:28:30,160 --> 00:28:30,920
+00:28:31,930 --> 00:28:32,690
 i demanar
 
 1243
-00:28:30,920 --> 00:28:31,460
+00:28:32,690 --> 00:28:33,230
 la redacció
 
 1244
-00:28:31,460 --> 00:28:31,900
+00:28:33,230 --> 00:28:33,670
 d'un ordre
 
 1245
-00:28:31,900 --> 00:28:33,020
+00:28:33,670 --> 00:28:34,790
 del dia estàndard,
 
 1246
-00:28:33,140 --> 00:28:34,240
+00:28:34,910 --> 00:28:36,010
 que serà fred,
 
 1247
-00:28:34,540 --> 00:28:35,040
+00:28:36,310 --> 00:28:36,810
 avorrit
 
 1248
-00:28:35,040 --> 00:28:36,040
+00:28:36,810 --> 00:28:37,810
 i probablement
 
 1249
-00:28:36,040 --> 00:28:37,160
+00:28:37,810 --> 00:28:38,930
 generarà mal ambient
 
 1250
-00:28:37,160 --> 00:28:38,020
+00:28:38,930 --> 00:28:39,790
 només llegir-lo.
 
 1251
-00:28:38,280 --> 00:28:38,480
+00:28:40,050 --> 00:28:40,250
 Clar,
 
 1252
-00:28:38,720 --> 00:28:39,200
+00:28:40,490 --> 00:28:40,970
 allò típic
 
 1253
-00:28:39,200 --> 00:28:40,120
+00:28:40,970 --> 00:28:41,890
 de punt 1
 
 1254
-00:28:40,120 --> 00:28:41,060
+00:28:41,890 --> 00:28:42,830
 pressupost,
 
 1255
-00:28:41,240 --> 00:28:41,700
+00:28:43,010 --> 00:28:43,470
 punt 2
 
 1256
-00:28:41,700 --> 00:28:42,300
+00:28:43,470 --> 00:28:44,070
 votació.
 
 1257
-00:28:42,560 --> 00:28:43,240
+00:28:44,330 --> 00:28:45,010
 Però si apliquem
 
 1258
-00:28:43,240 --> 00:28:44,300
+00:28:45,010 --> 00:28:46,070
 la direcció inversa
 
 1259
-00:28:44,300 --> 00:28:45,060
+00:28:46,070 --> 00:28:46,830
 i descrivim
 
 1260
-00:28:45,060 --> 00:28:46,080
+00:28:46,830 --> 00:28:47,850
 el context emocional,
 
 1261
-00:28:46,520 --> 00:28:47,380
+00:28:48,290 --> 00:28:49,150
 s'expressaria una cosa
 
 1262
-00:28:47,380 --> 00:28:47,720
+00:28:49,150 --> 00:28:49,490
 com
 
 1263
-00:28:47,720 --> 00:28:48,960
+00:28:49,490 --> 00:28:50,730
 s'ha de comunicar
 
 1264
-00:28:48,960 --> 00:28:49,540
+00:28:50,730 --> 00:28:51,310
 una despesa
 
 1265
-00:28:49,540 --> 00:28:50,100
+00:28:51,310 --> 00:28:51,870
 molt gran
 
 1266
-00:28:50,100 --> 00:28:50,660
+00:28:51,870 --> 00:28:52,430
 als veïns.
 
 1267
-00:28:51,120 --> 00:28:51,440
+00:28:52,890 --> 00:28:53,210
 L'ambient
 
 1268
-00:28:51,440 --> 00:28:52,280
+00:28:53,210 --> 00:28:54,050
 estarà molt tens
 
 1269
-00:28:52,280 --> 00:28:53,160
+00:28:54,050 --> 00:28:54,930
 i vull evitar
 
 1270
-00:28:53,160 --> 00:28:53,740
+00:28:54,930 --> 00:28:55,510
 una votació
 
 1271
-00:28:53,740 --> 00:28:54,560
+00:28:55,510 --> 00:28:56,330
 agressiva a l'inici.
 
 1272
-00:28:55,180 --> 00:28:56,120
+00:28:56,950 --> 00:28:57,890
 Necessito dissenyar
 
 1273
-00:28:56,120 --> 00:28:56,600
+00:28:57,890 --> 00:28:58,370
 dinàmiques
 
 1274
-00:28:56,600 --> 00:28:57,620
+00:28:58,370 --> 00:28:59,390
 molt participatives
 
 1275
-00:28:57,620 --> 00:28:58,560
+00:28:59,390 --> 00:29:00,330
 abans d'arribar
 
 1276
-00:28:58,560 --> 00:28:59,340
+00:29:00,330 --> 00:29:01,110
 al punt de votar.
 
 1277
-00:28:59,640 --> 00:29:00,280
+00:29:01,410 --> 00:29:02,050
 I com respon
 
 1278
-00:29:00,280 --> 00:29:01,040
+00:29:02,050 --> 00:29:02,810
 això l'assistent?
 
 1279
-00:29:01,420 --> 00:29:01,880
+00:29:03,190 --> 00:29:03,650
 Des que
 
 1280
-00:29:01,880 --> 00:29:02,600
+00:29:03,650 --> 00:29:04,370
 Eches Morrel
 
 1281
-00:29:02,600 --> 00:29:03,240
+00:29:04,370 --> 00:29:05,010
 ha processat
 
 1282
-00:29:03,240 --> 00:29:03,980
+00:29:05,010 --> 00:29:05,750
 pràcticament
 
 1283
-00:29:03,980 --> 00:29:05,080
+00:29:05,750 --> 00:29:06,850
 tots els llibres
 
 1284
-00:29:05,080 --> 00:29:05,840
+00:29:06,850 --> 00:29:07,610
 escrits sobre
 
 1285
-00:29:05,840 --> 00:29:07,180
+00:29:07,610 --> 00:29:08,950
 psicologia de grups,
 
 1286
-00:29:07,540 --> 00:29:08,000
+00:29:09,310 --> 00:29:09,770
 mediació
 
 1287
-00:29:08,000 --> 00:29:08,740
+00:29:09,770 --> 00:29:10,510
 i resolució
 
 1288
-00:29:08,740 --> 00:29:09,900
+00:29:10,510 --> 00:29:11,670
 de conflictes laborals,
 
 1289
-00:29:10,500 --> 00:29:11,460
+00:29:12,270 --> 00:29:13,230
 et pot proposar
 
 1290
-00:29:11,460 --> 00:29:12,220
+00:29:13,230 --> 00:29:13,990
 metodologies
 
 1291
-00:29:12,220 --> 00:29:13,040
+00:29:13,990 --> 00:29:14,810
 estructurades
 
 1292
-00:29:13,040 --> 00:29:14,280
+00:29:14,810 --> 00:29:16,050
 superinnovadores
 
 1293
-00:29:14,280 --> 00:29:14,980
+00:29:16,050 --> 00:29:16,750
 com,
 
 1294
-00:29:15,060 --> 00:29:15,480
+00:29:16,830 --> 00:29:17,250
 per exemple,
 
 1295
-00:29:15,680 --> 00:29:16,580
+00:29:17,450 --> 00:29:18,350
 organitzar taules
 
 1296
-00:29:16,580 --> 00:29:17,680
+00:29:18,350 --> 00:29:19,450
 rodones rotatives
 
 1297
-00:29:17,680 --> 00:29:18,760
+00:29:19,450 --> 00:29:20,530
 o el mètode
 
 1298
-00:29:18,760 --> 00:29:19,680
+00:29:20,530 --> 00:29:21,450
 del work-a-fair
 
 1299
-00:29:19,680 --> 00:29:20,740
+00:29:21,450 --> 00:29:22,510
 o tècniques
 
 1300
-00:29:20,740 --> 00:29:21,600
+00:29:22,510 --> 00:29:23,370
 de visualització
 
 1301
-00:29:21,600 --> 00:29:22,180
+00:29:23,370 --> 00:29:23,950
 de consens
 
 1302
-00:29:22,180 --> 00:29:22,820
+00:29:23,950 --> 00:29:24,590
 que pot ser
 
 1303
-00:29:22,820 --> 00:29:23,680
+00:29:24,590 --> 00:29:25,450
 a l'usuari
 
 1304
-00:29:23,680 --> 00:29:24,660
+00:29:25,450 --> 00:29:26,430
 ni se n'hi haurien passat
 
 1305
-00:29:24,660 --> 00:29:25,420
+00:29:26,430 --> 00:29:27,190
 pel cap mai
 
 1306
-00:29:25,420 --> 00:29:25,860
+00:29:27,190 --> 00:29:27,630
 de la vida.
 
 1307
-00:29:26,420 --> 00:29:26,900
+00:29:28,190 --> 00:29:28,670
 Ostres!
 
 1308
-00:29:27,660 --> 00:29:28,620
+00:29:29,430 --> 00:29:30,390
 Això, literalment,
 
 1309
-00:29:28,680 --> 00:29:29,720
+00:29:30,450 --> 00:29:31,490
 és utilitzar l'AINA
 
 1310
-00:29:29,720 --> 00:29:30,400
+00:29:31,490 --> 00:29:32,170
 per veure
 
 1311
-00:29:30,400 --> 00:29:31,100
+00:29:32,170 --> 00:29:32,870
 més enllà
 
 1312
-00:29:31,100 --> 00:29:32,120
+00:29:32,870 --> 00:29:33,890
 dels nostres propis
 
 1313
-00:29:32,120 --> 00:29:32,820
+00:29:33,890 --> 00:29:34,590
 punts secs,
 
 1314
-00:29:33,180 --> 00:29:33,660
+00:29:34,950 --> 00:29:35,430
 fer servir
 
 1315
-00:29:33,660 --> 00:29:34,780
+00:29:35,430 --> 00:29:36,550
 tot el seu coneixement
 
 1316
-00:29:34,780 --> 00:29:35,880
+00:29:36,550 --> 00:29:37,650
 per ser millors xestors.
 
 1317
-00:29:36,240 --> 00:29:37,580
+00:29:38,010 --> 00:29:39,350
 D'això es tracta.
 
 1318
-00:29:37,780 --> 00:29:38,440
+00:29:39,550 --> 00:29:40,210
 I crec que aquest
 
 1319
-00:29:38,440 --> 00:29:39,440
+00:29:40,210 --> 00:29:41,210
 mateix enfocament
 
 1320
-00:29:39,440 --> 00:29:40,260
+00:29:41,210 --> 00:29:42,030
 col·laboratiu
 
 1321
-00:29:40,260 --> 00:29:41,060
+00:29:42,030 --> 00:29:42,830
 d'explicar
 
 1322
-00:29:41,060 --> 00:29:41,500
+00:29:42,830 --> 00:29:43,270
 el per què
 
 1323
-00:29:41,500 --> 00:29:42,080
+00:29:43,270 --> 00:29:43,850
 i el com
 
 1324
-00:29:42,080 --> 00:29:43,360
+00:29:43,850 --> 00:29:45,130
 és la claumestra
 
 1325
-00:29:43,360 --> 00:29:44,200
+00:29:45,130 --> 00:29:45,970
 de tot plegat,
 
 1326
-00:29:44,600 --> 00:29:45,000
+00:29:46,370 --> 00:29:46,770
 fins i tot
 
 1327
-00:29:45,000 --> 00:29:45,700
+00:29:46,770 --> 00:29:47,470
 quan la màquina
 
 1328
-00:29:45,700 --> 00:29:46,220
+00:29:47,470 --> 00:29:47,990
 s'equivoca
 
 1329
-00:29:46,220 --> 00:29:46,860
+00:29:47,990 --> 00:29:48,630
 fent una tasca
 
 1330
-00:29:46,860 --> 00:29:47,980
+00:29:48,630 --> 00:29:49,750
 que és purament analítica,
 
 1331
-00:29:48,080 --> 00:29:48,180
+00:29:49,850 --> 00:29:49,950
 oi?
 
 1332
-00:29:48,680 --> 00:29:49,580
+00:29:50,450 --> 00:29:51,350
 Les instruccions
 
 1333
-00:29:49,580 --> 00:29:50,120
+00:29:51,350 --> 00:29:51,890
 de la guia
 
 1334
-00:29:50,120 --> 00:29:50,760
+00:29:51,890 --> 00:29:52,530
 subratllen
 
 1335
-00:29:50,760 --> 00:29:51,240
+00:29:52,530 --> 00:29:53,010
 d'una manera
 
 1336
-00:29:51,240 --> 00:29:52,100
+00:29:53,010 --> 00:29:53,870
 molt taxativa
 
 1337
-00:29:52,100 --> 00:29:53,280
+00:29:53,870 --> 00:29:55,050
 la importància
 
 1338
-00:29:53,280 --> 00:29:53,620
+00:29:55,050 --> 00:29:55,390
 de,
 
 1339
-00:29:53,840 --> 00:29:54,300
+00:29:55,610 --> 00:29:56,070
 i cito,
 
 1340
-00:29:54,660 --> 00:29:55,620
+00:29:56,430 --> 00:29:57,390
 frenar l'impuls
 
 1341
-00:29:55,620 --> 00:29:56,400
+00:29:57,390 --> 00:29:58,170
 quan hi ha un error.
 
 1342
-00:29:56,840 --> 00:29:57,900
+00:29:58,610 --> 00:29:59,670
 És importantíssim
 
 1343
-00:29:57,900 --> 00:29:58,540
+00:29:59,670 --> 00:30:00,310
 entendre això,
 
 1344
-00:29:58,680 --> 00:29:58,820
+00:30:00,450 --> 00:30:00,590
 sí.
 
 1345
-00:29:59,400 --> 00:29:59,660
+00:30:01,170 --> 00:30:01,430
 Perquè,
 
 1346
-00:29:59,780 --> 00:30:00,280
+00:30:01,550 --> 00:30:02,050
 normalment,
 
 1347
-00:30:00,660 --> 00:30:01,380
+00:30:02,430 --> 00:30:03,150
 quan el sistema
 
 1348
-00:30:01,380 --> 00:30:02,120
+00:30:03,150 --> 00:30:03,890
 s'equivoca,
 
 1349
-00:30:02,460 --> 00:30:02,880
+00:30:04,230 --> 00:30:04,650
 què fem?
 
 1350
-00:30:03,360 --> 00:30:04,340
+00:30:05,130 --> 00:30:06,110
 Pensem que raona
 
 1351
-00:30:04,340 --> 00:30:05,000
+00:30:06,110 --> 00:30:06,770
 com nosaltres.
 
 1352
-00:30:05,780 --> 00:30:06,400
+00:30:07,550 --> 00:30:08,170
 Però el sistema
 
 1353
-00:30:06,400 --> 00:30:07,280
+00:30:08,170 --> 00:30:09,050
 no reflexiona
 
 1354
-00:30:07,280 --> 00:30:07,860
+00:30:09,050 --> 00:30:09,630
 internament
 
 1355
-00:30:07,860 --> 00:30:08,540
+00:30:09,630 --> 00:30:10,310
 abans de parlar.
 
 1356
-00:30:09,140 --> 00:30:09,960
+00:30:10,910 --> 00:30:11,730
 Es limita a perdir
 
 1357
-00:30:09,960 --> 00:30:10,880
+00:30:11,730 --> 00:30:12,650
 el segon caràcter
 
 1358
-00:30:10,880 --> 00:30:12,140
+00:30:12,650 --> 00:30:13,910
 el més ràpid possible.
 
 1359
-00:30:12,660 --> 00:30:13,060
+00:30:14,430 --> 00:30:14,830
 Llavors,
 
 1360
-00:30:13,240 --> 00:30:14,380
+00:30:15,010 --> 00:30:16,150
 si està fent un càlcul
 
 1361
-00:30:14,380 --> 00:30:15,240
+00:30:16,150 --> 00:30:17,010
 per a nosaltres,
 
 1362
-00:30:15,540 --> 00:30:16,000
+00:30:17,310 --> 00:30:17,770
 per exemple,
 
 1363
-00:30:16,180 --> 00:30:17,220
+00:30:17,950 --> 00:30:18,990
 sobre la liquidació
 
 1364
-00:30:17,220 --> 00:30:18,140
+00:30:18,990 --> 00:30:19,910
 dels nostres dies
 
 1365
-00:30:18,140 --> 00:30:18,880
+00:30:19,910 --> 00:30:20,650
 de vacances,
 
 1366
-00:30:19,500 --> 00:30:20,240
+00:30:21,270 --> 00:30:22,010
 i ens n'adonem
 
 1367
-00:30:20,240 --> 00:30:21,100
+00:30:22,010 --> 00:30:22,870
 que el resultat
 
 1368
-00:30:21,100 --> 00:30:22,040
+00:30:22,870 --> 00:30:23,810
 és erroni...
 
 1369
-00:30:22,040 --> 00:30:22,620
+00:30:23,810 --> 00:30:24,390
 L'instint
 
 1370
-00:30:22,620 --> 00:30:23,860
+00:30:24,390 --> 00:30:25,630
 ens fa dir-li al xat
 
 1371
-00:30:23,860 --> 00:30:24,880
+00:30:25,630 --> 00:30:26,650
 escolta,
 
 1372
-00:30:25,180 --> 00:30:25,700
+00:30:26,950 --> 00:30:27,470
 el número
 
 1373
-00:30:25,700 --> 00:30:26,500
+00:30:27,470 --> 00:30:28,270
 està malament,
 
 1374
-00:30:26,860 --> 00:30:27,720
+00:30:28,630 --> 00:30:29,490
 torna a fer el càlcul.
 
 1375
-00:30:28,100 --> 00:30:28,320
+00:30:29,870 --> 00:30:30,090
 Clar,
 
 1376
-00:30:28,580 --> 00:30:29,720
+00:30:30,350 --> 00:30:31,490
 el mateix que li diries
 
 1377
-00:30:29,720 --> 00:30:30,600
+00:30:31,490 --> 00:30:32,370
 a un gestor humà.
 
 1378
-00:30:31,060 --> 00:30:31,580
+00:30:32,830 --> 00:30:33,350
 Exacte.
 
 1379
-00:30:31,900 --> 00:30:32,800
+00:30:33,670 --> 00:30:34,570
 Però amb la IA,
 
 1380
-00:30:33,160 --> 00:30:33,860
+00:30:34,930 --> 00:30:35,630
 el més probable
 
 1381
-00:30:33,860 --> 00:30:34,620
+00:30:35,630 --> 00:30:36,390
 és que la màquina
 
 1382
-00:30:34,620 --> 00:30:35,340
+00:30:36,390 --> 00:30:37,110
 entri de cap
 
 1383
-00:30:35,340 --> 00:30:36,560
+00:30:37,110 --> 00:30:38,330
 en un bucle tancat
 
 1384
-00:30:36,560 --> 00:30:37,860
+00:30:38,330 --> 00:30:39,630
 i el vagi repetint
 
 1385
-00:30:37,860 --> 00:30:38,340
+00:30:39,630 --> 00:30:40,110
 exactament
 
 1386
-00:30:38,340 --> 00:30:39,260
+00:30:40,110 --> 00:30:41,030
 la mateixa xifra
 
 1387
-00:30:39,260 --> 00:30:40,440
+00:30:41,030 --> 00:30:42,210
 equivocada constantment,
 
 1388
-00:30:40,940 --> 00:30:41,940
+00:30:42,710 --> 00:30:43,710
 perquè el seu model
 
 1389
-00:30:41,940 --> 00:30:42,820
+00:30:43,710 --> 00:30:44,590
 probabilístic
 
 1390
-00:30:42,820 --> 00:30:43,780
+00:30:44,590 --> 00:30:45,550
 segueix forçant
 
 1391
-00:30:43,780 --> 00:30:44,240
+00:30:45,550 --> 00:30:46,010
 el mateix camí.
 
 1392
-00:30:44,380 --> 00:30:46,680
+00:30:46,150 --> 00:30:48,450
 T'acaba tornant boi, això.
 
 1393
-00:30:47,620 --> 00:30:48,540
+00:30:49,390 --> 00:30:50,310
 Repeteix l'error
 
 1394
-00:30:48,540 --> 00:30:49,600
+00:30:50,310 --> 00:30:51,370
 fins a l'extenuació.
 
 1395
-00:30:49,820 --> 00:30:50,740
+00:30:51,590 --> 00:30:52,510
 És precisament
 
 1396
-00:30:50,740 --> 00:30:51,980
+00:30:52,510 --> 00:30:53,750
 la reacció
 
 1397
-00:30:51,980 --> 00:30:53,060
+00:30:53,750 --> 00:30:54,830
 menys desitjada
 
 1398
-00:30:53,060 --> 00:30:54,100
+00:30:54,830 --> 00:30:55,870
 quan busques ajuda.
 
 1399
-00:30:54,660 --> 00:30:55,040
+00:30:56,430 --> 00:30:56,810
 Llavors,
 
 1400
-00:30:55,480 --> 00:30:56,180
+00:30:57,250 --> 00:30:57,950
 quan això passa,
 
 1401
-00:30:56,460 --> 00:30:57,220
+00:30:58,230 --> 00:30:58,990
 inevitablement,
 
 1402
-00:30:57,640 --> 00:30:58,140
+00:30:59,410 --> 00:30:59,910
 cal aturar
 
 1403
-00:30:58,140 --> 00:30:59,100
+00:30:59,910 --> 00:31:00,870
 la màquina de cop
 
 1404
-00:30:59,100 --> 00:31:00,100
+00:31:00,870 --> 00:31:01,870
 i obligar-la
 
 1405
-00:31:00,100 --> 00:31:00,820
+00:31:01,870 --> 00:31:02,590
 a raonar
 
 1406
-00:31:00,820 --> 00:31:01,460
+00:31:02,590 --> 00:31:03,230
 pas a pas,
 
 1407
-00:31:02,080 --> 00:31:02,660
+00:31:03,850 --> 00:31:04,430
 forçant-la
 
 1408
-00:31:02,660 --> 00:31:03,380
+00:31:04,430 --> 00:31:05,150
 a modificar
 
 1409
-00:31:03,380 --> 00:31:04,200
+00:31:05,150 --> 00:31:05,970
 el seu camí
 
 1410
-00:31:04,200 --> 00:31:05,260
+00:31:05,970 --> 00:31:07,030
 de probabilitats.
 
 1411
-00:31:05,680 --> 00:31:06,460
+00:31:07,450 --> 00:31:08,230
 I com es força
 
 1412
-00:31:06,460 --> 00:31:07,460
+00:31:08,230 --> 00:31:09,230
 aquest canvi de via?
 
 1413
-00:31:07,820 --> 00:31:08,980
+00:31:09,590 --> 00:31:10,750
 Amb una instrucció
 
 1414
-00:31:08,980 --> 00:31:10,220
+00:31:10,750 --> 00:31:11,990
 molt específica,
 
 1415
-00:31:10,300 --> 00:31:10,960
+00:31:12,070 --> 00:31:12,730
 del tipus
 
 1416
-00:31:10,960 --> 00:31:11,980
+00:31:12,730 --> 00:31:13,750
 atura't,
 
 1417
-00:31:12,460 --> 00:31:13,000
+00:31:14,230 --> 00:31:14,770
 no em donis
 
 1418
-00:31:13,000 --> 00:31:13,840
+00:31:14,770 --> 00:31:15,610
 la xifra final
 
 1419
-00:31:13,840 --> 00:31:14,360
+00:31:15,610 --> 00:31:16,130
 ara mateix,
 
 1420
-00:31:14,380 --> 00:31:15,400
+00:31:16,150 --> 00:31:17,170
 escriu
 
 1421
-00:31:15,400 --> 00:31:16,420
+00:31:17,170 --> 00:31:18,190
 frase per frase
 
 1422
-00:31:16,420 --> 00:31:17,480
+00:31:18,190 --> 00:31:19,250
 quin criteri
 
 1423
-00:31:17,480 --> 00:31:18,260
+00:31:19,250 --> 00:31:20,030
 estàs aplicant
 
 1424
-00:31:18,260 --> 00:31:18,920
+00:31:20,030 --> 00:31:20,690
 internament
 
 1425
-00:31:18,920 --> 00:31:19,540
+00:31:20,690 --> 00:31:21,310
 per comptar
 
 1426
-00:31:19,540 --> 00:31:20,700
+00:31:21,310 --> 00:31:22,470
 els caps de setmanes
 
 1427
-00:31:20,700 --> 00:31:21,720
+00:31:22,470 --> 00:31:23,490
 i explica'm
 
 1428
-00:31:21,720 --> 00:31:22,680
+00:31:23,490 --> 00:31:24,450
 com estàs sumant
 
 1429
-00:31:22,680 --> 00:31:23,940
+00:31:24,450 --> 00:31:25,710
 les hores acumulades.
 
 1430
-00:31:24,300 --> 00:31:25,300
+00:31:26,070 --> 00:31:27,070
 Fent que ho escrigui
 
 1431
-00:31:25,300 --> 00:31:26,580
+00:31:27,070 --> 00:31:28,350
 en veu alta, diguéssim.
 
 1432
-00:31:26,840 --> 00:31:27,040
+00:31:28,610 --> 00:31:28,810
 Clar.
 
 1433
-00:31:27,600 --> 00:31:28,860
+00:31:29,370 --> 00:31:30,630
 Això trenca el bucle.
 
 1434
-00:31:29,520 --> 00:31:30,040
+00:31:31,290 --> 00:31:31,810
 Màgicament,
 
 1435
-00:31:30,480 --> 00:31:30,920
+00:31:32,250 --> 00:31:32,690
 en obligar
 
 1436
-00:31:30,920 --> 00:31:31,380
+00:31:32,690 --> 00:31:33,150
 aquesta intel·ligència
 
 1437
-00:31:31,960 --> 00:31:32,380
+00:31:33,730 --> 00:31:34,150
 a exterioritzar
 
 1438
-00:31:32,900 --> 00:31:34,340
+00:31:34,670 --> 00:31:36,110
 la seva lògica matemàtica
 
 1439
-00:31:34,340 --> 00:31:35,560
+00:31:36,110 --> 00:31:37,330
 en forma de text
 
 1440
-00:31:35,560 --> 00:31:36,200
+00:31:37,330 --> 00:31:37,970
 pas a pas,
 
 1441
-00:31:36,700 --> 00:31:37,680
+00:31:38,470 --> 00:31:39,450
 sovint ella mateixa
 
 1442
-00:31:37,680 --> 00:31:38,700
+00:31:39,450 --> 00:31:40,470
 corregeix l'error
 
 1443
-00:31:38,700 --> 00:31:39,700
+00:31:40,470 --> 00:31:41,470
 a meitat del procés.
 
 1444
-00:31:40,140 --> 00:31:40,400
+00:31:41,910 --> 00:31:42,170
 O bé,
 
 1445
-00:31:40,660 --> 00:31:41,380
+00:31:42,430 --> 00:31:43,150
 permet que tu,
 
 1446
-00:31:41,560 --> 00:31:42,080
+00:31:43,330 --> 00:31:43,850
 com a humà,
 
 1447
-00:31:42,280 --> 00:31:43,240
+00:31:44,050 --> 00:31:45,010
 llegeixis el text
 
 1448
-00:31:43,240 --> 00:31:44,180
+00:31:45,010 --> 00:31:45,950
 i detectis
 
 1449
-00:31:44,180 --> 00:31:44,880
+00:31:45,950 --> 00:31:46,650
 immediatament
 
 1450
-00:31:44,880 --> 00:31:45,560
+00:31:46,650 --> 00:31:47,330
 en quin pas
 
 1451
-00:31:45,560 --> 00:31:46,780
+00:31:47,330 --> 00:31:48,550
 intermedi estúpid
 
 1452
-00:31:46,780 --> 00:31:47,620
+00:31:48,550 --> 00:31:49,390
 està fallant
 
 1453
-00:31:47,620 --> 00:31:48,340
+00:31:49,390 --> 00:31:50,110
 el raonament
 
 1454
-00:31:48,340 --> 00:31:49,820
+00:31:50,110 --> 00:31:51,590
 i l'hi puguis corregir.
 
 1455
-00:31:50,000 --> 00:31:50,640
+00:31:51,770 --> 00:31:52,410
 Impressionant.
 
 1456
-00:31:51,080 --> 00:31:52,180
+00:31:52,850 --> 00:31:53,950
 Tota aquesta immersió
 
 1457
-00:31:52,180 --> 00:31:52,980
+00:31:53,950 --> 00:31:54,750
 que hem fet avui
 
 1458
-00:31:52,980 --> 00:31:54,240
+00:31:54,750 --> 00:31:56,010
 en el comportament
 
 1459
-00:31:54,240 --> 00:31:55,280
+00:31:56,010 --> 00:31:57,050
 i les debilitats
 
 1460
-00:31:55,280 --> 00:31:56,240
+00:31:57,050 --> 00:31:58,010
 d'aquests sistemes
 
 1461
-00:31:56,240 --> 00:31:56,920
+00:31:58,010 --> 00:31:58,690
 ens deixen
 
 1462
-00:31:56,920 --> 00:31:57,560
+00:31:58,690 --> 00:31:59,330
 un panorama
 
 1463
-00:31:57,560 --> 00:31:59,600
+00:31:59,330 --> 00:32:01,370
 bastant més ric
 
 1464
-00:31:59,600 --> 00:32:00,820
+00:32:01,370 --> 00:32:02,590
 que el d'un simple xat
 
 1465
-00:32:00,820 --> 00:32:01,980
+00:32:02,590 --> 00:32:03,750
 de respostes ràpides
 
 1466
-00:32:01,980 --> 00:32:02,940
+00:32:03,750 --> 00:32:04,710
 on demanes
 
 1467
-00:32:02,940 --> 00:32:03,780
+00:32:04,710 --> 00:32:05,550
 una recepta
 
 1468
-00:32:03,780 --> 00:32:04,560
+00:32:05,550 --> 00:32:06,330
 o un codi.
 
 1469
-00:32:04,940 --> 00:32:05,580
+00:32:06,710 --> 00:32:07,350
 Sens dubte.
 
 1470
-00:32:06,040 --> 00:32:06,820
+00:32:07,810 --> 00:32:08,590
 Hem esgarrapat
 
 1471
-00:32:06,820 --> 00:32:08,000
+00:32:08,590 --> 00:32:09,770
 sota la superfècie.
 
 1472
-00:32:08,740 --> 00:32:09,660
+00:32:10,510 --> 00:32:11,430
 Després de recórrer
 
 1473
-00:32:09,660 --> 00:32:10,600
+00:32:11,430 --> 00:32:12,370
 tots aquests patrons,
 
 1474
-00:32:10,960 --> 00:32:12,120
+00:32:12,730 --> 00:32:13,890
 des de la gestió
 
 1475
-00:32:12,120 --> 00:32:13,100
+00:32:13,890 --> 00:32:14,870
 d'aquella maleïda
 
 1476
-00:32:13,100 --> 00:32:14,060
+00:32:14,870 --> 00:32:15,830
 amnèsia digital
 
 1477
-00:32:14,060 --> 00:32:15,380
+00:32:15,830 --> 00:32:17,150
 i la hiperactivitat
 
 1478
-00:32:15,380 --> 00:32:16,100
+00:32:17,150 --> 00:32:17,870
 de l'assistent,
 
 1479
-00:32:16,600 --> 00:32:17,560
+00:32:18,370 --> 00:32:19,330
 passant per aprendre
 
 1480
-00:32:17,560 --> 00:32:18,340
+00:32:19,330 --> 00:32:20,110
 a domesticar
 
 1481
-00:32:18,340 --> 00:32:18,660
+00:32:20,110 --> 00:32:20,430
 el viatge
 
 1482
-00:32:18,660 --> 00:32:20,020
+00:32:20,430 --> 00:32:21,790
 de complacència tòxic
 
 1483
-00:32:20,020 --> 00:32:20,940
+00:32:21,790 --> 00:32:22,710
 fins a arribar
 
 1484
-00:32:20,940 --> 00:32:21,420
+00:32:22,710 --> 00:32:23,190
 a establir
 
 1485
-00:32:21,420 --> 00:32:22,600
+00:32:23,190 --> 00:32:24,370
 tota una enginyeria
 
 1486
-00:32:22,600 --> 00:32:23,960
+00:32:24,370 --> 00:32:25,730
 de passos estructurats
 
 1487
-00:32:23,960 --> 00:32:25,240
+00:32:25,730 --> 00:32:27,010
 i col·laboració activa,
 
 1488
-00:32:25,640 --> 00:32:26,600
+00:32:27,410 --> 00:32:28,370
 amb quin aprenentatge
 
 1489
-00:32:26,600 --> 00:32:27,120
+00:32:28,370 --> 00:32:28,890
 essencial
 
 1490
-00:32:27,120 --> 00:32:28,240
+00:32:28,890 --> 00:32:30,010
 ens hauríem de quedar avui
 
 1491
-00:32:28,240 --> 00:32:29,180
+00:32:30,010 --> 00:32:30,950
 abans de tancar?
 
 1492
-00:32:29,540 --> 00:32:30,580
+00:32:31,310 --> 00:32:32,350
 Si connectem això
 
 1493
-00:32:30,580 --> 00:32:32,060
+00:32:32,350 --> 00:32:33,830
 amb la perspectiva general,
 
 1494
-00:32:32,640 --> 00:32:33,920
+00:32:34,410 --> 00:32:35,690
 amb tota la visió macro
 
 1495
-00:32:33,920 --> 00:32:35,260
+00:32:35,690 --> 00:32:37,030
 de com la tecnologia
 
 1496
-00:32:35,260 --> 00:32:36,420
+00:32:37,030 --> 00:32:38,190
 d'última generació
 
 1497
-00:32:36,420 --> 00:32:37,380
+00:32:38,190 --> 00:32:39,150
 s'està integrant
 
 1498
-00:32:37,380 --> 00:32:38,200
+00:32:39,150 --> 00:32:39,970
 acceleradament
 
 1499
-00:32:38,200 --> 00:32:39,600
+00:32:39,970 --> 00:32:41,370
 en el nostre dia a dia
 
 1500
-00:32:39,600 --> 00:32:40,100
+00:32:41,370 --> 00:32:41,870
 laboral
 
 1501
-00:32:40,100 --> 00:32:40,900
+00:32:41,870 --> 00:32:42,670
 i en personal,
 
 1502
-00:32:41,880 --> 00:32:42,860
+00:32:43,650 --> 00:32:44,630
 el cor d'aquest missatge
 
 1503
-00:32:42,860 --> 00:32:43,720
+00:32:44,630 --> 00:32:45,490
 que ens dona a la font
 
 1504
-00:32:43,720 --> 00:32:44,040
+00:32:45,490 --> 00:32:45,810
 és que
 
 1505
-00:32:44,040 --> 00:32:45,500
+00:32:45,810 --> 00:32:47,270
 és un canvi de perspectiva
 
 1506
-00:32:45,500 --> 00:32:47,080
+00:32:47,270 --> 00:32:48,850
 absolutament alliberador,
 
 1507
-00:32:47,320 --> 00:32:47,760
+00:32:49,090 --> 00:32:49,530
 crec jo.
 
 1508
-00:32:48,100 --> 00:32:49,420
+00:32:49,870 --> 00:32:51,190
 Un canvi en quin sentit?
 
 1509
-00:32:49,620 --> 00:32:50,520
+00:32:51,390 --> 00:32:52,290
 En el sentit que,
 
 1510
-00:32:50,900 --> 00:32:52,180
+00:32:52,670 --> 00:32:53,950
 a mesura que aquestes eines
 
 1511
-00:32:52,180 --> 00:32:52,900
+00:32:53,950 --> 00:32:54,670
 evolucionen
 
 1512
-00:32:52,900 --> 00:32:54,220
+00:32:54,670 --> 00:32:55,990
 a un ritme de vertige,
 
 1513
-00:32:54,820 --> 00:32:55,900
+00:32:56,590 --> 00:32:57,670
 l'avantatge competitiu
 
 1514
-00:32:55,900 --> 00:32:57,080
+00:32:57,670 --> 00:32:58,850
 ja no el tenen pas
 
 1515
-00:32:57,080 --> 00:32:57,800
+00:32:58,850 --> 00:32:59,570
 aquelles persones
 
 1516
-00:32:57,800 --> 00:32:58,920
+00:32:59,570 --> 00:33:00,690
 amb grans coneixements
 
 1517
-00:32:58,920 --> 00:32:59,700
+00:33:00,690 --> 00:33:01,470
 de programació
 
 1518
-00:32:59,700 --> 00:33:00,520
+00:33:01,470 --> 00:33:02,290
 i pica-codi
 
 1519
-00:33:00,520 --> 00:33:01,980
+00:33:02,290 --> 00:33:03,750
 o amb capacitats tècniques
 
 1520
-00:33:01,980 --> 00:33:03,040
+00:33:03,750 --> 00:33:04,810
 avançadíssimes en sistemes.
 
 1521
-00:33:03,820 --> 00:33:04,220
+00:33:05,590 --> 00:33:05,990
 I llavors,
 
 1522
-00:33:04,580 --> 00:33:06,040
+00:33:06,350 --> 00:33:07,810
 qui té l'avantatge real aquí?
 
 1523
-00:33:06,240 --> 00:33:07,220
+00:33:08,010 --> 00:33:08,990
 L'avantatge el tenen
 
 1524
-00:33:07,220 --> 00:33:08,640
+00:33:08,990 --> 00:33:10,410
 de manera gairebé exclusiva
 
 1525
-00:33:08,640 --> 00:33:09,960
+00:33:10,410 --> 00:33:11,730
 els bons comunicadors
 
 1526
-00:33:09,960 --> 00:33:11,020
+00:33:11,730 --> 00:33:12,790
 en el sentit clàssic.
 
 1527
-00:33:11,140 --> 00:33:11,600
+00:33:12,910 --> 00:33:13,370
 Ostres,
 
 1528
-00:33:11,760 --> 00:33:12,580
+00:33:13,530 --> 00:33:14,350
 la gent de lletres
 
 1529
-00:33:12,580 --> 00:33:13,880
+00:33:14,350 --> 00:33:15,650
 està d'enhorabona, doncs.
 
 1530
-00:33:13,880 --> 00:33:14,020
+00:33:15,650 --> 00:33:15,790
 I, de fet,
 
 1531
-00:33:14,020 --> 00:33:15,680
+00:33:15,790 --> 00:33:17,450
 les persones que saben
 
 1532
-00:33:15,680 --> 00:33:16,940
+00:33:17,450 --> 00:33:18,710
 contextualitzar un problema,
 
 1533
-00:33:17,340 --> 00:33:18,280
+00:33:19,110 --> 00:33:20,050
 les que saben establir
 
 1534
-00:33:18,280 --> 00:33:18,980
+00:33:20,050 --> 00:33:20,750
 límits clars
 
 1535
-00:33:18,980 --> 00:33:19,800
+00:33:20,750 --> 00:33:21,570
 en una conversa,
 
 1536
-00:33:20,140 --> 00:33:21,000
+00:33:21,910 --> 00:33:22,770
 les que saben esmicular
 
 1537
-00:33:21,000 --> 00:33:22,280
+00:33:22,770 --> 00:33:24,050
 un problema altament complex
 
 1538
-00:33:22,280 --> 00:33:23,360
+00:33:24,050 --> 00:33:25,130
 amb petites preguntes
 
 1539
-00:33:23,360 --> 00:33:24,580
+00:33:25,130 --> 00:33:26,350
 senzilles i digeribles,
 
 1540
-00:33:25,100 --> 00:33:25,580
+00:33:26,870 --> 00:33:27,350
 i, sobretot,
 
 1541
-00:33:25,920 --> 00:33:26,540
+00:33:27,690 --> 00:33:28,310
 aquelles persones
 
 1542
-00:33:26,540 --> 00:33:27,320
+00:33:28,310 --> 00:33:29,090
 que s'asseguren,
 
 1543
-00:33:27,560 --> 00:33:28,600
+00:33:29,330 --> 00:33:30,370
 validant-lo constantment,
 
 1544
-00:33:28,960 --> 00:33:29,940
+00:33:30,730 --> 00:33:31,710
 que el seu interlocutor
 
 1545
-00:33:29,940 --> 00:33:31,100
+00:33:31,710 --> 00:33:32,870
 les ha entès de veritat
 
 1546
-00:33:31,100 --> 00:33:32,320
+00:33:32,870 --> 00:33:34,090
 i que no donen mai
 
 1547
-00:33:32,320 --> 00:33:33,500
+00:33:34,090 --> 00:33:35,270
 sobre cap concepte
 
 1548
-00:33:33,500 --> 00:33:34,820
+00:33:35,270 --> 00:33:36,590
 per bona la primera resposta
 
 1549
-00:33:34,820 --> 00:33:36,080
+00:33:36,590 --> 00:33:37,850
 sense haver-la analitzat
 
 1550
-00:33:36,080 --> 00:33:37,040
+00:33:37,850 --> 00:33:38,810
 amb criteri crític.
 
 1551
-00:33:37,320 --> 00:33:38,920
+00:33:39,090 --> 00:33:40,690
 Això convertís de ple
 
 1552
-00:33:38,920 --> 00:33:40,060
+00:33:40,690 --> 00:33:41,830
 aquesta guia pràctica
 
 1553
-00:33:40,060 --> 00:33:40,960
+00:33:41,830 --> 00:33:42,730
 de la de Kessler
 
 1554
-00:33:40,960 --> 00:33:41,980
+00:33:42,730 --> 00:33:43,750
 en una cosa
 
 1555
-00:33:41,980 --> 00:33:42,840
+00:33:43,750 --> 00:33:44,610
 que va molt
 
 1556
-00:33:42,840 --> 00:33:43,860
+00:33:44,610 --> 00:33:45,630
 i molt més enllà
 
 1557
-00:33:43,860 --> 00:33:44,000
+00:33:45,630 --> 00:33:45,770
 en el sentit
 
 1558
-00:33:44,020 --> 00:33:45,040
+00:33:45,790 --> 00:33:46,810
 que un simple manual
 
 1559
-00:33:45,040 --> 00:33:45,860
+00:33:46,810 --> 00:33:47,630
 d'instruccions
 
 1560
-00:33:45,860 --> 00:33:47,420
+00:33:47,630 --> 00:33:49,190
 per utilitzar un programari
 
 1561
-00:33:47,420 --> 00:33:48,400
+00:33:49,190 --> 00:33:50,170
 que d'aquí a dos anys
 
 1562
-00:33:48,400 --> 00:33:49,920
+00:33:50,170 --> 00:33:51,690
 potser haurà canviat del tot.
 
 1563
-00:33:50,280 --> 00:33:51,260
+00:33:52,050 --> 00:33:53,030
 Així ho veig jo, sí.
 
 1564
-00:33:51,480 --> 00:33:52,500
+00:33:53,250 --> 00:33:54,270
 Per a qualsevol persona
 
 1565
-00:33:52,500 --> 00:33:53,760
+00:33:54,270 --> 00:33:55,530
 que ens estiri escoltant
 
 1566
-00:33:53,760 --> 00:33:55,100
+00:33:55,530 --> 00:33:56,870
 i que es trobi sovint
 
 1567
-00:33:55,100 --> 00:33:56,420
+00:33:56,870 --> 00:33:58,190
 davant de la pantalla brillant
 
 1568
-00:33:56,420 --> 00:33:57,580
+00:33:58,190 --> 00:33:59,350
 intentant donar sentit
 
 1569
-00:33:57,580 --> 00:33:58,640
+00:33:59,350 --> 00:34:00,410
 a un enllau de dades
 
 1570
-00:33:58,640 --> 00:34:00,220
+00:34:00,410 --> 00:34:01,990
 per a un projecte complex
 
 1571
-00:34:00,220 --> 00:34:01,640
+00:34:01,990 --> 00:34:03,410
 o simplement intentant
 
 1572
-00:34:01,640 --> 00:34:02,960
+00:34:03,410 --> 00:34:04,730
 delegar feines feixugues
 
 1573
-00:34:02,960 --> 00:34:03,840
+00:34:04,730 --> 00:34:05,610
 com l'IRPF
 
 1574
-00:34:03,840 --> 00:34:04,660
+00:34:05,610 --> 00:34:06,430
 per guanyar temps,
 
 1575
-00:34:05,300 --> 00:34:06,500
+00:34:07,070 --> 00:34:08,270
 dominar aquesta conversa
 
 1576
-00:34:06,500 --> 00:34:06,900
+00:34:08,270 --> 00:34:08,670
 de debò,
 
 1577
-00:34:07,160 --> 00:34:08,880
+00:34:08,930 --> 00:34:10,650
 dominar aquest geni trampós
 
 1578
-00:34:08,880 --> 00:34:09,960
+00:34:10,650 --> 00:34:11,730
 i les seves manies,
 
 1579
-00:34:10,520 --> 00:34:12,220
+00:34:12,290 --> 00:34:13,990
 és l'única frontera real
 
 1580
-00:34:12,220 --> 00:34:13,060
+00:34:13,990 --> 00:34:14,830
 avui en dia.
 
 1581
-00:34:13,340 --> 00:34:14,000
+00:34:15,110 --> 00:34:15,770
 L'única frontera real
 
 1582
-00:34:14,020 --> 00:34:15,380
+00:34:15,790 --> 00:34:17,150
 L'única línia
 
 1583
-00:34:15,380 --> 00:34:16,440
+00:34:17,150 --> 00:34:18,210
 que separa el fet
 
 1584
-00:34:16,440 --> 00:34:17,020
+00:34:18,210 --> 00:34:18,790
 de quedar completament
 
 1585
-00:34:17,640 --> 00:34:19,060
+00:34:19,410 --> 00:34:20,830
 sepultada i frustrada
 
 1586
-00:34:19,060 --> 00:34:20,360
+00:34:20,830 --> 00:34:22,130
 per una inya caòtica
 
 1587
-00:34:20,360 --> 00:34:21,880
+00:34:22,130 --> 00:34:23,650
 o tenir l'enorme sort
 
 1588
-00:34:21,880 --> 00:34:22,980
+00:34:23,650 --> 00:34:24,750
 de comptar amb un cervell
 
 1589
-00:34:22,980 --> 00:34:24,080
+00:34:24,750 --> 00:34:25,850
 de suport extraordinari
 
 1590
-00:34:24,080 --> 00:34:24,800
+00:34:25,850 --> 00:34:26,570
 i incansable
 
 1591
-00:34:24,800 --> 00:34:25,940
+00:34:26,570 --> 00:34:27,710
 que es pot dirigir
 
 1592
-00:34:25,940 --> 00:34:27,080
+00:34:27,710 --> 00:34:28,850
 amb precisió i rigor
 
 1593
-00:34:27,080 --> 00:34:28,360
+00:34:28,850 --> 00:34:30,130
 si saps com parlar-li.
 
 1594
-00:34:28,580 --> 00:34:29,320
+00:34:30,350 --> 00:34:31,090
 Al cap i a la fi
 
 1595
-00:34:29,320 --> 00:34:30,360
+00:34:31,090 --> 00:34:32,130
 és un mirall,
 
 1596
-00:34:31,000 --> 00:34:32,780
+00:34:32,770 --> 00:34:34,550
 un mirall absolutament perfecte
 
 1597
-00:34:32,780 --> 00:34:34,300
+00:34:34,550 --> 00:34:36,070
 de les nostres pròpies habilitats
 
 1598
-00:34:34,300 --> 00:34:35,660
+00:34:36,070 --> 00:34:37,430
 com a directors d'orquestra.
 
 1599
-00:34:36,500 --> 00:34:37,440
+00:34:38,270 --> 00:34:39,210
 Si les indicacions
 
 1600
-00:34:37,440 --> 00:34:38,520
+00:34:39,210 --> 00:34:40,290
 que tu dones com a director
 
 1601
-00:34:38,520 --> 00:34:39,020
+00:34:40,290 --> 00:34:40,790
 són confusos,
 
 1602
-00:34:40,080 --> 00:34:40,860
+00:34:41,850 --> 00:34:42,630
 precipitades
 
 1603
-00:34:40,860 --> 00:34:42,020
+00:34:42,630 --> 00:34:43,790
 i completament desordenades,
 
 1604
-00:34:43,140 --> 00:34:43,740
+00:34:44,910 --> 00:34:45,510
 la sinfonia
 
 1605
-00:34:43,740 --> 00:34:44,000
+00:34:45,510 --> 00:34:45,770
 que són les que
 
 1606
-00:34:44,000 --> 00:34:44,320
+00:34:45,770 --> 00:34:46,090
 et donarà
 
 1607
-00:34:44,320 --> 00:34:46,280
+00:34:46,090 --> 00:34:48,050
 serà insuportable per a l'OIDA.
 
 1608
-00:34:46,940 --> 00:34:48,160
+00:34:48,710 --> 00:34:49,930
 Però si el teu enfocament
 
 1609
-00:34:48,160 --> 00:34:49,060
+00:34:49,930 --> 00:34:50,830
 és metòdic,
 
 1610
-00:34:49,240 --> 00:34:50,220
+00:34:51,010 --> 00:34:51,990
 està ben estructurat
 
 1611
-00:34:50,220 --> 00:34:50,840
+00:34:51,990 --> 00:34:52,610
 i ets clar
 
 1612
-00:34:50,840 --> 00:34:51,600
+00:34:52,610 --> 00:34:53,370
 amb el que demanes,
 
 1613
-00:34:52,180 --> 00:34:53,500
+00:34:53,950 --> 00:34:55,270
 doncs s'obtenen resultats
 
 1614
-00:34:53,500 --> 00:34:53,920
+00:34:55,270 --> 00:34:55,690
 que sovint
 
 1615
-00:34:53,920 --> 00:34:55,280
+00:34:55,690 --> 00:34:57,050
 ratllen l'excel·lència
 
 1616
-00:34:55,280 --> 00:34:56,560
+00:34:57,050 --> 00:34:58,330
 creativa i analítica.
 
 1617
-00:34:56,820 --> 00:34:57,380
+00:34:58,590 --> 00:34:59,150
 I justament
 
 1618
-00:34:57,380 --> 00:34:58,320
+00:34:59,150 --> 00:35:00,090
 pensant en aquesta
 
 1619
-00:34:58,320 --> 00:34:59,620
+00:35:00,090 --> 00:35:01,390
 necessitat imperiosa
 
 1620
-00:34:59,620 --> 00:35:00,980
+00:35:01,390 --> 00:35:02,750
 de ser directors d'orquestra
 
 1621
-00:35:00,980 --> 00:35:02,460
+00:35:02,750 --> 00:35:04,230
 tan curosos i precisos
 
 1622
-00:35:02,460 --> 00:35:02,920
+00:35:04,230 --> 00:35:04,690
 amb l'ús
 
 1623
-00:35:02,920 --> 00:35:04,180
+00:35:04,690 --> 00:35:05,950
 del nostre propi llenguatre,
 
 1624
-00:35:04,680 --> 00:35:05,380
+00:35:06,450 --> 00:35:07,150
 m'ha vingut al cap
 
 1625
-00:35:05,380 --> 00:35:06,680
+00:35:07,150 --> 00:35:08,450
 una idea inquietant
 
 1626
-00:35:06,680 --> 00:35:07,640
+00:35:08,450 --> 00:35:09,410
 i alhora fascinant
 
 1627
-00:35:07,640 --> 00:35:08,540
+00:35:09,410 --> 00:35:10,310
 que volia compartir.
 
 1628
-00:35:08,920 --> 00:35:09,920
+00:35:10,690 --> 00:35:11,690
 A veure, comparteix.
 
 1629
-00:35:10,340 --> 00:35:10,980
+00:35:12,110 --> 00:35:12,750
 Si t'hi fixes,
 
 1630
-00:35:11,300 --> 00:35:12,720
+00:35:13,070 --> 00:35:14,490
 ens passem hores i hores
 
 1631
-00:35:12,720 --> 00:35:13,280
+00:35:14,490 --> 00:35:15,050
 cada dia
 
 1632
-00:35:13,280 --> 00:35:13,920
+00:35:15,050 --> 00:35:15,690
 aprenent
 
 1633
-00:35:13,920 --> 00:35:14,320
+00:35:15,690 --> 00:35:16,090
 a domar
 
 1634
-00:35:14,320 --> 00:35:15,860
+00:35:16,090 --> 00:35:17,630
 aquesta intel·ligència artificial
 
 1635
-00:35:15,860 --> 00:35:16,500
+00:35:17,630 --> 00:35:18,270
 a l'esquiva.
 
 1636
-00:35:17,140 --> 00:35:18,480
+00:35:18,910 --> 00:35:20,250
 I això, inevitablement,
 
 1637
-00:35:18,580 --> 00:35:19,340
+00:35:20,350 --> 00:35:21,110
 ens està obligant
 
 1638
-00:35:19,340 --> 00:35:20,180
+00:35:21,110 --> 00:35:21,950
 com a usuaris
 
 1639
-00:35:20,180 --> 00:35:21,280
+00:35:21,950 --> 00:35:23,050
 a descriure
 
 1640
-00:35:21,280 --> 00:35:22,920
+00:35:23,050 --> 00:35:24,690
 els nostres problemes reals
 
 1641
-00:35:22,920 --> 00:35:24,740
+00:35:24,690 --> 00:35:26,510
 amb una claretat cristal·lina,
 
 1642
-00:35:24,940 --> 00:35:25,920
+00:35:26,710 --> 00:35:27,690
 gairebé clínica,
 
 1643
-00:35:26,160 --> 00:35:27,100
+00:35:27,930 --> 00:35:28,870
 per evitar embolics.
 
 1644
-00:35:27,540 --> 00:35:28,060
+00:35:29,310 --> 00:35:29,830
 És cert,
 
 1645
-00:35:28,540 --> 00:35:29,180
+00:35:30,310 --> 00:35:30,950
 ens fa polir
 
 1646
-00:35:29,180 --> 00:35:30,480
+00:35:30,950 --> 00:35:32,250
 el missatge constantment.
 
 1647
-00:35:31,320 --> 00:35:31,640
+00:35:33,090 --> 00:35:33,410
 Clar,
 
 1648
-00:35:31,980 --> 00:35:32,640
+00:35:33,750 --> 00:35:34,410
 ens obliga
 
 1649
-00:35:32,640 --> 00:35:33,480
+00:35:34,410 --> 00:35:35,250
 a aturar-nos
 
 1650
-00:35:33,480 --> 00:35:34,100
+00:35:35,250 --> 00:35:35,870
 i a demanar
 
 1651
-00:35:34,100 --> 00:35:34,700
+00:35:35,870 --> 00:35:36,470
 que l'altre
 
 1652
-00:35:34,700 --> 00:35:35,700
+00:35:36,470 --> 00:35:37,470
 ens expliqui
 
 1653
-00:35:35,700 --> 00:35:37,480
+00:35:37,470 --> 00:35:39,250
 amb les seves pròpies paraules
 
 1654
-00:35:37,480 --> 00:35:39,120
+00:35:39,250 --> 00:35:40,890
 què redimonis ha entès
 
 1655
-00:35:39,120 --> 00:35:40,500
+00:35:40,890 --> 00:35:42,270
 per evitar malentesos
 
 1656
-00:35:40,500 --> 00:35:41,260
+00:35:42,270 --> 00:35:43,030
 que podrien ser
 
 1657
-00:35:41,260 --> 00:35:42,260
+00:35:43,030 --> 00:35:44,030
 catastròfics
 
 1658
-00:35:42,260 --> 00:35:43,320
+00:35:44,030 --> 00:35:45,090
 en l'àmbit laboral.
 
 1659
-00:35:43,860 --> 00:35:43,900
+00:35:45,630 --> 00:35:45,670
 A veure,
 
 1660
-00:35:43,920 --> 00:35:44,440
+00:35:45,690 --> 00:35:46,210
 ens força,
 
 1661
-00:35:44,560 --> 00:35:45,060
+00:35:46,330 --> 00:35:46,830
 a més a més,
 
 1662
-00:35:45,280 --> 00:35:46,900
+00:35:47,050 --> 00:35:48,670
 a buscar múltiples perspectives
 
 1663
-00:35:46,900 --> 00:35:47,400
+00:35:48,670 --> 00:35:49,170
 de to
 
 1664
-00:35:47,400 --> 00:35:48,560
+00:35:49,170 --> 00:35:50,330
 o d'argumentació
 
 1665
-00:35:48,560 --> 00:35:49,580
+00:35:50,330 --> 00:35:51,350
 abans de prendre
 
 1666
-00:35:49,580 --> 00:35:50,520
+00:35:51,350 --> 00:35:52,290
 una decisió final
 
 1667
-00:35:50,520 --> 00:35:51,680
+00:35:52,290 --> 00:35:53,450
 i a no refiar-nos
 
 1668
-00:35:51,680 --> 00:35:53,200
+00:35:53,450 --> 00:35:54,970
 mai d'una veritat absoluta
 
 1669
-00:35:53,200 --> 00:35:53,740
+00:35:54,970 --> 00:35:55,510
 que no estigui
 
 1670
-00:35:53,740 --> 00:35:54,840
+00:35:55,510 --> 00:35:56,610
 degudament contrastada
 
 1671
-00:35:54,840 --> 00:35:56,080
+00:35:56,610 --> 00:35:57,850
 per nosaltres mateixos.
 
 1672
-00:35:56,480 --> 00:35:58,080
+00:35:58,250 --> 00:35:59,850
 És tot un exercici mental.
 
 1673
-00:35:58,980 --> 00:35:59,240
+00:36:00,750 --> 00:36:01,010
 Llavors,
 
 1674
-00:35:59,340 --> 00:36:00,480
+00:36:01,110 --> 00:36:02,250
 la pregunta és inevitable.
 
 1675
-00:36:01,060 --> 00:36:02,620
+00:36:02,830 --> 00:36:04,390
 Si tota aquesta interacció diària,
 
 1676
-00:36:02,860 --> 00:36:03,500
+00:36:04,630 --> 00:36:05,270
 hora rere hora,
 
 1677
-00:36:03,840 --> 00:36:05,000
+00:36:05,610 --> 00:36:06,770
 amb una màquina freda,
 
 1678
-00:36:05,120 --> 00:36:06,020
+00:36:06,890 --> 00:36:07,790
 ens està obligant,
 
 1679
-00:36:06,140 --> 00:36:06,580
+00:36:07,910 --> 00:36:08,350
 de facto,
 
 1680
-00:36:06,840 --> 00:36:07,820
+00:36:08,610 --> 00:36:09,590
 a exercitar de valent
 
 1681
-00:36:07,820 --> 00:36:09,340
+00:36:09,590 --> 00:36:11,110
 tots aquests músculs essencials
 
 1682
-00:36:09,340 --> 00:36:09,920
+00:36:11,110 --> 00:36:11,690
 de l'empatia cognitiva,
 
 1683
-00:36:10,940 --> 00:36:11,560
+00:36:12,710 --> 00:36:13,330
 de la paciència
 
 1684
-00:36:11,560 --> 00:36:12,880
+00:36:13,330 --> 00:36:14,650
 i de la precisió semàntica,
 
 1685
-00:36:12,880 --> 00:36:13,860
+00:36:14,650 --> 00:36:15,630
 ens podríem estar
 
 1686
-00:36:13,860 --> 00:36:14,440
+00:36:15,630 --> 00:36:16,210
 entrenant
 
 1687
-00:36:14,440 --> 00:36:15,380
+00:36:16,210 --> 00:36:17,150
 sense donar-nos
 
 1688
-00:36:15,380 --> 00:36:16,420
+00:36:17,150 --> 00:36:18,190
 en absolutament de res
 
 1689
-00:36:16,420 --> 00:36:17,380
+00:36:18,190 --> 00:36:19,150
 per acabar sent
 
 1690
-00:36:17,380 --> 00:36:18,360
+00:36:19,150 --> 00:36:20,130
 millors comunicadors
 
 1691
-00:36:18,360 --> 00:36:19,700
+00:36:20,130 --> 00:36:21,470
 amb la resta de sers humans
 
 1692
-00:36:19,700 --> 00:36:20,700
+00:36:21,470 --> 00:36:22,470
 de carn i ossos?
 
 1693
-00:36:20,860 --> 00:36:21,240
+00:36:22,630 --> 00:36:23,010
 Uf!
 
 1694
-00:36:22,380 --> 00:36:22,720
+00:36:24,150 --> 00:36:24,490
 Ostres,
 
 1695
-00:36:22,820 --> 00:36:23,560
+00:36:24,590 --> 00:36:25,330
 quina gran pregunta!
 
 1696
-00:36:23,960 --> 00:36:25,160
+00:36:25,730 --> 00:36:26,930
 Jo crec que potser sí.
 
 1697
-00:36:25,480 --> 00:36:25,820
+00:36:27,250 --> 00:36:27,590
 Potser,
 
 1698
-00:36:26,160 --> 00:36:27,120
+00:36:27,930 --> 00:36:28,890
 en el fons de tot,
 
 1699
-00:36:27,560 --> 00:36:28,780
+00:36:29,330 --> 00:36:30,550
 aquest geni trampós
 
 1700
-00:36:28,780 --> 00:36:29,960
+00:36:30,550 --> 00:36:31,730
 dels llibres antics
 
 1701
-00:36:29,960 --> 00:36:31,180
+00:36:31,730 --> 00:36:32,950
 ens està revelant
 
 1702
-00:36:31,180 --> 00:36:31,740
+00:36:32,950 --> 00:36:33,510
 molt més
 
 1703
-00:36:31,740 --> 00:36:32,480
+00:36:33,510 --> 00:36:34,250
 sobre la nostra
 
 1704
-00:36:32,480 --> 00:36:33,640
+00:36:34,250 --> 00:36:35,410
 pròpia fragilitat
 
 1705
-00:36:33,640 --> 00:36:35,300
+00:36:35,410 --> 00:36:37,070
 i les nostres presses
 
 1706
-00:36:35,300 --> 00:36:36,580
+00:36:37,070 --> 00:36:38,350
 a l'hora d'entendre'ns
 
 1707
-00:36:36,580 --> 00:36:37,620
+00:36:38,350 --> 00:36:39,390
 els uns amb els altres
 
 1708
-00:36:37,620 --> 00:36:38,820
+00:36:39,390 --> 00:36:40,590
 a l'oficina o a casa
 
 1709
-00:36:38,820 --> 00:36:39,780
+00:36:40,590 --> 00:36:41,550
 que no pas
 
 1710
-00:36:39,780 --> 00:36:41,100
+00:36:41,550 --> 00:36:42,870
 sobre la tecnologia en si.
 
 1711
-00:36:41,420 --> 00:36:42,340
+00:36:43,190 --> 00:36:44,110
 És una reflexió
 
 1712
-00:36:42,340 --> 00:36:43,100
+00:36:44,110 --> 00:36:44,870
 d'aquelles que,
 
 1713
-00:36:43,400 --> 00:36:43,840
+00:36:45,170 --> 00:36:45,610
 sincerament,
 
 1714
-00:36:43,860 --> 00:36:44,860
+00:36:45,630 --> 00:36:46,630
 conviden a ser explorades
 
 1715
-00:36:45,440 --> 00:36:46,160
+00:36:47,210 --> 00:36:47,930
 en profunditat
 
 1716
-00:36:46,160 --> 00:36:46,820
+00:36:47,930 --> 00:36:48,590
 en algun moment.
 
 1717
-00:36:47,180 --> 00:36:48,020
+00:36:48,950 --> 00:36:49,790
 Em sembla molt,
 
 1718
-00:36:48,240 --> 00:36:48,800
+00:36:50,010 --> 00:36:50,570
 molt encertada
 
 1719
-00:36:48,800 --> 00:36:50,080
+00:36:50,570 --> 00:36:51,850
 aquesta visió humanista
 
 1720
-00:36:50,080 --> 00:36:50,700
+00:36:51,850 --> 00:36:52,470
 del fenomen.
 
 1721
-00:36:50,920 --> 00:36:51,760
+00:36:52,690 --> 00:36:53,530
 Doncs ho deixem aquí
 
 1722
-00:36:51,760 --> 00:36:52,580
+00:36:53,530 --> 00:36:54,350
 com una bona idea
 
 1723
-00:36:52,580 --> 00:36:53,260
+00:36:54,350 --> 00:36:55,030
 per rumiar
 
 1724
-00:36:53,260 --> 00:36:54,700
+00:36:55,030 --> 00:36:56,470
 mentre la tecnologia
 
 1725
-00:36:54,700 --> 00:36:55,700
+00:36:56,470 --> 00:36:57,470
 inaturable
 
 1726
-00:36:55,700 --> 00:36:56,860
+00:36:57,470 --> 00:36:58,630
 segueix avançant
 
 1727
-00:36:56,860 --> 00:36:58,240
+00:36:58,630 --> 00:37:00,010
 al seu ritme frenètic.
 
 1728
-00:36:58,720 --> 00:36:59,360
+00:37:00,490 --> 00:37:01,130
 La veritat és que
 
 1729
-00:36:59,360 --> 00:37:00,060
+00:37:01,130 --> 00:37:01,830
 ha estat un viatge
 
 1730
-00:37:00,060 --> 00:37:00,860
+00:37:01,830 --> 00:37:02,630
 molt revelador
 
 1731
-00:37:00,860 --> 00:37:01,820
+00:37:02,630 --> 00:37:03,590
 a seures avui
 
 1732
-00:37:01,820 --> 00:37:02,880
+00:37:03,590 --> 00:37:04,650
 intentar comprendre
 
 1733
-00:37:02,880 --> 00:37:03,960
+00:37:04,650 --> 00:37:05,730
 els secrets més amagats
 
 1734
-00:37:03,960 --> 00:37:05,140
+00:37:05,730 --> 00:37:06,910
 d'aquesta llanterna màgica
 
 1735
-00:37:05,140 --> 00:37:05,740
+00:37:06,910 --> 00:37:07,510
 tan particular
 
 1736
-00:37:05,740 --> 00:37:06,300
+00:37:07,510 --> 00:37:08,070
 de la qual
 
 1737
-00:37:06,300 --> 00:37:07,060
+00:37:08,070 --> 00:37:08,830
 tothom parla
 
 1738
-00:37:07,060 --> 00:37:08,020
+00:37:08,830 --> 00:37:09,790
 però pocs dominen.
 
 1739
-00:37:08,260 --> 00:37:09,140
+00:37:10,030 --> 00:37:10,910
 He gaudit molt
 
 1740
-00:37:09,140 --> 00:37:09,780
+00:37:10,910 --> 00:37:11,550
 de l'anàlisi,
 
 1741
-00:37:09,880 --> 00:37:10,260
+00:37:11,650 --> 00:37:12,030
 de veritat.
 
 1742
-00:37:10,260 --> 00:37:11,020
+00:37:12,030 --> 00:37:12,790
 Un plaer.
 
 1743
-00:37:11,440 --> 00:37:12,480
+00:37:13,210 --> 00:37:14,250
 El plaer ha estat meu.
 
 1744
-00:37:13,160 --> 00:37:13,840
+00:37:14,930 --> 00:37:15,610
 Ens retrobem
 
 1745
-00:37:13,840 --> 00:37:14,260
+00:37:15,610 --> 00:37:16,030
 aviat
 
 1746
-00:37:14,260 --> 00:37:15,680
+00:37:16,030 --> 00:37:17,450
 per continuar analitzant
 
 1747
-00:37:15,680 --> 00:37:16,160
+00:37:17,450 --> 00:37:17,930
 junts
 
 1748
-00:37:16,160 --> 00:37:17,460
+00:37:17,930 --> 00:37:19,230
 temes apassionants.
 
 1749
-00:37:18,000 --> 00:37:18,700
+00:37:19,770 --> 00:37:20,470
 Fins a la propera
 
 1750
-00:37:18,700 --> 00:37:19,580
+00:37:20,470 --> 00:37:21,350
 immersió profunda.
 
 1751
-00:37:19,980 --> 00:37:20,700
+00:37:21,750 --> 00:37:22,470
 Cuideu-vos molt.
 
