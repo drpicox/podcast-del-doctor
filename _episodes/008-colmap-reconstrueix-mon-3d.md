@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-008-colmap-reconstrueix-mon-3d/008-colmap-reconstrueix-mon-3d.mp3"
-audio_size: 7707931
+audio_size: 7756869
 chapters_file: "008-colmap-reconstrueix-mon-3d-chapters.json"
 date: '2026-04-19'
 description: "Com pot un ordinador reconstruir un espai tridimensional a partir de simples fotografies planes? Analitzem a fons COLMAP, el programari de codi obert creat per Johannes Schönberger que s'ha convertit en l'estàndard de la indústria per a la reconstrucció 3D a partir d'imatges. Des de l'algorisme SIFT fins al bundle adjustment, passant pel drama CPU vs GPU i l'alternativa moderna GLOMAP."
-duration: '16:03'
+duration: '16:09'
 episode_number: 8
 season: 1
-soundbite_start: 645.6
+soundbite_start: 647.4
 soundbite_duration: 69.1
 soundbite_title: "2.000€ en GPU i no fa res: el drama CPU vs GPU de la reconstrucció 3D"
 sources:
