@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-012-especificacio-nou-codi/012-especificacio-nou-codi.mp3"
-audio_size: 6746625
+audio_size: 6795563
 chapters_file: "012-especificacio-nou-codi-chapters.json"
 date: '2026-06-16'
 description: "Per què una IA capaç d'escriure codi a la velocitat de la llum no ens estalvia la part difícil de programar? Basant-nos en un vídeo del canal Modern Software Engineering, on Dave Farley conversa amb Stefan Ellisdorfer i Christian Gassel, explorem el desenvolupament dirigit per especificacions amb IA agèntica: per què la manca de determinisme dels models és un verí per a l'enginyeria, com l'ATDD i el BDD converteixen les proves en el contracte executable de la IA, què és l'efecte mirall que ens obliga a ser més específics, l'índex Farley per puntuar la qualitat dels tests, i com passem de programadors a enginyers de comportaments. L'especificació, no el codi, és ara la feina humana."
-duration: '14:03'
+duration: '14:09'
 episode_number: 12
 season: 1
-soundbite_start: 455.4
+soundbite_start: 457.2
 soundbite_duration: 27.2
 soundbite_title: "La IA: un geni de la làmpada extremadament literal"
 sources:
