@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-014-impost-ocult-habilitats-ia/014-impost-ocult-habilitats-ia.mp3"
-audio_size: 436068
+audio_size: 485006
 chapters_file: "014-impost-ocult-habilitats-ia-chapters.json"
 date: '2026-07-31'
 description: "Càpsula curta —i excepcionalment en anglès— sobre l'estudi «How AI Impacts Skill Formation» de Judy Hanwen Shen i Alex Tamkin. Un assaig aleatoritzat amb desenvolupadors que aprenen una llibreria de programació asíncrona nova mostra que els qui la van aprendre amb ajuda de la IA van acabar entenent pitjor la feina que acabaven de lliurar, i van fallar especialment a l'hora de depurar codi trencat sense assistència. A la pantalla, el projecte està acabat; dins del cap, el mapa mental de com funciona aquell codi es queda buit. La versió llarga i en català d'aquest mateix estudi és l'episodi 015."
-duration: '00:54'
+duration: '01:00'
 episode_number: 14
 season: 1
-soundbite_start: 29.3
+soundbite_start: 31.1
 soundbite_duration: 22.2
 soundbite_title: "Delegar la frustració al bot: el cervell s'estalvia la fricció que crea l'expertesa"
 sources:
