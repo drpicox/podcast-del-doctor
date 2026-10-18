@@ -64,7 +64,9 @@ python scripts/add_jingles.py --episodi XXX
 Posa `assets/audio/jingle-entrada.wav` al principi i `jingle-sortida.wav` al final,
 igualant-ne el volum amb el de l'episodi. Ha d'anar abans de transcriure perquè l'SRT,
 els capítols i el soundbite quadrin. Desa l'original a `episodes/sense-jingles/` i no
-duplica mai els jingles (etiqueta `jingles` a l'MP3). Des de l'episodi 039.
+duplica mai els jingles (etiqueta `jingles` a l'MP3). La veu entra 1,5 s abans que acabi
+el jingle d'entrada i en trepitja la cua. Tots els episodis en porten (001-038 amb
+`scripts/retrofit_jingles.py`, que desplaça l'SRT, els capítols i el soundbite).
 Els jingles es generen amb `scripts/generate_jingles.py` (síntesi, notes compostes a mà).
 
 ### 3. **Transcripció automàtica**

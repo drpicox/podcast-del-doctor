@@ -58,9 +58,9 @@ class Resultat:
         print(f"  ❌ PAS {pas}: {msg}")
 
 
-# Primer episodi publicat amb jingles d'entrada i sortida (scripts/add_jingles.py).
-# Si es posen retroactivament als anteriors, baixar aquest número.
-PRIMER_AMB_JINGLES = 39
+# Primer episodi amb jingles d'entrada i sortida (scripts/add_jingles.py). Des del
+# 039 es posen al PAS 1b; els anteriors els van rebre amb scripts/retrofit_jingles.py.
+PRIMER_AMB_JINGLES = 1
 
 
 def te_jingles(camí):
