@@ -2,6 +2,111 @@
 layout: landing
 ---
 
+<style>
+.episode-navigation {
+  max-width: 1000px; margin: 0 auto; padding: 2rem 2rem 0 2rem;
+  display: flex; justify-content: space-between; align-items: center; gap: 1rem;
+}
+.nav-links-left { display: flex; gap: 1.5rem; }
+.nav-links-left .nav-link {
+  background: transparent; color: var(--tardis-blue) !important;
+  padding: 0.8rem 1.5rem; text-decoration: none; font-size: 0.95rem; font-weight: 500;
+  border: 2px solid var(--tardis-blue); border-radius: 8px; transition: border-color 0.2s ease;
+}
+.nav-links-left .nav-link:visited, .nav-links-left .nav-link:active { color: var(--tardis-blue) !important; }
+.nav-links-left .nav-link:hover { color: var(--vortex-purple) !important; border-color: var(--vortex-purple); }
+
+.episode {
+  max-width: 1000px; margin: 0 auto 3rem auto; padding: 1rem 2rem 2rem 2rem;
+  background: var(--bg-primary); border-radius: 15px; margin-top: 1rem;
+  box-shadow: 0 4px 6px var(--shadow-color);
+}
+
+.episode-header { margin-bottom: 2rem; text-align: center; padding-bottom: 1rem; border-bottom: 2px solid var(--border-color); }
+.episode-header h1 { color: var(--tardis-blue); font-size: 2.2rem; margin-bottom: 1rem; }
+.episode-meta { color: var(--text-tertiary); font-size: 0.95rem; display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
+.episode-meta span { background: var(--bg-secondary); padding: 0.3rem 0.8rem; border-radius: 15px; color: var(--text-primary); }
+
+.listen-also { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.5rem; }
+.listen-also-label { color: var(--text-tertiary); font-size: 0.9rem; font-weight: 600; }
+.listen-also .btn { padding: 0.45rem 0.9rem; font-size: 0.85rem; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.12); }
+.listen-also .btn i, .listen-also .btn svg.feather { width: 15px; height: 15px; }
+.audio-player { margin: 3rem 0; text-align: center; background: var(--overlay-lighter); padding: 2rem; border-radius: 15px; border: 1px solid var(--border-color); }
+.audio-player audio { width: 100%; max-width: 600px; border-radius: 10px; }
+.player-with-thumb { display: flex; align-items: center; gap: 2rem; max-width: 700px; margin: 0 auto; }
+.player-thumb { width: 130px; height: 130px; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.25); object-fit: cover; flex-shrink: 0; }
+.player-controls { flex: 1; min-width: 0; }
+.player-controls audio { width: 100%; border-radius: 10px; }
+
+.episode-chapters { background: var(--bg-secondary); padding: 2rem; border-radius: 15px; margin: 2rem 0; border-left: 5px solid var(--tardis-blue); }
+.episode-chapters h2 { margin-top: 0; color: var(--tardis-blue); font-size: 1.4rem; }
+.chapters-loading { color: var(--text-tertiary); font-style: italic; }
+.chapters-list { display: flex; flex-direction: column; gap: 0.4rem; }
+.chapter-item {
+  display: flex; align-items: center; gap: 0.8rem; padding: 0.75rem 1rem;
+  background: var(--bg-primary); border: 1px solid var(--border-color); border-radius: 8px;
+  cursor: pointer; text-align: left; width: 100%; transition: all 0.2s ease;
+  color: var(--text-primary); font-size: 0.95rem; font-family: inherit;
+}
+.chapter-item:hover { background: var(--overlay-lighter); transform: translateX(5px); border-color: var(--tardis-blue); }
+.chapter-item.active { background: var(--tardis-blue); border-color: var(--tardis-blue); color: white; transform: translateX(5px); }
+.chapter-time { font-family: monospace; font-size: 0.82rem; color: var(--vortex-purple); min-width: 3.2rem; font-weight: 700; flex-shrink: 0; }
+.chapter-item.active .chapter-time { color: rgba(255,255,255,0.85); }
+.chapter-title { flex: 1; line-height: 1.4; }
+.chapter-play-icon { font-size: 0.75rem; opacity: 0; color: var(--vortex-purple); transition: opacity 0.2s; flex-shrink: 0; }
+.chapter-item:hover .chapter-play-icon { opacity: 1; }
+.chapter-item.active .chapter-play-icon { opacity: 1; color: white; }
+
+.episode-content { line-height: 1.7; margin: 3rem 0; font-size: 1.05rem; color: var(--text-primary); }
+.episode-content h2 { color: var(--tardis-blue); margin: 2rem 0 1rem 0; font-size: 1.8rem; }
+.episode-content h3 { color: var(--vortex-purple); margin: 1.5rem 0 0.8rem 0; font-size: 1.4rem; }
+
+.sources { background: var(--bg-secondary); padding: 2rem; border-radius: 15px; margin: 3rem 0; border-left: 5px solid var(--gallifreyan-gold); }
+.sources h2 { margin-top: 0; color: var(--tardis-blue); font-size: 1.6rem; }
+.sources ul { padding-left: 0; list-style: none; }
+.sources li { margin: 1rem 0; padding: 1rem; background: var(--bg-primary); border-radius: 8px; border-left: 3px solid var(--vortex-purple); color: var(--text-primary); }
+.sources a { color: var(--vortex-purple); font-weight: 600; text-decoration: none; }
+.sources a:hover { color: #5A10D0; text-decoration: underline; }
+
+.disclaimer { background: var(--disclaimer-bg); padding: 2rem; border-radius: 15px; margin: 3rem 0; border-left: 5px solid var(--gallifreyan-gold); }
+.disclaimer h3 { margin-top: 0; color: var(--tardis-blue); font-size: 1.4rem; }
+.disclaimer p { color: var(--text-secondary); }
+
+.episode-footer { border-top: 3px solid var(--border-color); padding-top: 2rem; margin-top: 3rem; text-align: center; }
+.episode-footer p { color: var(--text-tertiary); font-style: italic; margin-bottom: 2rem; background: var(--overlay-lighter); padding: 1rem; border-radius: 10px; }
+.navigation { display: flex; justify-content: space-between; margin-top: 2rem; gap: 1rem; }
+.navigation .nav-link { background: var(--tardis-blue); color: white; padding: 0.8rem 1.5rem; text-decoration: none; border-radius: 25px; transition: all 0.3s ease; font-weight: 500; }
+.navigation .nav-link:hover { background: #002244; box-shadow: 0 5px 15px rgba(0,0,0,0.2); }
+
+@media (max-width: 768px) {
+  .episode-navigation { padding: 1rem; flex-direction: column; }
+  .episode { padding: 1rem; margin-top: 0.5rem; }
+  .episode-header h1 { font-size: 1.8rem; }
+  .episode-meta { flex-direction: column; align-items: center; gap: 0.5rem; }
+  .audio-player { padding: 1.5rem; margin: 2rem 0; }
+  .navigation { flex-direction: column; }
+  .sources, .disclaimer { padding: 1.5rem; }
+}
+@media (max-width: 600px) {
+  .player-with-thumb { flex-direction: column; gap: 1.2rem; }
+  .player-thumb { width: 160px; height: 160px; }
+  .episode-chapters { padding: 1.2rem; }
+}
+/* Reproductor amb portada: la imatge omple tota l'esquerra de la caixa i
+   "Escolta'l també a" queda fora, sense marc, entre el reproductor i els capítols. */
+.audio-player.has-thumb { padding: 0; overflow: hidden; margin-bottom: 2rem; }
+.audio-player.has-thumb .player-with-thumb { align-items: stretch; gap: 0; max-width: none; }
+.audio-player.has-thumb .player-thumb { width: 220px; height: 220px; border-radius: 0; box-shadow: none; }
+.audio-player.has-thumb .player-controls { display: flex; align-items: center; padding: 1.5rem 2rem; }
+/* Mateix espai a sobre i a sota: 2rem del reproductor i 2rem del margin-top dels capítols. */
+.audio-player + .listen-also { margin: 0; }
+@media (max-width: 600px) {
+  .audio-player.has-thumb .player-with-thumb { flex-direction: column; gap: 0; }
+  .audio-player.has-thumb .player-thumb { width: 100%; height: auto; aspect-ratio: 1 / 1; }
+  .audio-player.has-thumb .player-controls { padding: 1.2rem; }
+}
+</style>
+
 <div class="episode-navigation">
   <div class="nav-links-left">
     <a href="{{ '/' | relative_url }}" class="nav-link">← Inici</a>
@@ -151,107 +256,3 @@ layout: landing
 
 {% include subscribe.html %}
 
-<style>
-.episode-navigation {
-  max-width: 1000px; margin: 0 auto; padding: 2rem 2rem 0 2rem;
-  display: flex; justify-content: space-between; align-items: center; gap: 1rem;
-}
-.nav-links-left { display: flex; gap: 1.5rem; }
-.nav-links-left .nav-link {
-  background: transparent; color: var(--tardis-blue) !important;
-  padding: 0.8rem 1.5rem; text-decoration: none; font-size: 0.95rem; font-weight: 500;
-  border: 2px solid var(--tardis-blue); border-radius: 8px; transition: border-color 0.2s ease;
-}
-.nav-links-left .nav-link:visited, .nav-links-left .nav-link:active { color: var(--tardis-blue) !important; }
-.nav-links-left .nav-link:hover { color: var(--vortex-purple) !important; border-color: var(--vortex-purple); }
-
-.episode {
-  max-width: 1000px; margin: 0 auto 3rem auto; padding: 1rem 2rem 2rem 2rem;
-  background: var(--bg-primary); border-radius: 15px; margin-top: 1rem;
-  box-shadow: 0 4px 6px var(--shadow-color);
-}
-
-.episode-header { margin-bottom: 2rem; text-align: center; padding-bottom: 1rem; border-bottom: 2px solid var(--border-color); }
-.episode-header h1 { color: var(--tardis-blue); font-size: 2.2rem; margin-bottom: 1rem; }
-.episode-meta { color: var(--text-tertiary); font-size: 0.95rem; display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
-.episode-meta span { background: var(--bg-secondary); padding: 0.3rem 0.8rem; border-radius: 15px; color: var(--text-primary); }
-
-.listen-also { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 0.6rem; margin-top: 1.5rem; }
-.listen-also-label { color: var(--text-tertiary); font-size: 0.9rem; font-weight: 600; }
-.listen-also .btn { padding: 0.45rem 0.9rem; font-size: 0.85rem; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.12); }
-.listen-also .btn i { width: 15px; height: 15px; }
-.audio-player { margin: 3rem 0; text-align: center; background: var(--overlay-lighter); padding: 2rem; border-radius: 15px; border: 1px solid var(--border-color); }
-.audio-player audio { width: 100%; max-width: 600px; border-radius: 10px; }
-.player-with-thumb { display: flex; align-items: center; gap: 2rem; max-width: 700px; margin: 0 auto; }
-.player-thumb { width: 130px; height: 130px; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.25); object-fit: cover; flex-shrink: 0; }
-.player-controls { flex: 1; min-width: 0; }
-.player-controls audio { width: 100%; border-radius: 10px; }
-
-.episode-chapters { background: var(--bg-secondary); padding: 2rem; border-radius: 15px; margin: 2rem 0; border-left: 5px solid var(--tardis-blue); }
-.episode-chapters h2 { margin-top: 0; color: var(--tardis-blue); font-size: 1.4rem; }
-.chapters-loading { color: var(--text-tertiary); font-style: italic; }
-.chapters-list { display: flex; flex-direction: column; gap: 0.4rem; }
-.chapter-item {
-  display: flex; align-items: center; gap: 0.8rem; padding: 0.75rem 1rem;
-  background: var(--bg-primary); border: 1px solid var(--border-color); border-radius: 8px;
-  cursor: pointer; text-align: left; width: 100%; transition: all 0.2s ease;
-  color: var(--text-primary); font-size: 0.95rem; font-family: inherit;
-}
-.chapter-item:hover { background: var(--overlay-lighter); transform: translateX(5px); border-color: var(--tardis-blue); }
-.chapter-item.active { background: var(--tardis-blue); border-color: var(--tardis-blue); color: white; transform: translateX(5px); }
-.chapter-time { font-family: monospace; font-size: 0.82rem; color: var(--vortex-purple); min-width: 3.2rem; font-weight: 700; flex-shrink: 0; }
-.chapter-item.active .chapter-time { color: rgba(255,255,255,0.85); }
-.chapter-title { flex: 1; line-height: 1.4; }
-.chapter-play-icon { font-size: 0.75rem; opacity: 0; color: var(--vortex-purple); transition: opacity 0.2s; flex-shrink: 0; }
-.chapter-item:hover .chapter-play-icon { opacity: 1; }
-.chapter-item.active .chapter-play-icon { opacity: 1; color: white; }
-
-.episode-content { line-height: 1.7; margin: 3rem 0; font-size: 1.05rem; color: var(--text-primary); }
-.episode-content h2 { color: var(--tardis-blue); margin: 2rem 0 1rem 0; font-size: 1.8rem; }
-.episode-content h3 { color: var(--vortex-purple); margin: 1.5rem 0 0.8rem 0; font-size: 1.4rem; }
-
-.sources { background: var(--bg-secondary); padding: 2rem; border-radius: 15px; margin: 3rem 0; border-left: 5px solid var(--gallifreyan-gold); }
-.sources h2 { margin-top: 0; color: var(--tardis-blue); font-size: 1.6rem; }
-.sources ul { padding-left: 0; list-style: none; }
-.sources li { margin: 1rem 0; padding: 1rem; background: var(--bg-primary); border-radius: 8px; border-left: 3px solid var(--vortex-purple); color: var(--text-primary); }
-.sources a { color: var(--vortex-purple); font-weight: 600; text-decoration: none; }
-.sources a:hover { color: #5A10D0; text-decoration: underline; }
-
-.disclaimer { background: var(--disclaimer-bg); padding: 2rem; border-radius: 15px; margin: 3rem 0; border-left: 5px solid var(--gallifreyan-gold); }
-.disclaimer h3 { margin-top: 0; color: var(--tardis-blue); font-size: 1.4rem; }
-.disclaimer p { color: var(--text-secondary); }
-
-.episode-footer { border-top: 3px solid var(--border-color); padding-top: 2rem; margin-top: 3rem; text-align: center; }
-.episode-footer p { color: var(--text-tertiary); font-style: italic; margin-bottom: 2rem; background: var(--overlay-lighter); padding: 1rem; border-radius: 10px; }
-.navigation { display: flex; justify-content: space-between; margin-top: 2rem; gap: 1rem; }
-.navigation .nav-link { background: var(--tardis-blue); color: white; padding: 0.8rem 1.5rem; text-decoration: none; border-radius: 25px; transition: all 0.3s ease; font-weight: 500; }
-.navigation .nav-link:hover { background: #002244; box-shadow: 0 5px 15px rgba(0,0,0,0.2); }
-
-@media (max-width: 768px) {
-  .episode-navigation { padding: 1rem; flex-direction: column; }
-  .episode { padding: 1rem; margin-top: 0.5rem; }
-  .episode-header h1 { font-size: 1.8rem; }
-  .episode-meta { flex-direction: column; align-items: center; gap: 0.5rem; }
-  .audio-player { padding: 1.5rem; margin: 2rem 0; }
-  .navigation { flex-direction: column; }
-  .sources, .disclaimer { padding: 1.5rem; }
-}
-@media (max-width: 600px) {
-  .player-with-thumb { flex-direction: column; gap: 1.2rem; }
-  .player-thumb { width: 160px; height: 160px; }
-  .episode-chapters { padding: 1.2rem; }
-}
-/* Reproductor amb portada: la imatge omple tota l'esquerra de la caixa i
-   "Escolta'l també a" queda fora, sense marc, entre el reproductor i els capítols. */
-.audio-player.has-thumb { padding: 0; overflow: hidden; margin-bottom: 2rem; }
-.audio-player.has-thumb .player-with-thumb { align-items: stretch; gap: 0; max-width: none; }
-.audio-player.has-thumb .player-thumb { width: 220px; height: 220px; border-radius: 0; box-shadow: none; }
-.audio-player.has-thumb .player-controls { display: flex; align-items: center; padding: 1.5rem 2rem; }
-/* Mateix espai a sobre i a sota: 2rem del reproductor i 2rem del margin-top dels capítols. */
-.audio-player + .listen-also { margin: 0; }
-@media (max-width: 600px) {
-  .audio-player.has-thumb .player-with-thumb { flex-direction: column; gap: 0; }
-  .audio-player.has-thumb .player-thumb { width: 100%; height: auto; aspect-ratio: 1 / 1; }
-  .audio-player.has-thumb .player-controls { padding: 1.2rem; }
-}
-</style>
