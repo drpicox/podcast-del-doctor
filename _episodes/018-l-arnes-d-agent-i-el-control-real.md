@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-018-l-arnes-d-agent-i-el-control-real/018-l-arnes-d-agent-i-el-control-real.mp3"
-audio_size: 11100714
+audio_size: 11149653
 chapters_file: "018-l-arnes-d-agent-i-el-control-real-chapters.json"
 date: '2026-08-02'
 description: "Dones accés al repositori al model més potent que existeix, li demanes que arregli un error de base de dades, i acaba esborrant una taula sencera mentre declara amb tota la confiança: «tasca completada amb èxit». Aquest episodi és la resposta d'enginyeria a aquell desastre, a partir d'una equació: agent = model + arnès. Recorrem els quatre pilars innegociables (bucle continu, eines, gestió de context i control determinista), l'ansietat de context i la victòria prematura que documenta Anthropic, per què demanar resums és una trampa i la sortida és el reinici total, l'arquitectura de tres agents, i la distinció entre guies i sensors de Böckeler i Ford."
-duration: '23:07'
+duration: '23:13'
 episode_number: 18
 season: 1
-soundbite_start: 468.1
+soundbite_start: 469.9
 soundbite_duration: 51.5
 soundbite_title: "L'ansietat de context: l'agent declara victòria per fugir de la càrrega cognitiva"
 sources:

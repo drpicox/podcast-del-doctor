@@ -4,14 +4,14 @@
   "title": "Episodi 018: L'arnès d'agent i el control real",
   "chapters": [
     { "startTime": 0, "title": "Introducció: «tasca completada amb èxit»" },
-    { "startTime": 150.0, "title": "Agent = Model + Arnès: el cavall de tir" },
-    { "startTime": 222.5, "title": "Els quatre pilars innegociables" },
-    { "startTime": 468.1, "title": "L'ansietat de context i la victòria prematura" },
-    { "startTime": 603.8, "title": "Reinici total: inicialitzador, codificador i notes en text pla" },
-    { "startTime": 761.4, "title": "Planificador, generador i avaluador" },
-    { "startTime": 831.0, "title": "Guies i sensors: feedforward contra feedback" },
-    { "startTime": 1035.0, "title": "Arnès low contra high: el disseny ha d'entrar al post-entrenament" },
-    { "startTime": 1179.3, "title": "Plantilles d'arnès i el final del prompt engineering" },
-    { "startTime": 1347.7, "title": "Reflexió final: el self-harness" }
+    { "startTime": 151.8, "title": "Agent = Model + Arnès: el cavall de tir" },
+    { "startTime": 224.3, "title": "Els quatre pilars innegociables" },
+    { "startTime": 469.9, "title": "L'ansietat de context i la victòria prematura" },
+    { "startTime": 605.6, "title": "Reinici total: inicialitzador, codificador i notes en text pla" },
+    { "startTime": 763.2, "title": "Planificador, generador i avaluador" },
+    { "startTime": 832.8, "title": "Guies i sensors: feedforward contra feedback" },
+    { "startTime": 1036.8, "title": "Arnès low contra high: el disseny ha d'entrar al post-entrenament" },
+    { "startTime": 1181.1, "title": "Plantilles d'arnès i el final del prompt engineering" },
+    { "startTime": 1349.5, "title": "Reflexió final: el self-harness" }
   ]
 }
