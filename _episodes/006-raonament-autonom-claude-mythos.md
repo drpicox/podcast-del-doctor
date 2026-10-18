@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-006-raonament-autonom-claude-mythos/006-raonament-autonom-claude-mythos.mp3"
-audio_size: 6705037
+audio_size: 6753976
 chapters_file: "006-raonament-autonom-claude-mythos-chapters.json"
 date: '2026-04-11'
 description: "Una filtració massiva des de l'interior d'Anthropic ha exposat Claude Mythos, un model de llenguatge especulatiu de 10 bilions de paràmetres que combina Mixture of Experts ultradispers amb recurrència latent. Un sistema que rumia en silenci en el seu espai vectorial intern, aconsegueix un 97.6% al benchmark USAMO de matemàtiques i és capaç de trobar zero-days de 27 anys amagats en codi revisat 5 milions de vegades."
-duration: '13:58'
+duration: '14:04'
 episode_number: 6
 season: 1
-soundbite_start: 353.1
+soundbite_start: 354.9
 soundbite_duration: 66.0
 soundbite_title: "D'autocompletar a pensador continu: USAMO 97.6% i ciberseguretat autònoma"
 thumbnail: "/assets/thumbnails/006-raonament-autonom-claude-mythos.png"
