@@ -1,14 +1,14 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-003-spacex-ingenyeria-software-aprendre/003-spacex-ingenyeria-software-aprendre.mp3"
-audio_size: 7914611
+audio_size: 7963550
 chapters_file: "003-spacex-ingenyeria-software-aprendre-chapters.json"
 date: '2026-04-01'
 description: 'Una análisi fonamental sobre Test-Driven Development (TDD) amb Dave Farley. Explorem com els tests no són només validació sinó una eina essencial de disseny que millora la qualitat, mantenibilitat i col·laboració en desenvolupament de software.'
-duration: '16:29'
+duration: '16:35'
 episode_number: 3
 season: 1
 soundbite_duration: 58.0
-soundbite_start: 697.2
+soundbite_start: 699.0
 soundbite_title: "Un test de solucions és més valuable que milions de testos passats"
 sources:
 - description: YouTube - Dave Farley explica els principis de TDD i BDD
