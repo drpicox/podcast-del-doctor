@@ -222,7 +222,6 @@ description: "Podcast sobre programació i tecnologia. Contingut generat amb IA 
                         <li>Busca "Afegir per URL" o "Add by RSS"</li>
                         <li>Enganxa l'URL i subscriu-te</li>
                     </ol>
-                    <p class="note"><i data-feather="alert-circle"></i> Spotify no suporta RSS externs. Utilitza una altra app.</p>
                 </div>
             </details>
         </div>

@@ -27,6 +27,7 @@ layout: null
     <itunes:subtitle>{{ site.podcast.subtitle }}</itunes:subtitle>
     <itunes:owner>
       <itunes:name>{{ site.podcast.author }}</itunes:name>
+      <itunes:email>{{ site.podcast.email }}</itunes:email>
     </itunes:owner>
     <itunes:image href="{{ site.url }}{{ site.baseurl }}{{ site.podcast.image }}" />
     <itunes:category text="{{ site.podcast.category | xml_escape }}">
