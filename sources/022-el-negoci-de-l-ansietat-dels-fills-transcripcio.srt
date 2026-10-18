@@ -1,1916 +1,1916 @@
 1
-00:00:00,000 --> 00:00:08,580
+00:00:01,770 --> 00:00:10,350
 D'acord, desgranem això, perquè, a veure, si la societat actual tractés la infància com si fos, no sé, una empresa,
 
 2
-00:00:09,240 --> 00:00:12,480
+00:00:11,010 --> 00:00:14,250
 ara mateix estaríem obligats a declarar-la en fallida tècnica.
 
 3
-00:00:12,640 --> 00:00:14,800
+00:00:14,410 --> 00:00:16,570
 Totalment. Tancaríem portes, vaja.
 
 4
-00:00:15,180 --> 00:00:21,100
+00:00:16,950 --> 00:00:22,870
 Exacte. Vull dir, tradicionalment sempre hem tingut aquesta imatge idíl·lica de la infància, saps?
 
 5
-00:00:21,580 --> 00:00:28,620
+00:00:23,350 --> 00:00:30,390
 Com un bosc salvatge, un procés natural d'exploració on, bueno, on equivocar-se no tenia grans conseqüències.
 
 6
-00:00:28,620 --> 00:00:33,080
+00:00:30,390 --> 00:00:34,850
 Però l'anàlisi que tenim avui entre mans demostra una cosa molt diferent.
 
 7
-00:00:33,700 --> 00:00:39,060
+00:00:35,470 --> 00:00:40,830
 Estem convertint l'evolució natural de l'ésser humà en una mena de projecte corporatiu del risc.
 
 8
-00:00:39,140 --> 00:00:44,500
+00:00:40,910 --> 00:00:46,270
 Amb els seus indicadors, les seves auditories, la pressió pels objectius, és esgotador.
 
 9
-00:00:44,660 --> 00:00:47,300
+00:00:46,430 --> 00:00:49,070
 I justament d'això va la nostra inversió profunda d'avui.
 
 10
-00:00:47,820 --> 00:00:53,620
+00:00:49,590 --> 00:00:55,390
 Tenim un material brutal, una transcripció detalladíssima d'un vídeo del canal de YouTube, DECODE Podcast.
 
 11
-00:00:53,740 --> 00:00:57,700
+00:00:55,510 --> 00:00:59,470
 Sí, el titulat em sembla que és Especial la lucha por nuestros hijos.
 
 12
-00:00:57,700 --> 00:01:02,960
+00:00:59,470 --> 00:01:04,730
 Aquest mateix. I l'objectiu que tenim la nostra missió avui, per a qui ens escolta,
 
 13
-00:01:03,420 --> 00:01:09,060
+00:01:05,190 --> 00:01:10,830
 és extreure totes aquestes dades concretes sobre quines són aquestes forces invisibles.
 
 14
-00:01:09,560 --> 00:01:13,540
+00:01:11,330 --> 00:01:15,310
 Parlem d'empreses tecnològiques, pressions socials, falsos experts,
 
 15
-00:01:14,100 --> 00:01:19,200
+00:01:15,870 --> 00:01:20,970
 tota aquesta gent que competeix vorazment per l'atenció i la identitat dels infants.
 
 16
-00:01:19,700 --> 00:01:21,800
+00:01:21,470 --> 00:01:23,570
 I no ens quedarem només en el drama, eh?
 
 17
-00:01:22,140 --> 00:01:25,800
+00:01:23,910 --> 00:01:27,570
 Perquè el document també ofereix solucions pràctiques per recuperar el control.
 
 18
-00:01:25,800 --> 00:01:26,760
+00:01:27,570 --> 00:01:28,530
 Què falta ens fa?
 
 19
-00:01:27,700 --> 00:01:30,720
+00:01:29,470 --> 00:01:32,490
 Clar, perquè el contrast inicial que plantegen és clau.
 
 20
-00:01:31,280 --> 00:01:33,860
+00:01:33,050 --> 00:01:35,630
 Llavors, on som exactament ara mateix?
 
 21
-00:01:34,380 --> 00:01:36,800
+00:01:36,150 --> 00:01:38,570
 Bueno, per seguir amb la teva metàfora de l'empresa,
 
 22
-00:01:37,120 --> 00:01:41,580
+00:01:38,890 --> 00:01:43,350
 les dades que posarem sobre la taula són el balanç de pèrdues d'aquesta empresa
 
 23
-00:01:41,580 --> 00:01:44,020
+00:01:43,350 --> 00:01:45,790
 que, com dèiem, fa aigües pertot arreu.
 
 24
-00:01:44,600 --> 00:01:48,060
+00:01:46,370 --> 00:01:49,830
 Són xifres que, ostres, no et deixen mirar cap a una altra banda.
 
 25
-00:01:48,780 --> 00:01:54,600
+00:01:50,550 --> 00:01:56,370
 A Europa, ara mateix, un de cada set menors pateix problemes de salut mental diagnosticables clínicament.
 
 26
-00:01:54,600 --> 00:01:57,340
+00:01:56,370 --> 00:01:59,110
 Espera, un de cada set? En general?
 
 27
-00:01:57,700 --> 00:01:58,140
+00:01:59,470 --> 00:01:59,910
 Sí.
 
 28
-00:01:58,140 --> 00:02:00,340
+00:01:59,910 --> 00:02:02,110
 Trobem punts de fractura molt més greus.
 
 29
-00:02:00,780 --> 00:02:04,040
+00:02:02,550 --> 00:02:05,810
 En el segment de les noies, o sigui, noies d'entre 15 i 19 anys,
 
 30
-00:02:04,160 --> 00:02:07,760
+00:02:05,930 --> 00:02:09,530
 que és l'edat de màxima vulnerabilitat quan et construeixes qui ets,
 
 31
-00:02:07,960 --> 00:02:10,160
+00:02:09,730 --> 00:02:11,930
 la xifra es dispara: una de cada quatre.
 
 32
-00:02:10,340 --> 00:02:11,620
+00:02:12,110 --> 00:02:13,390
 Ostres, una de cada quatre.
 
 33
-00:02:11,960 --> 00:02:14,860
+00:02:13,730 --> 00:02:16,630
 Això vol dir que, a veure, en qualsevol aula d'institut,
 
 34
-00:02:14,960 --> 00:02:17,180
+00:02:16,730 --> 00:02:18,950
 en qualsevol grup de quatre amigues que vagis pel carrer,
 
 35
-00:02:17,780 --> 00:02:20,860
+00:02:19,550 --> 00:02:22,630
 com a mínim n'hi ha una que està patint un trastorn de salut mental real...
 
 36
-00:02:20,860 --> 00:02:21,200
+00:02:22,630 --> 00:02:22,970
 I tant.
 
 37
-00:02:21,860 --> 00:02:24,980
+00:02:23,630 --> 00:02:26,750
 No estem parlant de... Ai, estic nerviosa per l'examen de demà.
 
 38
-00:02:25,120 --> 00:02:25,320
+00:02:26,890 --> 00:02:27,090
 Clar.
 
 39
-00:02:25,320 --> 00:02:25,380
+00:02:27,090 --> 00:02:27,150
 No estem parlant d'una examen de la salut mental.
 
 40
-00:02:25,380 --> 00:02:25,400
+00:02:27,150 --> 00:02:27,170
 Clar.
 
 41
-00:02:25,400 --> 00:02:28,780
+00:02:27,170 --> 00:02:30,550
 Parlem d'un augment general de la incidència del 30%.
 
 42
-00:02:28,780 --> 00:02:30,240
+00:02:30,550 --> 00:02:32,010
 I això en uns 15 anys.
 
 43
-00:02:30,820 --> 00:02:33,940
+00:02:32,590 --> 00:02:35,710
 I amb unes conseqüències que, literalment, no tenen marxa enrere.
 
 44
-00:02:34,220 --> 00:02:39,180
+00:02:35,990 --> 00:02:40,950
 El suïcidi ja és la principal causa de mort entre joves europeus de 15 a 29 anys.
 
 45
-00:02:39,320 --> 00:02:39,680
+00:02:41,090 --> 00:02:41,450
 Déu-n'hi-do.
 
 46
-00:02:40,000 --> 00:02:42,280
+00:02:41,770 --> 00:02:44,050
 I la tercera a escala mundial, eh?
 
 47
-00:02:42,640 --> 00:02:47,540
+00:02:44,410 --> 00:02:49,310
 Vull dir, vides que s'apaguen en el moment teòric de màxima energia.
 
 48
-00:02:48,260 --> 00:02:50,020
+00:02:50,030 --> 00:02:51,790
 Clar. I aquí he de confessar una cosa,
 
 49
-00:02:50,480 --> 00:02:53,320
+00:02:52,250 --> 00:02:55,090
 perquè crec que molta gent de l'audiència empatitzarà amb això.
 
 50
-00:02:53,540 --> 00:02:55,380
+00:02:55,310 --> 00:02:57,150
 Quan surten aquestes estadístiques,
 
 51
-00:02:55,400 --> 00:02:57,880
+00:02:57,170 --> 00:02:59,650
 és molt fàcil, és gairebé temptador,
 
 52
-00:02:58,320 --> 00:03:01,720
+00:03:00,090 --> 00:03:03,490
 caure en aquest parany del discurs de la generació de cristall, saps?
 
 53
-00:03:02,140 --> 00:03:04,880
+00:03:03,910 --> 00:03:06,650
 Mhm. El clàssic nosaltres érem més forts.
 
 54
-00:03:05,220 --> 00:03:08,240
+00:03:06,990 --> 00:03:10,010
 Exacte. Allò de, bueno, abans jugàvem al carrer,
 
 55
-00:03:08,660 --> 00:03:11,860
+00:03:10,430 --> 00:03:13,630
 ens pelàvem els genolls, no ens sobreprotegíem tant
 
 56
-00:03:11,860 --> 00:03:13,400
+00:03:13,630 --> 00:03:15,170
 i no necessitàvem tants psicòlegs.
 
 57
-00:03:14,840 --> 00:03:18,520
+00:03:16,610 --> 00:03:20,290
 Sembla que la societat acabi culpant el nen per no tenir la pell prou dura, no?
 
 58
-00:03:18,720 --> 00:03:20,780
+00:03:20,490 --> 00:03:22,550
 És una trampa cognitiva de manual.
 
 59
-00:03:21,420 --> 00:03:24,120
+00:03:23,190 --> 00:03:25,890
 Però la neurociència i la biologia evolutiva
 
 60
-00:03:24,120 --> 00:03:25,180
+00:03:25,890 --> 00:03:26,950
 ens diuen, de fet, exactament el mateix.
 
 61
-00:03:25,180 --> 00:03:25,260
+00:03:26,950 --> 00:03:27,030
 I això és el que ens ha fet.
 
 62
-00:03:25,260 --> 00:03:25,360
+00:03:27,030 --> 00:03:27,130
 I això és el que ens ha fet.
 
 63
-00:03:25,360 --> 00:03:25,380
+00:03:27,130 --> 00:03:27,150
 I això és el que ens ha fet.
 
 64
-00:03:25,380 --> 00:03:26,360
+00:03:27,150 --> 00:03:28,130
 I això és exactament el contrari.
 
 65
-00:03:26,960 --> 00:03:31,020
+00:03:28,730 --> 00:03:32,790
 O sigui, el cervell humà no muta de cop en dues o tres generacions.
 
 66
-00:03:31,480 --> 00:03:36,460
+00:03:33,250 --> 00:03:38,230
 Aquests nens són biològicament idèntics als de fa, jo que sé, 100 anys.
 
 67
-00:03:36,640 --> 00:03:38,760
+00:03:38,410 --> 00:03:40,530
 Les necessitats per créixer són les mateixes.
 
 68
-00:03:39,040 --> 00:03:42,720
+00:03:40,810 --> 00:03:44,490
 Necessiten vincle, afecte, pertinença al grup, joc lliure.
 
 69
-00:03:43,320 --> 00:03:46,580
+00:03:45,090 --> 00:03:48,350
 No són més fràgils biològicament ni tenen menys resiliència.
 
 70
-00:03:47,160 --> 00:03:49,100
+00:03:48,930 --> 00:03:50,870
 El que ha canviat dràsticament és l'entorn.
 
 71
-00:03:49,580 --> 00:03:51,220
+00:03:51,350 --> 00:03:52,990
 L'ecosistema s'ha tornat hostil.
 
 72
-00:03:51,720 --> 00:03:52,860
+00:03:53,490 --> 00:03:54,630
 El document ho il·lustra molt bé.
 
 73
-00:03:52,860 --> 00:03:55,220
+00:03:54,630 --> 00:03:56,990
 No és que els nens siguin de cristall, és que l'entorn, ara,
 
 74
-00:03:55,220 --> 00:03:56,080
+00:03:56,990 --> 00:03:57,850
 està ple de punxes.
 
 75
-00:03:56,500 --> 00:03:58,320
+00:03:58,270 --> 00:04:00,090
 M'agrada aquesta imatge.
 
 76
-00:03:58,500 --> 00:04:02,340
+00:04:00,270 --> 00:04:04,110
 O sigui, si l'entorn té punxes, és absurd culpar el nen perquè sagna.
 
 77
-00:04:02,660 --> 00:04:03,140
+00:04:04,430 --> 00:04:04,910
 Exacte.
 
 78
-00:04:03,740 --> 00:04:05,600
+00:04:05,510 --> 00:04:07,370
 Llavors, d'on surten aquestes punxes?
 
 79
-00:04:06,360 --> 00:04:08,900
+00:04:08,130 --> 00:04:10,670
 Què és el que fa que l'ecosistema sigui tan invivable?
 
 80
-00:04:09,320 --> 00:04:11,580
+00:04:11,090 --> 00:04:13,350
 Perquè, a veure, si mirem cap a l'escola,
 
 81
-00:04:12,060 --> 00:04:15,380
+00:04:13,830 --> 00:04:17,150
 la pressió per les mètriques i l'èxit sembla que hi té molta a veure, no?
 
 82
-00:04:15,620 --> 00:04:17,840
+00:04:17,390 --> 00:04:19,610
 I tant. I juga un paper fonamental.
 
 83
-00:04:18,420 --> 00:04:21,300
+00:04:20,190 --> 00:04:23,070
 Les dades ens diuen que el 63% de les noies
 
 84
-00:04:21,300 --> 00:04:25,180
+00:04:23,070 --> 00:04:26,950
 i el 43% dels nois europeus senten una pressió escolar
 
 85
-00:04:25,180 --> 00:04:26,120
+00:04:26,950 --> 00:04:27,890
 que els asfixia.
 
 86
-00:04:26,640 --> 00:04:28,860
+00:04:28,410 --> 00:04:30,630
 I més de la meitat dels estudiants de l'OCDE
 
 87
-00:04:28,860 --> 00:04:32,100
+00:04:30,630 --> 00:04:33,870
 viuen, literalment, terroritzats
 
 88
-00:04:32,100 --> 00:04:34,200
+00:04:33,870 --> 00:04:35,970
 per què pensaran els altres si fracassen.
 
 89
-00:04:34,580 --> 00:04:38,440
+00:04:36,350 --> 00:04:40,210
 És com si agaféssim un nen, el poséssim contra la paret
 
 90
-00:04:38,440 --> 00:04:40,900
+00:04:40,210 --> 00:04:42,670
 per mesurar-li l'alçada, com fem tots a casa,
 
 91
-00:04:41,600 --> 00:04:44,980
+00:04:43,370 --> 00:04:46,750
 però obligant-lo constantment a posar-se de puntetes
 
 92
-00:04:44,980 --> 00:04:48,680
+00:04:46,750 --> 00:04:50,450
 per arribar a una ratlla artificial que nosaltres hem pintat allà dalt.
 
 93
-00:04:49,120 --> 00:04:50,000
+00:04:50,890 --> 00:04:51,770
 I, clar, no aguanten.
 
 94
-00:04:50,560 --> 00:04:52,020
+00:04:52,330 --> 00:04:53,790
 És una analogia perfecta.
 
 95
-00:04:52,560 --> 00:04:54,720
+00:04:54,330 --> 00:04:56,490
 I aquest mecanisme de posar-se de puntetes
 
 96
-00:04:54,720 --> 00:04:55,160
+00:04:56,490 --> 00:04:56,930
 totes les setmanes,
 
 97
-00:04:55,180 --> 00:04:57,700
+00:04:56,950 --> 00:04:59,470
 aquesta estona, és el que genera l'ansietat crònica.
 
 98
-00:04:58,380 --> 00:05:01,000
+00:05:00,150 --> 00:05:02,770
 Des dels sis anys, la teva vàlua es mesura amb notes,
 
 99
-00:05:01,200 --> 00:05:03,640
+00:05:02,970 --> 00:05:05,410
 avaluacions de rendiment, a quina universitat aniràs,
 
 100
-00:05:04,020 --> 00:05:07,180
+00:05:05,790 --> 00:05:08,950
 redueixes la vida d'una persona a un examen de provar-ho a suspendre.
 
 101
-00:05:07,420 --> 00:05:10,960
+00:05:09,190 --> 00:05:12,730
 I, ostres, suposo que això no només rebenta els alumnes, oi?
 
 102
-00:05:11,200 --> 00:05:14,440
+00:05:12,970 --> 00:05:16,210
 Perquè els professors deuen estar al mig d'aquesta olla de pressió.
 
 103
-00:05:14,820 --> 00:05:16,820
+00:05:16,590 --> 00:05:18,590
 Són la gran víctima col·lateral.
 
 104
-00:05:17,300 --> 00:05:20,280
+00:05:19,070 --> 00:05:22,050
 I les xifres, mira, les projeccions diuen que al món
 
 105
-00:05:20,280 --> 00:05:24,280
+00:05:22,050 --> 00:05:26,050
 li faran falta 44 milions de mestres de cara al 2030.
 
 106
-00:05:25,180 --> 00:05:26,460
+00:05:26,950 --> 00:05:28,230
 I saps el més fort?
 
 107
-00:05:26,600 --> 00:05:26,760
+00:05:28,370 --> 00:05:28,530
 Què?
 
 108
-00:05:27,240 --> 00:05:30,140
+00:05:29,010 --> 00:05:31,910
 Que la meitat d'aquestes places no són perquè hi hagi més nens,
 
 109
-00:05:30,420 --> 00:05:33,180
+00:05:32,190 --> 00:05:34,950
 sinó per cobrir professors que pleguen abans de jubilar-se.
 
 110
-00:05:33,520 --> 00:05:34,880
+00:05:35,290 --> 00:05:36,650
 Fugen per pur esgotament.
 
 111
-00:05:35,100 --> 00:05:37,720
+00:05:36,870 --> 00:05:39,490
 Clar, perquè fan de tot menys ensenyar, al final.
 
 112
-00:05:38,020 --> 00:05:40,340
+00:05:39,790 --> 00:05:42,110
 Se'ls demana que gestionin l'incontrolable.
 
 113
-00:05:40,560 --> 00:05:42,200
+00:05:42,330 --> 00:05:43,970
 O sigui, fan de psicòlegs de guàrdia,
 
 114
-00:05:42,400 --> 00:05:44,460
+00:05:44,170 --> 00:05:46,230
 mediadors en conflictes de xarxes socials
 
 115
-00:05:44,460 --> 00:05:45,640
+00:05:46,230 --> 00:05:47,410
 que venen de fora de l'escola,
 
 116
-00:05:45,980 --> 00:05:46,900
+00:05:47,750 --> 00:05:48,670
 detecten abusos,
 
 117
-00:05:47,140 --> 00:05:49,500
+00:05:48,910 --> 00:05:51,270
 estan a la trinxera d'una crisi social gegant.
 
 118
-00:05:49,740 --> 00:05:53,020
+00:05:51,510 --> 00:05:54,790
 I aquí suposo que ve la típica guerra entre pares i mestres, no?
 
 119
-00:05:53,380 --> 00:05:53,820
+00:05:55,150 --> 00:05:55,590
 Exacte.
 
 120
-00:05:53,820 --> 00:05:55,120
+00:05:55,590 --> 00:05:56,890
 S'enfronten constantment.
 
 121
-00:05:55,440 --> 00:05:57,200
+00:05:57,210 --> 00:05:58,970
 Quan el document reúna molt clarament
 
 122
-00:05:57,200 --> 00:05:58,640
+00:05:58,970 --> 00:06:00,410
 que haurien de ser, com diuen allà,
 
 123
-00:05:58,760 --> 00:06:00,180
+00:06:00,530 --> 00:06:01,950
 com el Quixot i Sancho Panza.
 
 124
-00:06:00,380 --> 00:06:01,020
+00:06:02,150 --> 00:06:02,790
 Formant d'equip.
 
 125
-00:06:01,220 --> 00:06:03,260
+00:06:02,990 --> 00:06:05,030
 Clar, un front comú inquebrantable
 
 126
-00:06:03,260 --> 00:06:04,960
+00:06:05,030 --> 00:06:06,730
 per defensar els nens d'aquells
 
 127
-00:06:04,960 --> 00:06:07,600
+00:06:06,730 --> 00:06:09,370
 que sí que s'estan aprofitant d'aquesta vulnerabilitat.
 
 128
-00:06:07,860 --> 00:06:11,000
+00:06:09,630 --> 00:06:12,770
 I aquí és una esposa realment interessant, no?
 
 129
-00:06:11,580 --> 00:06:12,540
+00:06:13,350 --> 00:06:14,310
 Perquè, a veure,
 
 130
-00:06:13,120 --> 00:06:16,020
+00:06:14,890 --> 00:06:17,790
 tenim una societat obsessionada amb les mètriques
 
 131
-00:06:16,020 --> 00:06:19,000
+00:06:17,790 --> 00:06:20,770
 i uns joves desesperats per l'aprovació.
 
 132
-00:06:19,560 --> 00:06:22,820
+00:06:21,330 --> 00:06:24,590
 Doncs el mercat tarda zero segons a monetitzar-ho.
 
 133
-00:06:22,820 --> 00:06:24,460
+00:06:24,590 --> 00:06:26,230
 I passem de l'escola
 
 134
-00:06:24,460 --> 00:06:25,660
+00:06:26,230 --> 00:06:27,430
 a la tecnologia.
 
 135
-00:06:26,280 --> 00:06:28,840
+00:06:28,050 --> 00:06:30,610
 Perquè, jo recordo que fa 20 anys
 
 136
-00:06:28,840 --> 00:06:29,980
+00:06:30,610 --> 00:06:31,750
 la poera...
 
 137
-00:06:29,980 --> 00:06:33,000
+00:06:31,750 --> 00:06:34,770
 Ui, els nens veuen molts anuncis de cereals ensucrats
 
 138
-00:06:33,000 --> 00:06:33,940
+00:06:34,770 --> 00:06:35,710
 el dissabte al matí.
 
 139
-00:06:34,400 --> 00:06:36,780
+00:06:36,170 --> 00:06:38,550
 Però ara porten una espia a la butxaca
 
 140
-00:06:36,780 --> 00:06:37,700
+00:06:38,550 --> 00:06:39,470
 tot el dia.
 
 141
-00:06:37,920 --> 00:06:40,020
+00:06:39,690 --> 00:06:41,790
 És que el salt en el model de negoci
 
 142
-00:06:40,020 --> 00:06:43,200
+00:06:41,790 --> 00:06:44,970
 és brutal. Ja no és publicitat de tota la vida.
 
 143
-00:06:43,760 --> 00:06:44,700
+00:06:45,530 --> 00:06:46,470
 És capitalisme
 
 144
-00:06:44,700 --> 00:06:46,700
+00:06:46,470 --> 00:06:48,470
 de vigilància pur i dur.
 
 145
-00:06:47,280 --> 00:06:48,680
+00:06:49,050 --> 00:06:50,450
 La Comissió Federal de Comerç,
 
 146
-00:06:48,760 --> 00:06:50,320
+00:06:50,530 --> 00:06:52,090
 la FTC dels Estats Units,
 
 147
-00:06:50,320 --> 00:06:51,860
+00:06:52,090 --> 00:06:53,630
 té un informe demolidor
 
 148
-00:06:51,860 --> 00:06:54,400
+00:06:53,630 --> 00:06:56,170
 on fa servir el terme vigilància,
 
 149
-00:06:53,820 --> 00:06:54,440
+00:06:55,590 --> 00:06:56,210
 vigilància,
 
 150
-00:06:54,460 --> 00:06:55,980
+00:06:56,230 --> 00:06:57,750
 massiva, així tal qual,
 
 151
-00:06:56,420 --> 00:06:58,620
+00:06:58,190 --> 00:07:00,390
 per descriure què fan aquestes plataformes.
 
 152
-00:06:58,920 --> 00:07:00,620
+00:07:00,690 --> 00:07:02,390
 I sobretot com perfilen els menors.
 
 153
-00:07:01,060 --> 00:07:02,300
+00:07:02,830 --> 00:07:04,070
 No només miren què compren,
 
 154
-00:07:02,580 --> 00:07:03,500
+00:07:04,350 --> 00:07:05,270
 miren on s'aturen,
 
 155
-00:07:03,800 --> 00:07:05,200
+00:07:05,570 --> 00:07:06,970
 quan triguen a mirar una foto,
 
 156
-00:07:05,380 --> 00:07:06,740
+00:07:07,150 --> 00:07:08,510
 quina emoció els genera...
 
 157
-00:07:06,740 --> 00:07:09,540
+00:07:08,510 --> 00:07:11,310
 O sigui, han agafat un impuls superprimitiu
 
 158
-00:07:09,540 --> 00:07:11,000
+00:07:11,310 --> 00:07:12,770
 a aquesta necessitat adolescent
 
 159
-00:07:11,000 --> 00:07:12,260
+00:07:12,770 --> 00:07:14,030
 de pertànyer a la tribu,
 
 160
-00:07:12,680 --> 00:07:13,520
+00:07:14,450 --> 00:07:15,290
 de ser acceptat,
 
 161
-00:07:13,660 --> 00:07:14,960
+00:07:15,430 --> 00:07:16,730
 i ho han transformat en dades,
 
 162
-00:07:15,240 --> 00:07:17,820
+00:07:17,010 --> 00:07:19,590
 en, no sé, m'agrades i visualitzacions.
 
 163
-00:07:18,360 --> 00:07:19,500
+00:07:20,130 --> 00:07:21,270
 Mètriques, al final.
 
 164
-00:07:19,500 --> 00:07:22,020
+00:07:21,270 --> 00:07:23,790
 Clar, i això, per al cervell d'un adolescent,
 
 165
-00:07:22,500 --> 00:07:23,280
+00:07:24,270 --> 00:07:25,050
 és una bomba.
 
 166
-00:07:24,460 --> 00:07:26,180
+00:07:26,230 --> 00:07:27,950
 A la tarda, avorrit a l'habitació,
 
 167
-00:07:26,540 --> 00:07:28,900
+00:07:28,310 --> 00:07:30,670
 i s'estan comparant en la vida hipereditada
 
 168
-00:07:28,900 --> 00:07:31,000
+00:07:30,670 --> 00:07:32,770
 i irreal de milers de persones.
 
 169
-00:07:31,680 --> 00:07:34,320
+00:07:33,450 --> 00:07:36,090
 I l'assetjament ja no és el pati de l'escola, oi?
 
 170
-00:07:34,740 --> 00:07:37,580
+00:07:36,510 --> 00:07:39,350
 El ciberassetjament et persegueix el teu llit.
 
 171
-00:07:38,080 --> 00:07:39,740
+00:07:39,850 --> 00:07:41,510
 Un de cada sis escolars a Europa
 
 172
-00:07:39,740 --> 00:07:41,860
+00:07:41,510 --> 00:07:43,630
 ho pateix les 24 hores del dia.
 
 173
-00:07:42,180 --> 00:07:43,140
+00:07:43,950 --> 00:07:44,910
 Ja no hi ha refugi.
 
 174
-00:07:43,500 --> 00:07:44,340
+00:07:45,270 --> 00:07:46,110
 Aquest és el tema.
 
 175
-00:07:44,680 --> 00:07:46,600
+00:07:46,450 --> 00:07:48,370
 I això té una traducció mèdica.
 
 176
-00:07:47,200 --> 00:07:48,340
+00:07:48,970 --> 00:07:50,110
 Els estudis demostren
 
 177
-00:07:48,340 --> 00:07:49,820
+00:07:50,110 --> 00:07:51,590
 que passar 3 hores al dia
 
 178
-00:07:49,820 --> 00:07:51,200
+00:07:51,590 --> 00:07:52,970
 a les xarxes socials
 
 179
-00:07:51,200 --> 00:07:53,920
+00:07:52,970 --> 00:07:55,690
 duplica el risc de tenir problemes de salut mental.
 
 180
-00:07:53,920 --> 00:07:54,740
+00:07:55,690 --> 00:07:56,510
 3 hores?
 
 181
-00:07:55,360 --> 00:07:56,780
+00:07:57,130 --> 00:07:58,550
 Però si això ho deuen fer tots.
 
 182
-00:07:56,960 --> 00:07:59,780
+00:07:58,730 --> 00:08:01,550
 És que la mitjana actual ja frega les 3 hores i mitja.
 
 183
-00:08:00,180 --> 00:08:02,520
+00:08:01,950 --> 00:08:04,290
 O sigui que ja estem per sobre del llindar de perill.
 
 184
-00:08:03,200 --> 00:08:04,080
+00:08:04,970 --> 00:08:05,850
 Però atenció,
 
 185
-00:08:04,340 --> 00:08:06,260
+00:08:06,110 --> 00:08:08,030
 perquè aquí el tema fa un gir molt fosc.
 
 186
-00:08:06,900 --> 00:08:08,300
+00:08:08,670 --> 00:08:10,070
 I és fins a quin punt
 
 187
-00:08:08,300 --> 00:08:10,000
+00:08:10,070 --> 00:08:11,770
 els creadors d'això ho sabien.
 
 188
-00:08:10,320 --> 00:08:11,980
+00:08:12,090 --> 00:08:13,750
 Els procediments judicials
 
 189
-00:08:11,980 --> 00:08:13,840
+00:08:13,750 --> 00:08:15,610
 als Estats Units van obligar Meta,
 
 190
-00:08:13,980 --> 00:08:16,720
+00:08:15,750 --> 00:08:18,490
 els d'Instagram, a obrir els seus estudis interns.
 
 191
-00:08:17,180 --> 00:08:18,560
+00:08:18,950 --> 00:08:20,330
 Que no ho volien ensenyar a ningú, clar.
 
 192
-00:08:18,840 --> 00:08:19,360
+00:08:20,610 --> 00:08:21,130
 Exacte.
 
 193
-00:08:19,800 --> 00:08:21,440
+00:08:21,570 --> 00:08:23,210
 Doncs les seves pròpies dades
 
 194
-00:08:21,440 --> 00:08:23,740
+00:08:23,210 --> 00:08:25,510
 indicaven que el 32%
 
 195
-00:08:23,740 --> 00:08:25,400
+00:08:25,510 --> 00:08:27,170
 de les noies que ja sentien
 
 196
-00:08:25,400 --> 00:08:27,020
+00:08:27,170 --> 00:08:28,790
 insatisfacció amb el seu cos
 
 197
-00:08:27,020 --> 00:08:28,100
+00:08:28,790 --> 00:08:29,870
 deien ells mateixos
 
 198
-00:08:28,100 --> 00:08:30,440
+00:08:29,870 --> 00:08:32,210
 que Instagram empitjorava
 
 199
-00:08:30,440 --> 00:08:32,140
+00:08:32,210 --> 00:08:33,910
 la seva percepció dràsticament.
 
 200
-00:08:32,400 --> 00:08:33,560
+00:08:34,170 --> 00:08:35,330
 Espera, aturem-nos aquí,
 
 201
-00:08:33,880 --> 00:08:35,640
+00:08:35,650 --> 00:08:37,410
 perquè això és fortíssim.
 
 202
-00:08:36,140 --> 00:08:37,680
+00:08:37,910 --> 00:08:39,450
 O sigui, tu ets una corporació,
 
 203
-00:08:38,300 --> 00:08:39,960
+00:08:40,070 --> 00:08:41,730
 fas un estudi, descobreixes
 
 204
-00:08:39,960 --> 00:08:41,480
+00:08:41,730 --> 00:08:43,250
 que el teu producte estrella
 
 205
-00:08:41,480 --> 00:08:43,460
+00:08:43,250 --> 00:08:45,230
 està destrossant l'autoestima
 
 206
-00:08:43,460 --> 00:08:45,540
+00:08:45,230 --> 00:08:47,310
 d'un terç de les teves usuàries.
 
 207
-00:08:45,920 --> 00:08:46,940
+00:08:47,690 --> 00:08:48,710
 I la reacció no és
 
 208
-00:08:46,940 --> 00:08:48,820
+00:08:48,710 --> 00:08:50,590
 ostres, parem màquines i canviem-ho.
 
 209
-00:08:49,440 --> 00:08:50,380
+00:08:51,210 --> 00:08:52,150
 La reacció és
 
 210
-00:08:50,380 --> 00:08:52,180
+00:08:52,150 --> 00:08:53,950
 mantenir l'algoritme tal qual
 
 211
-00:08:52,180 --> 00:08:53,440
+00:08:53,950 --> 00:08:55,210
 per seguir venent publicitat.
 
 212
-00:08:53,740 --> 00:08:54,520
+00:08:55,510 --> 00:08:56,290
 Tal qual.
 
 213
-00:08:55,240 --> 00:08:57,600
+00:08:57,010 --> 00:08:59,370
 I a més dades, l'estudi també deia
 
 214
-00:08:57,600 --> 00:09:00,000
+00:08:59,370 --> 00:09:01,770
 que el 13% dels adolescents britànics
 
 215
-00:09:00,000 --> 00:09:01,620
+00:09:01,770 --> 00:09:03,390
 i em sembla que el 6% dels
 
 216
-00:09:01,620 --> 00:09:03,820
+00:09:03,390 --> 00:09:05,590
 estatunidencs que tenien pensaments
 
 217
-00:09:03,820 --> 00:09:05,640
+00:09:05,590 --> 00:09:07,410
 suïcides els relacionaven
 
 218
-00:09:05,640 --> 00:09:07,460
+00:09:07,410 --> 00:09:09,230
 directament amb l'ús d'Instagram.
 
 219
-00:09:07,720 --> 00:09:09,160
+00:09:09,490 --> 00:09:10,930
 Ostres, llavors,
 
 220
-00:09:09,640 --> 00:09:11,700
+00:09:11,410 --> 00:09:13,470
 perdona, però això no és negligència.
 
 221
-00:09:12,160 --> 00:09:13,100
+00:09:13,930 --> 00:09:14,870
 Això és disseny.
 
 222
-00:09:13,780 --> 00:09:15,620
+00:09:15,550 --> 00:09:17,390
 O sigui, sabien el dany
 
 223
-00:09:15,620 --> 00:09:17,760
+00:09:17,390 --> 00:09:19,530
 que feien. És el mateix, exactament
 
 224
-00:09:17,760 --> 00:09:19,720
+00:09:19,530 --> 00:09:21,490
 el mateix manual d'estratègia que feien
 
 225
-00:09:19,720 --> 00:09:21,680
+00:09:21,490 --> 00:09:23,450
 servir les tabaqueres als anys 90.
 
 226
-00:09:22,500 --> 00:09:23,680
+00:09:24,270 --> 00:09:25,450
 Sabien que provocava
 
 227
-00:09:23,680 --> 00:09:25,760
+00:09:25,450 --> 00:09:27,530
 càncer, però venien com a estil de vida
 
 228
-00:09:25,760 --> 00:09:27,700
+00:09:27,530 --> 00:09:29,470
 i llibertat. Només que ara
 
 229
-00:09:27,700 --> 00:09:30,060
+00:09:29,470 --> 00:09:31,830
 la cigarreta ve amb filtres bonics al mòbil.
 
 230
-00:09:30,340 --> 00:09:31,960
+00:09:32,110 --> 00:09:33,730
 És calcat a nivell
 
 231
-00:09:31,960 --> 00:09:33,640
+00:09:33,730 --> 00:09:35,410
 empresarial, però hi ha una
 
 232
-00:09:33,640 --> 00:09:35,680
+00:09:35,410 --> 00:09:37,450
 diferència, eh? L'enginyeria
 
 233
-00:09:35,680 --> 00:09:37,020
+00:09:37,450 --> 00:09:38,790
 d'ara és pitjor.
 
 234
-00:09:37,600 --> 00:09:39,200
+00:09:39,370 --> 00:09:40,970
 El tabac venia nicotina,
 
 235
-00:09:39,740 --> 00:09:42,000
+00:09:41,510 --> 00:09:43,770
 però aquesta gent el que fa és hackear
 
 236
-00:09:42,000 --> 00:09:43,820
+00:09:43,770 --> 00:09:45,590
 el nostre sistema de dopamina.
 
 237
-00:09:44,360 --> 00:09:45,600
+00:09:46,130 --> 00:09:47,370
 Fan servir recompenses
 
 238
-00:09:45,600 --> 00:09:47,720
+00:09:47,370 --> 00:09:49,490
 variables contínuament. I clar,
 
 239
-00:09:47,940 --> 00:09:50,080
+00:09:49,710 --> 00:09:51,850
 això ens porta a un altre problema gravíssim,
 
 240
-00:09:50,480 --> 00:09:52,100
+00:09:52,250 --> 00:09:53,870
 que és la suma zero del temps.
 
 241
-00:09:52,880 --> 00:09:53,660
+00:09:54,650 --> 00:09:55,430
 El dia té 24 hores,
 
 242
-00:09:53,680 --> 00:09:55,540
+00:09:55,450 --> 00:09:57,310
 punt. Si et passes
 
 243
-00:09:55,540 --> 00:09:57,380
+00:09:57,310 --> 00:09:59,150
 3 o 4 hores fent scroll,
 
 244
-00:09:57,800 --> 00:09:59,720
+00:09:59,570 --> 00:10:01,490
 aquest temps l'estàs robant d'alguna
 
 245
-00:09:59,720 --> 00:10:01,500
+00:10:01,490 --> 00:10:03,270
 altra banda. I aquí és on veiem
 
 246
-00:10:01,500 --> 00:10:03,660
+00:10:03,270 --> 00:10:05,430
 l'extinció de les aficions, no?
 
 247
-00:10:04,020 --> 00:10:05,720
+00:10:05,790 --> 00:10:07,490
 D'allò que realment forma
 
 248
-00:10:05,720 --> 00:10:08,060
+00:10:07,490 --> 00:10:09,830
 el caràcter i casualment coincideix
 
 249
-00:10:08,060 --> 00:10:09,580
+00:10:09,830 --> 00:10:11,350
 amb l'arribada dels mòbils
 
 250
-00:10:09,580 --> 00:10:11,380
+00:10:11,350 --> 00:10:13,150
 intel·ligents. A veure,
 
 251
-00:10:11,980 --> 00:10:13,460
+00:10:13,750 --> 00:10:15,230
 llegir per plaer als anys 70
 
 252
-00:10:13,460 --> 00:10:15,600
+00:10:15,230 --> 00:10:17,370
 als Estats Units estava al 60%.
 
 253
-00:10:15,600 --> 00:10:17,600
+00:10:17,370 --> 00:10:19,370
 El 2016 va caure
 
 254
-00:10:17,600 --> 00:10:19,900
+00:10:19,370 --> 00:10:21,670
 al 16. És una davallada en picat.
 
 255
-00:10:20,180 --> 00:10:21,360
+00:10:21,950 --> 00:10:23,130
 I en nens de 13 anys,
 
 256
-00:10:21,360 --> 00:10:22,860
+00:10:23,130 --> 00:10:24,630
 que fa poc devia ser un
 
 257
-00:10:22,860 --> 00:10:25,660
+00:10:24,630 --> 00:10:27,430
 27%, ara és un 14%.
 
 258
-00:10:25,660 --> 00:10:27,480
+00:10:27,430 --> 00:10:29,250
 I amb la música igual. El Regne Unit
 
 259
-00:10:27,480 --> 00:10:29,640
+00:10:29,250 --> 00:10:31,410
 va caure del 33 al 19%
 
 260
-00:10:29,640 --> 00:10:30,920
+00:10:31,410 --> 00:10:32,690
 en molt poc temps.
 
 261
-00:10:31,200 --> 00:10:33,280
+00:10:32,970 --> 00:10:35,050
 I és molt preocupant, perquè neurològicament
 
 262
-00:10:33,280 --> 00:10:35,380
+00:10:35,050 --> 00:10:37,150
 parlant, l'oci no és per
 
 263
-00:10:35,380 --> 00:10:36,960
+00:10:37,150 --> 00:10:38,730
 no avorrir-se. L'oci
 
 264
-00:10:36,960 --> 00:10:39,260
+00:10:38,730 --> 00:10:41,030
 construeix el cervell. Llegir,
 
 265
-00:10:39,460 --> 00:10:41,100
+00:10:41,230 --> 00:10:42,870
 tocar el piano o jugar a futbol
 
 266
-00:10:41,100 --> 00:10:43,040
+00:10:42,870 --> 00:10:44,810
 t'obliga a tolerar la frustració,
 
 267
-00:10:43,420 --> 00:10:45,140
+00:10:45,190 --> 00:10:46,910
 t'entrena per concentrar-te i
 
 268
-00:10:45,140 --> 00:10:47,200
+00:10:46,910 --> 00:10:48,970
 acceptar l'esforç. Com el famós
 
 269
-00:10:47,200 --> 00:10:48,940
+00:10:48,970 --> 00:10:50,710
 experiment aquell del marshmallow,
 
 270
-00:10:48,940 --> 00:10:51,200
+00:10:50,710 --> 00:10:52,970
 de Mischel, oi? La gratificació
 
 271
-00:10:51,200 --> 00:10:52,520
+00:10:52,970 --> 00:10:54,290
 ajornada. Exacte.
 
 272
-00:10:52,860 --> 00:10:55,440
+00:10:54,630 --> 00:10:57,210
 Un nen que no es menja la llaminadura
 
 273
-00:10:55,440 --> 00:10:57,360
+00:10:57,210 --> 00:10:59,130
 ara per tenir-ne dues, més tard
 
 274
-00:10:57,360 --> 00:10:59,620
+00:10:59,130 --> 00:11:01,390
 desenvolupa una funció executiva
 
 275
-00:10:59,620 --> 00:11:01,580
+00:11:01,390 --> 00:11:03,350
 que l'ajudarà tota la vida a gestionar
 
 276
-00:11:01,580 --> 00:11:03,440
+00:11:03,350 --> 00:11:05,210
 les emocions. L'oci
 
 277
-00:11:03,440 --> 00:11:04,620
+00:11:05,210 --> 00:11:06,390
 tradicional entrena això.
 
 278
-00:11:05,320 --> 00:11:07,480
+00:11:07,090 --> 00:11:09,250
 Però el desplaçament passiu pel mòbil
 
 279
-00:11:07,480 --> 00:11:09,700
+00:11:09,250 --> 00:11:11,470
 el que entrena és vull un estímul
 
 280
-00:11:09,700 --> 00:11:11,200
+00:11:11,470 --> 00:11:12,970
 ara. I d'aquí a dos segons,
 
 281
-00:11:11,400 --> 00:11:13,620
+00:11:13,170 --> 00:11:15,390
 un altre. I si no me'l dones, abandono.
 
 282
-00:11:14,320 --> 00:11:15,740
+00:11:16,090 --> 00:11:17,510
 Literalment els estem atrofiant
 
 283
-00:11:15,740 --> 00:11:17,220
+00:11:17,510 --> 00:11:18,990
 la capacitat d'esforçar-se.
 
 284
-00:11:17,220 --> 00:11:19,080
+00:11:18,990 --> 00:11:20,850
 I clar, els pares veuen això,
 
 285
-00:11:19,260 --> 00:11:21,380
+00:11:21,030 --> 00:11:23,150
 entren en pànic pensant que els fills
 
 286
-00:11:21,380 --> 00:11:23,160
+00:11:23,150 --> 00:11:24,930
 es quedaran enrere acadèmicament
 
 287
-00:11:23,160 --> 00:11:25,020
+00:11:24,930 --> 00:11:26,790
 i qui apareix per salvar el dia?
 
 288
-00:11:25,420 --> 00:11:27,340
+00:11:27,190 --> 00:11:29,110
 La gran indústria, la tecnologia
 
 289
-00:11:27,340 --> 00:11:29,060
+00:11:29,110 --> 00:11:30,830
 educativa, EdTech.
 
 290
-00:11:29,200 --> 00:11:31,100
+00:11:30,970 --> 00:11:32,870
 L'EdTech. Sí, això és per riure
 
 291
-00:11:31,100 --> 00:11:33,340
+00:11:32,870 --> 00:11:35,110
 per no plorar. Perquè em recorda moltíssim
 
 292
-00:11:33,340 --> 00:11:35,460
+00:11:35,110 --> 00:11:37,230
 a la teletienda, quan a les tres de la matinada
 
 293
-00:11:35,460 --> 00:11:37,460
+00:11:37,230 --> 00:11:39,230
 et veien aquell cinturó vibrador,
 
 294
-00:11:37,680 --> 00:11:39,460
+00:11:39,450 --> 00:11:41,230
 saps? Ai, sí, l'Abdominizer
 
 295
-00:11:39,460 --> 00:11:41,000
+00:11:41,230 --> 00:11:42,770
 aquell. Aquest.
 
 296
-00:11:41,520 --> 00:11:43,340
+00:11:43,290 --> 00:11:45,110
 Et deien, tu posa't al sofà,
 
 297
-00:11:43,880 --> 00:11:44,840
+00:11:45,650 --> 00:11:46,610
 menja patates
 
 298
-00:11:44,840 --> 00:11:47,280
+00:11:46,610 --> 00:11:49,050
 i la màquina vibrarà i et farà
 
 299
-00:11:47,280 --> 00:11:49,680
+00:11:49,050 --> 00:11:51,450
 uns abdominals d'acer sense suar.
 
 300
-00:11:49,680 --> 00:11:50,820
+00:11:51,450 --> 00:11:52,590
 Però és impossible.
 
 301
-00:11:51,380 --> 00:11:53,460
+00:11:53,150 --> 00:11:55,230
 La indústria educativa tecnològica
 
 302
-00:11:53,460 --> 00:11:56,020
+00:11:55,230 --> 00:11:57,790
 fa el mateix amb l'ansietat dels pares.
 
 303
-00:11:56,460 --> 00:11:58,180
+00:11:58,230 --> 00:11:59,950
 És la mateixa promesa de l'aprenentatge
 
 304
-00:11:58,180 --> 00:11:59,320
+00:11:59,950 --> 00:12:01,090
 sense esforç, sí?
 
 305
-00:11:59,860 --> 00:12:02,100
+00:12:01,630 --> 00:12:03,870
 I el problema és que estan externalitzant
 
 306
-00:12:02,100 --> 00:12:04,180
+00:12:03,870 --> 00:12:05,950
 l'esforç cognitiu. I les dades
 
 307
-00:12:04,180 --> 00:12:05,340
+00:12:05,950 --> 00:12:07,110
 aquí són ridícules.
 
 308
-00:12:05,840 --> 00:12:07,600
+00:12:07,610 --> 00:12:09,370
 La Unesco va treure un informe
 
 309
-00:12:07,600 --> 00:12:09,620
+00:12:09,370 --> 00:12:11,390
 dient que només un 7%,
 
 310
-00:12:09,620 --> 00:12:12,080
+00:12:11,390 --> 00:12:13,850
 un 7%, d'aquestes empreses
 
 311
-00:12:12,080 --> 00:12:13,840
+00:12:13,850 --> 00:12:15,610
 havien fet algun assaig controlat
 
 312
-00:12:13,840 --> 00:12:16,200
+00:12:15,610 --> 00:12:17,970
 per demostrar que el seu producte servia per alguna cosa.
 
 313
-00:12:17,060 --> 00:12:17,400
+00:12:18,830 --> 00:12:19,170
 O sigui,
 
 314
-00:12:17,400 --> 00:12:19,240
+00:12:19,170 --> 00:12:21,010
 el 93%
 
 315
-00:12:19,240 --> 00:12:20,700
+00:12:21,010 --> 00:12:22,470
 venen fum pedagògic.
 
 316
-00:12:21,380 --> 00:12:23,580
+00:12:23,150 --> 00:12:25,350
 Absolut. I el pitjor és que als Estats Units
 
 317
-00:12:23,580 --> 00:12:25,660
+00:12:25,350 --> 00:12:27,430
 només l'11% de les escoles demanen
 
 318
-00:12:25,660 --> 00:12:27,580
+00:12:27,430 --> 00:12:29,350
 proves científiques abans de gastar-se
 
 319
-00:12:27,580 --> 00:12:28,360
+00:12:29,350 --> 00:12:30,130
 milions en això.
 
 320
-00:12:28,620 --> 00:12:30,860
+00:12:30,390 --> 00:12:32,630
 És de bojos. Com el projecte aquell,
 
 321
-00:12:30,940 --> 00:12:33,300
+00:12:32,710 --> 00:12:35,070
 el One Laptop per Child a l'Amèrica Latina,
 
 322
-00:12:33,720 --> 00:12:35,700
+00:12:35,490 --> 00:12:37,470
 un ordinador per nens, sonava genial.
 
 323
-00:12:36,220 --> 00:12:37,840
+00:12:37,990 --> 00:12:39,610
 Donarem un portàtil a tothom
 
 324
-00:12:37,840 --> 00:12:39,800
+00:12:39,610 --> 00:12:41,570
 i revolucionarem l'educació.
 
 325
-00:12:40,540 --> 00:12:41,760
+00:12:42,310 --> 00:12:43,530
 I l'impacte en matemàtiques
 
 326
-00:12:41,760 --> 00:12:43,140
+00:12:43,530 --> 00:12:44,910
 va ser literalment zero.
 
 327
-00:12:43,700 --> 00:12:44,880
+00:12:45,470 --> 00:12:46,650
 Zero. Res.
 
 328
-00:12:45,440 --> 00:12:47,900
+00:12:47,210 --> 00:12:49,670
 Si no hi ha un marc humà darrere, no serveix.
 
 329
-00:12:48,100 --> 00:12:49,920
+00:12:49,870 --> 00:12:51,690
 Però a veure, un exemple
 
 330
-00:12:49,920 --> 00:12:51,360
+00:12:51,690 --> 00:12:53,130
 molt més de prop que explica
 
 331
-00:12:51,380 --> 00:12:53,200
+00:12:53,150 --> 00:12:54,970
 molt bé el document. És Duolingo.
 
 332
-00:12:53,560 --> 00:12:54,940
+00:12:55,330 --> 00:12:56,710
 Ostres, Duolingo.
 
 333
-00:12:55,580 --> 00:12:57,580
+00:12:57,350 --> 00:12:59,350
 Confesso que jo mateix he sofert estrès
 
 334
-00:12:57,580 --> 00:12:59,760
+00:12:59,350 --> 00:13:01,530
 per no perdre la ditxosa ratxa de la flama.
 
 335
-00:13:00,040 --> 00:13:00,980
+00:13:01,810 --> 00:13:02,750
 Tu i tothom, clar.
 
 336
-00:13:01,540 --> 00:13:03,420
+00:13:03,310 --> 00:13:05,190
 Però és que no funciona com un mètode
 
 337
-00:13:03,420 --> 00:13:05,280
+00:13:05,190 --> 00:13:07,050
 de retenció d'idiomes. Funciona
 
 338
-00:13:05,280 --> 00:13:07,700
+00:13:07,050 --> 00:13:09,470
 amb una mecànica de cita, el que en videojocs
 
 339
-00:13:07,700 --> 00:13:08,920
+00:13:09,470 --> 00:13:10,690
 és l'appointment mechanic.
 
 340
-00:13:09,280 --> 00:13:10,800
+00:13:11,050 --> 00:13:12,570
 Com allò del Farmville al Facebook?
 
 341
-00:13:11,300 --> 00:13:13,420
+00:13:13,070 --> 00:13:15,190
 Exacte. Si no regues
 
 342
-00:13:13,420 --> 00:13:15,880
+00:13:15,190 --> 00:13:17,650
 els enciams virtuals, es moren.
 
 343
-00:13:16,600 --> 00:13:17,700
+00:13:18,370 --> 00:13:19,470
 Duolingo fa el mateix.
 
 344
-00:13:18,100 --> 00:13:19,700
+00:13:19,870 --> 00:13:21,470
 T'imposen un peatge emocional
 
 345
-00:13:19,700 --> 00:13:21,320
+00:13:21,470 --> 00:13:23,090
 on fa molt més mal,
 
 346
-00:13:21,380 --> 00:13:22,860
+00:13:23,150 --> 00:13:24,630
 perdre cent dies de ratxa,
 
 347
-00:13:23,340 --> 00:13:24,960
+00:13:25,110 --> 00:13:26,730
 que l'alegria d'aprendre una paraula.
 
 348
-00:13:25,620 --> 00:13:27,460
+00:13:27,390 --> 00:13:29,230
 Hi ha adolescents que demanen als pares
 
 349
-00:13:27,460 --> 00:13:29,240
+00:13:29,230 --> 00:13:31,010
 si us plau entra i juga per mi
 
 350
-00:13:29,240 --> 00:13:31,320
+00:13:31,010 --> 00:13:33,090
 que marxo de colònies i perdre la ratxa.
 
 351
-00:13:31,940 --> 00:13:33,560
+00:13:33,710 --> 00:13:35,330
 Ja no aprenen. Estan obedient
 
 352
-00:13:33,560 --> 00:13:35,320
+00:13:35,330 --> 00:13:37,090
 l'algoritme per pur condicionament.
 
 353
-00:13:35,860 --> 00:13:37,480
+00:13:37,630 --> 00:13:39,250
 Doncs, vistes
 
 354
-00:13:37,480 --> 00:13:38,880
+00:13:39,250 --> 00:13:40,650
 totes aquestes amenaces,
 
 355
-00:13:39,800 --> 00:13:41,500
+00:13:41,570 --> 00:13:43,270
 llavors, què vol dir
 
 356
-00:13:41,500 --> 00:13:43,360
+00:13:43,270 --> 00:13:45,130
 tot això? Com recuperem
 
 357
-00:13:43,360 --> 00:13:45,280
+00:13:45,130 --> 00:13:47,050
 les regnes? Com ens
 
 358
-00:13:45,280 --> 00:13:47,300
+00:13:47,050 --> 00:13:49,070
 defensem d'això? El document
 
 359
-00:13:47,300 --> 00:13:49,480
+00:13:49,070 --> 00:13:51,250
 és molt clar. S'han d'assumir dos rols
 
 360
-00:13:49,480 --> 00:13:51,300
+00:13:51,250 --> 00:13:53,070
 fonamentals. Ser l'
 
 361
-00:13:51,300 --> 00:13:53,400
+00:13:53,070 --> 00:13:55,170
 escut i ser la guia. L'escut
 
 362
-00:13:53,400 --> 00:13:55,340
+00:13:55,170 --> 00:13:57,110
 és la protecció física i legal.
 
 363
-00:13:55,880 --> 00:13:57,360
+00:13:57,650 --> 00:13:59,130
 Es tracta de retardar l'accés
 
 364
-00:13:57,360 --> 00:13:59,500
+00:13:59,130 --> 00:14:01,270
 a eines per a les quals els seus cervells
 
 365
-00:13:59,500 --> 00:14:00,880
+00:14:01,270 --> 00:14:02,650
 simplement no estan preparats.
 
 366
-00:14:01,380 --> 00:14:03,640
+00:14:03,150 --> 00:14:05,410
 És a dir, igual que no li donaries
 
 367
-00:14:03,640 --> 00:14:05,300
+00:14:05,410 --> 00:14:07,070
 les claus del teu cotxe ni una
 
 368
-00:14:05,300 --> 00:14:07,580
+00:14:07,070 --> 00:14:09,350
 ampolla de vi a un nen de 8 anys,
 
 369
-00:14:07,680 --> 00:14:09,260
+00:14:09,450 --> 00:14:11,030
 tal qual. I no és treure'ls
 
 370
-00:14:09,260 --> 00:14:11,560
+00:14:11,030 --> 00:14:13,330
 la llibertat, és posar les defenses
 
 371
-00:14:11,560 --> 00:14:12,900
+00:14:13,330 --> 00:14:14,670
 que ells encara no tenen.
 
 372
-00:14:13,260 --> 00:14:15,720
+00:14:15,030 --> 00:14:17,490
 Però, atenció, aquest escut
 
 373
-00:14:15,720 --> 00:14:17,300
+00:14:17,490 --> 00:14:19,070
 no pot ser només la pobra mare
 
 374
-00:14:17,300 --> 00:14:18,800
+00:14:19,070 --> 00:14:20,570
 batallant sola a casa.
 
 375
-00:14:19,420 --> 00:14:21,100
+00:14:21,190 --> 00:14:22,870
 Cal un marc legal fort.
 
 376
-00:14:21,300 --> 00:14:22,960
+00:14:23,070 --> 00:14:24,730
 Com la llei COPPA als Estats Units
 
 377
-00:14:22,960 --> 00:14:25,680
+00:14:24,730 --> 00:14:27,450
 per la privacitat, o les lleis draconianes
 
 378
-00:14:25,680 --> 00:14:27,100
+00:14:27,450 --> 00:14:28,870
 que ara es debaten al Regne Unit,
 
 379
-00:14:27,320 --> 00:14:29,260
+00:14:29,090 --> 00:14:31,030
 Austràlia o Espanya, per
 
 380
-00:14:29,260 --> 00:14:31,180
+00:14:31,030 --> 00:14:32,950
 prohibir directament l'accés
 
 381
-00:14:31,180 --> 00:14:33,120
+00:14:32,950 --> 00:14:34,890
 a les xarxes dels menors. Cal
 
 382
-00:14:33,120 --> 00:14:35,420
+00:14:34,890 --> 00:14:37,190
 plantar cara a Silicon Valley amb les lleis
 
 383
-00:14:35,420 --> 00:14:37,500
+00:14:37,190 --> 00:14:39,270
 a la mà. D'acord. L'escut
 
 384
-00:14:37,500 --> 00:14:39,220
+00:14:39,270 --> 00:14:40,990
 està clar, però un cop
 
 385
-00:14:39,220 --> 00:14:41,220
+00:14:40,990 --> 00:14:42,990
 has bloquejat les amenaces, has
 
 386
-00:14:41,220 --> 00:14:43,120
+00:14:42,990 --> 00:14:44,890
 d'omplir el buit. Què és ser
 
 387
-00:14:43,120 --> 00:14:45,240
+00:14:44,890 --> 00:14:47,010
 la guia? Ser la guia és
 
 388
-00:14:45,240 --> 00:14:47,420
+00:14:47,010 --> 00:14:49,190
 no posar un mur entre el teu
 
 389
-00:14:47,420 --> 00:14:49,120
+00:14:49,190 --> 00:14:50,890
 món i el d'ells. O sigui,
 
 390
-00:14:49,120 --> 00:14:51,240
+00:14:50,890 --> 00:14:53,010
 no serveix dir això del mòbil,
 
 391
-00:14:51,300 --> 00:14:53,260
+00:14:53,070 --> 00:14:55,030
 és una tonteria. Si els agraden
 
 392
-00:14:53,260 --> 00:14:55,020
+00:14:55,030 --> 00:14:56,790
 els videojocs, doncs agafa el
 
 393
-00:14:55,020 --> 00:14:57,120
+00:14:56,790 --> 00:14:58,890
 comandament i juga al Zelda o a l'Animal
 
 394
-00:14:57,120 --> 00:14:59,500
+00:14:58,890 --> 00:15:01,270
 Crossing amb ells. Entrar al seu terreny.
 
 395
-00:14:59,540 --> 00:15:01,000
+00:15:01,310 --> 00:15:02,770
 I tant. Passejar,
 
 396
-00:15:01,180 --> 00:15:03,140
+00:15:02,950 --> 00:15:04,910
 parlar, per entendre el seu món
 
 397
-00:15:03,140 --> 00:15:05,160
+00:15:04,910 --> 00:15:06,930
 des de dins. L'objectiu de ser
 
 398
-00:15:05,160 --> 00:15:07,200
+00:15:06,930 --> 00:15:08,970
 la guia és ajudar-los a descobrir
 
 399
-00:15:07,200 --> 00:15:08,460
+00:15:08,970 --> 00:15:10,230
 el seu...
 
 400
-00:15:08,460 --> 00:15:11,100
+00:15:10,230 --> 00:15:12,870
 el seu superpoder. I no
 
 401
-00:15:11,100 --> 00:15:13,040
+00:15:12,870 --> 00:15:14,810
 parlo de currículum per anar a Harvard, eh?
 
 402
-00:15:13,500 --> 00:15:15,020
+00:15:15,270 --> 00:15:16,790
 Parlo de la seva capacitat
 
 403
-00:15:15,020 --> 00:15:17,040
+00:15:16,790 --> 00:15:18,810
 nuclear. Si tenen traça per
 
 404
-00:15:17,040 --> 00:15:19,460
+00:15:18,810 --> 00:15:21,230
 construir, per comunicar, per organitzar,
 
 405
-00:15:19,600 --> 00:15:21,160
+00:15:21,370 --> 00:15:22,930
 per cuidar... Els hobbies
 
 406
-00:15:21,300 --> 00:15:23,280
+00:15:23,070 --> 00:15:25,050
 com a laboratori, vaja. Exacte.
 
 407
-00:15:23,740 --> 00:15:25,260
+00:15:25,510 --> 00:15:27,030
 Provar coses sense la pressió
 
 408
-00:15:25,260 --> 00:15:27,080
+00:15:27,030 --> 00:15:28,850
 que una aplicació els posi una nota.
 
 409
-00:15:27,320 --> 00:15:29,280
+00:15:29,090 --> 00:15:31,050
 O sigui, i aquí em ve una imatge
 
 410
-00:15:29,280 --> 00:15:31,160
+00:15:31,050 --> 00:15:32,930
 al cap. Tot això suposa
 
 411
-00:15:31,160 --> 00:15:33,080
+00:15:32,930 --> 00:15:34,850
 un canvi radical en com veiem la
 
 412
-00:15:33,080 --> 00:15:34,920
+00:15:34,850 --> 00:15:36,690
 criança avui. Perquè
 
 413
-00:15:34,920 --> 00:15:36,960
+00:15:36,690 --> 00:15:38,730
 em fa la impressió que, fins ara,
 
 414
-00:15:37,440 --> 00:15:39,260
+00:15:39,210 --> 00:15:41,030
 tractar la infància com un projecte
 
 415
-00:15:39,260 --> 00:15:41,120
+00:15:41,030 --> 00:15:42,890
 corporatiu, intentàvem
 
 416
-00:15:41,120 --> 00:15:43,060
+00:15:42,890 --> 00:15:44,830
 educar com un escultor que esculpeix
 
 417
-00:15:43,060 --> 00:15:45,200
+00:15:44,830 --> 00:15:46,970
 la pedra, saps? Amb el martell
 
 418
-00:15:45,200 --> 00:15:46,740
+00:15:46,970 --> 00:15:48,510
 i l'escarpa. Exacte.
 
 419
-00:15:47,140 --> 00:15:48,980
+00:15:48,910 --> 00:15:50,750
 Pam, pam. Donant cops per
 
 420
-00:15:48,980 --> 00:15:51,000
+00:15:50,750 --> 00:15:52,770
 forçar el material, per fer que el nen
 
 421
-00:15:51,000 --> 00:15:52,900
+00:15:52,770 --> 00:15:54,670
 tingui la forma i la carrera que nosaltres
 
 422
-00:15:52,900 --> 00:15:54,360
+00:15:54,670 --> 00:15:56,130
 ja hem decidit al nostre cap.
 
 423
-00:15:54,900 --> 00:15:56,880
+00:15:56,670 --> 00:15:58,650
 Però a força de picar, molts s'escarden.
 
 424
-00:15:56,880 --> 00:15:59,360
+00:15:58,650 --> 00:16:01,130
 I el que tu dius, amb l'escut
 
 425
-00:15:59,360 --> 00:16:01,160
+00:16:01,130 --> 00:16:02,930
 i la guia, em sona molt més
 
 426
-00:16:01,160 --> 00:16:02,160
+00:16:02,930 --> 00:16:03,930
 a la feina d'un jardiner.
 
 427
-00:16:02,760 --> 00:16:05,040
+00:16:04,530 --> 00:16:06,810
 Com a societat, només hauríem de preparar una terra
 
 428
-00:16:05,040 --> 00:16:07,260
+00:16:06,810 --> 00:16:09,030
 fèrtil, construir un hivernacle, segur
 
 429
-00:16:07,260 --> 00:16:08,900
+00:16:09,030 --> 00:16:10,670
 que pari els cops i glaçades d'aquestes
 
 430
-00:16:08,900 --> 00:16:10,920
+00:16:10,670 --> 00:16:12,690
 corporacions, i després seure
 
 431
-00:16:10,920 --> 00:16:12,700
+00:16:12,690 --> 00:16:14,470
 i veure quina planta creix
 
 432
-00:16:12,700 --> 00:16:14,960
+00:16:14,470 --> 00:16:16,730
 de forma natural, oi? És una
 
 433
-00:16:14,960 --> 00:16:16,920
+00:16:16,730 --> 00:16:18,690
 metàfora preciosa i molt
 
 434
-00:16:16,920 --> 00:16:19,000
+00:16:18,690 --> 00:16:20,770
 precisa. Però atenció a una
 
 435
-00:16:19,000 --> 00:16:20,960
+00:16:20,770 --> 00:16:22,730
 cosa que destaquen. El factor
 
 436
-00:16:20,960 --> 00:16:23,120
+00:16:22,730 --> 00:16:24,890
 incontrolable. El temps.
 
 437
-00:16:23,860 --> 00:16:24,800
+00:16:25,630 --> 00:16:26,570
 Un nyen de sis anys
 
 438
-00:16:24,800 --> 00:16:26,660
+00:16:26,570 --> 00:16:28,430
 en farà dotze facis el que facis.
 
 439
-00:16:27,120 --> 00:16:28,960
+00:16:28,890 --> 00:16:30,730
 No podem posar la seva vida en pausa mentre
 
 440
-00:16:28,960 --> 00:16:30,400
+00:16:30,730 --> 00:16:32,170
 pensem quines lleis aprovem.
 
 441
-00:16:30,920 --> 00:16:32,880
+00:16:32,690 --> 00:16:34,650
 Hi ha una urgència molt real per començar a
 
 442
-00:16:32,880 --> 00:16:35,180
+00:16:34,650 --> 00:16:36,950
 construir hàbits sans avui, no demà.
 
 443
-00:16:35,260 --> 00:16:37,000
+00:16:37,030 --> 00:16:38,770
 Completament d'acord. L'acció
 
 444
-00:16:37,000 --> 00:16:38,620
+00:16:38,770 --> 00:16:40,390
 ha de ser ara. Però,
 
 445
-00:16:39,100 --> 00:16:41,100
+00:16:40,870 --> 00:16:42,870
 abans de tancar, em ve
 
 446
-00:16:41,100 --> 00:16:43,020
+00:16:42,870 --> 00:16:44,790
 una reflexió al cap que va una mica
 
 447
-00:16:43,020 --> 00:16:44,800
+00:16:44,790 --> 00:16:46,570
 més enllà del text que hem desgranat.
 
 448
-00:16:45,220 --> 00:16:47,000
+00:16:46,990 --> 00:16:48,770
 Perquè, vull dir, ens hem passat
 
 449
-00:16:47,000 --> 00:16:48,980
+00:16:48,770 --> 00:16:50,750
 una bona estona veient com totes
 
 450
-00:16:48,980 --> 00:16:50,900
+00:16:50,750 --> 00:16:52,670
 aquestes mètriques i algoritmes d'estudiants,
 
 451
-00:16:50,960 --> 00:16:52,800
+00:16:52,730 --> 00:16:54,570
 trossegen els cervells en desenvolupament
 
 452
-00:16:52,800 --> 00:16:54,120
+00:16:54,570 --> 00:16:55,890
 dels nens. Però,
 
 453
-00:16:54,740 --> 00:16:56,820
+00:16:56,510 --> 00:16:58,590
 i si girem el mirall una mica? Cap a
 
 454
-00:16:56,820 --> 00:16:58,000
+00:16:58,590 --> 00:16:59,770
 nosaltres? Sí.
 
 455
-00:16:58,680 --> 00:17:00,960
+00:17:00,450 --> 00:17:02,730
 Si tots aquests sistemes basats en gratificació
 
 456
-00:17:00,960 --> 00:17:02,840
+00:17:02,730 --> 00:17:04,610
 immediata són tan brutals
 
 457
-00:17:02,840 --> 00:17:04,800
+00:17:04,610 --> 00:17:06,570
 i estan dissenyats per les empreses
 
 458
-00:17:04,800 --> 00:17:06,740
+00:17:06,570 --> 00:17:08,510
 més riques del món per segrestar
 
 459
-00:17:06,740 --> 00:17:08,760
+00:17:08,510 --> 00:17:10,530
 l'atenció i la identitat dels més joves,
 
 460
-00:17:09,400 --> 00:17:11,080
+00:17:11,170 --> 00:17:12,850
 fins a quin punt de manera subtil
 
 461
-00:17:11,080 --> 00:17:12,580
+00:17:12,850 --> 00:17:14,350
 i sense que ens n'adonem,
 
 462
-00:17:13,020 --> 00:17:14,680
+00:17:14,790 --> 00:17:16,450
 estan reescrivint la nostra pròpia
 
 463
-00:17:14,680 --> 00:17:16,420
+00:17:16,450 --> 00:17:18,190
 arquitectura cognitiva com a adults?
 
 464
-00:17:16,700 --> 00:17:19,220
+00:17:18,470 --> 00:17:20,990
 Uau. Això fa feredat de pensar-ho.
 
 465
-00:17:19,440 --> 00:17:19,920
+00:17:21,210 --> 00:17:21,690
 És que, saps?
 
 466
-00:17:19,920 --> 00:17:20,040
+00:17:21,690 --> 00:17:21,810
 Sí.
 
 467
-00:17:20,960 --> 00:17:23,040
+00:17:22,730 --> 00:17:24,810
 Si estem perdent la nostra pròpia capacitat
 
 468
-00:17:23,040 --> 00:17:25,600
+00:17:24,810 --> 00:17:27,370
 de concentració o el nostre concepte
 
 469
-00:17:25,600 --> 00:17:27,400
+00:17:27,370 --> 00:17:29,170
 de felicitat, exactament,
 
 470
-00:17:27,900 --> 00:17:29,460
+00:17:29,670 --> 00:17:31,230
 mentre estem tan atrafegats
 
 471
-00:17:29,460 --> 00:17:32,140
+00:17:31,230 --> 00:17:33,910
 intentant protegir les noves generacions,
 
 472
-00:17:32,660 --> 00:17:33,780
+00:17:34,430 --> 00:17:35,550
 construint aquests escuts
 
 473
-00:17:33,780 --> 00:17:35,640
+00:17:35,550 --> 00:17:37,410
 per ells. Podria ser
 
 474
-00:17:35,640 --> 00:17:37,700
+00:17:37,410 --> 00:17:39,470
 que nosaltres mateixos estiguem atrapats
 
 475
-00:17:37,700 --> 00:17:40,100
+00:17:39,470 --> 00:17:41,870
 a l'engranatge, sense ser-ne conscients?
 
 476
-00:17:40,680 --> 00:17:41,760
+00:17:42,450 --> 00:17:43,530
 Ho deixem per a reflexionar
 
 477
-00:17:41,760 --> 00:17:43,640
+00:17:43,530 --> 00:17:45,410
 cadascú a casa seva. Deixem
 
 478
-00:17:43,640 --> 00:17:45,580
+00:17:45,410 --> 00:17:47,350
 aquesta immersió aquí. Ha estat un viatge
 
 479
-00:17:45,580 --> 00:17:47,300
+00:17:47,350 --> 00:17:49,070
 compartit realment fascinant.
 

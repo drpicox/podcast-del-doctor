@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-022-el-negoci-de-l-ansietat-dels-fills/022-el-negoci-de-l-ansietat-dels-fills.mp3"
-audio_size: 8540506
+audio_size: 8589444
 chapters_file: "022-el-negoci-de-l-ansietat-dels-fills-chapters.json"
 date: '2026-08-10'
 description: "Un de cada set menors europeus té un problema de salut mental diagnosticable, i entre les noies de 15 a 19 anys la xifra es dispara a una de cada quatre. No són nens de cristall: és l'entorn, que s'ha omplert de punxes. Desgranem el negoci que hi ha al darrere —el capitalisme de vigilància, els estudis interns de Meta que recorden el manual de les tabaqueres, l'EdTech que ven fum pedagògic i la ratxa de Duolingo— i els dos rols per recuperar el control: l'escut i la guia."
-duration: '17:47'
+duration: '17:53'
 episode_number: 22
 season: 1
-soundbite_start: 512.4
+soundbite_start: 514.2
 soundbite_duration: 57.7
 soundbite_title: "Instagram i el manual de les tabaqueres: això no és negligència, és disseny"
 sources:
