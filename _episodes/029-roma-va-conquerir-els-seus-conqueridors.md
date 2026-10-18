@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-029-roma-va-conquerir-els-seus-conqueridors/029-roma-va-conquerir-els-seus-conqueridors.mp3"
-audio_size: 14802996
+audio_size: 14852144
 chapters_file: "029-roma-va-conquerir-els-seus-conqueridors-chapters.json"
 date: '2026-09-20'
 description: "Volem dates de caducitat per als imperis, però la història no és una radiografia amb una línia neta. El 476 no obre cap forat negre: obre un reciclatge desesperat del maquinari i el programari romans per part d'uns regnes germànics acabats de néixer. Ostrogots que compren la corporació i no saben fer-la funcionar, visigots que sobreviuen a Vouillé fusionant-se amb els hispanoromans, anglosaxons que deixen Thor i Odín al calendari, Alfred el Gran que regala mig país per comprar temps i un islam que conquereix la península en set anys a base de pactes. I una tesi: Roma va conquerir els seus conqueridors des de la tomba."
-duration: '30:50'
+duration: '30:56'
 episode_number: 29
 season: 1
-soundbite_start: 1756.9
+soundbite_start: 1758.7
 soundbite_duration: 46.0
 soundbite_title: "L'imperi que va conquerir els seus conqueridors des de la pròpia tomba"
 sources:
