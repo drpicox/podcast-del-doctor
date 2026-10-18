@@ -383,6 +383,26 @@ EPISODIS = [
         "duration": "39:18",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "intel·ligència artificial", "aprenentatge", "educació", "veritasium", "derek muller", "kahneman", "chunking", "càrrega cognitiva", "pràctica esforçada", "català"]
     },
+    {
+        "num": "037",
+        "fitxer": "037-com-et-rastreja-la-teva-smart-tv.mp3",
+        "identifier": "podcast-del-doctor-037-com-et-rastreja-la-teva-smart-tv",
+        "title": "Episodi 037: Com et rastreja la teva Smart TV",
+        "description": "La Smart TV envia un quilobyte per minut i amb això en té prou per saber què mires, encara que vingui d'una PlayStation per HDMI. A partir del vídeo de Slidebean, desgranem l'ACR (un Shazam per a la imatge que redueix cada fotograma a 8 bytes), com la IP de casa uneix el que mires amb el que compres, l'origen de la tecnologia a Vizio, les demandes de Texas contra Samsung, LG i TCL, i els números que ho expliquen tot: Roku perd diners amb el maquinari i en guanya 26 vegades més amb els anuncis.",
+        "date": "2026-10-18",
+        "duration": "15:56",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "smart tv", "privacitat", "acr", "publicitat", "slidebean", "samsung", "lg", "vizio", "roku", "català"]
+    },
+    {
+        "num": "038",
+        "fitxer": "038-el-teu-televisor-lg-t-espia.mp3",
+        "identifier": "podcast-del-doctor-038-el-teu-televisor-lg-t-espia",
+        "title": "Episodi 038: El teu televisor LG t'espia",
+        "description": "Un televisor LG desconnectat d'internet continuava gravant l'àudio de l'habitació i l'enviava de cop en tornar-lo a connectar. A partir de la investigació de Gamers Nexus (500 hores i 70.000 dòlars), veiem com funciona: l'ACR que llegeix el vidre fins a 4 GB al mes, l'escaneig de la xarxa i del wifi dels veïns, un atac remot que obre el micròfon a 20 metres, 2.700 clics per dir que no i una llei de copyright que converteix en delicte netejar la teva pròpia tele.",
+        "date": "2026-10-18",
+        "duration": "14:28",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "smart tv", "privacitat", "lg", "gamers nexus", "acr", "seguretat", "dark patterns", "dmca", "català"]
+    },
 ]
 
 

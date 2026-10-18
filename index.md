@@ -42,9 +42,9 @@ description: "Podcast sobre programació i tecnologia. Contingut generat amb IA 
                 <a href="podcast://david-rodenas.com/podcast-del-doctor/feed.xml" class="btn btn-apple">
                     <i data-feather="headphones"></i> Apple Podcasts
                 </a>
-                <!-- <a href="#" target="_blank" rel="noopener" class="btn btn-spotify">
+                <a href="https://open.spotify.com/show/1I0caNlQXCOgedl0WMqzW8" target="_blank" rel="noopener" class="btn btn-spotify">
                     <i data-feather="radio"></i> Spotify
-                </a> -->
+                </a>
                 <a href="#subscribe" class="btn btn-primary">
                     <i data-feather="plus"></i> Més opcions
                 </a>
