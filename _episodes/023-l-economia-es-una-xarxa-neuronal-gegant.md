@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-023-l-economia-es-una-xarxa-neuronal-gegant/023-l-economia-es-una-xarxa-neuronal-gegant.mp3"
-audio_size: 18465155
+audio_size: 18514094
 chapters_file: "023-l-economia-es-una-xarxa-neuronal-gegant-chapters.json"
 date: '2026-08-26'
 description: "L'economia global no s'assembla a una intel·ligència artificial: matemàticament és la mateixa arquitectura. Empreses com a neurones, contractes com a pesos i el preu com a senyal d'error — però fent ascens de gradient cap al benefici. A partir d'una conferència de Peter Eckersley a la Universitat de Melbourne, desgranem el defecte compartit: el hackeig de recompenses. Les cobres de Delhi, el vaixell d'OpenAI donant voltes en un bucle infinit, 34 anys de silenci davant la Gran Barrera de Corall — i les palanques per redreçar l'optimitzador abans que hi aboquem una IA superintel·ligent."
-duration: '38:28'
+duration: '38:34'
 episode_number: 23
 season: 1
-soundbite_start: 1076.5
+soundbite_start: 1078.3
 soundbite_duration: 49.1
 soundbite_title: "La xarxa social no vol destruir la democràcia: només optimitza la ràbia"
 sources:
