@@ -3,45 +3,15 @@
   "podcastName": "Podcast del Doctor",
   "title": "Episodi 037: Com et rastreja la teva Smart TV",
   "chapters": [
-    {
-      "startTime": 0,
-      "title": "Introducció"
-    },
-    {
-      "startTime": 105.3,
-      "title": "ACR: el Shazam del televisor"
-    },
-    {
-      "startTime": 222.9,
-      "title": "HDMI xifrat i l'estudi de UCL i UC Davis"
-    },
-    {
-      "startTime": 309.2,
-      "title": "La IP, els agregadors i l'anunci certificat"
-    },
-    {
-      "startTime": 440.9,
-      "title": "Zeev Neumeier i el cavall de Troia de Vizio"
-    },
-    {
-      "startTime": 537.2,
-      "title": "Texas contra els fabricants: Samsung i TCL"
-    },
-    {
-      "startTime": 640.8,
-      "title": "LG i el documental de Gamers Nexus"
-    },
-    {
-      "startTime": 722.4,
-      "title": "El negoci: el maquinari perd, els anuncis guanyen"
-    },
-    {
-      "startTime": 807.9,
-      "title": "Mitges mesures i mesures completes"
-    },
-    {
-      "startTime": 893.0,
-      "title": "Reflexió final"
-    }
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 109.0, "title": "ACR: el Shazam del televisor" },
+    { "startTime": 226.6, "title": "HDMI xifrat i l'estudi de UCL i UC Davis" },
+    { "startTime": 312.9, "title": "La IP, els agregadors i l'anunci certificat" },
+    { "startTime": 444.6, "title": "Zeev Neumeier i el cavall de Troia de Vizio" },
+    { "startTime": 540.9, "title": "Texas contra els fabricants: Samsung i TCL" },
+    { "startTime": 644.5, "title": "LG i el documental de Gamers Nexus" },
+    { "startTime": 726.1, "title": "El negoci: el maquinari perd, els anuncis guanyen" },
+    { "startTime": 811.6, "title": "Mitges mesures i mesures completes" },
+    { "startTime": 896.7, "title": "Reflexió final" }
   ]
 }

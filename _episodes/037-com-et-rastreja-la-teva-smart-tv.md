@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-037-com-et-rastreja-la-teva-smart-tv/037-com-et-rastreja-la-teva-smart-tv.mp3"
-audio_size: 7653804
+audio_size: 7717999
 chapters_file: "037-com-et-rastreja-la-teva-smart-tv-chapters.json"
 date: '2026-10-18'
 description: "La Smart TV envia un quilobyte per minut i amb això en té prou per saber què mires, encara que vingui d'una PlayStation per HDMI. A partir del vídeo de Slidebean, desgranem l'ACR (un Shazam per a la imatge que redueix cada fotograma a 8 bytes), com la IP de casa uneix el que mires amb el que compres, l'origen de la tecnologia a Vizio, les demandes de Texas contra Samsung, LG i TCL, i els números que ho expliquen tot: Roku perd diners amb el maquinari i en guanya 26 vegades més amb els anuncis."
-duration: '15:56'
+duration: '16:04'
 episode_number: 37
 season: 1
-soundbite_start: 722.4
+soundbite_start: 726.1
 soundbite_duration: 59.1
 soundbite_title: "Roku perd 82 milions amb els televisors i en guanya 2.150 amb els anuncis: el producte ets tu"
 sources:
