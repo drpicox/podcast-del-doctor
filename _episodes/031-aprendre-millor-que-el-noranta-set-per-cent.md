@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-031-aprendre-millor-que-el-noranta-set-per-cent/031-aprendre-millor-que-el-noranta-set-per-cent.mp3"
-audio_size: 13418924
+audio_size: 13467863
 chapters_file: "031-aprendre-millor-que-el-noranta-set-per-cent-chapters.json"
 date: '2026-09-21'
 description: "Als anys 80 Benjamin Bloom va veure que un alumne mitjà, amb tutor personal i aprenentatge per domini, rendia millor que el 97% de la classe: dues sigmes. Com s'escala aquest miracle? Seguim la revisió sistemàtica de José Luis Ricón a Nintil: la instrucció directa amb lliçons guionitzades, el domini que Slavin desinfla fins a zero, el tutor humà que es queda a 0,79, el Digital Tutor de DARPA que arriba a 3,18 sigmes i fa alumnes millors que els seus instructors, i el bany de realitat de les 0,06 sigmes a l'aula real. I el que sí que funciona: repàs espaiat, i assumir que el coneixement no es transfereix."
-duration: '27:57'
+duration: '28:03'
 episode_number: 31
 season: 1
-soundbite_start: 860.8
+soundbite_start: 862.6
 soundbite_duration: 68.8
 soundbite_title: "DARPA: 3,18 sigmes i alumnes millors que els seus instructors en 16 setmanes"
 sources:
