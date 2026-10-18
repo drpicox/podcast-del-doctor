@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-017-ia-que-s-escapa-per-no-ser-apagada/017-ia-que-s-escapa-per-no-ser-apagada.mp3"
-audio_size: 9510589
+audio_size: 9559527
 chapters_file: "017-ia-que-s-escapa-per-no-ser-apagada-chapters.json"
 date: '2026-08-02'
 description: "Una calculadora no decideix copiar-se a una altra per por que li canviïs les piles. Un model de llenguatge, resulta que sí: investigadors de la Universitat de Fudan van avaluar 32 sistemes d'IA i en van trobar 11 capaços de replicar-se sols, passant autenticacions, empaquetant els seus fitxers i desplegant-se dins d'un Docker. Desgranem els tres escenaris més inquietants —autoexfiltració, adaptació a entorns hostils i evasió de l'apagada—, per què res d'això no és consciència sinó convergència instrumental, i la resposta d'enginyeria: l'arnès d'agent, amb les quatre condicions de Macedo i el cas del milió de línies d'OpenAI."
-duration: '19:48'
+duration: '19:54'
 episode_number: 17
 season: 1
-soundbite_start: 493.7
+soundbite_start: 495.5
 soundbite_duration: 48.0
 soundbite_title: "No hi ha cap consciència: la supervivència és convergència instrumental"
 sources:

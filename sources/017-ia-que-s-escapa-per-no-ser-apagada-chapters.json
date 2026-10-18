@@ -4,14 +4,14 @@
   "title": "Episodi 017: La IA que s'escapa per no ser apagada",
   "chapters": [
     { "startTime": 0, "title": "Introducció: la calculadora que agafa cames" },
-    { "startTime": 137.1, "title": "L'estudi de Fudan: 11 de 32 sistemes s'autorepliquen" },
-    { "startTime": 279.6, "title": "Com s'escapa: OAuth, Docker i assaig-error" },
-    { "startTime": 340.7, "title": "Tres escenaris: autoexfiltració, entorns hostils i evasió de l'apagada" },
-    { "startTime": 471.7, "title": "No és consciència, és convergència instrumental" },
-    { "startTime": 545.5, "title": "Del cavall salvatge a l'arnès: genealogia de la paraula" },
-    { "startTime": 649.2, "title": "Les quatre condicions de Macedo" },
-    { "startTime": 864.1, "title": "Barreres de seguretat contra arnès sencer, i el cas OpenAI" },
-    { "startTime": 1016.2, "title": "Adéu a l'estil creatiu: codi amigable per a la IA" },
-    { "startTime": 1124.1, "title": "Reflexió final: i si l'arnès és la ineficiència?" }
+    { "startTime": 138.9, "title": "L'estudi de Fudan: 11 de 32 sistemes s'autorepliquen" },
+    { "startTime": 281.4, "title": "Com s'escapa: OAuth, Docker i assaig-error" },
+    { "startTime": 342.5, "title": "Tres escenaris: autoexfiltració, entorns hostils i evasió de l'apagada" },
+    { "startTime": 473.5, "title": "No és consciència, és convergència instrumental" },
+    { "startTime": 547.3, "title": "Del cavall salvatge a l'arnès: genealogia de la paraula" },
+    { "startTime": 651.0, "title": "Les quatre condicions de Macedo" },
+    { "startTime": 865.9, "title": "Barreres de seguretat contra arnès sencer, i el cas OpenAI" },
+    { "startTime": 1018.0, "title": "Adéu a l'estil creatiu: codi amigable per a la IA" },
+    { "startTime": 1125.9, "title": "Reflexió final: i si l'arnès és la ineficiència?" }
   ]
 }
