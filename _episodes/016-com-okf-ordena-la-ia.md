@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-016-com-okf-ordena-la-ia/016-com-okf-ordena-la-ia.mp3"
-audio_size: 10038053
+audio_size: 10086991
 chapters_file: "016-com-okf-ordena-la-ia-chapters.json"
 date: '2026-08-02'
 description: "Un agent d'IA esborra les projeccions d'ingressos trimestrals no per un error de programari, sinó de lectura: ha trobat una nota oblidada de l'any passat que contradiu la base de dades. Analitzem l'Open Knowledge Format (OKF), l'estàndard que Google Cloud va llançar el juny de 2026 per posar fi al caos del context. La sorpresa és com n'és, de senzill: un arbre de carpetes amb fitxers Markdown i un bloc YAML on l'únic camp obligatori és `type`. Parlem del patró LLM Wiki de Karpathy, de la recuperació determinista contra el RAG, dels cinc senyals de confiança de la v0.2 i de com encaixa amb MCP, Agent Skills i llms.txt."
-duration: '20:54'
+duration: '21:00'
 episode_number: 16
 season: 1
-soundbite_start: 875.4
+soundbite_start: 877.2
 soundbite_duration: 85.8
 soundbite_title: "MCP són les canonades, les Agent Skills el manual — i l'OKF és l'aigua"
 sources:

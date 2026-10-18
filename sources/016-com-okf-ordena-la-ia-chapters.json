@@ -4,14 +4,14 @@
   "title": "Episodi 016: OKF, la carpeta de text que ordena el caos de la IA",
   "chapters": [
     { "startTime": 0, "title": "Introducció: l'agent que llegeix el que no tocava" },
-    { "startTime": 108.5, "title": "El caos del context: el coneixement dispers en sitges" },
-    { "startTime": 236.0, "title": "L'arquitectura: només Markdown, YAML i carpetes" },
-    { "startTime": 436.3, "title": "Per què no n'hi ha prou amb el RAG" },
-    { "startTime": 606.6, "title": "OKF v0.2: els cinc senyals de confiança" },
-    { "startTime": 746.4, "title": "Atestació computacional: la IA no s'inventa fórmules" },
-    { "startTime": 860.3, "title": "La sopa de lletres: MCP, Agent Skills, llms.txt i OKF" },
-    { "startTime": 983.1, "title": "Impacte estratègic: GEO i la capa de cervell de marca" },
-    { "startTime": 1067.7, "title": "Sobirania de dades: el GDPR i el coneixement a casa" },
-    { "startTime": 1152.6, "title": "Reflexió final: mercats de coneixement empaquetat" }
+    { "startTime": 110.3, "title": "El caos del context: el coneixement dispers en sitges" },
+    { "startTime": 237.8, "title": "L'arquitectura: només Markdown, YAML i carpetes" },
+    { "startTime": 438.1, "title": "Per què no n'hi ha prou amb el RAG" },
+    { "startTime": 608.4, "title": "OKF v0.2: els cinc senyals de confiança" },
+    { "startTime": 748.2, "title": "Atestació computacional: la IA no s'inventa fórmules" },
+    { "startTime": 862.1, "title": "La sopa de lletres: MCP, Agent Skills, llms.txt i OKF" },
+    { "startTime": 984.9, "title": "Impacte estratègic: GEO i la capa de cervell de marca" },
+    { "startTime": 1069.5, "title": "Sobirania de dades: el GDPR i el coneixement a casa" },
+    { "startTime": 1154.4, "title": "Reflexió final: mercats de coneixement empaquetat" }
   ]
 }
