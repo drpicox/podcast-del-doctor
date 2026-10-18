@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-011-parany-acomiadaments-ia/011-parany-acomiadaments-ia.mp3"
-audio_size: 11317635
+audio_size: 11366574
 chapters_file: "011-parany-acomiadaments-ia-chapters.json"
 date: '2026-06-11'
 description: "Per què les empreses que acomiaden treballadors per estalviar costos amb IA podrien estar destruint els seus propis beneficis? Basant-nos en el paper 'The AI Layoff Trap' de Falk i Tsoukalas (2026), explorem l'externalitat de la demanda: cada empresa captura el 100% de l'estalvi d'automatitzar però només pateix una fracció de la pèrdua de demanda que crea. El resultat és un dilema del presoner que atrapa empreses racionals en una cursa d'automatització excessiva. Analitzem per què ni els salaris flexibles, ni la renda bàsica, ni els pactes voluntaris la poden aturar — i per què un impost pigouvià sobre l'automatització sí."
-duration: '23:34'
+duration: '23:40'
 episode_number: 11
 season: 1
-soundbite_start: 255.9
+soundbite_start: 257.7
 soundbite_duration: 37.4
 soundbite_title: "L'estadi on tothom s'aixeca i ningú hi veu millor"
 sources:
