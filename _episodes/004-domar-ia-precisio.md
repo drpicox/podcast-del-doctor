@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-004-domar-ia-precisio/004-domar-ia-precisio.mp3"
-audio_size: 15705161
+audio_size: 15754100
 chapters_file: "004-domar-ia-precisio-chapters.json"
 date: '2026-04-03'
 description: "Com domesticar la IA per programar amb precisió? Basant-nos en la presentació 'Augmented Coding' d'Ada Kessler, explorem la podridura del context, per què els superagents generalistes fallen, la importància de la fricció intencionada, el DOOM semàntic i com els desenvolupadors passem de ser creadors de codi a directors d'orquestra d'agents especialitzats."
-duration: '32:43'
+duration: '32:49'
 episode_number: 4
 season: 1
-soundbite_start: 1863.9
+soundbite_start: 1865.7
 soundbite_duration: 38.0
 soundbite_title: "De creadors de codi a directors d'orquestra d'agents autònoms"
 sources:
