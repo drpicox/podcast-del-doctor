@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-024-per-que-les-pantalles-atrofien-la-ment/024-per-que-les-pantalles-atrofien-la-ment.mp3"
-audio_size: 16367836
+audio_size: 16416983
 chapters_file: "024-per-que-les-pantalles-atrofien-la-ment-chapters.json"
 date: '2026-08-27'
 description: "Nens dels anys 60 explicant els riscos socioeconòmics de l'automatització; adolescents d'avui responent que la capital de la Xina és «King Kong City». A partir del documental de ColdFusion, desgranem per què: l'EEG que demostra que escriure a mà encén el cervell i teclejar no, l'escola que va aparcar els portàtils, la IA com a crossa que no calcula sinó que pensa per tu, i la paradoxa de les dades — l'estandardització dels anys 80 no ha baixat el nivell dels bons lectors, ha destruït la xarxa de seguretat dels que ja patien."
-duration: '34:05'
+duration: '34:12'
 episode_number: 24
 season: 1
-soundbite_start: 432.5
+soundbite_start: 434.3
 soundbite_duration: 43.3
 soundbite_title: "Escriure a mà és senderisme; teclejar és un teletransportador"
 sources:
