@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-021-ia-agencial-contra-el-fracas-corporatiu/021-ia-agencial-contra-el-fracas-corporatiu.mp3"
-audio_size: 6706710
+audio_size: 6755648
 chapters_file: "021-ia-agencial-contra-el-fracas-corporatiu-chapters.json"
 date: '2026-08-10'
 description: "S'han invertit entre 35.000 i 40.000 milions de dòlars en IA corporativa en un any, i el 95% dels pilots no aporten cap retorn mesurable. La culpa no és de la màquina: és del carro de fusta on muntem el motor de Fórmula 1. Repassem els desastres —el drive-thru de McDonald's, l'algoritme discriminatori de SafeRent, el chatbot Bumblebee— i el cost ocult de dir «si us plau» a un model. I la sortida: la IA agencial, equips d'agents especialitzats amb l'humà al centre, governança ALCOA++ i un full de ruta en cinc fases tret de la patologia toxicològica."
-duration: '13:58'
+duration: '14:04'
 episode_number: 21
 season: 1
-soundbite_start: 326.1
+soundbite_start: 327.9
 soundbite_duration: 53.0
 soundbite_title: "Dir «si us plau» a la IA costa milions de dòlars"
 sources:
