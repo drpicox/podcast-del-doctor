@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-005-ouro-ia-pensa-en-bucle/005-ouro-ia-pensa-en-bucle.mp3"
-audio_size: 6260955
+audio_size: 6309894
 chapters_file: "005-ouro-ia-pensa-en-bucle-chapters.json"
 date: '2026-04-11'
 description: "Quin seria el proper gran salt en IA si en lloc de construir models cada vegada més grans i cars, ensenyéssim a un de petit a pensar en bucle? Explorem Ouro, un model de llenguatge en bucle (LoopLM) de només 2.6 bilions de paràmetres que supera models de 12 bilions en raonament matemàtic, fent el processament en l'espai latent i sense generar text fins a tenir la resposta definitiva."
-duration: '13:02'
+duration: '13:08'
 episode_number: 5
 season: 1
-soundbite_start: 702.5
+soundbite_start: 704.3
 soundbite_duration: 42.0
 soundbite_title: "La democratització real de la IA avançada: raonament profund al teu telèfon"
 thumbnail: "/assets/thumbnails/005-ouro-ia-pensa-en-bucle.png"

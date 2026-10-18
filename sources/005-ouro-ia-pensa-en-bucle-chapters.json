@@ -4,12 +4,12 @@
   "title": "Episodi 005: Ouro, la IA que pensa en bucle",
   "chapters": [
     { "startTime": 0, "title": "Introducció: la cursa armamentística de la IA" },
-    { "startTime": 130, "title": "Ouro: el model de llenguatge en bucle" },
-    { "startTime": 270, "title": "Raonament en l'espai latent" },
-    { "startTime": 356, "title": "La porta de sortida primerenca" },
-    { "startTime": 447, "title": "Memòria eficient: KV Cache Sharing" },
-    { "startTime": 494, "title": "Disc dur vs CPU: coneixement vs manipulació" },
-    { "startTime": 569, "title": "Fidelitat i seguretat del raonament latent" },
-    { "startTime": 702, "title": "Reflexió final: la democratització de la IA" }
+    { "startTime": 131.8, "title": "Ouro: el model de llenguatge en bucle" },
+    { "startTime": 271.8, "title": "Raonament en l'espai latent" },
+    { "startTime": 357.8, "title": "La porta de sortida primerenca" },
+    { "startTime": 448.8, "title": "Memòria eficient: KV Cache Sharing" },
+    { "startTime": 495.8, "title": "Disc dur vs CPU: coneixement vs manipulació" },
+    { "startTime": 570.8, "title": "Fidelitat i seguretat del raonament latent" },
+    { "startTime": 703.8, "title": "Reflexió final: la democratització de la IA" }
   ]
 }
