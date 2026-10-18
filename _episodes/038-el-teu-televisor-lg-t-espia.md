@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-038-el-teu-televisor-lg-t-espia/038-el-teu-televisor-lg-t-espia.mp3"
-audio_size: 7010185
+audio_size: 6994929
 chapters_file: "038-el-teu-televisor-lg-t-espia-chapters.json"
 date: '2026-10-18'
 description: "Un televisor LG desconnectat d'internet continuava gravant l'àudio de l'habitació i l'enviava de cop en tornar-lo a connectar. A partir de la investigació de Gamers Nexus (500 hores i 70.000 dòlars), veiem com funciona: l'ACR que llegeix el vidre fins a 4 GB al mes, l'escaneig de la xarxa i del wifi dels veïns, un atac remot que obre el micròfon a 20 metres, 2.700 clics per dir que no i una llei de copyright que converteix en delicte netejar la teva pròpia tele."
-duration: '14:36'
+duration: '14:34'
 episode_number: 38
 season: 1
-soundbite_start: 478.7
+soundbite_start: 476.8
 soundbite_duration: 68.6
 soundbite_title: "Sense tocar la tele: un atac remot obre el micròfon i grava converses a 20 metres"
 sources:
