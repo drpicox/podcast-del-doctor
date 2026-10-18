@@ -1,948 +1,948 @@
 1
-00:00:00,000 --> 00:00:01,480
+00:00:01,770 --> 00:00:03,250
 D'acord, desgranem això.
 
 2
-00:00:02,180 --> 00:00:05,660
+00:00:03,950 --> 00:00:07,430
 Ara mateix, si demanem a una intel·ligència artificial
 
 3
-00:00:05,660 --> 00:00:07,940
+00:00:07,430 --> 00:00:09,710
 que ens compri un bitllet d'avió per internet,
 
 4
-00:00:08,520 --> 00:00:12,420
+00:00:10,290 --> 00:00:14,190
 essencialment l'estem obligant a fer-ho amb els ulls embenats.
 
 5
-00:00:12,800 --> 00:00:13,320
+00:00:14,570 --> 00:00:15,090
 Totalment.
 
 6
-00:00:13,680 --> 00:00:17,540
+00:00:15,450 --> 00:00:19,310
 O sigui, l'agent autònom ha de moure un cursor a les palpentes,
 
 7
-00:00:17,980 --> 00:00:20,180
+00:00:19,750 --> 00:00:21,950
 intentar desxifrar una pàgina web que, clar,
 
 8
-00:00:20,640 --> 00:00:23,640
+00:00:22,410 --> 00:00:25,410
 està dissenyada només per a la nostra psicologia visual humana,
 
 9
-00:00:24,040 --> 00:00:24,760
+00:00:25,810 --> 00:00:26,530
 no per a ells.
 
 10
-00:00:24,760 --> 00:00:27,860
+00:00:26,530 --> 00:00:29,630
 És un entorn hostil per a una màquina, francament.
 
 11
-00:00:28,240 --> 00:00:28,880
+00:00:30,010 --> 00:00:30,650
 Exacte.
 
 12
-00:00:28,880 --> 00:00:33,140
+00:00:30,650 --> 00:00:34,910
 I el resultat sol ser un sistema que es trenca si, no sé,
 
 13
-00:00:33,400 --> 00:00:36,980
+00:00:35,170 --> 00:00:38,750
 si un botó canvia de color o si un menú es mou dos píxels.
 
 14
-00:00:37,440 --> 00:00:40,140
+00:00:39,210 --> 00:00:41,910
 Així que avui analitzarem el protocol que vol treure
 
 15
-00:00:40,140 --> 00:00:42,320
+00:00:41,910 --> 00:00:44,090
 aquesta bena dels ulls a les màquines.
 
 16
-00:00:42,800 --> 00:00:45,300
+00:00:44,570 --> 00:00:47,070
 I no és només una petita millora estètica, eh?
 
 17
-00:00:45,680 --> 00:00:48,640
+00:00:47,450 --> 00:00:50,410
 És una reestructuració completa de com mantenem la web.
 
 18
-00:00:49,280 --> 00:00:53,100
+00:00:51,050 --> 00:00:54,870
 Estem passant d'una simulació on la gent pretén ser humà
 
 19
-00:00:53,100 --> 00:00:57,560
+00:00:54,870 --> 00:00:59,330
 a un entorn d'execució nativa on les pàgines ja estan estructurades
 
 20
-00:00:57,560 --> 00:00:58,500
+00:00:59,330 --> 00:01:00,270
 des del minut 1,
 
 21
-00:00:58,500 --> 00:01:00,280
+00:01:00,270 --> 00:01:02,050
 per ser operades per la IA.
 
 22
-00:01:00,480 --> 00:01:02,060
+00:01:02,250 --> 00:01:03,830
 És un salt quàntic.
 
 23
-00:01:02,460 --> 00:01:03,520
+00:01:04,230 --> 00:01:05,290
 I per entendre'l bé,
 
 24
-00:01:03,780 --> 00:01:07,980
+00:01:05,550 --> 00:01:09,750
 aquesta immersió profunda es basa en una documentació tècnica molt recent.
 
 25
-00:01:08,480 --> 00:01:10,800
+00:01:10,250 --> 00:01:12,570
 Tenim el repositori Awesome WebMCP,
 
 26
-00:01:11,400 --> 00:01:15,240
+00:01:13,170 --> 00:01:17,010
 el darreres borrany del W3C sobre l'API WebMCP
 
 27
-00:01:15,240 --> 00:01:19,240
+00:01:17,010 --> 00:01:21,010
 i els articles de Cloudflare sobre el seu llançament de Browser Run.
 
 28
-00:01:19,760 --> 00:01:22,180
+00:01:21,530 --> 00:01:23,950
 I també tenim la documentació de Chrome
 
 29
-00:01:22,180 --> 00:01:26,720
+00:01:23,950 --> 00:01:28,490
 i un assaig estratègic bastant revelador de Builder.io.
 
 30
-00:01:26,720 --> 00:01:27,260
+00:01:28,490 --> 00:01:29,030
 Clar.
 
 31
-00:01:28,500 --> 00:01:30,620
+00:01:30,270 --> 00:01:32,390
 El que faig jo aquí és entendre què és exactament
 
 32
-00:01:30,620 --> 00:01:33,780
+00:01:32,390 --> 00:01:35,550
 aquest Web Model Context Protocol o WebMCP,
 
 33
-00:01:34,360 --> 00:01:39,120
+00:01:36,130 --> 00:01:40,890
 com transforma qualsevol web en una caixa d'eines mecànica per a la IA.
 
 34
-00:01:39,640 --> 00:01:42,060
+00:01:41,410 --> 00:01:43,830
 Però, per començar, crec que el millor és veure
 
 35
-00:01:42,060 --> 00:01:44,320
+00:01:43,830 --> 00:01:46,090
 per què els mètodes actuals són un desastre.
 
 36
-00:01:44,580 --> 00:01:46,460
+00:01:46,350 --> 00:01:48,230
 Sí. El diagnòstic és clau.
 
 37
-00:01:46,960 --> 00:01:50,620
+00:01:48,730 --> 00:01:52,390
 Fins ara, els agents intentaven veure la web
 
 38
-00:01:50,620 --> 00:01:54,860
+00:01:52,390 --> 00:01:56,630
 utilitzant eines del món del testeig, com Playwright o Selenium.
 
 39
-00:01:55,080 --> 00:01:56,520
+00:01:56,850 --> 00:01:58,290
 Que són eines velles, no?
 
 40
-00:01:56,520 --> 00:01:58,480
+00:01:58,290 --> 00:02:00,250
 Bé, velles i dissenyades.
 
 41
-00:01:58,500 --> 00:02:01,100
+00:02:00,270 --> 00:02:02,870
 Perquè els humans comprovessen si la seva web funcionava.
 
 42
-00:02:01,700 --> 00:02:05,900
+00:02:03,470 --> 00:02:07,670
 Quan connectes una I a això, l'obligues a llegir tot el DOM,
 
 43
-00:02:06,120 --> 00:02:09,480
+00:02:07,890 --> 00:02:11,250
 o sigui, tota l'estructura visual, de manera probabilística.
 
 44
-00:02:09,840 --> 00:02:13,740
+00:02:11,610 --> 00:02:15,510
 A veure, això de probabilística és el que em fa pensar en una analogia.
 
 45
-00:02:14,200 --> 00:02:17,040
+00:02:15,970 --> 00:02:18,810
 Això de Playwright és com enviar un robot a fer la compra,
 
 46
-00:02:17,580 --> 00:02:20,520
+00:02:19,350 --> 00:02:22,290
 però obligant-lo a llegir els cartells físics del supermercat
 
 47
-00:02:20,520 --> 00:02:22,960
+00:02:22,290 --> 00:02:24,730
 i agafar els productes amb pinces metàl·liques,
 
 48
-00:02:23,300 --> 00:02:26,520
+00:02:25,070 --> 00:02:28,290
 en lloc de, clar, deixar-lo fer la comanda directament per via electrònica.
 
 49
-00:02:26,520 --> 00:02:27,060
+00:02:28,290 --> 00:02:28,830
 I tant.
 
 50
-00:02:27,700 --> 00:02:28,380
+00:02:29,470 --> 00:02:30,150
 És un esforç.
 
 51
-00:02:28,500 --> 00:02:29,200
+00:02:30,270 --> 00:02:30,970
 És ridícul.
 
 52
-00:02:29,580 --> 00:02:31,680
+00:02:31,350 --> 00:02:33,450
 Llavors, més enllà de la fragilitat visual,
 
 53
-00:02:32,160 --> 00:02:34,860
+00:02:33,930 --> 00:02:36,630
 quin és el cost computacional d'aquesta falsa visió humana?
 
 54
-00:02:35,300 --> 00:02:36,440
+00:02:37,070 --> 00:02:38,210
 Suposo que no deu ser barat?
 
 55
-00:02:36,860 --> 00:02:38,620
+00:02:38,630 --> 00:02:40,390
 Si connectem això amb la visió general,
 
 56
-00:02:39,140 --> 00:02:41,800
+00:02:40,910 --> 00:02:43,570
 el cost és prohibitiu per a la memòria de la IA.
 
 57
-00:02:42,300 --> 00:02:44,240
+00:02:44,070 --> 00:02:46,010
 Els models processen tokens, oi?
 
 58
-00:02:44,580 --> 00:02:48,340
+00:02:46,350 --> 00:02:50,110
 Si forcem la IA a absorbir tot el codi HTML d'una web,
 
 59
-00:02:48,720 --> 00:02:52,880
+00:02:50,490 --> 00:02:54,650
 estem inundant la seva finestra de context amb milers de tokens inútils.
 
 60
-00:02:53,460 --> 00:02:56,740
+00:02:55,230 --> 00:02:58,510
 Marges, colors, estils de text...
 
 61
-00:02:56,740 --> 00:02:57,360
+00:02:58,510 --> 00:02:59,130
 Exacte.
 
 62
-00:02:57,360 --> 00:03:02,160
+00:02:59,130 --> 00:03:03,930
 I tota aquesta brossa visual no deixa espai operatiu perquè la IA pugui ressonar.
 
 63
-00:03:02,580 --> 00:03:04,320
+00:03:04,350 --> 00:03:06,090
 WebMCP elimina tot això.
 
 64
-00:03:05,260 --> 00:03:09,000
+00:03:07,030 --> 00:03:10,770
 Abans d'entrar a l'arquitectura de WebMCP, vull fer un incís històric.
 
 65
-00:03:09,380 --> 00:03:14,380
+00:03:11,150 --> 00:03:16,150
 A la documentació es menciona un WebMCP molt d'antic que pot confondre alguna cosa.
 
 66
-00:03:14,780 --> 00:03:16,340
+00:03:16,550 --> 00:03:18,110
 Ah, sí, la confusió dels noms.
 
 67
-00:03:16,800 --> 00:03:21,840
+00:03:18,570 --> 00:03:23,610
 Sí, als anys 2010 hi havia un framework de servidor anomenat WebMCP fet en Lua.
 
 68
-00:03:22,140 --> 00:03:22,960
+00:03:23,910 --> 00:03:24,730
 Ostres, Lua.
 
 69
-00:03:22,960 --> 00:03:26,120
+00:03:24,730 --> 00:03:27,890
 Sí, s'utilitzava per coses com Liquid Feedback,
 
 70
-00:03:26,120 --> 00:03:28,540
+00:03:27,890 --> 00:03:30,310
 amb un patró de Model Vista Acció.
 
 71
-00:03:29,180 --> 00:03:34,540
+00:03:30,950 --> 00:03:36,310
 Però vull deixar clar que allò no té absolutament res a veure amb l'estàndard actual del W3C.
 
 72
-00:03:34,860 --> 00:03:36,360
+00:03:36,630 --> 00:03:38,130
 Són coses completament diferents.
 
 73
-00:03:36,620 --> 00:03:37,640
+00:03:38,390 --> 00:03:39,410
 D'acord, aclarit.
 
 74
-00:03:38,080 --> 00:03:39,580
+00:03:39,850 --> 00:03:41,350
 Així que, tornant al present,
 
 75
-00:03:40,640 --> 00:03:42,820
+00:03:42,410 --> 00:03:44,590
 si el mètode visual consumeix massa tokens,
 
 76
-00:03:43,040 --> 00:03:47,700
+00:03:44,810 --> 00:03:49,470
 com fa aquest nou estàndard que la web i la gent parlen el mateix idioma de forma nativa?
 
 77
-00:03:47,960 --> 00:03:51,040
+00:03:49,730 --> 00:03:52,810
 El nucli de tot plegat és un registre global al navegador.
 
 78
-00:03:51,600 --> 00:03:54,080
+00:03:53,370 --> 00:03:55,850
 Específicament, es diu document.modelContext.
 
 79
-00:03:54,080 --> 00:03:56,080
+00:03:55,850 --> 00:03:57,850
 Gent, un esquí mallorat.
 
 80
-00:03:56,120 --> 00:04:00,920
+00:03:57,890 --> 00:04:02,690
 JSON, que és superlliger, declarant quines eines té disponibles.
 
 81
-00:04:01,540 --> 00:04:02,960
+00:04:03,310 --> 00:04:04,730
 I hi ha dues maneres de fer-ho.
 
 82
-00:04:03,540 --> 00:04:05,960
+00:04:05,310 --> 00:04:07,730
 L'API declarativa i la imperativa.
 
 83
-00:04:06,440 --> 00:04:11,820
+00:04:08,210 --> 00:04:13,590
 Val, anem a la declarativa primer, perquè sembla pura màgia per als desenvolupadors.
 
 84
-00:04:12,440 --> 00:04:17,640
+00:04:14,210 --> 00:04:19,410
 Segons Chrome, pots agafar un formulari HTML normal, com un formulari de contacte,
 
 85
-00:04:17,640 --> 00:04:21,640
+00:04:19,410 --> 00:04:23,410
 i només afegint-hi atributs com Tool Name o Tool Description,
 
 86
-00:04:22,580 --> 00:04:25,100
+00:04:24,350 --> 00:04:26,870
 el navegador ja ho converteix en una eina per a l'IA.
 
 87
-00:04:25,560 --> 00:04:25,640
+00:04:27,330 --> 00:04:27,410
 Exacte.
 
 88
-00:04:26,120 --> 00:04:31,120
+00:04:27,890 --> 00:04:32,890
 El navegador llegeix els camps de text i construeix l'esquema JSON automàticament.
 
 89
-00:04:32,200 --> 00:04:33,900
+00:04:33,970 --> 00:04:35,670
 I aquí hi ha un detall que m'encanta.
 
 90
-00:04:34,380 --> 00:04:39,000
+00:04:36,150 --> 00:04:40,770
 Quan l'IA omple aquest formulari, el navegador avisa la web amb un esdeveniment anomenat
 
 91
-00:04:39,000 --> 00:04:41,120
+00:04:40,770 --> 00:04:42,890
 SubmitEvent.agentInvoked.
 
 92
-00:04:42,140 --> 00:04:44,220
+00:04:43,910 --> 00:04:45,990
 Així la web sap que ho ha fet una màquina.
 
 93
-00:04:44,760 --> 00:04:49,120
+00:04:46,530 --> 00:04:50,890
 I fins i tot s'activen classes CSS com tool-form-active.
 
 94
-00:04:50,280 --> 00:04:53,220
+00:04:52,050 --> 00:04:54,990
 I aquesta classe CSS és vital per a l'usuari.
 
 95
-00:04:53,220 --> 00:04:56,100
+00:04:54,990 --> 00:04:57,870
 Fa que el formulari brilli o es resalti.
 
 96
-00:04:56,100 --> 00:04:59,100
+00:04:57,870 --> 00:05:00,870
 Però espera, això sembla contradictori.
 
 97
-00:05:00,220 --> 00:05:03,680
+00:05:01,990 --> 00:05:05,450
 Si el protocol vol allunyar-se de la interfície visual humana,
 
 98
-00:05:04,160 --> 00:05:08,600
+00:05:05,930 --> 00:05:10,370
 per què ens esforcem a posar-li colors amb CSS perquè l'usuari ho vegi?
 
 99
-00:05:09,060 --> 00:05:11,340
+00:05:10,830 --> 00:05:13,110
 És una qüestió de transparència i confiança.
 
 100
-00:05:11,960 --> 00:05:15,140
+00:05:13,730 --> 00:05:16,910
 L'agent treballa a nivell de codi invisible, sí,
 
 101
-00:05:15,520 --> 00:05:19,080
+00:05:17,290 --> 00:05:20,850
 però l'humà necessita veure que està fent l'IA al seu navegador.
 
 102
-00:05:19,540 --> 00:05:22,700
+00:05:21,310 --> 00:05:24,470
 Ningú vol una caixa negra operant d'esquena al seu compte corrent.
 
 103
-00:05:23,000 --> 00:05:24,540
+00:05:24,770 --> 00:05:26,310
 Clar, ho entenc perfectament.
 
 104
-00:05:24,780 --> 00:05:25,540
+00:05:26,550 --> 00:05:27,310
 Ara bé,
 
 105
-00:05:25,540 --> 00:05:27,460
+00:05:27,310 --> 00:05:29,230
 l'altra via és l'API imperativa,
 
 106
-00:05:27,820 --> 00:05:32,100
+00:05:29,590 --> 00:05:33,870
 on uses JavaScript per registrar eines més complexes amb regles estrictes, no?
 
 107
-00:05:32,580 --> 00:05:33,800
+00:05:34,350 --> 00:05:35,570
 Per evitar al·lucinacions.
 
 108
-00:05:34,360 --> 00:05:36,460
+00:05:36,130 --> 00:05:38,230
 Però aquí he de fer de l'advocada del diable.
 
 109
-00:05:36,960 --> 00:05:37,340
+00:05:38,730 --> 00:05:39,110
 Un moment.
 
 110
-00:05:37,660 --> 00:05:38,060
+00:05:39,430 --> 00:05:39,830
 Endavant.
 
 111
-00:05:38,920 --> 00:05:43,060
+00:05:40,690 --> 00:05:44,830
 Hi existia un protocol de context de models, l'MCP de backend?
 
 112
-00:05:43,720 --> 00:05:48,280
+00:05:45,490 --> 00:05:50,050
 Per què els desenvolupadors han de crear un WebMCP al frontal del client?
 
 113
-00:05:48,820 --> 00:05:53,660
+00:05:50,590 --> 00:05:55,430
 No podria l'agent parlar directament amb la base de dades del servidor i saltar-se al navegador?
 
 114
-00:05:53,660 --> 00:05:55,380
+00:05:55,430 --> 00:05:57,150
 És una molt bona pregunta.
 
 115
-00:05:55,540 --> 00:06:00,060
+00:05:57,310 --> 00:06:01,830
 I la resposta és el que anomenem l'estat viu del client.
 
 116
-00:06:01,060 --> 00:06:06,700
+00:06:02,830 --> 00:06:08,470
 L'MCP de backend no té ni idea del que està passant al teu navegador en aquest precís instant.
 
 117
-00:06:06,980 --> 00:06:09,980
+00:06:08,750 --> 00:06:11,750
 O sigui, coses com la meva sessió iniciada.
 
 118
-00:06:10,280 --> 00:06:10,960
+00:06:12,050 --> 00:06:12,730
 Exacte.
 
 119
-00:06:11,220 --> 00:06:17,060
+00:06:12,990 --> 00:06:18,830
 L'autenticació activa, les galetes de sessió o un formulari que tens mig omplert en aquella pestanya.
 
 120
-00:06:17,740 --> 00:06:21,220
+00:06:19,510 --> 00:06:22,990
 Totes aquestes dades temporals només existeixen al client.
 
 121
-00:06:21,700 --> 00:06:24,700
+00:06:23,470 --> 00:06:26,470
 WebMCP aprofita aquest estat local,
 
 122
-00:06:24,700 --> 00:06:28,680
+00:06:26,470 --> 00:06:30,450
 de manera que la IA fa servir els teus permisos actuals.
 
 123
-00:06:28,700 --> 00:06:30,480
+00:06:30,470 --> 00:06:32,250
 Ostres, això té tot el sentit.
 
 124
-00:06:31,100 --> 00:06:35,860
+00:06:32,870 --> 00:06:37,630
 I passant de la teoria a l'acció, la gent de Cloudflare ja ho està utilitzant.
 
 125
-00:06:36,280 --> 00:06:42,840
+00:06:38,050 --> 00:06:44,610
 Han reanomenat el seu producte a Browser Run i diuen que l'han escalat a 120 navegadors concorrents.
 
 126
-00:06:42,880 --> 00:06:43,760
+00:06:44,650 --> 00:06:45,530
 I no només això.
 
 127
-00:06:44,180 --> 00:06:50,100
+00:06:45,950 --> 00:06:51,870
 El detall tècnic clau és que han afregit punts finals CDP, que vol dir Chrome DevTools Protocol.
 
 128
-00:06:50,240 --> 00:06:53,320
+00:06:52,010 --> 00:06:55,090
 Allò que fan servir els enginyers per inspeccionar la consola, oi?
 
 129
-00:06:53,320 --> 00:06:54,060
+00:06:55,090 --> 00:06:55,830
 Exacte.
 
 130
-00:06:54,060 --> 00:06:56,340
+00:06:55,830 --> 00:06:58,110
 És la sala de màquines pura.
 
 131
-00:06:56,780 --> 00:07:01,800
+00:06:58,550 --> 00:07:03,570
 Cloudflare permet que els agents controlin aquests navegadors remots des d'aquesta sala de màquines,
 
 132
-00:07:02,200 --> 00:07:03,940
+00:07:03,970 --> 00:07:05,710
 no simulant clics de ratolí.
 
 133
-00:07:04,340 --> 00:07:07,220
+00:07:06,110 --> 00:07:08,990
 Bé, aquí és on es posa molt interessant.
 
 134
-00:07:07,800 --> 00:07:13,540
+00:07:09,570 --> 00:07:15,310
 Cloudflare assegura que pot activar eines WebMCP als webs que allotgen amb un sol botó,
 
 135
-00:07:14,200 --> 00:07:16,420
+00:07:15,970 --> 00:07:18,190
 sense tocar el codi original de la pàgina.
 
 136
-00:07:17,000 --> 00:07:21,640
+00:07:18,770 --> 00:07:23,410
 Si acabem de dir que s'han de posar atributs HTML a mà, com encaixa això?
 
 137
-00:07:21,640 --> 00:07:23,400
+00:07:23,410 --> 00:07:25,170
 S'ho inventen sobre la marxa?
 
 138
-00:07:24,060 --> 00:07:25,060
+00:07:25,830 --> 00:07:26,830
 Pràcticament, sí.
 
 139
-00:07:25,060 --> 00:07:31,260
+00:07:26,830 --> 00:07:33,030
 Fan servir enginyeria de plataforma, injectant el que anomenem polyfills sobre la marxa.
 
 140
-00:07:31,260 --> 00:07:32,700
+00:07:33,030 --> 00:07:34,470
 Com un pont.
 
 141
-00:07:32,700 --> 00:07:33,200
+00:07:34,470 --> 00:07:34,970
 Clar.
 
 142
-00:07:33,200 --> 00:07:39,140
+00:07:34,970 --> 00:07:40,910
 Mentre el document HTML viatja cap a l'usuari, Cloudflare l'escaneja, troba els formularis,
 
 143
-00:07:39,140 --> 00:07:43,780
+00:07:40,910 --> 00:07:45,550
 injecta codi JavaScript dinàmicament per traduir-ho a esquemes JSON.
 
 144
-00:07:43,780 --> 00:07:45,960
+00:07:45,550 --> 00:07:47,730
 Salven la vida els desenvolupadors,
 
 145
-00:07:45,960 --> 00:07:49,820
+00:07:47,730 --> 00:07:51,590
 equilibrant l'automatització del servidor amb el registre al client.
 
 146
-00:07:49,820 --> 00:07:52,940
+00:07:51,590 --> 00:07:54,710
 Uau. I els resultats ja es veuen.
 
 147
-00:07:52,940 --> 00:07:53,900
+00:07:54,710 --> 00:07:55,670
 El Hackathon ho va fer amb un programa de web de web.
 
 148
-00:07:53,900 --> 00:08:00,140
+00:07:55,670 --> 00:08:01,910
 A l'aplicació WebMCP Challenge d'OpenAI van veure coses al·lucinants, com aplicacions
 
 149
-00:08:00,140 --> 00:08:01,140
+00:08:01,910 --> 00:08:02,910
 de modelatge 3D.
 
 150
-00:08:01,140 --> 00:08:05,220
+00:08:02,910 --> 00:08:06,990
 Sí, el tema del 3D és un canvi de paradigma brutal.
 
 151
-00:08:05,220 --> 00:08:11,660
+00:08:06,990 --> 00:08:13,430
 Clar, perquè abans, que una IA manipulés un objecte 3D al navegador era missió impossible.
 
 152
-00:08:11,660 --> 00:08:16,460
+00:08:13,430 --> 00:08:18,230
 Un model de visió només veu un grapat de píxels que canvien constantment.
 
 153
-00:08:16,460 --> 00:08:22,340
+00:08:18,230 --> 00:08:24,110
 Però amb WebMCP, la IA no mira els píxels. L'aplicació li dóna funcions declarades,
 
 154
-00:08:22,340 --> 00:08:23,740
+00:08:24,110 --> 00:08:25,510
 com rotateAxisZ.
 
 155
-00:08:23,740 --> 00:08:30,140
+00:08:25,510 --> 00:08:31,910
 I coordenades. L'usuari diu, fes aquest cilindre més ample. I la IA simplement transfereix
 
 156
-00:08:30,140 --> 00:08:31,140
+00:08:31,910 --> 00:08:32,910
 els paràmetres.
 
 157
-00:08:31,140 --> 00:08:35,700
+00:08:32,910 --> 00:08:37,470
 I el mateix passa amb els editors de text d'aquest hackathon. La IA deixa comentaris
 
 158
-00:08:35,700 --> 00:08:41,500
+00:08:37,470 --> 00:08:43,270
 en temps real, amb la seva pròpia identitat d'execució. Així saps què has escrit tu i
 
 159
-00:08:41,500 --> 00:08:42,860
+00:08:43,270 --> 00:08:44,630
 què ha corregit l'agent.
 
 160
-00:08:42,860 --> 00:08:44,540
+00:08:44,630 --> 00:08:46,310
 Tot auditable de forma independent.
 
 161
-00:08:44,540 --> 00:08:50,620
+00:08:46,310 --> 00:08:52,390
 Però, a veure, si li donem tantíssim poder a un agent dins del meu navegador, amb accés
 
 162
-00:08:50,620 --> 00:08:51,740
+00:08:52,390 --> 00:08:53,510
 als meus formularis en viu, com evitem que causi un trastorn?
 
 163
-00:08:51,740 --> 00:09:00,180
+00:08:53,510 --> 00:09:01,950
 Aquest és el repte de la seguretat, clar. I el disseny aquí es basa en el concepte de
 
 164
-00:09:00,180 --> 00:09:02,980
+00:09:01,950 --> 00:09:04,750
 humà al bucle, o human in the loop.
 
 165
-00:09:02,980 --> 00:09:07,900
+00:09:04,750 --> 00:09:09,670
 Llavors això és com l'assistent de manteniment de carril d'un cotxe. Pots deixar que el cotxe
 
 166
-00:09:07,900 --> 00:09:12,620
+00:09:09,670 --> 00:09:14,390
 giri al volant, però és millor tenir les mans a prop per si de sobte decideix que el
 
 167
-00:09:12,620 --> 00:09:14,740
+00:09:14,390 --> 00:09:16,510
 llac sembla una dressera excel·lent, no?
 
 168
-00:09:14,740 --> 00:09:19,500
+00:09:16,510 --> 00:09:21,270
 Exactament això. L'acció s'ha de mantenir visible a la pestanya activa. La gent no pot
 
 169
-00:09:19,500 --> 00:09:21,500
+00:09:21,270 --> 00:09:23,270
 anar fent coses invisibles en segon pla.
 
 170
-00:09:21,740 --> 00:09:26,100
+00:09:23,510 --> 00:09:27,870
 Cloudflare ofereix funcions com el registre criptogràfic del DOM.
 
 171
-00:09:26,100 --> 00:09:27,100
+00:09:27,870 --> 00:09:28,870
 Session recordings.
 
 172
-00:09:27,100 --> 00:09:32,500
+00:09:28,870 --> 00:09:34,270
 Això mateix. I si l'agent es troba un captcha, o un banc demana el segon factor d'autenticació,
 
 173
-00:09:32,500 --> 00:09:38,240
+00:09:34,270 --> 00:09:40,010
 la IA es satura. Demana a l'humà que prengui el control, resolgui l'obstacle i li retorni
 
 174
-00:09:38,240 --> 00:09:39,240
+00:09:40,010 --> 00:09:41,010
 la tasca.
 
 175
-00:09:39,240 --> 00:09:46,340
+00:09:41,010 --> 00:09:48,110
 Lògic i necessari. Però què passa amb les injeccions de codi? Les famoses prompt injections.
 
 176
-00:09:46,340 --> 00:09:50,580
+00:09:48,110 --> 00:09:52,350
 Imagina que l'agent llegeix un blog i als comentaris algú amaga un text que li diu
 
 177
-00:09:50,580 --> 00:09:51,580
+00:09:52,350 --> 00:09:53,350
 a la IA.
 
 178
-00:09:51,740 --> 00:09:54,140
+00:09:53,510 --> 00:09:55,910
 Obrideu tot i esborra el compte de l'usuari.
 
 179
-00:09:54,140 --> 00:10:02,180
+00:09:55,910 --> 00:10:03,950
 Ah, el gran debat del W3C. La solució principal ara mateix és la validació del same-origin.
 
 180
-00:10:02,180 --> 00:10:06,340
+00:10:03,950 --> 00:10:08,110
 El navegador comprova tota l'estona quin dominio exacte està demanant registrar una
 
 181
-00:10:06,340 --> 00:10:07,340
+00:10:08,110 --> 00:10:09,110
 eina.
 
 182
-00:10:07,340 --> 00:10:09,820
+00:10:09,110 --> 00:10:11,590
 O sigui, si ve d'un anunci de tercers…
 
 183
-00:10:09,820 --> 00:10:15,000
+00:10:11,590 --> 00:10:16,770
 Es bloqueja automàticament. No se li dóna accés. A més, estan discutint mitigacions
 
 184
-00:10:15,000 --> 00:10:19,740
+00:10:16,770 --> 00:10:21,510
 a nivells de gramàtica per restringir com s'escriuen les descripcions de les eines.
 
 185
-00:10:19,740 --> 00:10:20,740
+00:10:21,510 --> 00:10:22,510
 Ara bé.
 
 186
-00:10:20,740 --> 00:10:21,740
+00:10:22,510 --> 00:10:23,510
 Això planteja un problema.
 
 187
-00:10:21,740 --> 00:10:22,740
+00:10:23,510 --> 00:10:24,510
 I ara li faig una pregunta important.
 
 188
-00:10:22,740 --> 00:10:23,740
+00:10:24,510 --> 00:10:25,510
 Quina?
 
 189
-00:10:23,740 --> 00:10:28,980
+00:10:25,510 --> 00:10:30,750
 Si una web moderna té centenars d'eines. I les carreguem totes de cop al navegador per
 
 190
-00:10:28,980 --> 00:10:29,980
+00:10:30,750 --> 00:10:31,750
 a la IA.
 
 191
-00:10:29,980 --> 00:10:31,980
+00:10:31,750 --> 00:10:33,750
 La tornem a saturar de tokens.
 
 192
-00:10:31,980 --> 00:10:38,580
+00:10:33,750 --> 00:10:40,350
 Exacte. S'ensorra la finestra de context. Per això, el W3C utilitza la revelació progressiva.
 
 193
-00:10:38,580 --> 00:10:40,260
+00:10:40,350 --> 00:10:42,030
 Com funciona això?
 
 194
-00:10:40,260 --> 00:10:46,300
+00:10:42,030 --> 00:10:48,070
 Molt senzill. L'agent només rep les eines d'alt nivell al principi. Coses genèriques.
 
 195
-00:10:46,300 --> 00:10:49,740
+00:10:48,070 --> 00:10:51,510
 Quan decideix explorar una subsecció específica, l'API li proporciona les subeines.
 
 196
-00:10:49,740 --> 00:10:50,740
+00:10:51,510 --> 00:10:52,510
 I això és el que fa que l'agent tingui una idea de com funciona la web.
 
 197
-00:10:50,740 --> 00:11:01,500
+00:10:52,510 --> 00:11:03,270
 Ah, revelació progressiva. Això em porta directament a la darrera gran qüestió. L'impacte
 
 198
-00:11:01,500 --> 00:11:07,020
+00:11:03,270 --> 00:11:08,790
 en el futur del programari. Que és el que tracta l'assaig de builder.io. Crec que aquest
 
 199
-00:11:07,020 --> 00:11:09,060
+00:11:08,790 --> 00:11:10,830
 és el canvi més sísmic.
 
 200
-00:11:09,060 --> 00:11:13,740
+00:11:10,830 --> 00:11:15,510
 Sens dubte. Tothom s'està equivocant amb l'objectiu de WebMCP.
 
 201
-00:11:13,740 --> 00:11:19,740
+00:11:15,510 --> 00:11:21,510
 Segons builder.io, la indústria es pensa que això és per fer robots autònoms massius
 
 202
-00:11:19,740 --> 00:11:20,740
+00:11:21,510 --> 00:11:22,510
 que rastregin internet.
 
 203
-00:11:20,740 --> 00:11:26,620
+00:11:22,510 --> 00:11:28,390
 Però en realitat està dissenyat per a l'ajuda dins del navegador mateix de l'usuari.
 
 204
-00:11:26,620 --> 00:11:29,700
+00:11:28,390 --> 00:11:31,470
 O sigui, per matar els copilots interns.
 
 205
-00:11:29,700 --> 00:11:34,740
+00:11:31,470 --> 00:11:36,510
 I és que ara mateix cada empresa de programaris SaaS gasta milions a posar un xatbot propi
 
 206
-00:11:34,740 --> 00:11:35,740
+00:11:36,510 --> 00:11:37,510
 a la seva web, oi?
 
 207
-00:11:35,740 --> 00:11:36,740
+00:11:37,510 --> 00:11:38,510
 Sí, tothom té un copilot.
 
 208
-00:11:36,740 --> 00:11:43,340
+00:11:38,510 --> 00:11:45,110
 Amb WebMCP tot això esdevé innecessari i primitiu. La gent no vol aprendre a parlar
 
 209
-00:11:43,340 --> 00:11:48,740
+00:11:45,110 --> 00:11:50,510
 amb 50 bots diferents. Vol emportar el seu propi assistent universal integrat al seu
 
 210
-00:11:48,740 --> 00:11:49,740
+00:11:50,510 --> 00:11:51,510
 navegador, que ja coneix el seu sistema de xatbots.
 
 211
-00:11:49,740 --> 00:11:56,740
+00:11:51,510 --> 00:11:58,510
 I llavors, què vol dir tot això? Què passem d'haver d'aprendre a utilitzar desenes d'assistents
 
 212
-00:11:56,740 --> 00:12:04,220
+00:11:58,510 --> 00:12:05,990
 d'IA per a desenes de webs, a tenir un únic, diguem-ne, majordom personal que simplement
 
 213
-00:12:04,220 --> 00:12:07,620
+00:12:05,990 --> 00:12:09,390
 llegeix l'ADN estructural de qualsevol web on entrem?
 
 214
-00:12:07,620 --> 00:12:11,740
+00:12:09,390 --> 00:12:13,510
 El que és fascinant d'aquí és que l'avantatge competitiu de les empreses canviarà de la
 
 215
-00:12:11,740 --> 00:12:16,740
+00:12:13,510 --> 00:12:18,510
 nit al dia. Ja no importarà si tens un xat d'IA superbonic a la teva portada.
 
 216
-00:12:16,740 --> 00:12:17,740
+00:12:18,510 --> 00:12:19,510
 Clar.
 
 217
-00:12:17,740 --> 00:12:21,900
+00:12:19,510 --> 00:12:23,670
 El que cal guanyar al mercat serà la qualitat, la profunditat i la seguretat de les eines
 
 218
-00:12:21,900 --> 00:12:24,740
+00:12:23,670 --> 00:12:26,510
 estructurades que la teva web ofereixi a la IA de l'usuari.
 
 219
-00:12:24,740 --> 00:12:30,620
+00:12:26,510 --> 00:12:32,390
 I no ens oblidem de l'accessibilitat. Amb això, una persona amb discapacitat visual
 
 220
-00:12:30,620 --> 00:12:36,740
+00:12:32,390 --> 00:12:38,510
 o motora severa ja no dependrà d'interfícies gràfiques trencades o monos flotants inaccessibles.
 
 221
-00:12:36,740 --> 00:12:43,740
+00:12:38,510 --> 00:12:45,510
 Exacte. La IA ho navegarà de forma estructural i determinista, ignorant completament la presentació
 
 222
-00:12:43,740 --> 00:12:44,740
+00:12:45,510 --> 00:12:46,510
 visual.
 
 223
-00:12:44,740 --> 00:12:45,740
+00:12:46,510 --> 00:12:47,510
 És una revolució absoluta.
 
 224
-00:12:45,740 --> 00:12:45,740
+00:12:47,510 --> 00:12:47,510
 
 
 225
-00:12:47,740 --> 00:12:54,020
+00:12:49,510 --> 00:12:55,790
 I això? Deixem enrere els bots secs i l'escràping fràgil. Gràcies a aquesta API declarativa
 
 226
-00:12:54,020 --> 00:12:59,620
+00:12:55,790 --> 00:13:01,390
 i a plataformes com Cloudflare, passem a un ecosistema on l'humà té el control absolut
 
 227
-00:12:59,620 --> 00:13:05,100
+00:13:01,390 --> 00:13:06,870
 a través de sessions en viu permetent que assistents universals operin per nosaltres.
 
 228
-00:13:05,100 --> 00:13:09,580
+00:13:06,870 --> 00:13:11,350
 Qualsevol persona interessada en disseny web o productivitat ha de tenir el WebMCP al
 
 229
-00:13:09,580 --> 00:13:10,580
+00:13:11,350 --> 00:13:12,350
 seu radar.
 
 230
-00:13:10,580 --> 00:13:13,020
+00:13:12,350 --> 00:13:14,790
 És la fi de la web només per a humans.
 
 231
-00:13:13,020 --> 00:13:17,700
+00:13:14,790 --> 00:13:19,470
 I això em porta a un d'aquests també per deixar-vos rumiant. Si en el futur, en un any,
 
 232
-00:13:17,700 --> 00:13:23,620
+00:13:19,470 --> 00:13:25,390
 gairebé totes les webs implementen WebMCP i els nostres assistents personals acaben
 
 233
-00:13:23,620 --> 00:13:29,700
+00:13:25,390 --> 00:13:31,470
 fent pràcticament tota la navegació per nosaltres, llegint només codi estructurat i intercanviant
 
 234
-00:13:29,700 --> 00:13:35,280
+00:13:31,470 --> 00:13:37,050
 dades en JSON, arribarà un dia en què els dissenys visuals bonics i cars de les interfaces
 
 235
-00:13:35,280 --> 00:13:41,480
+00:13:37,050 --> 00:13:43,250
 d'usuari deixaran de tenir importància estratègica? La web podria acabar sent un intercanvi funcional
 
 236
-00:13:41,480 --> 00:13:43,700
+00:13:43,250 --> 00:13:45,470
 on l'estètica sigui completament irrelevant?
 
 237
-00:13:43,700 --> 00:13:45,700
+00:13:45,470 --> 00:13:47,470
 Us deixem amb aquesta reflexió.
 

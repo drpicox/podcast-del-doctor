@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-026-webmcp-la-web-nativa-per-a-ia/026-webmcp-la-web-nativa-per-a-ia.mp3"
-audio_size: 6606608
+audio_size: 6655547
 chapters_file: "026-webmcp-la-web-nativa-per-a-ia-chapters.json"
 date: '2026-08-29'
 description: "Quan demanem a un agent que ens compri un bitllet d'avió, l'obliguem a navegar amb els ulls embenats: llegint el DOM d'una pàgina dissenyada per a la psicologia visual humana, trencant-se si un botó es mou dos píxels i inundant la finestra de context de tokens inútils. WebMCP, el borrany del W3C, hi posa remei: amb document.modelContext i dos atributs HTML, un formulari qualsevol esdevé una eina per a la IA. Repassem l'API declarativa de Chrome, per què cal fer-ho al client i no al backend, el pont que Cloudflare injecta a l'extrem, l'humà al bucle contra les prompt injections — i per què podria matar els copilots interns dels SaaS."
-duration: '13:45'
+duration: '13:51'
 episode_number: 26
 season: 1
-soundbite_start: 686.6
+soundbite_start: 688.4
 soundbite_duration: 41.0
 soundbite_title: "Un sol majordom digital en lloc de cinquanta copilots"
 sources:
