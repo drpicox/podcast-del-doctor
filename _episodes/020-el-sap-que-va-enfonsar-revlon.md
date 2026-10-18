@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-020-el-sap-que-va-enfonsar-revlon/020-el-sap-que-va-enfonsar-revlon.mp3"
-audio_size: 14394024
+audio_size: 14442962
 chapters_file: "020-el-sap-que-va-enfonsar-revlon-chapters.json"
 date: '2026-08-09'
 description: "Revlon va fer fallida el 2022 i tothom en va culpar la pandèmia, però els números expliquen una altra història: el forat va començar el 2018 amb una migració Big Bang a SAP S/4HANA que va paralitzar la planta que servia el 80% de les comandes nord-americanes. Desgranem el còctel sencer: 21 ERPs després de comprar Elizabeth Arden, una tecnologia amb mesos de vida, 350 acomiadats que s'enduien el coneixement clau, un CEO que fuig tres setmanes abans del go-live, inventari fantasma, encobriment davant la SEC i la caiguda d'un imperi de 90 anys."
-duration: '29:59'
+duration: '30:05'
 episode_number: 20
 season: 1
-soundbite_start: 1742.6
+soundbite_start: 1744.4
 soundbite_duration: 53.8
 soundbite_title: "A una actualització de software del col·lapse total"
 sources:
