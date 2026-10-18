@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-035-arquitectura-oculta-codi/035-arquitectura-oculta-codi.mp3"
-audio_size: 11299662
+audio_size: 11348601
 chapters_file: "035-arquitectura-oculta-codi-chapters.json"
 date: '2026-09-29'
 description: "El codi no envelleix per culpa d'un mal programador, sinó per lleis de xarxa gairebé ineludibles. Tot programari creix com una xarxa de món petit plena de hubs asimètrics: ho mostren 50 aplicacions Java i també una web escrita per IA. Veiem com els hotspots de CodeScene troben on es concentren l'esforç i els errors, i com un trinquet impedeix que la qualitat reculi. I contraposem la zona de dolor de Robert C. Martin a la crítica d'Oliver Drotbohm: una interfície buida posa el gràfic en verd sense arreglar res."
-duration: '23:32'
+duration: '23:38'
 episode_number: 35
 season: 1
-soundbite_start: 1095.1
+soundbite_start: 1096.9
 soundbite_duration: 82.5
 soundbite_title: "Una interfície buida: el gràfic somriu i l'arquitectura no ha canviat gens"
 sources:
