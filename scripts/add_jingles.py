@@ -9,8 +9,10 @@ els temps queden desplaçats uns segons.
 Què fa:
   - Mesura la sonoritat de l'episodi (LUFS) i hi iguala els jingles, perquè no
     sonin ni més forts ni més fluixos que les veus.
-  - Munta: entrada + 0,4 s de silenci + episodi + 0,6 s de silenci + sortida,
-    amb la mateixa freqüència, canals i bitrate que l'MP3 original.
+  - Munta: entrada + episodi + 0,6 s de silenci + sortida, amb la mateixa
+    freqüència, canals i bitrate que l'MP3 original. La veu no espera que el
+    jingle acabi: entra SOLAPAMENT segons abans del final i trepitja la cua
+    de reverb (es barregen, cap dels dos es fon), com fan les ràdios.
   - Desa l'original a episodes/sense-jingles/ (episodes/ no va a git; és la
     nostra còpia per si mai cal refer-ho).
   - Marca l'MP3 amb l'etiqueta 'jingles' perquè no s'hi afegeixin mai dos cops.
@@ -33,9 +35,15 @@ import tempfile
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ENTRADA = os.path.join(ROOT, "assets", "audio", "jingle-entrada.wav")
 SORTIDA = os.path.join(ROOT, "assets", "audio", "jingle-sortida.wav")
-MARCA = "entrada+sortida v1"
-SILENCI_ENTRADA = 0.4
+MARCA = "entrada+sortida v2"
+SOLAPAMENT = 1.5  # segons de la cua del jingle d'entrada que sonen sota la veu
 SILENCI_SORTIDA = 0.6
+
+
+def desplaçament():
+    """Segons que l'episodi original queda desplaçat dins l'MP3 amb jingles."""
+    durada = float(ffprobe(ENTRADA, "format=duration")["format"]["duration"])
+    return durada - SOLAPAMENT
 
 
 def ffprobe(camí, entrades):
@@ -106,13 +114,17 @@ def main():
     layout = "mono" if canals == 1 else "stereo"
     fmt = f"aformat=sample_rates={sr}:channel_layouts={layout}"
     norm = f"loudnorm=I={lufs:.1f}:TP=-2:LRA=7,{fmt}"
+    retard = int(round(desplaçament() * 1000))
     filtre = (
         f"[0:a]{norm}[ent];"
         f"[2:a]{norm}[sor];"
-        f"[1:a]{fmt}[epi];"
-        f"anullsrc=r={sr}:cl={layout}:d={SILENCI_ENTRADA}[s1];"
-        f"anullsrc=r={sr}:cl={layout}:d={SILENCI_SORTIDA}[s2];"
-        f"[ent][s1][epi][s2][sor]concat=n=5:v=0:a=1[out]"
+        f"[1:a]{fmt},adelay={retard}:all=1[epi];"
+        # asetpts: amix i concat junts deixen marques de temps incoherents
+        # (ffmpeg: "non monotonically increasing dts") si no es renumeren.
+        f"[ent][epi]amix=inputs=2:duration=longest:normalize=0,asetpts=N/SR/TB[obre];"
+        f"anullsrc=r={sr}:cl={layout}:d={SILENCI_SORTIDA},asetpts=N/SR/TB[s2];"
+        f"[sor]asetpts=N/SR/TB[sor2];"
+        f"[obre][s2][sor2]concat=n=3:v=0:a=1[out]"
     )
 
     with tempfile.NamedTemporaryFile(suffix=".mp3", dir=os.path.dirname(mp3), delete=False) as tmp:

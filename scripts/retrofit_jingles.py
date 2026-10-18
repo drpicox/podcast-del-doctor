@@ -16,7 +16,7 @@ es desplacen els temps existents:
 
 El desplaçament es MESURA (correlació creuada entre l'àudio nou i l'original
 desat a episodes/sense-jingles/) i s'atura sense tocar res si no coincideix amb
-l'esperat (jingle d'entrada + silenci). No puja res: després cal
+l'esperat (jingle d'entrada menys el solapament). No puja res: després cal
     python scripts/upload_to_archive.py --episodi XXX --nomes-mp3
 
 Ús:
@@ -32,7 +32,6 @@ import subprocess
 import sys
 
 import numpy as np
-import soundfile as sf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
@@ -63,8 +62,7 @@ def mesura_desplaçament(nou, original):
 
 
 def esperat():
-    info = sf.info(add_jingles.ENTRADA)
-    return info.frames / info.samplerate + add_jingles.SILENCI_ENTRADA
+    return add_jingles.desplaçament()
 
 
 def srt_temps(t):
