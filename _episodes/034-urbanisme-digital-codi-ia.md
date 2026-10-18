@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-034-urbanisme-digital-codi-ia/034-urbanisme-digital-codi-ia.mp3"
-audio_size: 12107995
+audio_size: 12156934
 chapters_file: "034-urbanisme-digital-codi-ia-chapters.json"
 date: '2026-09-29'
 description: "Si una IA aixeca tot l'edifici, a l'humà només li queda fer d'urbanista. Analitzem dos assajos de David Rodenas sobre una web escrita íntegrament per Claude: 528 fitxers que formen una xarxa de món petit, hubs com Feature.ts que fan d'aeroport de Frankfurt, hotspots sense cap prova, acoblaments lògics que es mouen junts com dos pares divorciats, la zona de dolor de Robert C. Martin i el trinquet, un test que només deixa que la qualitat vagi endavant. I una pregunta final: què hem d'ensenyar si ja no piquem codi?"
-duration: '25:13'
+duration: '25:19'
 episode_number: 34
 season: 1
-soundbite_start: 1124.76
+soundbite_start: 1126.5
 soundbite_duration: 61.4
 soundbite_title: "El trinquet: una roda que només pot girar cap endavant"
 sources:

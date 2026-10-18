@@ -1,2244 +1,2244 @@
 1
-00:00:00,340 --> 00:00:03,940
+00:00:02,110 --> 00:00:05,710
 Imaginem per un moment ser l'arquitecte en cap d'un gratacel immens,
 
 2
-00:00:04,480 --> 00:00:06,000
+00:00:06,250 --> 00:00:07,770
 un d'aquells edificis que toquen els núvols.
 
 3
-00:00:06,720 --> 00:00:07,180
+00:00:08,490 --> 00:00:08,950
 D'acord.
 
 4
-00:00:07,380 --> 00:00:08,680
+00:00:09,150 --> 00:00:10,450
 Però amb una petita trampa.
 
 5
-00:00:09,220 --> 00:00:11,900
+00:00:10,990 --> 00:00:13,670
 Aquest arquitecte no toca mai, i vull dir mai,
 
 6
-00:00:12,320 --> 00:00:13,580
+00:00:14,090 --> 00:00:15,350
 ni una sola gota de ciment.
 
 7
-00:00:14,100 --> 00:00:15,920
+00:00:15,870 --> 00:00:17,690
 No posa cap totxo, no colla cap viga.
 
 8
-00:00:16,660 --> 00:00:18,000
+00:00:18,430 --> 00:00:19,770
 Sona a feina ideal per a molts.
 
 9
-00:00:18,960 --> 00:00:21,660
+00:00:20,730 --> 00:00:23,430
 I tant, perquè resulta que una intel·ligència artificial
 
 10
-00:00:21,660 --> 00:00:23,660
+00:00:23,430 --> 00:00:25,430
 s'encarrega de construir l'edifici sencer.
 
 11
-00:00:24,220 --> 00:00:27,260
+00:00:25,990 --> 00:00:29,030
 Paret a paret, pis a pis, i a més en qüestió de segons.
 
 12
-00:00:28,100 --> 00:00:28,960
+00:00:29,870 --> 00:00:30,730
 És fascinant.
 
 13
-00:00:28,960 --> 00:00:33,100
+00:00:30,730 --> 00:00:34,870
 O sigui, l'única feina humana aquí és dictar les lleis de la física i l'estructura
 
 14
-00:00:33,100 --> 00:00:36,120
+00:00:34,870 --> 00:00:37,890
 perquè tota aquesta massa no col·lapsi sota el seu propi pes.
 
 15
-00:00:36,580 --> 00:00:37,860
+00:00:38,350 --> 00:00:39,630
 Exacte, posar els límits.
 
 16
-00:00:38,600 --> 00:00:42,480
+00:00:40,370 --> 00:00:44,250
 Això em pot semblar un concepte de ciència-ficció, d'aquelles pel·lícules futuristes,
 
 17
-00:00:43,040 --> 00:00:46,280
+00:00:44,810 --> 00:00:48,050
 però és la realitat més absoluta de l'enginyeria de sistemes avui dia.
 
 18
-00:00:46,940 --> 00:00:50,540
+00:00:48,710 --> 00:00:52,310
 I justament aquesta és la nostra missió en l'exploració a fons d'avui.
 
 19
-00:00:51,000 --> 00:00:55,320
+00:00:52,770 --> 00:00:57,090
 Una missió que ens portarà a disseccionar dos assajos interactius absolutament brutals.
 
 20
-00:00:55,700 --> 00:00:56,500
+00:00:57,470 --> 00:00:58,270
 Brutals és poc.
 
 21
-00:00:57,100 --> 00:00:59,360
+00:00:58,870 --> 00:01:01,130
 Estem parlant dels textos que va escriure David Rodenes
 
 22
-00:00:59,360 --> 00:01:01,980
+00:01:01,130 --> 00:01:03,750
 el setembre de 2026, titulats
 
 23
-00:01:01,980 --> 00:01:04,960
+00:01:03,750 --> 00:01:06,730
 Com es construeix aquest lloc i Com canvia aquest lloc.
 
 24
-00:01:05,300 --> 00:01:07,700
+00:01:07,070 --> 00:01:09,470
 I mira, aquests dos documents analitzen amb profunditat
 
 25
-00:01:07,700 --> 00:01:10,140
+00:01:09,470 --> 00:01:11,910
 l'arquitectura d'un projecte de programari real,
 
 26
-00:01:10,360 --> 00:01:12,560
+00:01:12,130 --> 00:01:14,330
 però hi ha un detall, una clau de volta
 
 27
-00:01:12,560 --> 00:01:14,240
+00:01:14,330 --> 00:01:16,010
 que ho fa tan i tan rellevant avui.
 
 28
-00:01:14,560 --> 00:01:15,100
+00:01:16,330 --> 00:01:16,870
 Quin és el truc?
 
 29
-00:01:15,640 --> 00:01:17,780
+00:01:17,410 --> 00:01:19,550
 Doncs el context de com es va crear tot plegat.
 
 30
-00:01:18,240 --> 00:01:20,160
+00:01:20,010 --> 00:01:21,930
 Tot el codi que analitzarem ha estat escrit
 
 31
-00:01:20,160 --> 00:01:22,380
+00:01:21,930 --> 00:01:24,150
 íntegrament per un model d'intel·ligència artificial,
 
 32
-00:01:22,580 --> 00:01:23,620
+00:01:24,350 --> 00:01:25,390
 concretament per Clot.
 
 33
-00:01:24,180 --> 00:01:26,840
+00:01:25,950 --> 00:01:28,610
 O sigui, cap humà picant codi a les fosques de matinada.
 
 34
-00:01:27,380 --> 00:01:27,820
+00:01:29,150 --> 00:01:29,590
 Exacte.
 
 35
-00:01:28,220 --> 00:01:29,820
+00:01:29,990 --> 00:01:31,590
 Rodenes no va teclejar les instruccions
 
 36
-00:01:29,820 --> 00:01:32,040
+00:01:31,590 --> 00:01:33,810
 com faria un programador tradicional de tota la vida.
 
 37
-00:01:32,340 --> 00:01:35,160
+00:01:34,110 --> 00:01:36,930
 La seva funció s'ha limitat purament a fer d'arquitecte,
 
 38
-00:01:35,380 --> 00:01:37,960
+00:01:37,150 --> 00:01:39,730
 establint regles, estructures, límits...
 
 39
-00:01:37,960 --> 00:01:38,320
+00:01:39,730 --> 00:01:40,090
 De benit, no?
 
 40
-00:01:38,900 --> 00:01:41,940
+00:01:40,670 --> 00:01:43,710
 Estem davant d'un canvi de paradigma total, de veritat.
 
 41
-00:01:42,260 --> 00:01:43,400
+00:01:44,030 --> 00:01:45,170
 L'humà ja no pica codi,
 
 42
-00:01:43,400 --> 00:01:45,120
+00:01:45,170 --> 00:01:46,890
 sinó que passa a dedicar-se, diguem-ne,
 
 43
-00:01:45,380 --> 00:01:47,880
+00:01:47,150 --> 00:01:49,650
 a la planificació urbanística de l'entorn digital.
 
 44
-00:01:48,200 --> 00:01:50,440
+00:01:49,970 --> 00:01:52,210
 M'agrada molt això de la planificació urbanística.
 
 45
-00:01:50,960 --> 00:01:52,320
+00:01:52,730 --> 00:01:54,090
 I a veure, vull fer un avís important
 
 46
-00:01:52,320 --> 00:01:54,840
+00:01:54,090 --> 00:01:56,610
 per a qui ens escolti abans de llençar-nos-hi de cap.
 
 47
-00:01:55,240 --> 00:01:57,700
+00:01:57,010 --> 00:01:59,470
 No cal tenir absolutament cap coneixement de programació
 
 48
-00:01:57,700 --> 00:01:58,980
+00:01:59,470 --> 00:02:00,750
 per seguir el fil. Zero.
 
 49
-00:01:59,420 --> 00:02:00,560
+00:02:01,190 --> 00:02:02,330
 Cap ni un. Totalment d'acord.
 
 50
-00:02:01,000 --> 00:02:04,380
+00:02:02,770 --> 00:02:06,150
 Perquè el que estem examinant no són línies de text o llenguatges estranys.
 
 51
-00:02:04,780 --> 00:02:08,320
+00:02:06,550 --> 00:02:10,090
 Són els patrons de com evolucionen els sistemes complexes en general.
 
 52
-00:02:08,940 --> 00:02:09,860
+00:02:10,710 --> 00:02:11,630
 Exactament, els patrons.
 
 53
-00:02:10,380 --> 00:02:12,580
+00:02:12,150 --> 00:02:14,350
 Les lliçons sobre on es formen els colls d'ampolla
 
 54
-00:02:12,580 --> 00:02:14,980
+00:02:14,350 --> 00:02:16,750
 o com es propaguen els errors que no veiem
 
 55
-00:02:14,980 --> 00:02:18,340
+00:02:16,750 --> 00:02:20,110
 s'apliquen igual de bé a l'organigrama d'una multinacional
 
 56
-00:02:18,340 --> 00:02:20,320
+00:02:20,110 --> 00:02:22,090
 o a com s'organitza un hospital gran
 
 57
-00:02:20,320 --> 00:02:21,960
+00:02:22,090 --> 00:02:23,730
 o a qualsevol projecte d'equip.
 
 58
-00:02:22,320 --> 00:02:26,440
+00:02:24,090 --> 00:02:28,210
 Sí, al cap i a la fi parlem de com interactuen peces diferents dins d'una mateixa màquina.
 
 59
-00:02:26,840 --> 00:02:30,740
+00:02:28,610 --> 00:02:32,510
 I clar, per entendre com qualsevol estructura evoluciona i com aguanta el pas del temps,
 
 60
-00:02:31,200 --> 00:02:33,500
+00:02:32,970 --> 00:02:35,270
 doncs el primer pas ineludible és tenir el mapa.
 
 61
-00:02:33,720 --> 00:02:37,420
+00:02:35,490 --> 00:02:39,190
 Hem de mapejar el territori i saber quina forma exacta té ara mateix.
 
 62
-00:02:37,980 --> 00:02:40,300
+00:02:39,750 --> 00:02:42,070
 Així és, no es pot protegir allò que no pots veure.
 
 63
-00:02:40,700 --> 00:02:44,440
+00:02:42,470 --> 00:02:46,210
 I per això, el que fa l'autor en el seu primer assaig és molt intel·ligent.
 
 64
-00:02:44,440 --> 00:02:47,640
+00:02:46,210 --> 00:02:49,410
 No et planta una llista d'arxius avorrida i llestos.
 
 65
-00:02:47,880 --> 00:02:49,440
+00:02:49,650 --> 00:02:51,210
 Hauria estat insuportable, la veritat.
 
 66
-00:02:50,100 --> 00:02:54,120
+00:02:51,870 --> 00:02:55,890
 Totalment. El que fa és desplegar una visualització de xarxa complexa.
 
 67
-00:02:54,440 --> 00:02:59,080
+00:02:56,210 --> 00:03:00,850
 T'ensenya una topologia viva i allà hi veus 528 arxius.
 
 68
-00:02:59,600 --> 00:03:00,120
+00:03:01,370 --> 00:03:01,890
 528?
 
 69
-00:03:00,580 --> 00:03:03,080
+00:03:02,350 --> 00:03:04,850
 Sí, dibuixats com esferes petites, boletes,
 
 70
-00:03:03,440 --> 00:03:07,200
+00:03:05,210 --> 00:03:08,970
 i connectades per unes 1.314 fletxes de dependència.
 
 71
-00:03:07,440 --> 00:03:09,220
+00:03:09,210 --> 00:03:10,990
 A veure, aquestes fletxes què volen dir exactament
 
 72
-00:03:09,220 --> 00:03:11,180
+00:03:10,990 --> 00:03:12,950
 per a qui no estigui familiaritzat amb els gràfics?
 
 73
-00:03:11,760 --> 00:03:15,080
+00:03:13,530 --> 00:03:16,850
 És molt simple. Només indiquen una regla bàsica de necessitat.
 
 74
-00:03:15,260 --> 00:03:18,980
+00:03:17,030 --> 00:03:20,750
 Si hi ha una fletxa, vol dir aquest element necessita aquest altre element
 
 75
-00:03:18,980 --> 00:03:20,140
+00:03:20,750 --> 00:03:21,910
 per poder funcionar.
 
 76
-00:03:20,180 --> 00:03:22,140
+00:03:21,950 --> 00:03:23,910
 D'acord, com si diguéssim que el departament de vendes
 
 77
-00:03:22,140 --> 00:03:24,520
+00:03:23,910 --> 00:03:26,290
 necessita la llista de preus de màrqueting per poder vendre.
 
 78
-00:03:25,020 --> 00:03:27,360
+00:03:26,790 --> 00:03:29,130
 Exacte, un vincle de dependència pura.
 
 79
-00:03:27,480 --> 00:03:29,920
+00:03:29,250 --> 00:03:31,690
 Però el descobriment que realment et vol al cap
 
 80
-00:03:29,920 --> 00:03:31,760
+00:03:31,690 --> 00:03:33,530
 arriba quan analitzes matemàticament
 
 81
-00:03:31,760 --> 00:03:33,120
+00:03:33,530 --> 00:03:34,890
 aquesta taranyina de fletxes.
 
 82
-00:03:33,700 --> 00:03:34,620
+00:03:35,470 --> 00:03:36,390
 Què hi van trobar?
 
 83
-00:03:35,920 --> 00:03:37,880
+00:03:37,690 --> 00:03:39,650
 Doncs que el codi s'organitza,
 
 84
-00:03:38,040 --> 00:03:39,700
+00:03:39,810 --> 00:03:41,470
 seguint amb una precisió mil·limètrica,
 
 85
-00:03:39,700 --> 00:03:41,900
+00:03:41,470 --> 00:03:43,670
 la teoria de les xarxes de Montpetit.
 
 86
-00:03:42,520 --> 00:03:45,080
+00:03:44,290 --> 00:03:46,850
 Ah, les xarxes de Montpetit. Això sona.
 
 87
-00:03:45,720 --> 00:03:48,320
+00:03:47,490 --> 00:03:50,090
 Sí, és un concepte que van desenvolupar els matemàtics
 
 88
-00:03:48,320 --> 00:03:50,840
+00:03:50,090 --> 00:03:52,610
 Watts i Estrogatz per estudiar, fixa't bé,
 
 89
-00:03:50,960 --> 00:03:53,320
+00:03:52,730 --> 00:03:55,090
 el comportament de les xarxes socials humanes.
 
 90
-00:03:53,780 --> 00:03:55,080
+00:03:55,550 --> 00:03:56,850
 Com ens relacionem entre nosaltres?
 
 91
-00:03:55,900 --> 00:03:58,000
+00:03:57,670 --> 00:03:59,770
 D'acord, anem a desgranar això una mica.
 
 92
-00:03:58,640 --> 00:04:01,220
+00:04:00,410 --> 00:04:02,990
 Si un sistema té aquesta propietat de món petit,
 
 93
-00:04:01,540 --> 00:04:04,380
+00:04:03,310 --> 00:04:06,150
 vol dir que tot està interconnectat a una distància molt curta, oi?
 
 94
-00:04:04,740 --> 00:04:07,060
+00:04:06,510 --> 00:04:08,830
 Com el famós mite dels sis graus de separació
 
 95
-00:04:07,060 --> 00:04:08,620
+00:04:08,830 --> 00:04:10,390
 entre qualsevol persona del planeta.
 
 96
-00:04:09,600 --> 00:04:10,580
+00:04:11,370 --> 00:04:12,350
 Exactament això, sí.
 
 97
-00:04:11,020 --> 00:04:12,820
+00:04:12,790 --> 00:04:14,590
 Però clar, si estigués dissenyat de manera que
 
 98
-00:04:12,820 --> 00:04:15,060
+00:04:14,590 --> 00:04:16,830
 absolutament tots els arxius o components
 
 99
-00:04:15,060 --> 00:04:17,560
+00:04:16,830 --> 00:04:19,330
 estiguessin connectats directament amb tots els altres,
 
 100
-00:04:17,560 --> 00:04:18,480
+00:04:19,330 --> 00:04:20,250
 seria un embolic.
 
 101
-00:04:19,240 --> 00:04:21,160
+00:04:21,010 --> 00:04:22,930
 Vull dir, imagineu 500 boles,
 
 102
-00:04:21,440 --> 00:04:23,060
+00:04:23,210 --> 00:04:24,830
 totes amb fletxes cap a les altres 500.
 
 103
-00:04:23,880 --> 00:04:25,180
+00:04:25,650 --> 00:04:26,950
 Un caos total i absolut.
 
 104
-00:04:25,400 --> 00:04:27,120
+00:04:27,170 --> 00:04:28,890
 Un sistema completament col·lapsat
 
 105
-00:04:27,120 --> 00:04:29,220
+00:04:28,890 --> 00:04:30,990
 que ningú podria mantenir ni 5 minuts.
 
 106
-00:04:29,860 --> 00:04:31,420
+00:04:31,630 --> 00:04:33,190
 Doncs com ho resol el sistema?
 
 107
-00:04:32,040 --> 00:04:34,260
+00:04:33,810 --> 00:04:36,030
 L'anàlisi de Rodenes li dona a aquesta xarxa
 
 108
-00:04:34,260 --> 00:04:37,100
+00:04:36,030 --> 00:04:38,870
 una puntuació de Montpetit de 29,7.
 
 109
-00:04:37,520 --> 00:04:39,640
+00:04:39,290 --> 00:04:41,410
 I en termes pràctics, això vol dir que els arxius
 
 110
-00:04:39,640 --> 00:04:40,860
+00:04:41,410 --> 00:04:42,630
 no es connecten a la babalà,
 
 111
-00:04:41,220 --> 00:04:43,800
+00:04:42,990 --> 00:04:45,570
 sinó que tendeixen a agrupar-se fortament en clàsters,
 
 112
-00:04:44,020 --> 00:04:45,580
+00:04:45,790 --> 00:04:47,350
 en barris petits, molt únits.
 
 113
-00:04:46,220 --> 00:04:47,980
+00:04:47,990 --> 00:04:49,750
 Com petits pobles on tothom es coneix.
 
 114
-00:04:48,460 --> 00:04:49,020
+00:04:50,230 --> 00:04:50,790
 Això mateix.
 
 115
-00:04:49,640 --> 00:04:54,360
+00:04:51,410 --> 00:04:56,130
 L'estructura està 34 vegades més agrupada del que tocaria per pur atzar.
 
 116
-00:04:54,620 --> 00:04:55,860
+00:04:56,390 --> 00:04:57,630
 34 vegades.
 
 117
-00:04:56,300 --> 00:04:58,260
+00:04:58,070 --> 00:05:00,030
 Però, i aquí ve la màgia del disseny,
 
 118
-00:04:58,640 --> 00:05:00,820
+00:05:00,410 --> 00:05:02,590
 al mateix temps que tens aquests barris tancats,
 
 119
-00:05:01,260 --> 00:05:04,820
+00:05:03,030 --> 00:05:06,590
 viatjar d'una punta a l'altra de tota la xarxa del sistema global
 
 120
-00:05:04,820 --> 00:05:06,380
+00:05:06,590 --> 00:05:08,150
 continua sent rapidíssim.
 
 121
-00:05:06,380 --> 00:05:08,680
+00:05:08,150 --> 00:05:10,450
 Com pot ser si viuen en pobles aïllats?
 
 122
-00:05:08,960 --> 00:05:11,240
+00:05:10,730 --> 00:05:13,010
 Perquè els camins per creuar tota la xarxa
 
 123
-00:05:11,240 --> 00:05:15,300
+00:05:13,010 --> 00:05:17,070
 són només un 10% més llargs que si fos un caos de connexions directes.
 
 124
-00:05:15,580 --> 00:05:17,480
+00:05:17,350 --> 00:05:19,250
 Tens l'ordre local dels barris,
 
 125
-00:05:17,820 --> 00:05:20,980
+00:05:19,590 --> 00:05:22,750
 però combinat amb una velocitat de connexió global brutal.
 
 126
-00:05:21,540 --> 00:05:23,880
+00:05:23,310 --> 00:05:25,650
 Mira, crec que la millor manera de visualitzar això
 
 127
-00:05:23,880 --> 00:05:26,020
+00:05:25,650 --> 00:05:27,790
 és pensar en com funciona l'aviació comercial,
 
 128
-00:05:26,660 --> 00:05:28,460
+00:05:28,430 --> 00:05:30,230
 el mapa de rutes aèries del món real.
 
 129
-00:05:28,800 --> 00:05:29,900
+00:05:30,570 --> 00:05:31,670
 M'agrada aquesta comparació.
 
 130
-00:05:30,260 --> 00:05:32,700
+00:05:32,030 --> 00:05:34,470
 Mai hi haurà vols directes entre tots els pobles, oi?
 
 131
-00:05:32,920 --> 00:05:34,180
+00:05:34,690 --> 00:05:35,950
 Seria una bogeria econòmica.
 
 132
-00:05:34,440 --> 00:05:36,740
+00:05:36,210 --> 00:05:38,510
 Un vol directe de, no ho sé, un poblet de Catalunya
 
 133
-00:05:36,740 --> 00:05:38,260
+00:05:38,510 --> 00:05:40,030
 fins a una ciutat petita de l'Índia.
 
 134
-00:05:38,400 --> 00:05:38,980
+00:05:40,170 --> 00:05:40,750
 No té sentit.
 
 135
-00:05:39,180 --> 00:05:39,840
+00:05:40,950 --> 00:05:41,610
 Inviable, sí.
 
 136
-00:05:40,420 --> 00:05:42,820
+00:05:42,190 --> 00:05:44,590
 Llavors, què fa el sistema per mantenir-nos units
 
 137
-00:05:42,820 --> 00:05:43,980
+00:05:44,590 --> 00:05:45,750
 i poder viatjar ràpid?
 
 138
-00:05:44,580 --> 00:05:47,220
+00:05:46,350 --> 00:05:48,990
 Utilitza els famosos hubs, els superaeroports.
 
 139
-00:05:47,400 --> 00:05:48,740
+00:05:49,170 --> 00:05:50,510
 Com Frankfurt o Londres, clar.
 
 140
-00:05:49,140 --> 00:05:49,620
+00:05:50,910 --> 00:05:51,390
 Exacte.
 
 141
-00:05:49,980 --> 00:05:52,820
+00:05:51,750 --> 00:05:54,590
 Fas un bolet curt, de mitja hora, fins al gran nuda central,
 
 142
-00:05:53,280 --> 00:05:56,420
+00:05:55,050 --> 00:05:58,190
 i d'allà ja t'enganxes amb un vol intercontinental ultraeficient.
 
 143
-00:05:57,060 --> 00:05:59,300
+00:05:58,830 --> 00:06:01,070
 Doncs, traslladant això al codi creat per la IA,
 
 144
-00:05:59,720 --> 00:06:02,420
+00:06:01,490 --> 00:06:04,190
 suposo que el sistema ha d'estar ple d'aquests grans aeroports centrals, no?
 
 145
-00:06:02,860 --> 00:06:04,500
+00:06:04,630 --> 00:06:06,270
 Està farcit d'ells, totalment.
 
 146
-00:06:04,920 --> 00:06:08,880
+00:06:06,690 --> 00:06:10,650
 I, quan mires el mapa de la SAI, salten a la vista immediatament.
 
 147
-00:06:08,880 --> 00:06:11,780
+00:06:10,650 --> 00:06:13,550
 Són arxius que actuen com a ponts gegants.
 
 148
-00:06:12,320 --> 00:06:13,500
+00:06:14,090 --> 00:06:15,270
 En tens algun exemple concret?
 
 149
-00:06:13,500 --> 00:06:17,280
+00:06:15,270 --> 00:06:19,050
 I tant. El cas més clar és un arxiu que es diu feature.ts.
 
 150
-00:06:17,640 --> 00:06:18,080
+00:06:19,410 --> 00:06:19,850
 D'acord.
 
 151
-00:06:18,580 --> 00:06:25,840
+00:06:20,350 --> 00:06:27,610
 Aquest element està situat literalment al mig del 39% de tots els camins més curts de tot el projecte.
 
 152
-00:06:25,960 --> 00:06:30,740
+00:06:27,730 --> 00:06:32,510
 Espera, gairebé 4 de cada 10 fletxes de la xarxa acaben passant per aquest únic arxiu.
 
 153
-00:06:31,080 --> 00:06:34,820
+00:06:32,850 --> 00:06:36,590
 Exacte. 4 de cada 10 connexions paguen peatge per passar per aquí.
 
 154
-00:06:35,240 --> 00:06:39,460
+00:06:37,010 --> 00:06:41,230
 I n'hi ha d'altres, com un que s'encarrega d'escapar el codi HTML o manipular pantalles,
 
 155
-00:06:39,840 --> 00:06:41,980
+00:06:41,610 --> 00:06:43,750
 que fan la mateixa funció d'intersecció massiva.
 
 156
-00:06:42,600 --> 00:06:44,300
+00:06:44,370 --> 00:06:46,070
 Això fa pensar molt en la vida d'oficina.
 
 157
-00:06:44,700 --> 00:06:48,620
+00:06:46,470 --> 00:06:50,390
 A qualsevol empresa hi ha aquells departaments o persones que són ponts obligatoris.
 
 158
-00:06:49,080 --> 00:06:52,880
+00:06:50,850 --> 00:06:54,650
 El clàssic departament legal que ha de revisar la lletra petita abans que res surti, oi?
 
 159
-00:06:53,320 --> 00:06:56,480
+00:06:55,090 --> 00:06:58,250
 Totalment. O finances firmant les despeses divendres a la tarda.
 
 160
-00:06:56,980 --> 00:06:59,280
+00:06:58,750 --> 00:07:01,050
 Són estructures molt útils per comunicar ràpid.
 
 161
-00:06:59,640 --> 00:07:02,120
+00:07:01,410 --> 00:07:03,890
 Però hi ha un revers molt, molt fosc.
 
 162
-00:07:02,640 --> 00:07:02,840
+00:07:04,410 --> 00:07:04,610
 Quin?
 
 163
-00:07:03,420 --> 00:07:06,020
+00:07:05,190 --> 00:07:07,790
 Doncs què passa si l'aeroport de Frankfurt tanca per una nevada?
 
 164
-00:07:06,660 --> 00:07:08,100
+00:07:08,430 --> 00:07:09,870
 Mig món es queda atrapat al moment.
 
 165
-00:07:08,100 --> 00:07:12,560
+00:07:09,870 --> 00:07:14,330
 Sí, i aquesta és justament la gran debilitat de les estructures de Montpetit.
 
 166
-00:07:12,920 --> 00:07:14,040
+00:07:14,690 --> 00:07:15,810
 I és una paradoxa.
 
 167
-00:07:14,080 --> 00:07:15,000
+00:07:15,850 --> 00:07:16,770
 Per què paradoxa?
 
 168
-00:07:15,220 --> 00:07:18,200
+00:07:16,990 --> 00:07:19,970
 Perquè, d'una banda, són molt resilients els errors petits.
 
 169
-00:07:18,540 --> 00:07:21,580
+00:07:20,310 --> 00:07:23,350
 Tu pots eliminar 20 arxius d'un barri petit i la xarxa no cau.
 
 170
-00:07:21,820 --> 00:07:23,300
+00:07:23,590 --> 00:07:25,070
 Clar, perquè només afectes aquell poble.
 
 171
-00:07:23,640 --> 00:07:28,660
+00:07:25,410 --> 00:07:30,430
 Però si hi ha un atac o un sol error greu en un d'aquests hubs, en aquest feature.ts,
 
 172
-00:07:29,040 --> 00:07:32,040
+00:07:30,810 --> 00:07:33,810
 la xarxa es trenca en mil illes aïllades a l'instant.
 
 173
-00:07:32,380 --> 00:07:33,460
+00:07:34,150 --> 00:07:35,230
 Queda tot inutilitzat.
 
 174
-00:07:33,720 --> 00:07:37,020
+00:07:35,490 --> 00:07:38,790
 D'acord, això pel que fa a l'estructura física, a la foto del moment.
 
 175
-00:07:37,660 --> 00:07:40,840
+00:07:39,430 --> 00:07:42,610
 Però clar, aquest mapa ens diu on són els ponts un dimarts qualsevol.
 
 176
-00:07:41,360 --> 00:07:45,080
+00:07:43,130 --> 00:07:46,850
 I estem parlant d'un projecte on Clot, l'IA, està treballant sense parar,
 
 177
-00:07:45,420 --> 00:07:46,520
+00:07:47,190 --> 00:07:48,290
 afegint coses cada dia.
 
 178
-00:07:46,920 --> 00:07:48,060
+00:07:48,690 --> 00:07:49,830
 Evoluciona constantment.
 
 179
-00:07:48,340 --> 00:07:52,380
+00:07:50,110 --> 00:07:54,150
 Llavors, la pregunta és, quan encenem el rellotge i posem tot això en moviment,
 
 180
-00:07:53,020 --> 00:07:54,980
+00:07:54,790 --> 00:07:56,750
 on comencen a sortir les esquerdes de debò?
 
 181
-00:07:55,620 --> 00:07:58,340
+00:07:57,390 --> 00:08:00,110
 Doncs aquí és on entra en joc el segon assaig d'en Rodenas.
 
 182
-00:07:58,340 --> 00:08:04,080
+00:08:00,110 --> 00:08:05,850
 Ell canvia l'alent i passa d'estudiar la topologia quieta a analitzar la geografia del canvi.
 
 183
-00:08:04,320 --> 00:08:06,060
+00:08:06,090 --> 00:08:07,830
 Interessant. Què mira, exactament?
 
 184
-00:08:06,520 --> 00:08:10,860
+00:08:08,290 --> 00:08:12,630
 Introdueix més de 150 canvis històrics que es van fer durant el setembre d'aquell any.
 
 185
-00:08:11,140 --> 00:08:12,400
+00:08:12,910 --> 00:08:14,170
 Com l'historial mèdic del Codi.
 
 186
-00:08:12,800 --> 00:08:16,120
+00:08:14,570 --> 00:08:17,890
 Això mateix. I l'observació demostra una cosa molt curiosa.
 
 187
-00:08:16,500 --> 00:08:21,600
+00:08:18,270 --> 00:08:23,370
 La gran majoria de les peces del sistema, parlem de més de 300 arxius sobre el total de 500,
 
 188
-00:08:22,160 --> 00:08:24,040
+00:08:23,930 --> 00:08:25,810
 tenen un cicle de vida idèntic.
 
 189
-00:08:24,420 --> 00:08:26,100
+00:08:26,190 --> 00:08:27,870
 Neixen, creixen i reprodueixen.
 
 190
-00:08:26,540 --> 00:08:30,700
+00:08:28,310 --> 00:08:32,470
 Més aviat, neixen, s'ajusten de pressa durant els primers dies de vida,
 
 191
-00:08:30,700 --> 00:08:35,640
+00:08:32,470 --> 00:08:37,410
 amb molta febre d'actualitzacions, i de cop i volta es queden completament congelats.
 
 192
-00:08:35,860 --> 00:08:36,300
+00:08:37,630 --> 00:08:38,070
 Abandonats?
 
 193
-00:08:36,640 --> 00:08:39,780
+00:08:38,410 --> 00:08:41,550
 No abandonats, simplement que ja fan la funció perfecta
 
 194
-00:08:39,780 --> 00:08:42,940
+00:08:41,550 --> 00:08:44,710
 per la qual la IALS va crear i no requereixen cap més atenció.
 
 195
-00:08:43,400 --> 00:08:44,360
+00:08:45,170 --> 00:08:46,130
 Pau i quietud.
 
 196
-00:08:44,660 --> 00:08:47,420
+00:08:46,430 --> 00:08:49,190
 És ben curiós perquè a l'entorn de la feina normalment pensem
 
 197
-00:08:47,420 --> 00:08:50,580
+00:08:49,190 --> 00:08:52,350
 que si estem tocant i canviant una eina o un procés constantment
 
 198
-00:08:50,580 --> 00:08:52,460
+00:08:52,350 --> 00:08:54,230
 vol dir que innovem molt i treballem bé.
 
 199
-00:08:52,700 --> 00:08:54,020
+00:08:54,470 --> 00:08:55,790
 I sovint és just el contrari.
 
 200
-00:08:54,280 --> 00:08:57,060
+00:08:56,050 --> 00:08:58,830
 Exacte. Aquí les dades ens diuen que l'eficiència real
 
 201
-00:08:57,060 --> 00:08:58,440
+00:08:58,830 --> 00:09:00,210
 és deixar les coses tranquil·les.
 
 202
-00:08:58,980 --> 00:09:00,840
+00:09:00,750 --> 00:09:02,610
 Però em pregunto, en un projecte tan viu,
 
 203
-00:09:01,340 --> 00:09:03,200
+00:09:03,110 --> 00:09:04,970
 segur que hi ha peces que trenquen aquesta pau, oi?
 
 204
-00:09:03,420 --> 00:09:04,520
+00:09:05,190 --> 00:09:06,290
 Peces que no paren mai.
 
 205
-00:09:04,520 --> 00:09:11,200
+00:09:06,290 --> 00:09:12,970
 I tant. I aquí ve el risc. L'assaig utilitza un concepte molt famós de l'Adam Tornhill, que són els hotspots.
 
 206
-00:09:11,480 --> 00:09:11,980
+00:09:13,250 --> 00:09:13,750
 Punts de calor.
 
 207
-00:09:12,340 --> 00:09:17,340
+00:09:14,110 --> 00:09:19,110
 Sí, punts que literalment cremen de tanta activitat. Un hotspot no és només un arxiu gran,
 
 208
-00:09:17,680 --> 00:09:21,920
+00:09:19,450 --> 00:09:23,690
 és una peça que rep interaccions i canvis de manera implacable setmana rere setmana.
 
 209
-00:09:22,240 --> 00:09:22,880
+00:09:24,010 --> 00:09:24,650
 Sempre en obres.
 
 210
-00:09:23,320 --> 00:09:29,760
+00:09:25,090 --> 00:09:31,530
 Constantment. Hi ha una visualització tèrmica a l'estudi, que posa en vermell intents arxius com allfeatures.ts,
 
 211
-00:09:29,760 --> 00:09:34,100
+00:09:31,530 --> 00:09:35,870
 que va rebre més de 20 modificacions radicals, o arxius visuals importants.
 
 212
-00:09:34,100 --> 00:09:36,180
+00:09:35,870 --> 00:09:37,950
 Són l'autèntic ull de l'huracà.
 
 213
-00:09:36,500 --> 00:09:39,400
+00:09:38,270 --> 00:09:41,170
 Atura't aquí un moment, perquè vull fer d'advocat del diable.
 
 214
-00:09:39,480 --> 00:09:39,900
+00:09:41,250 --> 00:09:41,670
 Endavant.
 
 215
-00:09:40,200 --> 00:09:43,220
+00:09:41,970 --> 00:09:44,990
 Si aquest arxiu concret es diu Totes les funcionalitats,
 
 216
-00:09:43,680 --> 00:09:46,440
+00:09:45,450 --> 00:09:48,210
 doncs el més normal és que canviï contínuament, no?
 
 217
-00:09:46,580 --> 00:09:47,760
+00:09:48,350 --> 00:09:49,530
 Clar, per afegir les noves.
 
 218
-00:09:48,040 --> 00:09:51,320
+00:09:49,810 --> 00:09:53,090
 O sigui, cada cop que Clot afegeix una cosa nova al projecte,
 
 219
-00:09:51,440 --> 00:09:52,360
+00:09:53,210 --> 00:09:54,130
 ha de registrar-la allà.
 
 220
-00:09:53,060 --> 00:09:55,720
+00:09:54,830 --> 00:09:57,490
 L'activitat vol dir que el projecte respira, que batega.
 
 221
-00:09:56,240 --> 00:09:58,680
+00:09:58,010 --> 00:10:00,450
 Això no és cap malaltia, és salut pura.
 
 222
-00:09:59,120 --> 00:10:02,040
+00:10:00,890 --> 00:10:03,810
 El teu raonament és superintuitiu i totalment cert.
 
 223
-00:10:02,340 --> 00:10:02,880
+00:10:04,110 --> 00:10:04,650
 Fins a un pol.
 
 224
-00:10:02,880 --> 00:10:03,500
+00:10:04,650 --> 00:10:05,270
 A veure.
 
 225
-00:10:03,500 --> 00:10:08,260
+00:10:05,270 --> 00:10:10,030
 L'activitat per si sola no és dolenta, però el terror no ve de canviar coses,
 
 226
-00:10:08,460 --> 00:10:11,840
+00:10:10,230 --> 00:10:13,610
 sinó de les condicions de seguretat sota les quals es fan aquests canvis.
 
 227
-00:10:12,420 --> 00:10:16,620
+00:10:14,190 --> 00:10:18,390
 El fet que descobreix Rodenes, i que fa posar els pèls de punta a qualsevol desenvolupador,
 
 228
-00:10:17,020 --> 00:10:22,500
+00:10:18,790 --> 00:10:24,270
 és que aquest arxiu hiperactiu tenia una cobertura de proves automatitzades, atenció, del 0%.
 
 229
-00:10:23,280 --> 00:10:25,220
+00:10:25,050 --> 00:10:26,990
 Zero. Cap prova.
 
 230
-00:10:25,520 --> 00:10:29,960
+00:10:27,290 --> 00:10:31,730
 Zero mecanismes automatitzats per comprovar si el canvi havia destrossat alguna altra cosa.
 
 231
-00:10:30,380 --> 00:10:31,740
+00:10:32,150 --> 00:10:33,510
 Es modificava a pèl.
 
 232
-00:10:32,240 --> 00:10:33,980
+00:10:34,010 --> 00:10:35,750
 Bé, tornem-hi com a advocat del diable.
 
 233
-00:10:34,600 --> 00:10:36,780
+00:10:36,370 --> 00:10:38,550
 Estem parlant d'una intel·ligència artificial molt potent.
 
 234
-00:10:37,300 --> 00:10:39,080
+00:10:39,070 --> 00:10:40,850
 Clot no comet distraccions humanes,
 
 235
-00:10:39,500 --> 00:10:40,820
+00:10:41,270 --> 00:10:42,590
 no s'oblida d'un punt i coma,
 
 236
-00:10:41,180 --> 00:10:43,220
+00:10:42,950 --> 00:10:44,990
 ni fa faltes d'ortografies sintàctiques.
 
 237
-00:10:43,320 --> 00:10:44,000
+00:10:45,090 --> 00:10:45,770
 I això és cert.
 
 238
-00:10:44,280 --> 00:10:46,340
+00:10:46,050 --> 00:10:48,110
 Llavors, per què ens hem de posar nerviosos
 
 239
-00:10:46,340 --> 00:10:47,640
+00:10:48,110 --> 00:10:49,410
 si no hi ha proves de seguretat,
 
 240
-00:10:47,980 --> 00:10:50,120
+00:10:49,750 --> 00:10:51,890
 si Clot sempre escriu el codi de manera impecable?
 
 241
-00:10:50,560 --> 00:10:53,020
+00:10:52,330 --> 00:10:54,790
 I aquesta és justament la trampa més perillosa
 
 242
-00:10:53,020 --> 00:10:54,440
+00:10:54,790 --> 00:10:56,210
 de treballar amb IA avui dia.
 
 243
-00:10:54,780 --> 00:10:55,440
+00:10:56,550 --> 00:10:57,210
 Quin és l'error?
 
 244
-00:10:56,180 --> 00:10:58,800
+00:10:57,950 --> 00:11:00,570
 Ens pensem que la sintaxi és tot el problema.
 
 245
-00:10:59,360 --> 00:11:02,700
+00:11:01,130 --> 00:11:04,470
 Li ha escrit un bloc de codi aïllat de forma divina, perfecta.
 
 246
-00:11:03,060 --> 00:11:05,840
+00:11:04,830 --> 00:11:07,610
 Però oblidem una cosa que es diu límits de context.
 
 247
-00:11:06,360 --> 00:11:07,040
+00:11:08,130 --> 00:11:08,810
 Què vol dir, això?
 
 248
-00:11:07,560 --> 00:11:10,560
+00:11:09,330 --> 00:11:12,330
 Vol dir que Claude, mentre treballa, està molt concentrat
 
 249
-00:11:10,560 --> 00:11:13,800
+00:11:12,330 --> 00:11:15,570
 construint el mur que té davant del nas, posant els totxos perfectes.
 
 250
-00:11:14,160 --> 00:11:17,160
+00:11:15,930 --> 00:11:18,930
 Però no pot mantenir al cap la imatge mental simultània
 
 251
-00:11:17,160 --> 00:11:19,140
+00:11:18,930 --> 00:11:20,910
 dels altres 500 arxius del projecte.
 
 252
-00:11:19,420 --> 00:11:21,140
+00:11:21,190 --> 00:11:22,910
 O sigui, perd la perspectiva general.
 
 253
-00:11:21,980 --> 00:11:24,680
+00:11:23,750 --> 00:11:26,450
 Exacte. Llavors, modificar un d'aquests hotspots,
 
 254
-00:11:24,780 --> 00:11:27,240
+00:11:26,550 --> 00:11:29,010
 d'aquests punts vitals, sense proves automatitzades,
 
 255
-00:11:27,240 --> 00:11:31,140
+00:11:29,010 --> 00:11:32,910
 és com demanar-li a un cirurgià que operi a cor obert amb els ulls envenats.
 
 256
-00:11:31,500 --> 00:11:32,700
+00:11:33,270 --> 00:11:34,470
 Uf, la imatge fa basarda.
 
 257
-00:11:33,300 --> 00:11:33,820
+00:11:35,070 --> 00:11:35,590
 Imagineu.
 
 258
-00:11:34,340 --> 00:11:36,980
+00:11:36,110 --> 00:11:38,750
 Talla una artèria d'una forma sintàcticament impecable.
 
 259
-00:11:37,340 --> 00:11:38,480
+00:11:39,110 --> 00:11:40,250
 Un tall net i preciós,
 
 260
-00:11:38,840 --> 00:11:41,800
+00:11:40,610 --> 00:11:43,570
 però sense saber que cinc òrgans més depenien d'aquell tub en concret.
 
 261
-00:11:42,140 --> 00:11:43,560
+00:11:43,910 --> 00:11:45,330
 I l'hemorràgia és fatal.
 
 262
-00:11:44,040 --> 00:11:44,600
+00:11:45,810 --> 00:11:46,370
 Claríssim.
 
 263
-00:11:45,180 --> 00:11:48,160
+00:11:46,950 --> 00:11:49,930
 O sigui, quan algú, o l'IA, toca aquests cors oberts,
 
 264
-00:11:48,540 --> 00:11:50,340
+00:11:50,310 --> 00:11:52,110
 l'ona expansiva deu ser forta.
 
 265
-00:11:51,040 --> 00:11:54,520
+00:11:52,810 --> 00:11:56,290
 Tens dades de fins on arriba aquesta destrucció, històricament parlant?
 
 266
-00:11:54,800 --> 00:11:57,140
+00:11:56,570 --> 00:11:58,910
 Quina és la probabilitat de trencar coses?
 
 267
-00:11:57,700 --> 00:12:00,760
+00:11:59,470 --> 00:12:02,530
 Segons les matemàtiques de la xarxa, qualsevol error aleatori
 
 268
-00:12:00,760 --> 00:12:03,460
+00:12:02,530 --> 00:12:05,230
 hauria d'afectar només a un 2% de l'edifici.
 
 269
-00:12:04,200 --> 00:12:05,780
+00:12:05,970 --> 00:12:07,550
 Un 2% no sembla massa greu.
 
 270
-00:12:06,120 --> 00:12:06,960
+00:12:07,890 --> 00:12:08,730
 Això sobre el paper.
 
 271
-00:12:07,240 --> 00:12:10,960
+00:12:09,010 --> 00:12:12,730
 Però quan anem a la vida real, a les mètriques d'evolució d'aquell mes de setembre,
 
 272
-00:12:11,380 --> 00:12:13,500
+00:12:13,150 --> 00:12:15,270
 l'impacte real va ser esfereïdor.
 
 273
-00:12:14,000 --> 00:12:17,960
+00:12:15,770 --> 00:12:19,730
 Quan un arxiu canviava, el seu veí directe, el que estava unit per una fletxa visible,
 
 274
-00:12:18,380 --> 00:12:22,140
+00:12:20,150 --> 00:12:23,910
 es veia forçat a canviar també un 24% de les vegades.
 
 275
-00:12:22,500 --> 00:12:27,160
+00:12:24,270 --> 00:12:28,930
 Ostres, pràcticament un de cada quatre canvis destrossa l'estabilitat del veí del costat.
 
 276
-00:12:27,240 --> 00:12:30,760
+00:12:29,010 --> 00:12:32,530
 I això continua en cadena. El veí del veí també pateix.
 
 277
-00:12:31,340 --> 00:12:33,480
+00:12:33,110 --> 00:12:35,250
 Afortunadament, l'arquitectura l'atura bastant ràpid.
 
 278
-00:12:33,840 --> 00:12:36,300
+00:12:35,610 --> 00:12:38,070
 Si saltes una fletxa més enllà, cap al segon veí,
 
 279
-00:12:36,700 --> 00:12:39,140
+00:12:38,470 --> 00:12:40,910
 la necessitat de canviar cau a només un 5%.
 
 280
-00:12:39,140 --> 00:12:40,680
+00:12:40,910 --> 00:12:42,450
 D'acord, amortitza el cop.
 
 281
-00:12:40,960 --> 00:12:43,820
+00:12:42,730 --> 00:12:45,590
 Sí, absorbeix la patacada. Però aquí ve el gir de guió.
 
 282
-00:12:44,260 --> 00:12:48,600
+00:12:46,030 --> 00:12:50,370
 Tot això de les fletxes, de l'impacte del 24%, són carreteres visibles.
 
 283
-00:12:49,020 --> 00:12:49,920
+00:12:50,790 --> 00:12:51,690
 Veus venir el perill.
 
 284
-00:12:50,300 --> 00:12:53,020
+00:12:52,070 --> 00:12:54,790
 Això m'espanta. Que hi ha pitjor que allò que veus venir?
 
 285
-00:12:53,400 --> 00:12:54,400
+00:12:55,170 --> 00:12:56,170
 Allò que no es veu.
 
 286
-00:12:54,400 --> 00:12:57,060
+00:12:56,170 --> 00:12:58,830
 L'estudi entra en un concepte dels anys 90,
 
 287
-00:12:57,240 --> 00:12:58,840
+00:12:59,010 --> 00:13:00,610
 creat per l'acadèmic Harald Gall,
 
 288
-00:12:59,200 --> 00:13:02,680
+00:13:00,970 --> 00:13:04,450
 que s'anomena acoplament lògic, els fantasmes del sistema.
 
 289
-00:13:02,960 --> 00:13:03,540
+00:13:04,730 --> 00:13:05,310
 A veure, a veure.
 
 290
-00:13:03,900 --> 00:13:07,400
+00:13:05,670 --> 00:13:09,170
 Si abans miràvem el mapa i dos arxius no tenien cap fletxa entre ells,
 
 291
-00:13:07,620 --> 00:13:10,500
+00:13:09,390 --> 00:13:12,270
 vull dir, res que els unís, vol dir que estan aïllats, oi?
 
 292
-00:13:10,920 --> 00:13:13,360
+00:13:12,690 --> 00:13:15,130
 Si Claude s'equivoca a la banda oest de la ciutat,
 
 293
-00:13:13,420 --> 00:13:15,240
+00:13:15,190 --> 00:13:17,010
 la banda est no se s'aventa de res.
 
 294
-00:13:15,640 --> 00:13:16,380
+00:13:17,410 --> 00:13:18,150
 En teoria, sí.
 
 295
-00:13:16,780 --> 00:13:19,000
+00:13:18,550 --> 00:13:20,770
 Però quan mires l'historial de canvis al llarg del temps,
 
 296
-00:13:19,220 --> 00:13:20,260
+00:13:20,990 --> 00:13:22,030
 apareixen aquests fantasmes.
 
 297
-00:13:20,640 --> 00:13:23,020
+00:13:22,410 --> 00:13:24,790
 Troben arxius que estan a quilòmetres de distància al mapa,
 
 298
-00:13:23,020 --> 00:13:25,440
+00:13:24,790 --> 00:13:27,210
 que oficialment no depenen gens l'un de l'altre,
 
 299
-00:13:25,440 --> 00:13:28,620
+00:13:27,210 --> 00:13:30,390
 però que, pam, es modifiquen exactament al mateix segon.
 
 300
-00:13:28,940 --> 00:13:29,740
+00:13:30,710 --> 00:13:31,510
 Per casualitat.
 
 301
-00:13:30,120 --> 00:13:31,180
+00:13:31,890 --> 00:13:32,950
 Una vegada potser sí,
 
 302
-00:13:31,500 --> 00:13:34,600
+00:13:33,270 --> 00:13:36,370
 però quan ho fan cinc vegades seguides al llarg de tres setmanes,
 
 303
-00:13:35,240 --> 00:13:36,560
+00:13:37,010 --> 00:13:38,330
 hi ha un cas real al document.
 
 304
-00:13:37,200 --> 00:13:40,060
+00:13:38,970 --> 00:13:41,830
 L'arxiu que genera el document des del servidor central, lluny,
 
 305
-00:13:40,280 --> 00:13:43,920
+00:13:42,050 --> 00:13:45,690
 i l'arxiu que dibuixa una terminal a la pantalla del teu ordinador, a prop.
 
 306
-00:13:44,640 --> 00:13:45,160
+00:13:46,410 --> 00:13:46,930
 Cap fletxa.
 
 307
-00:13:45,640 --> 00:13:46,340
+00:13:47,410 --> 00:13:48,110
 Cap ni una.
 
 308
-00:13:46,680 --> 00:13:48,780
+00:13:48,450 --> 00:13:50,550
 I tot i així, ballen junts tota l'estona.
 
 309
-00:13:49,180 --> 00:13:51,740
+00:13:50,950 --> 00:13:53,510
 Ostres, aquí és on es posa realment interessant, això.
 
 310
-00:13:52,580 --> 00:13:54,620
+00:13:54,350 --> 00:13:56,390
 Tinc una imatge al cap que ho descriu a la perfecció.
 
 311
-00:13:55,120 --> 00:13:56,120
+00:13:56,890 --> 00:13:57,890
 A veure, quina és?
 
 312
-00:13:56,640 --> 00:13:58,940
+00:13:58,410 --> 00:14:00,710
 És com dos pares divorciats que s'odeixen a mort.
 
 313
-00:13:59,360 --> 00:14:00,760
+00:14:01,130 --> 00:14:02,530
 Uf, d'acord, tira endavant.
 
 314
-00:14:01,220 --> 00:14:04,180
+00:14:02,990 --> 00:14:05,950
 Imagina't-ho. S'han bloquejat a totes les xarxes socials.
 
 315
-00:14:04,320 --> 00:14:05,580
+00:14:06,090 --> 00:14:07,350
 No es truquen mai de la vida.
 
 316
-00:14:06,040 --> 00:14:07,080
+00:14:07,810 --> 00:14:08,850
 Viuen en barris oposats.
 
 317
-00:14:07,520 --> 00:14:10,100
+00:14:09,290 --> 00:14:11,870
 Cap fletxa oficial de comunicació entre ells.
 
 318
-00:14:10,480 --> 00:14:12,000
+00:14:12,250 --> 00:14:13,770
 Totalment aïllats l'un de l'altre.
 
 319
-00:14:12,420 --> 00:14:13,900
+00:14:14,190 --> 00:14:15,670
 Exacte. I malgrat això,
 
 320
-00:14:14,300 --> 00:14:16,660
+00:14:16,070 --> 00:14:18,430
 si tu t'asseus en un banc davant de l'escola a les 5 de la tarda,
 
 321
-00:14:17,100 --> 00:14:19,220
+00:14:18,870 --> 00:14:20,990
 veuràs com fan una coreografia perfecta.
 
 322
-00:14:19,780 --> 00:14:20,740
+00:14:21,550 --> 00:14:22,510
 Arriben a la mateixa hora.
 
 323
-00:14:20,740 --> 00:14:23,740
+00:14:22,510 --> 00:14:25,510
 Fan l'intercanvi de la custòdia sense ni creuar les mirades.
 
 324
-00:14:23,740 --> 00:14:24,700
+00:14:25,510 --> 00:14:26,470
 i marxen.
 
 325
-00:14:25,600 --> 00:14:28,180
+00:14:27,370 --> 00:14:29,950
 Què és allò invisible que els obliga a moure's a l'hora
 
 326
-00:14:28,180 --> 00:14:29,760
+00:14:29,950 --> 00:14:31,530
 si no tenen cap fletxa?
 
 327
-00:14:30,180 --> 00:14:31,100
+00:14:31,950 --> 00:14:32,870
 Els fills, clar.
 
 328
-00:14:31,460 --> 00:14:33,720
+00:14:33,230 --> 00:14:35,490
 El fill. Hi ha un vincle invisible al mig.
 
 329
-00:14:34,360 --> 00:14:35,820
+00:14:36,130 --> 00:14:37,590
 Llavors, en aquest projecte web,
 
 330
-00:14:36,160 --> 00:14:38,880
+00:14:37,930 --> 00:14:40,650
 si parlem d'un arxiu al servidor i un arxiu visual,
 
 331
-00:14:39,580 --> 00:14:42,140
+00:14:41,350 --> 00:14:43,910
 quin devia ser el fill que els mantenia lligats
 
 332
-00:14:42,140 --> 00:14:43,500
+00:14:43,910 --> 00:14:45,270
 d'aquesta manera tan fantasmal?
 
 333
-00:14:44,020 --> 00:14:47,120
+00:14:45,790 --> 00:14:48,890
 És una analogia boníssima i és literalment el que passa.
 
 334
-00:14:47,560 --> 00:14:51,640
+00:14:49,330 --> 00:14:53,410
 El fill d'aquests dos arxius era l'estructura de les etiquetes HTML.
 
 335
-00:14:52,140 --> 00:14:55,360
+00:14:53,910 --> 00:14:57,130
 Si el codi del servidor canviava d'amagat el nom d'un petit botó,
 
 336
-00:14:55,720 --> 00:14:59,040
+00:14:57,490 --> 00:15:00,810
 l'arxiu de la pantalla de l'usuari explotava silenciosament.
 
 337
-00:14:59,480 --> 00:15:01,260
+00:15:01,250 --> 00:15:03,030
 A no ser que algú se'n recordés màgicament
 
 338
-00:15:01,260 --> 00:15:03,200
+00:15:03,030 --> 00:15:04,970
 que havia de canviar-ho als dos llocs alhora.
 
 339
-00:15:03,540 --> 00:15:06,320
+00:15:05,310 --> 00:15:08,090
 Però confiar en la memòria de l'equip per mantenir un acord tan fràgil
 
 340
-00:15:06,320 --> 00:15:08,140
+00:15:08,090 --> 00:15:09,910
 és caminar de dret cap al precipici.
 
 341
-00:15:08,680 --> 00:15:10,860
+00:15:10,450 --> 00:15:12,630
 Vull dir, d'aquí a sis mesos ningú se'n recordarà
 
 342
-00:15:10,860 --> 00:15:12,200
+00:15:12,630 --> 00:15:13,970
 de qui és el pare ni qui és el fill.
 
 343
-00:15:12,680 --> 00:15:15,340
+00:15:14,450 --> 00:15:17,110
 I és per això que el Ròdenes pren una mesura dràstica,
 
 344
-00:15:15,340 --> 00:15:18,460
+00:15:17,110 --> 00:15:20,230
 ja no com a codificador, sinó com a regulador autoritari.
 
 345
-00:15:18,800 --> 00:15:20,400
+00:15:20,570 --> 00:15:22,170
 Implanta un sistema de bloqueig.
 
 346
-00:15:20,580 --> 00:15:20,840
+00:15:22,350 --> 00:15:22,610
 Què fa?
 
 347
-00:15:20,840 --> 00:15:24,660
+00:15:22,610 --> 00:15:26,430
 Diu, mireu, si la història detecta que dos elements sense connexió
 
 348
-00:15:24,660 --> 00:15:26,680
+00:15:26,430 --> 00:15:28,450
 han canviat junts més de tres vegades,
 
 349
-00:15:27,020 --> 00:15:29,260
+00:15:28,790 --> 00:15:31,030
 el sistema es bloqueja en sec, es tanca,
 
 350
-00:15:29,680 --> 00:15:32,000
+00:15:31,450 --> 00:15:33,770
 denega qualsevol intent d'actualitzar l'aplicació
 
 351
-00:15:32,000 --> 00:15:35,480
+00:15:33,770 --> 00:15:37,250
 fins que un programador vagi allà i creï una prova de validació
 
 352
-00:15:35,480 --> 00:15:38,180
+00:15:37,250 --> 00:15:39,950
 que faci aquest vincle oficial i visible per tothom.
 
 353
-00:15:38,260 --> 00:15:38,840
+00:15:40,030 --> 00:15:40,610
 Quina meravella.
 
 354
-00:15:39,360 --> 00:15:41,200
+00:15:41,130 --> 00:15:42,970
 Obliga els pares divorciats a anar al notari
 
 355
-00:15:41,200 --> 00:15:43,360
+00:15:42,970 --> 00:15:45,130
 per signar l'acord de custòdia perquè quedi registrat.
 
 356
-00:15:43,780 --> 00:15:45,460
+00:15:45,550 --> 00:15:47,230
 O ho fas oficial o no avances.
 
 357
-00:15:45,980 --> 00:15:46,500
+00:15:47,750 --> 00:15:48,270
 Exactament.
 
 358
-00:15:46,980 --> 00:15:48,920
+00:15:48,750 --> 00:15:50,690
 Però clar, quan juntes tots aquests problemes,
 
 359
-00:15:48,920 --> 00:15:51,760
+00:15:50,690 --> 00:15:53,530
 acords invisibles, punts calents sense seguretat,
 
 360
-00:15:51,880 --> 00:15:55,640
+00:15:53,650 --> 00:15:57,410
 hubs col·lapsats, et queda un trencaclosques a punt de rebentar.
 
 361
-00:15:55,980 --> 00:15:57,840
+00:15:57,750 --> 00:15:59,610
 Com mesures tot aquest risc acumulat?
 
 362
-00:15:58,200 --> 00:16:01,800
+00:15:59,970 --> 00:16:03,570
 Perquè deu ser molt estressant no saber si l'edifici aguantarà un dia més.
 
 363
-00:16:02,360 --> 00:16:06,880
+00:16:04,130 --> 00:16:08,650
 Ells utilitzen el càlcul d'estabilitat del veterà de la indústria Robert C. Martin.
 
 364
-00:16:07,380 --> 00:16:09,520
+00:16:09,150 --> 00:16:11,290
 Com funciona? És molt complexa?
 
 365
-00:16:10,200 --> 00:16:12,060
+00:16:11,970 --> 00:16:13,830
 És una proporció molt elegant i senzilla.
 
 366
-00:16:12,280 --> 00:16:14,640
+00:16:14,050 --> 00:16:16,410
 Prèn un component qualsevol del projecte i calcula
 
 367
-00:16:14,640 --> 00:16:18,300
+00:16:16,410 --> 00:16:20,070
 quanta gent externa necessita d'aprendre d'aquest component, d'una banda,
 
 368
-00:16:18,300 --> 00:16:22,980
+00:16:20,070 --> 00:16:24,750
 i de l'altra, quantes peces externes necessita aquest component per sobreviure.
 
 369
-00:16:23,480 --> 00:16:25,360
+00:16:25,250 --> 00:16:27,130
 Ho entenc. Com una balança.
 
 370
-00:16:25,880 --> 00:16:29,240
+00:16:27,650 --> 00:16:31,010
 Exacte. I depenent d'on cau l'arxiu en aquestes dues mides,
 
 371
-00:16:29,400 --> 00:16:31,640
+00:16:31,170 --> 00:16:33,410
 la vida és plàcida o és un infern diari?
 
 372
-00:16:32,380 --> 00:16:34,420
+00:16:34,150 --> 00:16:36,190
 Quin és el pitjor lloc per estar en aquest gràfic?
 
 373
-00:16:35,220 --> 00:16:39,260
+00:16:36,990 --> 00:16:41,030
 Una zona que Robert C. Martin va batejar oficialment amb un nom molt poètic.
 
 374
-00:16:39,660 --> 00:16:40,700
+00:16:41,430 --> 00:16:42,470
 La zona de dolor.
 
 375
-00:16:41,620 --> 00:16:45,280
+00:16:43,390 --> 00:16:47,050
 Zona de dolor. M'encanta l'enginyeria quan es posa dramàtica.
 
 376
-00:16:45,280 --> 00:16:47,200
+00:16:47,050 --> 00:16:48,970
 Doncs fas cap a aquesta zona
 
 377
-00:16:47,200 --> 00:16:50,660
+00:16:48,970 --> 00:16:52,430
 quan construeixes alguna cosa que és imprescindible per a tothom,
 
 378
-00:16:50,780 --> 00:16:52,020
+00:16:52,550 --> 00:16:53,790
 és a dir, tothom et demana coses,
 
 379
-00:16:52,460 --> 00:16:55,500
+00:16:54,230 --> 00:16:57,270
 però alhora aquest arxiu internament és tan complex
 
 380
-00:16:55,500 --> 00:16:57,540
+00:16:57,270 --> 00:16:59,310
 que has de fer-hi pedaços i canvis
 
 381
-00:16:57,540 --> 00:16:59,300
+00:16:59,310 --> 00:17:01,070
 cada vegada que algú et fa una petició.
 
 382
-00:16:59,800 --> 00:17:01,360
+00:17:01,570 --> 00:17:03,130
 No pots aturar-te per arreglar-ho bé,
 
 383
-00:17:01,680 --> 00:17:03,100
+00:17:03,450 --> 00:17:04,870
 ni pots evitar canviar-ho ràpid.
 
 384
-00:17:03,660 --> 00:17:05,460
+00:17:05,430 --> 00:17:07,230
 Mira, per aterrar bé la zona de dolor,
 
 385
-00:17:06,000 --> 00:17:08,020
+00:17:07,770 --> 00:17:09,790
 podem usar el clàssic exemple de la gran oficina
 
 386
-00:17:08,020 --> 00:17:09,360
+00:17:09,790 --> 00:17:11,130
 i la màquina fotocopiadora.
 
 387
-00:17:09,660 --> 00:17:10,040
+00:17:11,430 --> 00:17:11,810
 A veure.
 
 388
-00:17:10,380 --> 00:17:12,440
+00:17:12,150 --> 00:17:14,210
 A qualsevol planta hi ha sempre 40 persones
 
 389
-00:17:12,440 --> 00:17:15,060
+00:17:14,210 --> 00:17:16,830
 que depenen exclusivament d'aquella màquina monstruosa.
 
 390
-00:17:15,280 --> 00:17:19,740
+00:17:17,050 --> 00:17:21,510
 Llavors, la màquina té un nivell de peticions altíssim, tothom la necessita per viure.
 
 391
-00:17:20,280 --> 00:17:25,000
+00:17:22,050 --> 00:17:26,770
 Però clar, és tan fràgil per dins que si algú obre la tapa per posar paper de mida especial,
 
 392
-00:17:25,460 --> 00:17:28,620
+00:17:27,230 --> 00:17:30,390
 la màquina es bloqueja i algú ha de perdre 20 minuts rescatant-la.
 
 393
-00:17:29,280 --> 00:17:30,740
+00:17:31,050 --> 00:17:32,510
 És la zona de ruptura crònica?
 
 394
-00:17:31,440 --> 00:17:33,540
+00:17:33,210 --> 00:17:35,310
 És exactament el mateix fenomen tècnic.
 
 395
-00:17:33,940 --> 00:17:38,860
+00:17:35,710 --> 00:17:40,630
 Rodena s'assenyala zones així, com per exemple l'arxiu que carrega els connectors externs de l'aplicació,
 
 396
-00:17:39,280 --> 00:17:41,800
+00:17:41,050 --> 00:17:43,570
 que vivia en agonia constant dins d'aquesta zona.
 
 397
-00:17:42,040 --> 00:17:45,020
+00:17:43,810 --> 00:17:46,790
 Com rescates un element que està ofegat en dolor?
 
 398
-00:17:45,280 --> 00:17:48,400
+00:17:47,050 --> 00:17:50,170
 S'aplica una tècnica que es diu inversió de dependències.
 
 399
-00:17:49,040 --> 00:17:49,860
+00:17:50,810 --> 00:17:51,630
 Torna a la fotocopiadora.
 
 400
-00:17:50,380 --> 00:17:52,080
+00:17:52,150 --> 00:17:53,850
 En lloc de fer que tothom que vulgui imprimir
 
 401
-00:17:52,080 --> 00:17:54,420
+00:17:53,850 --> 00:17:56,190
 hagi de saber quin calaix exacte s'ha d'obrir
 
 402
-00:17:54,420 --> 00:17:55,740
+00:17:56,190 --> 00:17:57,510
 i quin polsador cal prema,
 
 403
-00:17:56,240 --> 00:17:57,640
+00:17:58,010 --> 00:17:59,410
 la màquina es flexibilitza.
 
 404
-00:17:58,120 --> 00:17:59,960
+00:17:59,890 --> 00:18:01,730
 Rep una ordre abstracta, genèrica,
 
 405
-00:18:00,100 --> 00:18:01,580
+00:18:01,870 --> 00:18:03,350
 que diu imprimeix en A4,
 
 406
-00:18:01,980 --> 00:18:02,780
+00:18:03,750 --> 00:18:04,550
 i ella s'espavila.
 
 407
-00:18:03,300 --> 00:18:04,980
+00:18:05,070 --> 00:18:06,750
 Clar, poses com una capa d'abstracció.
 
 408
-00:18:05,480 --> 00:18:06,960
+00:18:07,250 --> 00:18:08,730
 Clar, més marge de maniobra.
 
 409
-00:18:07,880 --> 00:18:09,080
+00:18:09,650 --> 00:18:10,850
 A l'aplicar abstraccions,
 
 410
-00:18:09,260 --> 00:18:11,720
+00:18:11,030 --> 00:18:13,490
 el projecte passa de tenir aquells errors en cadena
 
 411
-00:18:11,720 --> 00:18:13,440
+00:18:13,490 --> 00:18:15,210
 del 24% que deia abans
 
 412
-00:18:13,440 --> 00:18:15,160
+00:18:15,210 --> 00:18:16,930
 a només el 13%.
 
 413
-00:18:15,160 --> 00:18:17,080
+00:18:16,930 --> 00:18:18,850
 Literalment es desinfla el risc.
 
 414
-00:18:17,720 --> 00:18:20,440
+00:18:19,490 --> 00:18:22,210
 És una solució molt elegant sobre la pissarra de disseny.
 
 415
-00:18:20,980 --> 00:18:22,520
+00:18:22,750 --> 00:18:24,290
 Però clar, l'arquitectura teòrica
 
 416
-00:18:22,520 --> 00:18:25,820
+00:18:24,290 --> 00:18:27,590
 topa sempre amb l'ansiedat humana i els calendaris.
 
 417
-00:18:26,500 --> 00:18:28,620
+00:18:28,270 --> 00:18:30,390
 Ah, el divendres a les 5 de la tarda.
 
 418
-00:18:28,980 --> 00:18:31,320
+00:18:30,750 --> 00:18:33,090
 Exacte, el dia abans d'entregar a client.
 
 419
-00:18:31,720 --> 00:18:33,440
+00:18:33,490 --> 00:18:35,210
 Tothom té bones intencions el dilluns,
 
 420
-00:18:33,780 --> 00:18:34,660
+00:18:35,550 --> 00:18:36,430
 però el divendres a la tarda
 
 421
-00:18:34,660 --> 00:18:36,720
+00:18:36,430 --> 00:18:38,490
 s'introdueixen solucions precàries, ràpides,
 
 422
-00:18:37,060 --> 00:18:38,320
+00:18:38,830 --> 00:18:40,090
 sota la clàssica promesa de
 
 423
-00:18:38,320 --> 00:18:40,940
+00:18:40,090 --> 00:18:42,710
 és només un pedaç, la setmana que ve ho netejo.
 
 424
-00:18:40,940 --> 00:18:43,540
+00:18:42,710 --> 00:18:45,310
 I mai, mai es neteja.
 
 425
-00:18:43,680 --> 00:18:44,260
+00:18:45,450 --> 00:18:46,030
 Mai de la vida.
 
 426
-00:18:44,760 --> 00:18:48,520
+00:18:46,530 --> 00:18:50,290
 Llavors, què proposa aquest autor per frenar en sec l'ansietat o les preses,
 
 427
-00:18:48,840 --> 00:18:51,720
+00:18:50,610 --> 00:18:53,490
 tant d'humans com d'una IA que només vol tancar la tasca ràpid?
 
 428
-00:18:52,260 --> 00:18:56,160
+00:18:54,030 --> 00:18:57,930
 Proposa una eina meravellosa i autoritària que anomena el trinquet,
 
 429
-00:18:56,520 --> 00:18:57,760
+00:18:58,290 --> 00:18:59,530
 o the ratchet en anglès.
 
 430
-00:18:58,080 --> 00:18:58,760
+00:18:59,850 --> 00:19:00,530
 És la peça clau.
 
 431
-00:18:59,240 --> 00:19:00,920
+00:19:01,010 --> 00:19:02,690
 Un trinquet com l'eina mecànica?
 
 432
-00:19:01,560 --> 00:19:02,040
+00:19:03,330 --> 00:19:03,810
 Literalment.
 
 433
-00:19:02,540 --> 00:19:04,820
+00:19:04,310 --> 00:19:06,590
 Mecànicament, un trinquet és aquella roda dentada
 
 434
-00:19:04,820 --> 00:19:07,600
+00:19:06,590 --> 00:19:09,370
 amb una palanqueta metàl·lica que fa clic, clic, clic.
 
 435
-00:19:08,040 --> 00:19:09,180
+00:19:09,810 --> 00:19:10,950
 Només pot girar cap endavant.
 
 436
-00:19:09,180 --> 00:19:14,180
+00:19:10,950 --> 00:19:15,950
 Si intentes girar-la cap enrere, la palanca es clava de cop i és físicament impossible retrocedir.
 
 437
-00:19:14,760 --> 00:19:17,000
+00:19:16,530 --> 00:19:18,770
 I com s'aplica aquest concepte de fer-re el codi?
 
 438
-00:19:17,440 --> 00:19:20,920
+00:19:19,210 --> 00:19:22,690
 El Rodenas converteix això en un arxiu sentinella automatitzat.
 
 439
-00:19:21,400 --> 00:19:28,000
+00:19:23,170 --> 00:19:29,770
 Aquest arxiu llegeix i memoritza mil·limètricament la pitjor qualitat històrica que ha acceptat mai el projecte.
 
 440
-00:19:28,700 --> 00:19:30,680
+00:19:30,470 --> 00:19:32,450
 O sigui, pren nota del desastre actual.
 
 441
-00:19:31,160 --> 00:19:38,920
+00:19:32,930 --> 00:19:40,690
 Exacte. Podria apuntar que avui, ara mateix, tenim 156 arxius vitals que no tenen cap prova automatitzada que els protegeixi.
 
 442
-00:19:38,920 --> 00:19:41,440
+00:19:40,690 --> 00:19:43,210
 o que tenim 12 connexions fràgils per meses,
 
 443
-00:19:42,060 --> 00:19:45,360
+00:19:43,830 --> 00:19:47,130
 guarda aquell número a foc com la marca històrica de tolerància.
 
 444
-00:19:46,140 --> 00:19:49,140
+00:19:47,910 --> 00:19:50,910
 Aquí he de tornar a treure la bandera vermella dels dubtes corporatius.
 
 445
-00:19:49,420 --> 00:19:49,600
+00:19:51,190 --> 00:19:51,370
 Va.
 
 446
-00:19:49,740 --> 00:19:51,640
+00:19:51,510 --> 00:19:53,410
 Perquè, vist amb ulls d'innovació contínua,
 
 447
-00:19:52,040 --> 00:19:54,460
+00:19:53,810 --> 00:19:56,230
 això sembla l'eina ideal per enfonsar una start-up,
 
 448
-00:19:54,880 --> 00:19:55,880
+00:19:56,650 --> 00:19:57,650
 especialment les emergents.
 
 449
-00:19:56,320 --> 00:19:58,260
+00:19:58,090 --> 00:20:00,030
 Les empreses viuen de l'agilitat extrema.
 
 450
-00:19:58,900 --> 00:20:02,160
+00:20:00,670 --> 00:20:03,930
 Si un dimecres has de treure una funció nova per guanyar la competència,
 
 451
-00:20:02,680 --> 00:20:06,100
+00:20:04,450 --> 00:20:07,870
 potser acceptes sumar un o dos arxius més al caos de forma temporal.
 
 452
-00:20:06,760 --> 00:20:09,700
+00:20:08,530 --> 00:20:11,470
 No et paralitza tot l'equip tenir un sentinella tan exigent?
 
 453
-00:20:10,260 --> 00:20:11,560
+00:20:12,030 --> 00:20:13,330
 I aquest és l'argument de sempre.
 
 454
-00:20:11,940 --> 00:20:13,020
+00:20:13,710 --> 00:20:14,790
 I durant molt temps era vàlid.
 
 455
-00:20:13,420 --> 00:20:15,620
+00:20:15,190 --> 00:20:17,390
 Quan programava a mamà i estrigava mesos,
 
 456
-00:20:15,980 --> 00:20:18,880
+00:20:17,750 --> 00:20:20,650
 potser sí que provocava massa fricció i alentia els negocis.
 
 457
-00:20:19,360 --> 00:20:22,500
+00:20:21,130 --> 00:20:24,270
 Però l'escenari que oblidem és que aquí tot això ho escriu Clot,
 
 458
-00:20:22,620 --> 00:20:23,820
+00:20:24,390 --> 00:20:25,590
 en qüestió de milisegons.
 
 459
-00:20:24,360 --> 00:20:27,260
+00:20:26,130 --> 00:20:29,030
 L'IA pot arribar a generar quantitats massives d'arquitectura
 
 460
-00:20:27,260 --> 00:20:30,820
+00:20:29,030 --> 00:20:32,590
 a un ritme absolutament inabastable per la supervisió humana.
 
 461
-00:20:30,820 --> 00:20:32,440
+00:20:32,590 --> 00:20:34,210
 Es cub milers de línies de cop.
 
 462
-00:20:32,720 --> 00:20:33,840
+00:20:34,490 --> 00:20:35,610
 I quan l'ordinador fa això,
 
 463
-00:20:33,840 --> 00:20:36,840
+00:20:35,610 --> 00:20:38,610
 de vegades genera un autèntic camp de mines ocultes.
 
 464
-00:20:37,300 --> 00:20:39,340
+00:20:39,070 --> 00:20:41,110
 El risc actual ja no és avançar a poc a poc.
 
 465
-00:20:39,660 --> 00:20:43,200
+00:20:41,430 --> 00:20:44,970
 El risc real de l'economia moderna és morir ofegat a l'instant
 
 466
-00:20:43,200 --> 00:20:47,460
+00:20:44,970 --> 00:20:49,230
 sota una allau brutal d'errors amagats que una IA ha generat instantàniament.
 
 467
-00:20:48,020 --> 00:20:50,480
+00:20:49,790 --> 00:20:52,250
 Revisar-ho a mà és, avui, completament inviable.
 
 468
-00:20:50,900 --> 00:20:54,860
+00:20:52,670 --> 00:20:56,630
 Clar, o sigui, quan el model d'IA envia el nou paquet d'actualitzacions
 
 469
-00:20:54,860 --> 00:20:58,820
+00:20:56,630 --> 00:21:00,590
 i resulta que passa de 156 arxius en risc a 157,
 
 470
-00:20:59,260 --> 00:21:01,420
+00:21:01,030 --> 00:21:03,190
 encara que només sigui un més, què passa?
 
 471
-00:21:01,420 --> 00:21:03,020
+00:21:03,190 --> 00:21:04,790
 El trinquet es bloqueja.
 
 472
-00:21:03,340 --> 00:21:06,560
+00:21:05,110 --> 00:21:08,330
 Bloqueja tota la feina. Impossibilita físicament la publicació.
 
 473
-00:21:07,100 --> 00:21:11,420
+00:21:08,870 --> 00:21:13,190
 Ja no hi ha negociació ni opinions. L'estructura física no et permet degradar-la més.
 
 474
-00:21:11,940 --> 00:21:13,700
+00:21:13,710 --> 00:21:15,470
 Quin és l'únic camí per avançar, llavors?
 
 475
-00:21:14,160 --> 00:21:18,300
+00:21:15,930 --> 00:21:20,070
 Doncs o bé reescrius el paquet mantenint la xifra en 156, per quedar-te pla,
 
 476
-00:21:18,760 --> 00:21:24,040
+00:21:20,530 --> 00:21:25,810
 o bé, i aquí està la gràcia del sistema, incorpores unes bones proves de seguretat en aquell mateix paquet.
 
 477
-00:21:24,040 --> 00:21:30,680
+00:21:25,810 --> 00:21:32,450
 I si millores la nota? Si en comptes d'empitjorar, ara tens només 155 arxius en risc, perquè ho has netejat.
 
 478
-00:21:31,400 --> 00:21:33,620
+00:21:33,170 --> 00:21:35,390
 Doncs que el trinquet gira mecànicament endavant,
 
 479
-00:21:33,980 --> 00:21:35,660
+00:21:35,750 --> 00:21:37,430
 fa aquell clic sonor mentalment
 
 480
-00:21:35,660 --> 00:21:37,660
+00:21:37,430 --> 00:21:39,430
 i des d'aquell precís mil·lisegó
 
 481
-00:21:37,660 --> 00:21:39,680
+00:21:39,430 --> 00:21:41,450
 la nova marca històrica obligatòria
 
 482
-00:21:39,680 --> 00:21:41,440
+00:21:41,450 --> 00:21:43,210
 passa a ser 155
 
 483
-00:21:41,440 --> 00:21:43,920
+00:21:43,210 --> 00:21:45,690
 per a tota l'existència futura del projecte.
 
 484
-00:21:44,300 --> 00:21:47,040
+00:21:46,070 --> 00:21:48,810
 S'ha acabat, no podràs tornar mai al 156.
 
 485
-00:21:47,660 --> 00:21:48,200
+00:21:49,430 --> 00:21:49,970
 És brutal.
 
 486
-00:21:48,800 --> 00:21:50,660
+00:21:50,570 --> 00:21:52,430
 És d'una astúcia psicològica brillant
 
 487
-00:21:50,660 --> 00:21:52,420
+00:21:52,430 --> 00:21:54,190
 perquè treu l'element estressant
 
 488
-00:21:52,420 --> 00:21:54,000
+00:21:54,190 --> 00:21:55,770
 de les negociacions entre departaments
 
 489
-00:21:54,000 --> 00:21:54,820
+00:21:55,770 --> 00:21:56,590
 de sobre de la taula.
 
 490
-00:21:55,620 --> 00:21:57,280
+00:21:57,390 --> 00:21:59,050
 Desterra el pes de la moral humana
 
 491
-00:21:57,280 --> 00:21:58,420
+00:21:59,050 --> 00:22:00,190
 i les promeses falses.
 
 492
-00:21:59,120 --> 00:22:00,640
+00:22:00,890 --> 00:22:02,410
 Aquell mític ho arreglo demà,
 
 493
-00:22:00,680 --> 00:22:02,240
+00:22:02,450 --> 00:22:04,010
 que tots sabem que no passarà.
 
 494
-00:22:02,740 --> 00:22:04,880
+00:22:04,510 --> 00:22:06,650
 Això és un salt en la seguretat de l'enginyeria,
 
 495
-00:22:05,060 --> 00:22:06,320
+00:22:06,830 --> 00:22:08,090
 sense cap mena de dubte.
 
 496
-00:22:06,980 --> 00:22:09,580
+00:22:08,750 --> 00:22:11,350
 Assumir que les normes no s'escriuen en manuals,
 
 497
-00:22:09,640 --> 00:22:11,580
+00:22:11,410 --> 00:22:13,350
 sinó que es posen com a barreres físiques.
 
 498
-00:22:12,300 --> 00:22:14,400
+00:22:14,070 --> 00:22:16,170
 Barreres que fan físicament impossible
 
 499
-00:22:14,400 --> 00:22:16,560
+00:22:16,170 --> 00:22:18,330
 triar el pitjor camí quan treballes en automàtic.
 
 500
-00:22:17,600 --> 00:22:20,100
+00:22:19,370 --> 00:22:21,870
 Doncs mira, ha estat una travessia molt profunda.
 
 501
-00:22:20,800 --> 00:22:23,520
+00:22:22,570 --> 00:22:25,290
 Per resumir tot aquest viatge en algunes conclusions clares.
 
 502
-00:22:24,060 --> 00:22:25,580
+00:22:25,830 --> 00:22:27,350
 Primer, s'ha de tenir mapa.
 
 503
-00:22:26,220 --> 00:22:29,220
+00:22:27,990 --> 00:22:30,990
 Ubicar ràpidament on són els grans aeroports o hubs centrals,
 
 504
-00:22:29,220 --> 00:22:31,440
+00:22:30,990 --> 00:22:33,210
 perquè, si un cau, l'empresa s'atura.
 
 505
-00:22:32,620 --> 00:22:34,620
+00:22:34,390 --> 00:22:36,390
 Clar, conèixer el mapa sempre, sí o sí.
 
 506
-00:22:35,020 --> 00:22:37,840
+00:22:36,790 --> 00:22:39,610
 Segon, hem après a tenir pànic del que no es veu.
 
 507
-00:22:38,520 --> 00:22:41,540
+00:22:40,290 --> 00:22:43,310
 Trobar ràpidament quins acords invisibles tenen lloc als racons,
 
 508
-00:22:41,760 --> 00:22:42,840
+00:22:43,530 --> 00:22:44,610
 com els pares divorciats.
 
 509
-00:22:43,340 --> 00:22:45,860
+00:22:45,110 --> 00:22:47,630
 Aquests fan caure l'estructura si no es vigilen.
 
 510
-00:22:46,400 --> 00:22:50,280
+00:22:48,170 --> 00:22:52,050
 I, per acabar, la realitat pura de no fiar-nos de la memòria d'una IA
 
 511
-00:22:50,280 --> 00:22:52,080
+00:22:52,050 --> 00:22:53,850
 o de la promesa d'una humà empresa,
 
 512
-00:22:52,780 --> 00:22:54,800
+00:22:54,550 --> 00:22:56,570
 instal·lant sistemes de contenció inflexibles,
 
 513
-00:22:55,180 --> 00:22:58,120
+00:22:56,950 --> 00:22:59,890
 com aquest trinquet, per obligar-nos només a anar a millor.
 
 514
-00:22:58,120 --> 00:23:03,580
+00:22:59,890 --> 00:23:05,350
 Amb tot això al cap, jo llançaria una recomanació ràpida per a qui ens estigui escoltant.
 
 515
-00:23:03,620 --> 00:23:05,620
+00:23:05,390 --> 00:23:07,390
 Endavant, segur que pot prendre nota tothom.
 
 516
-00:23:06,020 --> 00:23:06,860
+00:23:07,790 --> 00:23:08,630
 Una molt pràctica.
 
 517
-00:23:07,540 --> 00:23:13,000
+00:23:09,310 --> 00:23:14,770
 Atureu-vos una estona aquesta setmana i intenteu identificar quins són els acoplaments lògics
 
 518
-00:23:13,000 --> 00:23:17,460
+00:23:14,770 --> 00:23:19,230
 o els pactes entre divorciats dins del vostre departament o empresa.
 
 519
-00:23:18,040 --> 00:23:22,140
+00:23:19,810 --> 00:23:23,910
 Aquells petits grups que canvien coses simultàniament sense dir-s'ho oficialment.
 
 520
-00:23:22,820 --> 00:23:27,760
+00:23:24,590 --> 00:23:29,530
 Descobriu-ho abans que falli i plantegeu quin trenquet es pot construir al mig.
 
 521
-00:23:28,120 --> 00:23:31,160
+00:23:29,890 --> 00:23:32,930
 us estalviarà molts, però molts mals de cap futurs.
 
 522
-00:23:31,820 --> 00:23:34,280
+00:23:33,590 --> 00:23:36,050
 És un exercici molt sa, molt pràctic, la veritat.
 
 523
-00:23:34,780 --> 00:23:37,600
+00:23:36,550 --> 00:23:39,370
 Però jo no voldria acomiadar aquesta estona que hem passat junts
 
 524
-00:23:37,600 --> 00:23:40,040
+00:23:39,370 --> 00:23:41,810
 sense posar sobre la taula l'elefant a l'habitació.
 
 525
-00:23:40,620 --> 00:23:42,460
+00:23:42,390 --> 00:23:44,230
 Una reflexió final molt provocadora,
 
 526
-00:23:42,680 --> 00:23:45,300
+00:23:44,450 --> 00:23:47,070
 que plana tota l'estona mentre llegim les anàlisis de Rodenes
 
 527
-00:23:45,300 --> 00:23:48,600
+00:23:47,070 --> 00:23:50,370
 i, de vegades, ens passa desapercebuda pel to tècnic.
 
 528
-00:23:49,160 --> 00:23:50,100
+00:23:50,930 --> 00:23:51,870
 A veure, quin elefant?
 
 529
-00:23:50,880 --> 00:23:52,600
+00:23:52,650 --> 00:23:54,370
 Tota aquesta saviesa arquitectònica,
 
 530
-00:23:52,780 --> 00:23:54,900
+00:23:54,550 --> 00:23:56,670
 totes les estructures majestuoses de Montpetit,
 
 531
-00:23:54,900 --> 00:23:57,560
+00:23:56,670 --> 00:23:59,330
 l'hem estat aplicant a un codi on nosaltres,
 
 532
-00:23:57,560 --> 00:24:01,800
+00:23:59,330 --> 00:24:03,570
 i atenció aquí, no hem escrit ni una coma del cos de l'edifici.
 
 533
-00:24:02,140 --> 00:24:02,340
+00:24:03,910 --> 00:24:04,110
 Mai.
 
 534
-00:24:03,000 --> 00:24:05,180
+00:24:04,770 --> 00:24:06,950
 O sigui, la feina bruta de barrejar el ciment
 
 535
-00:24:05,180 --> 00:24:08,500
+00:24:06,950 --> 00:24:10,270
 ja l'ha perdut per sempre més el treballador manual o intel·lectual clàssic.
 
 536
-00:24:09,000 --> 00:24:11,980
+00:24:10,770 --> 00:24:13,750
 Tot ha estat escopit pels xips intel·ligents a mil revolucions.
 
 537
-00:24:12,600 --> 00:24:14,900
+00:24:14,370 --> 00:24:16,670
 I només s'hi passem per fer de supervisors, sí?
 
 538
-00:24:15,540 --> 00:24:17,400
+00:24:17,310 --> 00:24:19,170
 Això vol dir que la nostra única feina,
 
 539
-00:24:17,760 --> 00:24:20,480
+00:24:19,530 --> 00:24:22,250
 el que ens queda del pastís de l'enginyeria o dels projectes del futur,
 
 540
-00:24:20,960 --> 00:24:22,980
+00:24:22,730 --> 00:24:24,750
 s'assembla més a ser urbanistes de ciutats
 
 541
-00:24:22,980 --> 00:24:25,160
+00:24:24,750 --> 00:24:26,930
 on els robots aixequen els edificis gratis.
 
 542
-00:24:25,840 --> 00:24:27,400
+00:24:27,610 --> 00:24:29,170
 Ens limitem a posar límits legals
 
 543
-00:24:27,400 --> 00:24:29,260
+00:24:29,170 --> 00:24:31,030
 i traçar carrers d'una sola direcció.
 
 544
-00:24:29,660 --> 00:24:32,900
+00:24:31,430 --> 00:24:34,670
 Com el trinquet, perquè la IEA no construeixi blocs insostenibles
 
 545
-00:24:32,900 --> 00:24:33,820
+00:24:34,670 --> 00:24:35,590
 i es clafin tothom.
 
 546
-00:24:34,400 --> 00:24:35,820
+00:24:36,170 --> 00:24:37,590
 Clar, només planifiquem rutes.
 
 547
-00:24:36,740 --> 00:24:38,680
+00:24:38,510 --> 00:24:40,450
 Llavors, la gran pregunta que queda ressonant
 
 548
-00:24:38,680 --> 00:24:40,700
+00:24:40,450 --> 00:24:42,470
 per a escoles, per a professionals, per a tothom.
 
 549
-00:24:41,260 --> 00:24:44,300
+00:24:43,030 --> 00:24:46,070
 Si som exclusivament planificadors, urbanistes digitals,
 
 550
-00:24:44,800 --> 00:24:46,700
+00:24:46,570 --> 00:24:48,470
 per què continuem perdent hores esgotadores
 
 551
-00:24:46,700 --> 00:24:50,120
+00:24:48,470 --> 00:24:51,890
 intentant ensenyar a la gent l'habilitat de rebussar la façana a mà?
 
 552
-00:24:50,760 --> 00:24:53,560
+00:24:52,530 --> 00:24:55,330
 I quines habilitats noves d'abstracció i de disseny de regles
 
 553
-00:24:53,560 --> 00:24:55,840
+00:24:55,330 --> 00:24:57,610
 necessitem absorbir a correcuita avui mateix
 
 554
-00:24:55,840 --> 00:24:58,280
+00:24:57,610 --> 00:25:00,050
 si volem continuar tenint una cadira a la taula
 
 555
-00:24:58,280 --> 00:25:00,700
+00:25:00,050 --> 00:25:02,470
 on les ies acaparen tota l'execució bruta.
 
 556
-00:25:01,500 --> 00:25:02,760
+00:25:03,270 --> 00:25:04,530
 Un canvi d'era, sens dubte.
 
 557
-00:25:03,220 --> 00:25:05,920
+00:25:04,990 --> 00:25:07,690
 Déu-n'hi-do, això obre un debat enorme per al futur.
 
 558
-00:25:06,340 --> 00:25:07,260
+00:25:08,110 --> 00:25:09,030
 En parlarem ben aviat.
 
 559
-00:25:07,580 --> 00:25:09,860
+00:25:09,350 --> 00:25:11,630
 Gràcies per acompanyar-nos en aquesta exploració a fons.
 
 560
-00:25:10,460 --> 00:25:11,460
+00:25:12,230 --> 00:25:13,230
 Nosaltres ens acomiadem.
 
 561
-00:25:11,700 --> 00:25:13,080
+00:25:13,470 --> 00:25:14,850
 Fins a la propera. Que vagi molt bé.
 
