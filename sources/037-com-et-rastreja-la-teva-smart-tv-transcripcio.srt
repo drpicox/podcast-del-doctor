@@ -1,1312 +1,1312 @@
 1
-00:00:03,930 --> 00:00:06,290
+00:00:02,030 --> 00:00:04,390
 Benvinguts a una nova immersió a fons.
 
 2
-00:00:06,810 --> 00:00:09,450
+00:00:04,910 --> 00:00:07,550
 I avui tenim sobre la taula una anàlisi d'aquelles que
 
 3
-00:00:09,450 --> 00:00:13,070
+00:00:07,550 --> 00:00:11,170
 et fan mirar el menjador de casa d'una manera totalment diferent.
 
 4
-00:00:14,130 --> 00:00:16,630
+00:00:12,230 --> 00:00:14,730
 Hola. Sí, la veritat és que el tema d'avui
 
 5
-00:00:16,630 --> 00:00:19,730
+00:00:14,730 --> 00:00:17,830
 canvia bastant la perspectiva de la tecnologia domèstica.
 
 6
-00:00:20,230 --> 00:00:22,530
+00:00:18,330 --> 00:00:20,630
 Totalment. A veure, l'objectiu d'aquesta sessió
 
 7
-00:00:22,530 --> 00:00:25,410
+00:00:20,630 --> 00:00:23,510
 és desgranar unes dades molt reveladores
 
 8
-00:00:25,410 --> 00:00:27,970
+00:00:23,510 --> 00:00:26,070
 d'un vídeo del canal de YouTube Slidebean.
 
 9
-00:00:28,650 --> 00:00:31,290
+00:00:26,750 --> 00:00:29,390
 El vídeo es titula La part més rendible del teu televisor.
 
 10
-00:00:31,290 --> 00:00:34,070
+00:00:29,390 --> 00:00:32,170
 i la missió que tenim avui és entendre exactament
 
 11
-00:00:34,070 --> 00:00:36,330
+00:00:32,170 --> 00:00:34,430
 com les Smart TVs ens rastregen.
 
 12
-00:00:36,790 --> 00:00:37,310
+00:00:34,890 --> 00:00:35,410
 Exacte.
 
 13
-00:00:37,770 --> 00:00:41,070
+00:00:35,870 --> 00:00:39,170
 Com ho fan, quina tecnologia oculta hi ha al darrere
 
 14
-00:00:41,070 --> 00:00:44,690
+00:00:39,170 --> 00:00:42,790
 i, sobretot, el motiu pel qual la privacitat a la sala d'estar
 
 15
-00:00:44,690 --> 00:00:46,490
+00:00:42,790 --> 00:00:44,590
 té un preu tan desorbitat.
 
 16
-00:00:46,950 --> 00:00:49,510
+00:00:45,050 --> 00:00:47,610
 Clar, perquè hi ha una paradoxa molt curiosa avui en dia.
 
 17
-00:00:50,050 --> 00:00:52,490
+00:00:48,150 --> 00:00:50,590
 Vull dir, la gent desconfia moltíssim dels telèfons, oi?
 
 18
-00:00:52,770 --> 00:00:54,470
+00:00:50,870 --> 00:00:52,570
 Sí, i dels altaveus intel·ligents.
 
 19
-00:00:54,610 --> 00:00:55,050
+00:00:52,710 --> 00:00:53,150
 Això mateix.
 
 20
-00:00:55,410 --> 00:00:57,530
+00:00:53,510 --> 00:00:55,630
 Tothom posa un adhesiu a la càmera del portàtil.
 
 21
-00:00:58,050 --> 00:00:59,270
+00:00:56,150 --> 00:00:57,370
 Però després anem a la botiga,
 
 22
-00:00:59,770 --> 00:01:01,110
+00:00:57,870 --> 00:00:59,210
 comprem un televisor enorme,
 
 23
-00:01:01,590 --> 00:01:03,710
+00:00:59,690 --> 00:01:01,810
 el connectem al cor de la xarxa wifi de casa
 
 24
-00:01:03,710 --> 00:01:07,150
+00:01:01,810 --> 00:01:05,250
 i pràcticament ningú es llegeix els termes i condicions.
 
 25
-00:01:07,590 --> 00:01:09,250
+00:01:05,690 --> 00:01:07,350
 És que el que és fascinant aquí
 
 26
-00:01:09,250 --> 00:01:11,810
+00:01:07,350 --> 00:01:09,910
 és que tenim una noció antiquada del televisor.
 
 27
-00:01:12,510 --> 00:01:14,790
+00:01:10,610 --> 00:01:12,890
 Històricament era un electrodomèstic passiu,
 
 28
-00:01:15,050 --> 00:01:17,550
+00:01:13,150 --> 00:01:15,650
 un aparell que rebia el senyal de l'antena i ja està.
 
 29
-00:01:18,130 --> 00:01:18,330
+00:01:16,230 --> 00:01:16,430
 Clar.
 
 30
-00:01:18,630 --> 00:01:21,050
+00:01:16,730 --> 00:01:19,150
 Però el problema real no és que la televisió
 
 31
-00:01:21,050 --> 00:01:22,390
+00:01:19,150 --> 00:01:20,490
 tingui aplicacions intel·ligents,
 
 32
-00:01:22,810 --> 00:01:25,210
+00:01:20,910 --> 00:01:23,310
 és que la televisió vigila i analitza
 
 33
-00:01:25,210 --> 00:01:27,550
+00:01:23,310 --> 00:01:25,650
 absolutament tot el que passa per la pantalla.
 
 34
-00:01:27,990 --> 00:01:30,550
+00:01:26,090 --> 00:01:28,650
 Fins i tot si prové d'un cable HDMI extern,
 
 35
-00:01:30,950 --> 00:01:33,190
+00:01:29,050 --> 00:01:31,290
 o sigui, una Apple TV o una PlayStation.
 
 36
-00:01:33,910 --> 00:01:37,090
+00:01:32,010 --> 00:01:35,190
 Exactament. Analitza el que prové de qualsevol font.
 
 37
-00:01:37,610 --> 00:01:38,710
+00:01:35,710 --> 00:01:36,810
 I el més sorprenent de tot,
 
 38
-00:01:38,830 --> 00:01:41,270
+00:01:36,930 --> 00:01:39,370
 i crec que aquí és on la investigació de Slidebean brilla,
 
 39
-00:01:41,710 --> 00:01:44,850
+00:01:39,810 --> 00:01:42,950
 és que ho fa enviant una quantitat de dades minúscula.
 
 40
-00:01:45,370 --> 00:01:48,510
+00:01:43,470 --> 00:01:46,610
 D'acord, desgranem això, perquè aquí hi ha un xoc tècnic.
 
 41
-00:01:48,950 --> 00:01:52,670
+00:01:47,050 --> 00:01:50,770
 Segons el vídeo, envien només un sol quilobyte de dades per minut.
 
 42
-00:01:53,110 --> 00:01:54,610
+00:01:51,210 --> 00:01:52,710
 Un quilobyte per minut, sí.
 
 43
-00:01:55,090 --> 00:01:58,930
+00:01:53,190 --> 00:01:57,030
 Però, a veure, si intentem comprimir una pel·lícula en 4K
 
 44
-00:01:58,930 --> 00:02:01,590
+00:01:57,030 --> 00:01:59,690
 en un paquet de la mida d'un simple document de text,
 
 45
-00:02:01,990 --> 00:02:02,610
+00:02:00,090 --> 00:02:00,710
 sembla impossible.
 
 46
-00:02:02,990 --> 00:02:03,730
+00:02:01,090 --> 00:02:01,830
 Sí, no quadra.
 
 47
-00:02:04,090 --> 00:02:05,990
+00:02:02,190 --> 00:02:04,090
 Clar, no hi caben ni imatges borroses.
 
 48
-00:02:06,510 --> 00:02:09,770
+00:02:04,610 --> 00:02:07,870
 Llavors, com ho fan per saber què s'està reproduint a la pantalla?
 
 49
-00:02:10,110 --> 00:02:13,550
+00:02:08,210 --> 00:02:11,650
 Bueno, la solució tecnològica rep el nom de ACR.
 
 50
-00:02:14,010 --> 00:02:17,230
+00:02:12,110 --> 00:02:15,330
 Són les sigles en anglès de reconeixement automàtic de contingut.
 
 51
-00:02:17,710 --> 00:02:20,570
+00:02:15,810 --> 00:02:18,670
 Per entendre-ho fàcilment, funciona com l'aplicació Shazam.
 
 52
-00:02:20,930 --> 00:02:21,890
+00:02:19,030 --> 00:02:19,990
 Ah, la de la música.
 
 53
-00:02:22,190 --> 00:02:25,790
+00:02:20,290 --> 00:02:23,890
 Exacte. Shazam no envia la cançó sencera per identificar-la.
 
 54
-00:02:26,170 --> 00:02:27,970
+00:02:24,270 --> 00:02:26,070
 Crea una assignatura matemàtica, oi?
 
 55
-00:02:28,130 --> 00:02:30,970
+00:02:26,230 --> 00:02:29,070
 Doncs l'ACR fa el mateix, però amb el vídeo.
 
 56
-00:02:31,470 --> 00:02:35,850
+00:02:29,570 --> 00:02:33,950
 Agafa una imatge en 4K, que són uns 8,3 milions de píxels...
 
 57
-00:02:35,850 --> 00:02:36,170
+00:02:33,950 --> 00:02:34,270
 Déu-n'hi-do.
 
 58
-00:02:36,730 --> 00:02:39,870
+00:02:34,830 --> 00:02:37,970
 ...i ho redueix de manera dràstica a una quadrícula minúscula
 
 59
-00:02:39,870 --> 00:02:42,110
+00:02:37,970 --> 00:02:40,210
 de només 32x32 píxels.
 
 60
-00:02:42,450 --> 00:02:44,270
+00:02:40,550 --> 00:02:42,370
 Espera, 32x32?
 
 61
-00:02:45,050 --> 00:02:47,510
+00:02:43,150 --> 00:02:45,610
 Però si aquesta resolució no s'hi distengeix absolutament res.
 
 62
-00:02:48,050 --> 00:02:49,130
+00:02:46,150 --> 00:02:47,230
 Només deuen ser taques de colors.
 
 63
-00:02:49,370 --> 00:02:51,490
+00:02:47,470 --> 00:02:49,590
 És que no volen veure la cara de l'actor.
 
 64
-00:02:51,890 --> 00:02:57,510
+00:02:49,990 --> 00:02:55,610
 Un cop tenen aquesta quadrícula borrosa, el sistema fa 64 proves matemàtiques molt simples.
 
 65
-00:02:57,950 --> 00:02:58,790
+00:02:56,050 --> 00:02:56,890
 Proves de quin tipus?
 
 66
-00:02:59,070 --> 00:03:03,830
+00:02:57,170 --> 00:03:01,930
 Per exemple, comprova si la part superior esquerra de la imatge és més brillant que la inferior dreta,
 
 67
-00:03:04,270 --> 00:03:06,390
+00:03:02,370 --> 00:03:04,490
 o com es distribueix la textura central.
 
 68
-00:03:06,810 --> 00:03:08,350
+00:03:04,910 --> 00:03:06,450
 O sigui, preguntes de sí o no.
 
 69
-00:03:08,690 --> 00:03:10,010
+00:03:06,790 --> 00:03:08,110
 Sí, totalment binari.
 
 70
-00:03:10,570 --> 00:03:13,510
+00:03:08,670 --> 00:03:11,610
 I el resultat de cada prova es tradueix en un 0 o un 1,
 
 71
-00:03:13,930 --> 00:03:15,910
+00:03:12,030 --> 00:03:14,010
 depenent de si supera el valor mitjà de la imatge.
 
 72
-00:03:16,330 --> 00:03:20,190
+00:03:14,430 --> 00:03:18,290
 Uf, clar. Així redueixen tota la imatge a una simple cadena numèrica.
 
 73
-00:03:20,730 --> 00:03:21,210
+00:03:18,830 --> 00:03:19,310
 Exacte.
 
 74
-00:03:21,210 --> 00:03:24,350
+00:03:19,310 --> 00:03:22,450
 El resultat final són només 64 bits.
 
 75
-00:03:24,750 --> 00:03:27,690
+00:03:22,850 --> 00:03:25,790
 Això equivale a 8 bytes de dades. És pràcticament res.
 
 76
-00:03:28,110 --> 00:03:31,450
+00:03:26,210 --> 00:03:29,550
 I aquesta cadena tan petita, aquesta empremta dactilar,
 
 77
-00:03:31,870 --> 00:03:35,690
+00:03:29,970 --> 00:03:33,790
 és la que s'envia per internet i es compara amb bases de dades gegantines,
 
 78
-00:03:35,850 --> 00:03:37,050
+00:03:33,950 --> 00:03:35,150
 com les de l'empresa Gracenote.
 
 79
-00:03:37,570 --> 00:03:40,110
+00:03:35,670 --> 00:03:38,210
 Que ja tenen indexades totes les pel·lícules, prèviament.
 
 80
-00:03:40,490 --> 00:03:44,090
+00:03:38,590 --> 00:03:42,190
 Això mateix. Així troben la coincidència gairebé a l'instant.
 
 81
-00:03:44,690 --> 00:03:45,950
+00:03:42,790 --> 00:03:44,050
 Té l'amla enginyeria d'això.
 
 82
-00:03:46,530 --> 00:03:51,190
+00:03:44,630 --> 00:03:49,290
 Però tinc un dubte sobre els cables HDMI que comentàvem abans.
 
 83
-00:03:51,650 --> 00:03:54,290
+00:03:49,750 --> 00:03:52,390
 Perquè el senyal d'un reproductor Blu-ray va xifrat, no?
 
 84
-00:03:54,850 --> 00:03:56,190
+00:03:52,950 --> 00:03:54,290
 Per temes de pirateria i tal.
 
 85
-00:03:56,750 --> 00:03:59,290
+00:03:54,850 --> 00:03:57,390
 Com pot la tele analitzar una imatge xifrada?
 
 86
-00:03:59,950 --> 00:04:00,830
+00:03:58,050 --> 00:03:58,930
 Això és clau.
 
 87
-00:04:01,270 --> 00:04:03,910
+00:03:59,370 --> 00:04:02,010
 La tele pot fer-ho perquè és la darrera parada del viatge.
 
 88
-00:04:03,910 --> 00:04:05,650
+00:04:02,010 --> 00:04:03,750
 Tot i que el senyal arribi xifrat,
 
 89
-00:04:05,770 --> 00:04:08,790
+00:04:03,870 --> 00:04:06,890
 el processador del televisor l'ha de desxifrar sí o sí
 
 90
-00:04:08,790 --> 00:04:10,650
+00:04:06,890 --> 00:04:08,750
 per poder il·luminar els panills LED.
 
 91
-00:04:11,150 --> 00:04:14,290
+00:04:09,250 --> 00:04:12,390
 Ah, clar. Ho intercepten just abans d'enviar-ho a la pantalla física.
 
 92
-00:04:14,850 --> 00:04:15,470
+00:04:12,950 --> 00:04:13,570
 Justament allà.
 
 93
-00:04:15,950 --> 00:04:18,110
+00:04:14,050 --> 00:04:16,210
 quan el senyal ja està completament despullat.
 
 94
-00:04:18,450 --> 00:04:21,430
+00:04:16,550 --> 00:04:19,530
 Per això els és igual si mires l'antena o jugues a un videojoc.
 
 95
-00:04:21,950 --> 00:04:24,950
+00:04:20,050 --> 00:04:23,050
 És fascinant i inquietant a parts iguals.
 
 96
-00:04:25,530 --> 00:04:29,490
+00:04:23,630 --> 00:04:27,590
 De fet, l'anàlisi menciona un estudi científic molt recent, del 2024.
 
 97
-00:04:30,190 --> 00:04:34,410
+00:04:28,290 --> 00:04:32,510
 Sí, el de la University College London i la Universitat de California Davis.
 
 98
-00:04:34,690 --> 00:04:37,550
+00:04:32,790 --> 00:04:35,650
 Aquest. Les proves que van fer van revelar que, efectivament,
 
 99
-00:04:37,790 --> 00:04:39,670
+00:04:35,890 --> 00:04:37,770
 l'ACR envia dades de forma constant.
 
 100
-00:04:40,190 --> 00:04:42,890
+00:04:38,290 --> 00:04:40,990
 O sigui, ja estiguis mirant canals gratuïts o jugant a la consola.
 
 101
-00:04:43,530 --> 00:04:46,510
+00:04:41,630 --> 00:04:44,610
 L'únic moment en què els investigadors van veure que no s'enviaven dades
 
 102
-00:04:46,510 --> 00:04:49,250
+00:04:44,610 --> 00:04:47,350
 era si comparties la pantalla del telèfon mòbil.
 
 103
-00:04:49,370 --> 00:04:51,830
+00:04:47,470 --> 00:04:49,930
 O si estaves a la pantalla d'inici inactiva.
 
 104
-00:04:52,090 --> 00:04:56,510
+00:04:50,190 --> 00:04:54,610
 Exacte. O quan s'utilitzaven aplicacions natives com Netflix instal·lades a la mateixa tele.
 
 105
-00:04:56,790 --> 00:05:00,590
+00:04:54,890 --> 00:04:58,690
 Clar, perquè en aquests casos l'aplicació nativa ja s'encarrega d'enviar les dades d'ús
 
 106
-00:05:00,590 --> 00:05:02,790
+00:04:58,690 --> 00:05:00,890
 pels seus propis canals. No els cal l'ACR.
 
 107
-00:05:03,210 --> 00:05:05,810
+00:05:01,310 --> 00:05:03,910
 Val. Llavors ja entenem com saben que estem mirant.
 
 108
-00:05:06,310 --> 00:05:08,050
+00:05:04,410 --> 00:05:06,150
 Però aquí hi ha un forat en la narrativa.
 
 109
-00:05:08,510 --> 00:05:12,870
+00:05:06,610 --> 00:05:10,970
 O sigui, si la base de dades sap que a un televisor concret s'està reproduint una pel·lícula,
 
 110
-00:05:12,890 --> 00:05:15,490
+00:05:10,990 --> 00:05:13,590
 com saben qui és la persona que està asseguda al sofà?
 
 111
-00:05:15,670 --> 00:05:16,590
+00:05:13,770 --> 00:05:14,690
 Ah, la identitat.
 
 112
-00:05:16,830 --> 00:05:20,990
+00:05:14,930 --> 00:05:19,090
 Clar, vull dir, jo compro la tele, no inicio sessió, no hi poso el meu correu.
 
 113
-00:05:21,530 --> 00:05:25,010
+00:05:19,630 --> 00:05:23,110
 Si la pantalla actua de forma passiva, com m'associen a mi com a individu?
 
 114
-00:05:25,410 --> 00:05:28,530
+00:05:23,510 --> 00:05:26,630
 Si connectem això amb la visió general de la publicitat a internet,
 
 115
-00:05:29,010 --> 00:05:32,090
+00:05:27,110 --> 00:05:30,190
 la peça que tanca el cercle és l'adreça IP de la teva llar.
 
 116
-00:05:32,250 --> 00:05:34,190
+00:05:30,350 --> 00:05:32,290
 L'adreça de l'encaminador, del router.
 
 117
-00:05:34,530 --> 00:05:37,470
+00:05:32,630 --> 00:05:35,570
 Exacte, i aquí és on entren en joc els segregadors de dades,
 
 118
-00:05:37,630 --> 00:05:38,970
+00:05:35,730 --> 00:05:37,070
 com per exemple Experian.
 
 119
-00:05:39,470 --> 00:05:41,110
+00:05:37,570 --> 00:05:39,210
 Aquestes empreses no et venen res a tu,
 
 120
-00:05:41,110 --> 00:05:44,650
+00:05:39,210 --> 00:05:42,750
 sinó que es dediquen a comprar dades massivament de múltiples fonts.
 
 121
-00:05:45,030 --> 00:05:47,130
+00:05:43,130 --> 00:05:45,230
 O sigui, compren les nostres galetes d'internet,
 
 122
-00:05:47,290 --> 00:05:49,930
+00:05:45,390 --> 00:05:48,030
 el registre de quan comprem un bitllet d'avió des del mòbil.
 
 123
-00:05:50,330 --> 00:05:50,570
+00:05:48,430 --> 00:05:48,670
 Tot.
 
 124
-00:05:51,410 --> 00:05:53,270
+00:05:49,510 --> 00:05:51,370
 Si tu fas una compra amb el telèfon mòbil,
 
 125
-00:05:53,490 --> 00:05:54,990
+00:05:51,590 --> 00:05:53,090
 estant connectat a la wifi de casa,
 
 126
-00:05:55,410 --> 00:05:58,730
+00:05:53,510 --> 00:05:56,830
 l'agregador de dades vincula aquella compra a la teva adreça IP.
 
 127
-00:05:59,070 --> 00:05:59,230
+00:05:57,170 --> 00:05:57,330
 Clar.
 
 128
-00:05:59,790 --> 00:06:02,370
+00:05:57,890 --> 00:06:00,470
 Llavors, quan la tele envia l'empremta de 8 bytes
 
 129
-00:06:02,370 --> 00:06:03,630
+00:06:00,470 --> 00:06:01,730
 de la pel·lícula que estàs mirant,
 
 130
-00:06:04,010 --> 00:06:05,730
+00:06:02,110 --> 00:06:03,830
 ho fa des d'aquella mateixa adreça IP.
 
 131
-00:06:06,270 --> 00:06:08,050
+00:06:04,370 --> 00:06:06,150
 Així que el perfil de consum d'internet
 
 132
-00:06:08,050 --> 00:06:10,090
+00:06:06,150 --> 00:06:08,190
 s'uneix al perfil de consum televisiu.
 
 133
-00:06:10,430 --> 00:06:13,670
+00:06:08,530 --> 00:06:11,770
 Uf, fan un retrat complet sense necessitar ni el teu nom.
 
 134
-00:06:14,030 --> 00:06:16,370
+00:06:12,130 --> 00:06:14,470
 No els fa falta. El que volen és el teu perfil.
 
 135
-00:06:16,930 --> 00:06:21,310
+00:06:15,030 --> 00:06:19,410
 L'anàlisi ho explica molt bé parlant d'una plataforma anomenada The Trade Desk.
 
 136
-00:06:21,550 --> 00:06:23,750
+00:06:19,650 --> 00:06:21,850
 Sí, la plataforma de compra d'anuncis omnicanal.
 
 137
-00:06:24,110 --> 00:06:24,830
+00:06:22,210 --> 00:06:22,930
 Aquesta mateixa.
 
 138
-00:06:25,210 --> 00:06:28,850
+00:06:23,310 --> 00:06:26,950
 Ells col·laboren amb sistemes com Samba TV, que és el que fa servir Sony, per exemple.
 
 139
-00:06:29,530 --> 00:06:32,330
+00:06:27,630 --> 00:06:30,430
 L'exemple que donen a la font és boníssim per entendre-ho.
 
 140
-00:06:32,830 --> 00:06:34,690
+00:06:30,930 --> 00:06:32,790
 Imagina't una empresa que ven cacau calent.
 
 141
-00:06:35,090 --> 00:06:36,150
+00:06:33,190 --> 00:06:34,250
 D'acord, cacau calent.
 
 142
-00:06:36,150 --> 00:06:39,290
+00:06:34,250 --> 00:06:37,390
 I aquesta empresa vol adreçar-se a un públic molt específic.
 
 143
-00:06:39,290 --> 00:06:43,190
+00:06:37,390 --> 00:06:41,290
 aficionats a la ciència-ficció que, segons el seu perfil de dades,
 
 144
-00:06:43,570 --> 00:06:45,450
+00:06:41,670 --> 00:06:43,550
 se senten sols o deprimits.
 
 145
-00:06:45,950 --> 00:06:47,750
+00:06:44,050 --> 00:06:45,850
 Déu-n'hi-do el nivell de detall psicològic.
 
 146
-00:06:48,130 --> 00:06:48,950
+00:06:46,230 --> 00:06:47,050
 És molt granular.
 
 147
-00:06:49,670 --> 00:06:53,090
+00:06:47,770 --> 00:06:51,190
 Llavors, The Trade Desk compra l'espai publicitari en temps real
 
 148
-00:06:53,090 --> 00:06:55,130
+00:06:51,190 --> 00:06:53,230
 basant-se en aquest perfil de la IP.
 
 149
-00:06:55,710 --> 00:06:57,770
+00:06:53,810 --> 00:06:55,870
 Però la veritable revolució per a l'anunciant
 
 150
-00:06:57,770 --> 00:06:59,230
+00:06:55,870 --> 00:06:57,330
 no és només comprar l'anunci.
 
 151
-00:06:59,710 --> 00:07:01,990
+00:06:57,810 --> 00:07:00,090
 És que gràcies a l'ACR del televisor,
 
 152
-00:07:01,990 --> 00:07:05,930
+00:07:00,090 --> 00:07:04,030
 l'empresa de cacau rep la confirmació exacta i empírica
 
 153
-00:07:05,930 --> 00:07:08,710
+00:07:04,030 --> 00:07:06,810
 de quan s'ha reproduït aquest anunci a la teva pantalla.
 
 154
-00:07:08,710 --> 00:07:13,810
+00:07:06,810 --> 00:07:11,910
 O sigui, no es basen en estimacions d'audiència com feia la tele per cable de tota la vida.
 
 155
-00:07:14,330 --> 00:07:16,630
+00:07:12,430 --> 00:07:14,730
 Tenen un notari digital al nostre menjador que els diu
 
 156
-00:07:16,630 --> 00:07:18,930
+00:07:14,730 --> 00:07:17,030
 sí, l'anunci s'ha vist a les 10 del vespre.
 
 157
-00:07:19,510 --> 00:07:21,970
+00:07:17,610 --> 00:07:20,070
 Exacte. Paguen per certeses absolutes.
 
 158
-00:07:22,590 --> 00:07:24,070
+00:07:20,690 --> 00:07:22,170
 Això és un negoci rodó per ells.
 
 159
-00:07:24,530 --> 00:07:29,090
+00:07:22,630 --> 00:07:27,190
 Però, si això és tan invasiu, qui va obrir aquesta capsa de Pandora?
 
 160
-00:07:29,230 --> 00:07:32,450
+00:07:27,330 --> 00:07:30,550
 Vull dir, com hem arribat a aquest punt i per què la llei no ho ha aturat abans?
 
 161
-00:07:32,990 --> 00:07:35,310
+00:07:31,090 --> 00:07:33,410
 Bueno, la figura clau aquí és Zeev Neumeier,
 
 162
-00:07:35,310 --> 00:07:39,210
+00:07:33,410 --> 00:07:37,310
 el creador de la tecnologia i la seva empresa Cognitive Networks.
 
 163
-00:07:39,210 --> 00:07:41,490
+00:07:37,310 --> 00:07:39,590
 Ah, sí, la història de com va començar tot.
 
 164
-00:07:41,990 --> 00:07:44,970
+00:07:40,090 --> 00:07:43,070
 Sí, tot va començar de manera molt romàntica, en realitat.
 
 165
-00:07:45,370 --> 00:07:49,350
+00:07:43,470 --> 00:07:47,450
 Als inicis va presentar una funció anomenada Engage per als televisors Vizio.
 
 166
-00:07:49,710 --> 00:07:52,570
+00:07:47,810 --> 00:07:50,670
 L'objectiu, de cara al públic, era oferir televisió interactiva.
 
 167
-00:07:52,990 --> 00:07:54,110
+00:07:51,090 --> 00:07:52,210
 Interactiva en quin sentit?
 
 168
-00:07:54,570 --> 00:07:58,870
+00:07:52,670 --> 00:07:56,970
 Doncs estava dissenyada perquè mentre l'espectador mirava sèries com Dexter o Homeland,
 
 169
-00:07:59,270 --> 00:08:03,190
+00:07:57,370 --> 00:08:01,290
 la tele reconeixeria l'escena i faria saltar petites finestres a la pantalla
 
 170
-00:08:03,190 --> 00:08:06,970
+00:08:01,290 --> 00:08:05,070
 per permetre votar sobre l'argument de la sèrie o respondre preguntes.
 
 171
-00:08:07,330 --> 00:08:08,730
+00:08:05,430 --> 00:08:06,830
 Una mica com un joc.
 
 172
-00:08:09,170 --> 00:08:09,930
+00:08:07,270 --> 00:08:08,030
 Sembla inofensiu.
 
 173
-00:08:10,550 --> 00:08:13,650
+00:08:08,650 --> 00:08:11,750
 Clar, però la veritable agenda ja la va dictar el mateix Zeev Neumeier
 
 174
-00:08:13,650 --> 00:08:14,750
+00:08:11,750 --> 00:08:12,850
 quan es va reunir amb Vizio.
 
 175
-00:08:15,170 --> 00:08:17,590
+00:08:13,270 --> 00:08:15,690
 Els va dir obertament que les dades d'aquella experiència
 
 176
-00:08:17,590 --> 00:08:20,250
+00:08:15,690 --> 00:08:18,350
 serien econòmicament molt més valuoses
 
 177
-00:08:20,250 --> 00:08:22,090
+00:08:18,350 --> 00:08:20,190
 que l'experiència interactiva en si mateixa.
 
 178
-00:08:22,510 --> 00:08:24,170
+00:08:20,610 --> 00:08:22,270
 Quin cavall de troia més ben col·locat.
 
 179
-00:08:24,770 --> 00:08:27,110
+00:08:22,870 --> 00:08:25,210
 I aquí és on es posa realment interessant l'evolució legal.
 
 180
-00:08:27,570 --> 00:08:29,430
+00:08:25,670 --> 00:08:27,530
 Perquè la cosa no va quedar sense conseqüències, oi?
 
 181
-00:08:29,650 --> 00:08:30,690
+00:08:27,750 --> 00:08:28,790
 No, evidentment.
 
 182
-00:08:30,870 --> 00:08:33,090
+00:08:28,970 --> 00:08:31,190
 Tot l'escàndal va esclatar inicialment
 
 183
-00:08:33,090 --> 00:08:35,410
+00:08:31,190 --> 00:08:33,510
 el 2015. Clar, quan la Comissió Federal
 
 184
-00:08:35,410 --> 00:08:37,210
+00:08:33,510 --> 00:08:35,310
 de Comerç dels Estats Units, la FTC,
 
 185
-00:08:37,330 --> 00:08:38,630
+00:08:35,430 --> 00:08:36,730
 va intervenir. Exacte.
 
 186
-00:08:38,990 --> 00:08:41,350
+00:08:37,090 --> 00:08:39,450
 Van posar una multa a Vizio de 2,2
 
 187
-00:08:41,350 --> 00:08:43,150
+00:08:39,450 --> 00:08:41,250
 milions de dòlars per estar espiant i
 
 188
-00:08:43,150 --> 00:08:45,410
+00:08:41,250 --> 00:08:43,510
 recopilant dades sense el consentiment
 
 189
-00:08:45,410 --> 00:08:46,930
+00:08:43,510 --> 00:08:45,030
 de l'usuari. Però clar,
 
 190
-00:08:47,190 --> 00:08:48,810
+00:08:45,290 --> 00:08:46,910
 pagar una multa no desmunta el negoci.
 
 191
-00:08:49,390 --> 00:08:51,110
+00:08:47,490 --> 00:08:49,210
 Simplement van canviar la manera de demanar
 
 192
-00:08:51,110 --> 00:08:53,290
+00:08:49,210 --> 00:08:51,390
 permís, omplint els menús inicials
 
 193
-00:08:53,290 --> 00:08:55,110
+00:08:51,390 --> 00:08:53,210
 de textos legals incomprensibles.
 
 194
-00:08:55,670 --> 00:08:56,950
+00:08:53,770 --> 00:08:55,050
 Sí, per complir l'expedient.
 
 195
-00:08:57,710 --> 00:08:59,230
+00:08:55,810 --> 00:08:57,330
 I l'estudi fa un salt brutal
 
 196
-00:08:59,230 --> 00:09:00,870
+00:08:57,330 --> 00:08:58,970
 fins a una demanda molt més recent.
 
 197
-00:09:00,870 --> 00:09:04,790
+00:08:58,970 --> 00:09:02,890
 La gran demanda de l'estat de Texas del desembre del 2025.
 
 198
-00:09:05,470 --> 00:09:08,770
+00:09:03,570 --> 00:09:06,870
 Aquesta va ser contra els cinc grans fabricants globals de televisors.
 
 199
-00:09:09,450 --> 00:09:12,270
+00:09:07,550 --> 00:09:10,370
 Buscaven entendre com responien a les proves tècniques recents
 
 200
-00:09:12,270 --> 00:09:14,410
+00:09:10,370 --> 00:09:12,510
 i aquí es van posar a prova les marques.
 
 201
-00:09:14,930 --> 00:09:16,610
+00:09:13,030 --> 00:09:14,710
 Comencem per Samsung. Què van trobar?
 
 202
-00:09:17,150 --> 00:09:20,030
+00:09:15,250 --> 00:09:18,130
 Amb Samsung van arribar a un acord al febrer del 2026
 
 203
-00:09:20,030 --> 00:09:21,970
+00:09:18,130 --> 00:09:20,070
 per aturar la recol·lecció en certs casos.
 
 204
-00:09:22,590 --> 00:09:25,750
+00:09:20,690 --> 00:09:23,850
 Els investigadors van configurar una tele Samsung com una Dump TV,
 
 205
-00:09:26,270 --> 00:09:29,250
+00:09:24,370 --> 00:09:27,350
 o sigui, rebutjant tots els termes i condicions intel·ligents.
 
 206
-00:09:29,250 --> 00:09:30,670
+00:09:27,350 --> 00:09:28,770
 Una tele muda.
 
 207
-00:09:30,870 --> 00:09:37,330
+00:09:28,970 --> 00:09:35,430
 Exacte. I, efectivament, l'anàlisi de xarxa va confirmar que no enviaven absolutament res de dades. Zero bytes.
 
 208
-00:09:37,830 --> 00:09:38,910
+00:09:35,930 --> 00:09:37,010
 Això sona a victòria.
 
 209
-00:09:39,470 --> 00:09:44,970
+00:09:37,570 --> 00:09:43,070
 Ho sembla, però la contrapartida és que la televisió queda totalment inútil. Queda limitada al màxim.
 
 210
-00:09:45,330 --> 00:09:49,370
+00:09:43,430 --> 00:09:47,470
 No pots obrir cap aplicació, pràcticament et castiguen per no acceptar el rastreig.
 
 211
-00:09:49,970 --> 00:09:56,550
+00:09:48,070 --> 00:09:54,650
 D'acord, o sigui, et bloquegen les funcionalitats. Però després hi ha marques pitjors. El cas de TCL és de traca.
 
 212
-00:09:56,970 --> 00:09:58,210
+00:09:55,070 --> 00:09:56,310
 TCL, sí.
 
 213
-00:09:58,210 --> 00:10:01,370
+00:09:56,310 --> 00:09:59,470
 Ells van aconseguir que es desestimés la demanda de Texas
 
 214
-00:10:01,370 --> 00:10:04,510
+00:09:59,470 --> 00:10:02,610
 utilitzant un tecnicisme de jurisdicció corporativa.
 
 215
-00:10:05,110 --> 00:10:07,130
+00:10:03,210 --> 00:10:05,230
 Es van escapar per una escletxa legal
 
 216
-00:10:07,130 --> 00:10:11,230
+00:10:05,230 --> 00:10:09,330
 i, tècnicament, la investigació els considera la marca més fosca de totes.
 
 217
-00:10:11,710 --> 00:10:16,190
+00:10:09,810 --> 00:10:14,290
 I tant, perquè directament obliguen l'usuari a iniciar sessió amb un compte de Google
 
 218
-00:10:16,190 --> 00:10:19,350
+00:10:14,290 --> 00:10:17,450
 fins i tot per accedir a les funcions més bàsiques de la tele.
 
 219
-00:10:19,850 --> 00:10:22,130
+00:10:17,950 --> 00:10:20,230
 O passes per l'adreçador i t'identifiques, o res.
 
 220
-00:10:22,650 --> 00:10:24,250
+00:10:20,750 --> 00:10:22,350
 És que no hi ha alternativa.
 
 221
-00:10:24,930 --> 00:10:27,490
+00:10:23,030 --> 00:10:25,590
 Però, si parlem de marques que van anar massa lluny,
 
 222
-00:10:27,490 --> 00:10:31,910
+00:10:25,590 --> 00:10:30,010
 hem de parlar del descobriment esgarrifós d'LG i l'autèntic model de negoci.
 
 223
-00:10:32,370 --> 00:10:35,790
+00:10:30,470 --> 00:10:33,890
 Algunes marques intentaven netejar la seva imatge legalment.
 
 224
-00:10:36,250 --> 00:10:39,430
+00:10:34,350 --> 00:10:37,530
 Sí, LG va arribar a un acord al maig del 2026.
 
 225
-00:10:40,150 --> 00:10:43,770
+00:10:38,250 --> 00:10:41,870
 Clar, però va posar fi realment a la mineria de dades?
 
 226
-00:10:44,430 --> 00:10:47,330
+00:10:42,530 --> 00:10:45,430
 Perquè les dades del documental del canal Gamers Nexus,
 
 227
-00:10:47,890 --> 00:10:51,970
+00:10:45,990 --> 00:10:50,070
 el documental de dues hores que s'esmenta, és un punt d'inflexió.
 
 228
-00:10:52,470 --> 00:10:54,570
+00:10:50,570 --> 00:10:52,670
 Aquell documental va obrir molts ulls.
 
 229
-00:10:55,170 --> 00:10:56,610
+00:10:53,270 --> 00:10:54,710
 És que van trobar coses al·lucinants.
 
 230
-00:10:56,610 --> 00:11:03,530
+00:10:54,710 --> 00:11:01,630
 O sigui, van demostrar que els televisors LG tenen la capacitat de recuperar transcripcions de veu en text pla de converses
 
 231
-00:11:03,530 --> 00:11:05,770
+00:11:01,630 --> 00:11:03,870
 i gravades de càmeres web connectades.
 
 232
-00:11:06,310 --> 00:11:07,950
+00:11:04,410 --> 00:11:06,050
 Tot això sense avisar de manera clara, sí.
 
 233
-00:11:08,530 --> 00:11:12,670
+00:11:06,630 --> 00:11:10,770
 I encara més fort, la capacitat d'escanejar tota la xarxa wifi de la casa
 
 234
-00:11:12,670 --> 00:11:16,310
+00:11:10,770 --> 00:11:14,410
 per obtenir els números de sèrie i les adreces d'altres dispositius,
 
 235
-00:11:16,890 --> 00:11:20,530
+00:11:14,990 --> 00:11:18,630
 telèfons, ordinadors, que mai han estat connectats a la televisió directament.
 
 236
-00:11:20,890 --> 00:11:26,410
+00:11:18,990 --> 00:11:24,510
 Sí, ho fan utilitzant el protocol de resolució d'adreces, o ARP, de la teva xarxa local.
 
 237
-00:11:26,610 --> 00:11:29,290
+00:11:24,710 --> 00:11:27,390
 És invasió a nivell d'infraestructura domèstica.
 
 238
-00:11:29,930 --> 00:11:32,290
+00:11:28,030 --> 00:11:30,390
 I com va reaccionar LG davant d'aquest escàndal?
 
 239
-00:11:32,450 --> 00:11:33,930
+00:11:30,550 --> 00:11:32,030
 Van fer un producte més privat?
 
 240
-00:11:34,270 --> 00:11:35,490
+00:11:32,370 --> 00:11:33,590
 No, en absolut.
 
 241
-00:11:36,090 --> 00:11:38,990
+00:11:34,190 --> 00:11:37,090
 La seva reacció als Estats Units va ser introduir una clàusula
 
 242
-00:11:38,990 --> 00:11:41,470
+00:11:37,090 --> 00:11:39,570
 d'arbitratge forçós als seus termes de servei.
 
 243
-00:11:42,010 --> 00:11:44,870
+00:11:40,110 --> 00:11:42,970
 Ah, la típica clàusula per evitar judicis públics.
 
 244
-00:11:45,410 --> 00:11:47,470
+00:11:43,510 --> 00:11:45,570
 Exacte, per evitar demandes col·lectives.
 
 245
-00:11:48,150 --> 00:11:52,470
+00:11:46,250 --> 00:11:50,570
 Així, si vols queixar-te, has d'anar a un arbitratge privat de manera individual,
 
 246
-00:11:52,610 --> 00:11:55,890
+00:11:50,710 --> 00:11:53,990
 cosa que dissuadeix a gairebé tothom per una tele de 500 euros.
 
 247
-00:11:56,490 --> 00:11:58,550
+00:11:54,590 --> 00:11:56,650
 I clar, això planteja una pregunta molt òbvia.
 
 248
-00:11:59,050 --> 00:12:01,750
+00:11:57,150 --> 00:11:59,850
 Per què s'arrisquen a tot aquest desastre de relacions públiques?
 
 249
-00:12:02,190 --> 00:12:03,530
+00:12:00,290 --> 00:12:01,630
 Per què forcen tant la màquina?
 
 250
-00:12:04,130 --> 00:12:05,510
+00:12:02,230 --> 00:12:03,610
 Aquesta és la gran pregunta.
 
 251
-00:12:06,090 --> 00:12:07,790
+00:12:04,190 --> 00:12:05,890
 I la resposta és purament financera.
 
 252
-00:12:08,170 --> 00:12:10,670
+00:12:06,270 --> 00:12:08,770
 L'arquitectura d'aquest mercat ha canviat completament.
 
 253
-00:12:10,990 --> 00:12:12,210
+00:12:09,090 --> 00:12:10,310
 Com de radical és el canvi?
 
 254
-00:12:12,590 --> 00:12:14,650
+00:12:10,690 --> 00:12:12,750
 Mira les dades de Roku presentades a la SEC,
 
 255
-00:12:14,750 --> 00:12:16,350
+00:12:12,850 --> 00:12:14,450
 el regulador bursari nord-americà,
 
 256
-00:12:16,650 --> 00:12:18,150
+00:12:14,750 --> 00:12:16,250
 a l'any fiscal 2025.
 
 257
-00:12:18,610 --> 00:12:21,390
+00:12:16,710 --> 00:12:19,490
 Van tenir unes pèrdues de 82 milions de dòlars
 
 258
-00:12:21,390 --> 00:12:22,730
+00:12:19,490 --> 00:12:20,830
 venent dispositius físics.
 
 259
-00:12:22,850 --> 00:12:25,250
+00:12:20,950 --> 00:12:23,350
 O sigui, perdien diners fabricant la maquinària.
 
 260
-00:12:25,250 --> 00:12:32,190
+00:12:23,350 --> 00:12:30,290
 Sí, però d'altra banda van tenir uns beneficis de 2.150 milions de dòlars al sector d'anuncis i plataformes.
 
 261
-00:12:33,150 --> 00:12:34,510
+00:12:31,250 --> 00:12:32,610
 Més de 2.000 milions?
 
 262
-00:12:34,870 --> 00:12:39,890
+00:12:32,970 --> 00:12:37,990
 Exacte. 26 vegades més beneficis en programar-hi dades que les pèrdues en el maquinari.
 
 263
-00:12:40,350 --> 00:12:44,470
+00:12:38,450 --> 00:12:42,570
 El seu propi director executiu va declarar que el maquinari ja no és un negoci per a ells.
 
 264
-00:12:44,670 --> 00:12:47,330
+00:12:42,770 --> 00:12:45,430
 És només un cost d'adquisició per aconseguir comptes actius.
 
 265
-00:12:47,790 --> 00:12:52,070
+00:12:45,890 --> 00:12:50,170
 Amb raó. I això explica per què empreses com Fox van acabar comprant Roku.
 
 266
-00:12:52,070 --> 00:12:56,630
+00:12:50,170 --> 00:12:54,730
 No volíem fer televisors. Volíem la relació directa i les dades de milions de llars.
 
 267
-00:12:56,950 --> 00:12:59,070
+00:12:55,050 --> 00:12:57,170
 Això mateix. I no és només Roku.
 
 268
-00:12:59,250 --> 00:13:02,430
+00:12:57,350 --> 00:13:00,530
 Si mirem la divisió de televisors de la pròpia LG al 2024,
 
 269
-00:13:02,930 --> 00:13:06,430
+00:13:01,030 --> 00:13:04,530
 els marges de benefici per vendre els aparells seran d'un trist 2%.
 
 270
-00:13:06,430 --> 00:13:08,070
+00:13:04,530 --> 00:13:06,170
 Uns 230 milions.
 
 271
-00:13:08,590 --> 00:13:09,950
+00:13:06,690 --> 00:13:08,050
 I quant feien amb els anuncis?
 
 272
-00:13:10,310 --> 00:13:12,850
+00:13:08,410 --> 00:13:10,950
 Uns 730 milions. Pràcticament el triple.
 
 273
-00:13:13,490 --> 00:13:16,190
+00:13:11,590 --> 00:13:14,290
 Llavors, què significa tot això per a qui ens està escoltant?
 
 274
-00:13:16,710 --> 00:13:21,130
+00:13:14,810 --> 00:13:19,230
 Bàsicament que el televisor avui en dia és el que anomenaríem una droga d'iniciació, oi?
 
 275
-00:13:21,130 --> 00:13:21,790
+00:13:19,230 --> 00:13:19,890
 Ho és.
 
 276
-00:13:22,070 --> 00:13:25,210
+00:13:20,170 --> 00:13:23,310
 un dispositiu subvencionat per entrar a casa teua.
 
 277
-00:13:25,650 --> 00:13:28,210
+00:13:23,750 --> 00:13:26,310
 L'usuari és el producte real, sense cap dubte.
 
 278
-00:13:28,750 --> 00:13:31,550
+00:13:26,850 --> 00:13:29,650
 Bé, doncs, arribats a aquest punt, mirem de recapitular una mica
 
 279
-00:13:31,550 --> 00:13:35,630
+00:13:29,650 --> 00:13:33,730
 i oferir solucions pràctiques per sobreviure a aquesta pràctica constant de rastreig.
 
 280
-00:13:36,190 --> 00:13:36,850
+00:13:34,290 --> 00:13:34,950
 Hi ha opcions?
 
 281
-00:13:37,530 --> 00:13:41,650
+00:13:35,630 --> 00:13:39,750
 Hi ha algunes opcions, però cal dividir-les entre les que realment funcionen i les que no.
 
 282
-00:13:42,130 --> 00:13:45,810
+00:13:40,230 --> 00:13:43,910
 Val, les mitges mesures i les mesures completes, com diu l'anàlisi.
 
 283
-00:13:46,050 --> 00:13:50,810
+00:13:44,150 --> 00:13:48,910
 Exacte. Les mitges mesures serien aquelles en què la gent busca tutorials a internet
 
 284
-00:13:50,810 --> 00:13:54,390
+00:13:48,910 --> 00:13:52,490
 per entrar als menús ocults de la tele i desactivar l'ACR manualment.
 
 285
-00:13:54,710 --> 00:13:57,290
+00:13:52,810 --> 00:13:55,390
 Però això és perillós, no? Vull dir, no és gaire fiable.
 
 286
-00:13:57,770 --> 00:13:58,410
+00:13:55,870 --> 00:13:56,510
 Gens fiable.
 
 287
-00:13:58,850 --> 00:14:01,550
+00:13:56,950 --> 00:13:59,650
 Perquè amb una simple actualització de programària automàtica
 
 288
-00:14:01,550 --> 00:14:04,250
+00:13:59,650 --> 00:14:02,350
 el fabricant et pot tornar a activar el rastreig sense avisar
 
 289
-00:14:04,250 --> 00:14:06,610
+00:14:02,350 --> 00:14:04,710
 o pots acceptar uns nous termes sense adonar-te'n.
 
 290
-00:14:07,010 --> 00:14:09,190
+00:14:05,110 --> 00:14:07,290
 Llavors, quines són les mesures completes?
 
 291
-00:14:09,710 --> 00:14:11,270
+00:14:07,810 --> 00:14:09,370
 Impliquen tallar el cable d'arrel,
 
 292
-00:14:11,710 --> 00:14:13,470
+00:14:09,810 --> 00:14:11,570
 aïllar la televisió de la xarxa domèstica.
 
 293
-00:14:13,930 --> 00:14:17,210
+00:14:12,030 --> 00:14:15,310
 Una manera és crear el que s'anomena una xarxa subnet a l'encaminador.
 
 294
-00:14:17,810 --> 00:14:19,770
+00:14:15,910 --> 00:14:17,870
 Fer una xarxa separada només per a la tele,
 
 295
-00:14:19,770 --> 00:14:23,670
+00:14:17,870 --> 00:14:21,770
 perquè no pugui veure ni escanejar els nostres mòbils ni els ordinadors de casa.
 
 296
-00:14:24,110 --> 00:14:24,850
+00:14:22,210 --> 00:14:22,950
 Aquesta n'és una.
 
 297
-00:14:25,270 --> 00:14:28,450
+00:14:23,370 --> 00:14:26,550
 L'altra mesura completa, molt més senzilla per la majoria,
 
 298
-00:14:28,810 --> 00:14:32,130
+00:14:26,910 --> 00:14:30,230
 és mantenir el televisor completament desconnectat d'internet.
 
 299
-00:14:32,130 --> 00:14:34,390
+00:14:30,230 --> 00:14:32,490
 Zero wifi, zero cable de xarxa.
 
 300
-00:14:34,770 --> 00:14:37,310
+00:14:32,870 --> 00:14:35,410
 I fer servir un dispositiu extern per veure les coses.
 
 301
-00:14:38,070 --> 00:14:42,970
+00:14:36,170 --> 00:14:41,070
 Exacte. Utilitzar exclusivament dispositius de reproducció externs pel cable HDMI,
 
 302
-00:14:43,430 --> 00:14:45,310
+00:14:41,530 --> 00:14:43,410
 tipus Apple TV o similars,
 
 303
-00:14:45,650 --> 00:14:48,130
+00:14:43,750 --> 00:14:46,230
 que almenys tenen marcs de privacitat més transparents
 
 304
-00:14:48,130 --> 00:14:52,150
+00:14:46,230 --> 00:14:50,250
 transparents i no depenen del model de negoci de l'ACR d'aquesta manera.
 
 305
-00:14:52,890 --> 00:14:55,970
+00:14:50,990 --> 00:14:54,070
 Transformar l'Smart TV en un simple munidor passiu? M'agrada.
 
 306
-00:14:56,650 --> 00:15:00,830
+00:14:54,750 --> 00:14:58,930
 Però per tancar la sessió d'avui, vull deixar una reflexió provocativa sobre la taula
 
 307
-00:15:00,830 --> 00:15:04,090
+00:14:58,930 --> 00:15:02,190
 que crec que toca de ple a la manera en com comprem tecnologia.
 
 308
-00:15:04,630 --> 00:15:04,950
+00:15:02,730 --> 00:15:03,050
 A veure.
 
 309
-00:15:05,810 --> 00:15:10,590
+00:15:03,910 --> 00:15:08,690
 Si aquests grans fabricants estan totalment disposats a acceptar pèrdues milionàries
 
 310
-00:15:10,590 --> 00:15:14,570
+00:15:08,690 --> 00:15:12,670
 en el preu del maquinari només per poder-nos colar un dispositiu de vigilància
 
 311
-00:15:14,570 --> 00:15:18,070
+00:15:12,670 --> 00:15:16,170
 que recopila perfils psicològics al vell mig del nostre menjador,
 
 312
-00:15:18,750 --> 00:15:20,570
+00:15:16,850 --> 00:15:18,670
 Quins altres aparells seran els següents?
 
 313
-00:15:21,310 --> 00:15:24,290
+00:15:19,410 --> 00:15:22,390
 Clar, perquè la llar està plena d'oportunitats per a ells.
 
 314
-00:15:24,570 --> 00:15:25,010
+00:15:22,670 --> 00:15:23,110
 Totalment.
 
 315
-00:15:25,370 --> 00:15:28,870
+00:15:23,470 --> 00:15:26,970
 Vull dir, pensem en els electrodomèstics teòricament intel·ligents
 
 316
-00:15:28,870 --> 00:15:31,030
+00:15:26,970 --> 00:15:29,130
 i sovint molt barats que estem veient al mercat.
 
 317
-00:15:31,470 --> 00:15:34,770
+00:15:29,570 --> 00:15:32,870
 Neveres, rentadores o fins i tot microones amb connexió a internet.
 
 318
-00:15:35,010 --> 00:15:36,070
+00:15:33,110 --> 00:15:34,170
 O robots aspiradors.
 
 319
-00:15:36,730 --> 00:15:37,430
+00:15:34,830 --> 00:15:35,530
 Això mateix.
 
 320
-00:15:38,070 --> 00:15:41,130
+00:15:36,170 --> 00:15:39,230
 Podrien ser perfectament els propers cavalls de Troia dels corredors de dades
 
 321
-00:15:41,130 --> 00:15:43,490
+00:15:39,230 --> 00:15:41,590
 per cartografiar els nostres hàbits domèstics,
 
 322
-00:15:43,830 --> 00:15:46,870
+00:15:41,930 --> 00:15:44,970
 la nostra alimentació i els nostres horaris, tot a un preu de cost.
 
 323
-00:15:47,450 --> 00:15:49,790
+00:15:45,550 --> 00:15:47,890
 És un negoci massa sucós com per ignorar-lo.
 
 324
-00:15:50,070 --> 00:15:50,510
+00:15:48,170 --> 00:15:48,610
 Exacte.
 
 325
-00:15:51,130 --> 00:15:52,670
+00:15:49,230 --> 00:15:50,770
 Crec que és una incògnita fonamental
 
 326
-00:15:52,670 --> 00:15:54,530
+00:15:50,770 --> 00:15:52,630
 que hem de tenir molt present la propera vegada
 
 327
-00:15:54,530 --> 00:15:57,670
+00:15:52,630 --> 00:15:55,770
 que algú vagi a comprar qualsevol tipus de tecnologia per la llar.
 
 328
-00:15:58,170 --> 00:15:59,990
+00:15:56,270 --> 00:15:58,090
 I amb aquest pensament ho deixem aquí per avui.
 
