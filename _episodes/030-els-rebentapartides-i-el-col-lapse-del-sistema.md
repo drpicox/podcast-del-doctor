@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-030-els-rebentapartides-i-el-col-lapse-del-sistema/030-els-rebentapartides-i-el-col-lapse-del-sistema.mp3"
-audio_size: 12152508
+audio_size: 12201447
 chapters_file: "030-els-rebentapartides-i-el-col-lapse-del-sistema-chapters.json"
 date: '2026-09-21'
 description: "El parent que roba bitllets de 500 al Monopoly vol guanyar: necessita que el tauler segueixi intacte. El que s'aixeca i llança les fitxes enlaire vol que el joc s'acabi. A partir de l'assaig «No Exit» de Charles J. Pratt i de l'Homo Ludens de Huizinga, desgranem la diferència entre el trampós i el rebentapartides, el cercle màgic que sosté tribunals, borses i eleccions, i la gran falla del present: totes les institucions es van dissenyar per gestionar tramposos, i cap per a qui ja no creu en el joc. Una anàlisi neutral, sense bàndols, de com es comporta un sistema de regles quan els jugadors hi perden la fe."
-duration: '25:18'
+duration: '25:25'
 episode_number: 30
 season: 1
-soundbite_start: 1080.9
+soundbite_start: 1082.7
 soundbite_duration: 59.0
 soundbite_title: "Les institucions es van dissenyar per a tramposos, no per a rebentapartides"
 sources:
