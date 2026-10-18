@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-015-ia-atrofia-les-habilitats/015-ia-atrofia-les-habilitats.mp3"
-audio_size: 9278203
+audio_size: 9327142
 chapters_file: "015-ia-atrofia-les-habilitats-chapters.json"
 date: '2026-07-31'
 description: "El GPS ens ha atrofiat el sentit de l'orientació —els taxistes de Londres tenien un hipocamp físicament més gran— i la pregunta d'aquest episodi és si la IA està fent el mateix amb les nostres habilitats intel·lectuals. Analitzem a fons l'estudi «How AI Impacts Skill Formation»: un assaig aleatoritzat amb 52 programadors que aprenien la llibreria asíncrona Trio, on els que tenien assistent d'IA van treure un 17% menys al test sense guanyar temps. Parlem de la fricció com a mecanisme d'aprenentatge, dels sis perfils d'interacció, de la il·lusió de competència i del deute intel·lectual corporatiu."
-duration: '19:19'
+duration: '19:25'
 episode_number: 15
 season: 1
-soundbite_start: 987.0
+soundbite_start: 988.8
 soundbite_duration: 61.2
 soundbite_title: "L'exosquelet cognitiu: si elimines la fricció mental, bloqueges l'aprenentatge"
 sources:
