@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-009-construir-mons-3d-sense-drons/009-construir-mons-3d-sense-drons.mp3"
-audio_size: 21886569
+audio_size: 21935507
 chapters_file: "009-construir-mons-3d-sense-drons-chapters.json"
 date: '2026-04-20'
 description: "Podem construir mons tridimensionals a partir de simples fotos fetes amb el mòbil, sense drons ni GPS? En aquest episodi — en anglès — aprofundim en el pipeline complet de COLMAP des de la perspectiva de la captura a peu: extracció SIFT, mascarament de soroll dinàmic, model de càmera amb distorsió radial, estratègies de matching (seqüencial, vocab tree, espacial), verificació geomètrica, reconstrucció incremental, bundle adjustment, el drama CPU vs GPU, i la revolució de GLOMAP amb les seves espectaculars fallades en forma de 'Borg cubes'."
-duration: '45:35'
+duration: '45:41'
 episode_number: 9
 season: 1
-soundbite_start: 2452
+soundbite_start: 2453.8
 soundbite_duration: 50
 soundbite_title: "Borg cubes: quan GLOMAP col·lapsa en un cub de càmeres"
 sources:

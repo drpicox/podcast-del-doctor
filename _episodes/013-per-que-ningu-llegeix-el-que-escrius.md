@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-013-per-que-ningu-llegeix-el-que-escrius/013-per-que-ningu-llegeix-el-que-escrius.mp3"
-audio_size: 16977848
+audio_size: 17026786
 chapters_file: "013-per-que-ningu-llegeix-el-que-escrius-chapters.json"
 date: '2026-07-28'
 description: "I si tot allò que ens feia treure excel·lents en redacció a l'escola fos exactament la raó per la qual ningú llegeix els nostres informes a la feina? Basant-nos en dues conferències mítiques del Leadership Lab de la Universitat de Chicago, impartides per Larry McEnerney, explorem per què el valor d'un text no viu mai a les seves pàgines sinó dins del cervell de qui llegeix: la il·lusió del lector pagat, la metàfora de la paret de tenis, l'experiment dels 100 errors gramaticals que ningú va detectar, per què assenyalar un buit no serveix i cal assenyalar un error, i com el focus i l'estrès d'una frase decideixen si t'acaben llegint o et descarten."
-duration: '35:22'
+duration: '35:28'
 episode_number: 13
 season: 1
-soundbite_start: 264.9
+soundbite_start: 266.7
 soundbite_duration: 35.8
 soundbite_title: "L'escola és entrenar-se al tenis contra un mur de ciment"
 sources:

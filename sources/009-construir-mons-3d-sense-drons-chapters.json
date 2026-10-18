@@ -4,16 +4,16 @@
   "title": "Episodi 009: Construir mons 3D sense drons",
   "chapters": [
     { "startTime": 0, "title": "Introducció: la ceguesa dimensional" },
-    { "startTime": 150, "title": "Origen de COLMAP: de MAVMap al Collection Mapper" },
-    { "startTime": 300, "title": "Extracció de característiques amb SIFT" },
-    { "startTime": 510, "title": "Captura a terra: masques contra el soroll dinàmic" },
-    { "startTime": 765, "title": "Model de càmera i distorsió radial (K1/K2)" },
-    { "startTime": 1027, "title": "Estratègies de matching: seqüencial, vocab tree i espacial" },
-    { "startTime": 1360, "title": "Verificació geomètrica: filtrar falsos positius" },
-    { "startTime": 1457, "title": "Reconstrucció incremental i inicialització" },
-    { "startTime": 1794, "title": "Bundle adjustment: local i global" },
-    { "startTime": 2010, "title": "El drama CPU vs GPU" },
-    { "startTime": 2194, "title": "GLOMAP: reconstrucció global instantània" },
-    { "startTime": 2580, "title": "Reflexió final: reconstruir el passat en 3D" }
+    { "startTime": 151.8, "title": "Origen de COLMAP: de MAVMap al Collection Mapper" },
+    { "startTime": 301.8, "title": "Extracció de característiques amb SIFT" },
+    { "startTime": 511.8, "title": "Captura a terra: masques contra el soroll dinàmic" },
+    { "startTime": 766.8, "title": "Model de càmera i distorsió radial (K1/K2)" },
+    { "startTime": 1028.8, "title": "Estratègies de matching: seqüencial, vocab tree i espacial" },
+    { "startTime": 1361.8, "title": "Verificació geomètrica: filtrar falsos positius" },
+    { "startTime": 1458.8, "title": "Reconstrucció incremental i inicialització" },
+    { "startTime": 1795.8, "title": "Bundle adjustment: local i global" },
+    { "startTime": 2011.8, "title": "El drama CPU vs GPU" },
+    { "startTime": 2195.8, "title": "GLOMAP: reconstrucció global instantània" },
+    { "startTime": 2581.8, "title": "Reflexió final: reconstruir el passat en 3D" }
   ]
 }

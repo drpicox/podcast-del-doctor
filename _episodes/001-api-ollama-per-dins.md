@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-001-api-ollama-per-dins/001-api-ollama-per-dins.mp3"
-audio_size: 9634095
+audio_size: 9683034
 chapters_file: "001-api-ollama-per-dins-chapters.json"
 date: '2026-03-31'
 description: "Anàlisi a fons de l'API d'Ollama: com gestiona recursos GPU/CPU, els endpoints Generate i Chat, paràmetres de control (temperatura, top_k, top_p), streaming NDJSON, Tool Calling, sortides estructurades i l'emulació d'OpenAI. Tot executant-se localment al teu ordinador."
-duration: '20:04'
+duration: '20:10'
 episode_number: 1
 season: 1
-soundbite_start: 960.2
+soundbite_start: 962.0
 soundbite_duration: 82.4
 soundbite_title: "El cavall de Troia d'Ollama: emulant OpenAI des del teu escriptori"
 sources:

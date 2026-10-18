@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-025-l-ia-no-pot-desfer-la-realitat/025-l-ia-no-pot-desfer-la-realitat.mp3"
-audio_size: 19124068
+audio_size: 19173006
 chapters_file: "025-l-ia-no-pot-desfer-la-realitat-chapters.json"
 date: '2026-08-27'
 description: "Demanes a l'agent un bitllet per dimarts, t'equivoques, edites el missatge i poses dijous. El xat queda impecable — i al compte hi ha dos càrrecs de 1.000 euros. A partir de «Quan el món no es bifurca», la nota tècnica darrere de Context Inspector, desgranem per què el botó de desfer és una promesa que la interfície no pot complir: el penjat com a laboratori, les quatre categories d'acció (de la lectura inofensiva al rm -rf) i les respostes que la informàtica ja tenia des dels vuitanta — idempotència, retencions, patró Saga i ETags. La idea central: reconciliar no és desfer, és negar-se a oblidar."
-duration: '39:50'
+duration: '39:56'
 episode_number: 25
 season: 1
-soundbite_start: 2328.8
+soundbite_start: 2330.6
 soundbite_duration: 47.1
 soundbite_title: "Qui serà l'amo de la memòria i de la veritat?"
 sources:

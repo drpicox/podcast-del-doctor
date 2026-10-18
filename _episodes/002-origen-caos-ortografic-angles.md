@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-002-origen-caos-ortografic-angles/002-origen-caos-ortografic-angles.mp3"
-audio_size: 7221634
+audio_size: 7270574
 chapters_file: "002-origen-caos-ortografic-angles-chapters.json"
 date: '2026-04-01'
 description: "Per què l'anglès té una ortografia tan caòtica? Explicació de la Gran Rotació Vocàlica (Great Vowel Shift): un terratrèmol lingüístic dels segles XIV-XVIII que va transformar totes les vocals de l'anglès. Dos mecanismes rivals (cadena d'arrossegament vs. cadena d'empenta), el context social de la Pesta Negra i les migracions a Londres, i com la impremta de Caxton va congelar la pronunciació del 1476, creant fòssils ortogràfics com 'knight'."
-duration: '15:02'
+duration: '15:08'
 episode_number: 2
 season: 1
-soundbite_start: 544.0
+soundbite_start: 545.8
 soundbite_duration: 50.0
 soundbite_title: "La impremta va congelar-nos l'ortografia anglesa"
 sources:

@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-027-deepseek-harness-programari-auto-evolutiu/027-deepseek-harness-programari-auto-evolutiu.mp3"
-audio_size: 8094125
+audio_size: 8143063
 chapters_file: "027-deepseek-harness-programari-auto-evolutiu-chapters.json"
 date: '2026-08-29'
 description: "87 de les 100 extensions més populars del Visual Studio Code deixen rastre a la memòria quan les desinstal·les, i ho hem acceptat com a normal. El 13 d'agost de 2026 DeepSeek va publicar el seu arnès d'agents i en 48 hores va fer 95.000 estrelles a GitHub — però a sota hi ha un paper de 88 pàgines amb la Universitat de Pequín: Cordis, i la seva composabilitat espaciotemporal. Desgranem els efectes reversibles en LIFO que retornen el sistema exactament on era, els coefectes reactius que hibernen un connector en lloc de petar, el 87,9 al Terminal-Bench en mode minimalista, el 99% d'encerts a la memòria cau — i el programari que s'escriu els seus propis connectors."
-duration: '16:51'
+duration: '16:57'
 episode_number: 27
 season: 1
-soundbite_start: 851.2
+soundbite_start: 853.0
 soundbite_duration: 49.8
 soundbite_title: "L'IA que s'escriu els seus propis connectors i els pot desfer"
 sources:
