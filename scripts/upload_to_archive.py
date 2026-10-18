@@ -530,19 +530,17 @@ def esperar_sense_tasques(identifier, timeout=900):
         time.sleep(espera)
 
 
-def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=480):
-    """Puja la caràtula a un ítem existent i verifica que hi ha arribat."""
+def pujar_a_item_existent(identifier, fitxers, dry_run=False, intents=4, espera=480):
+    """Puja fitxers a un ítem que ja existeix i verifica que hi han arribat.
 
-    identifier = episodi['identifier']
-    cover = cover_path(episodi, project_dir)
-
-    print(f"\n🖼️  Caràtula episodi {episodi['num']}: {episodi['title']}")
-
-    if cover is None:
-        print(f"   ⚠️  No s'ha trobat el thumbnail a assets/thumbnails/ — saltat")
-        return False
-
-    print(f"   Fitxer: {cover.name}")
+    Serveix tant per a la caràtula com per substituir l'MP3 (per exemple, per
+    afegir-hi els jingles retroactivament): tenen el mateix parany del derive
+    en curs que descarta la pujada en silenci. Pujar-los junts en una sola
+    crida estalvia un derive sencer (~15 min) per episodi.
+    """
+    if not isinstance(fitxers, (list, tuple)):
+        fitxers = [fitxers]
+    print(f"   Fitxers: {', '.join(f.name for f in fitxers)}")
     print(f"   Identifier: {identifier}")
 
     if dry_run:
@@ -552,15 +550,17 @@ def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=480):
     try:
         item = get_item(identifier)
         if not item.exists:
-            print(f"   ⚠️  L'ítem no existeix encara a archive.org — puja primer l'MP3")
+            print(f"   ⚠️  L'ítem no existeix encara a archive.org — puja primer l'episodi")
             return False
     except Exception as e:
         print(f"   ❌ Error consultant l'ítem: {e}")
         return False
 
-    mida = cover.stat().st_size
-    if cover_arribada(identifier, cover.name, mida):
-        print(f"   ⏭️  La caràtula ja hi és (nostra, {mida} bytes)")
+    pendents = [f for f in fitxers if not cover_arribada(identifier, f.name, f.stat().st_size)]
+    for f in fitxers:
+        if f not in pendents:
+            print(f"   ⏭️  {f.name} ja hi és (nostre, {f.stat().st_size} bytes)")
+    if not pendents:
         return True
 
     for intent in range(1, intents + 1):
@@ -572,7 +572,7 @@ def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=480):
         try:
             r = upload(
                 identifier,
-                files=[str(cover)],
+                files=[str(f) for f in pendents],
                 verify=True,
                 verbose=True,
                 queue_derive=True,
@@ -583,17 +583,53 @@ def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=480):
         except Exception as e:
             print(f"      ⚠️  Error en pujar: {e}")
 
-        # Verificació real: el codi 200 no és garantia
-        print(f"      🔎 verificant que el fitxer hi és…")
-        if esperar_cover(identifier, cover.name, mida, timeout=espera):
-            print(f"   ✅ Caràtula confirmada a archive.org!")
+        # Verificació real: el codi 200 no és garantia. Els temps d'espera
+        # comencen quan s'acaba la pujada, així que el primer fitxer fa
+        # l'espera llarga i els altres normalment ja hi són.
+        print(f"      🔎 verificant que hi han arribat…")
+        pendents = [f for f in pendents
+                    if not esperar_cover(identifier, f.name, f.stat().st_size, timeout=espera)]
+        if not pendents:
+            print(f"   ✅ Confirmat a archive.org!")
             print(f"   🌐 https://archive.org/details/{identifier}")
             return True
 
-        print(f"      ❌ el fitxer encara no hi és")
+        print(f"      ❌ encara no hi són: {', '.join(f.name for f in pendents)}")
 
-    print(f"   ❌ No s'ha pogut confirmar la caràtula després de {intents} intents")
+    print(f"   ❌ No s'ha pogut confirmar després de {intents} intents")
     return False
+
+
+def pujar_cover(episodi, project_dir, dry_run=False, intents=4, espera=480):
+    """Puja la caràtula a un ítem existent i verifica que hi ha arribat."""
+    print(f"\n🖼️  Caràtula episodi {episodi['num']}: {episodi['title']}")
+    cover = cover_path(episodi, project_dir)
+    if cover is None:
+        print(f"   ⚠️  No s'ha trobat el thumbnail a assets/thumbnails/ — saltat")
+        return False
+    return pujar_a_item_existent(episodi['identifier'], [cover], dry_run, intents, espera)
+
+
+def pujar_mp3(episodi, episodes_dir, dry_run=False, project_dir=None):
+    """Substitueix l'MP3 d'un ítem existent (mateix nom, la URL no canvia).
+
+    Si hi ha caràtula local, la puja a la mateixa crida (un sol derive) i
+    també en verifica l'arribada.
+
+    archive.org processa l'MP3 abans de llistar-lo: triga més de 8 min. Amb
+    l'espera de les caràtules (480 s) es donava per perdut i es tornava a
+    pujar sencer (va passar amb el 038 i el 037). Per això aquí 30 min.
+    """
+    print(f"\n🎵 MP3 episodi {episodi['num']}: {episodi['title']}")
+    fitxer = episodes_dir / episodi['fitxer']
+    if not fitxer.exists():
+        print(f"   ❌ No s'ha trobat {fitxer}")
+        return False
+    fitxers = [fitxer]
+    cover = cover_path(episodi, project_dir or episodes_dir.parent)
+    if cover:
+        fitxers.append(cover)
+    return pujar_a_item_existent(episodi['identifier'], fitxers, dry_run, espera=1800)
 
 
 def pujar_episodi(episodi, episodes_dir, dry_run=False, project_dir=None,
@@ -747,6 +783,9 @@ def main():
                        help='No actualitzar els fitxers markdown')
     parser.add_argument('--nomes-cover', action='store_true',
                        help='Pujar només la caràtula a ítems que ja existeixen (no re-puja l\'MP3)')
+    parser.add_argument('--nomes-mp3', action='store_true',
+                       help='Substituir l\'MP3 (i la caràtula, a la mateixa crida) d\'ítems que ja existeixen '
+                            '(ex: jingles retroactius). No pregunta: verifica que els fitxers hi han arribat')
     parser.add_argument('--sense-cover', action='store_true',
                        help='Permetre publicar un episodi sense caràtula (per defecte s\'atura)')
 
@@ -783,6 +822,20 @@ def main():
         print("📊 RESUM")
         print("=" * 60)
         print(f"✅ Caràtules processades: {ok}/{len(episodis_a_pujar)}")
+        return
+
+    # Mode MP3: substituir l'àudio d'ítems existents
+    if args.nomes_mp3:
+        ok = 0
+        for episodi in episodis_a_pujar:
+            if pujar_mp3(episodi, episodes_dir, dry_run=args.dry_run, project_dir=project_dir):
+                ok += 1
+        print("\n" + "=" * 60)
+        print("📊 RESUM")
+        print("=" * 60)
+        print(f"✅ MP3 processats: {ok}/{len(episodis_a_pujar)}")
+        if ok < len(episodis_a_pujar):
+            sys.exit(1)
         return
 
     # Processar cada episodi
