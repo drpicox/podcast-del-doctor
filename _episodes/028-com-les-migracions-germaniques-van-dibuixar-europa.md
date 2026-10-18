@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-028-com-les-migracions-germaniques-van-dibuixar-europa/028-com-les-migracions-germaniques-van-dibuixar-europa.mp3"
-audio_size: 747029
+audio_size: 795968
 chapters_file: "028-com-les-migracions-germaniques-van-dibuixar-europa-chapters.json"
 date: '2026-09-20'
 description: "L'any 476 cau l'Imperi Romà d'Occident i Europa es converteix en un joc de les cadires a escala continental: els huns aturen la música de cop i tothom corre a buscar seient. En un minut i mig repassem per què es van moure els pobles germànics (més refugiats que invasors), on van anar a parar (angles i saxons a Britània, ostrogots a Itàlia, francs a França) i què va passar quan les noves fronteres van topar: la batalla de Vouillé del 507, que va empènyer els visigots darrere els Pirineus. Versió resum; l'episodi 029 ho explica a fons."
-duration: '01:33'
+duration: '01:39'
 episode_number: 28
 season: 1
-soundbite_start: 19.6
+soundbite_start: 21.4
 soundbite_duration: 21.7
 soundbite_title: "Més refugiats que invasors: l'efecte dòmino dels huns"
 sources:
