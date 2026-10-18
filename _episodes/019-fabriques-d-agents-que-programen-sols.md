@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-019-fabriques-d-agents-que-programen-sols/019-fabriques-d-agents-que-programen-sols.mp3"
-audio_size: 9566177
+audio_size: 9615116
 chapters_file: "019-fabriques-d-agents-que-programen-sols-chapters.json"
 date: '2026-08-05'
 description: "Un enginyer de DoltHub activa el «mode sense límits» per arreglar quatre tests i la seva flota d'agents acaba fusionant codi que no compila a velocitat inhumana: cent dòlars en tòquens en una hora de generar escombraries. Aquest episodi explica la infraestructura que ha nascut per evitar-ho: Beads, l'issue tracker de Steve Yegge amb identificadors immutables i graf de dependències, que va migrar a Dolt perquè Git no aguantava cinquanta agents escrivint alhora; Gas Town i el seu repartiment de Mad Max —alcalde, mofetes, diaca i testimoni—; el PageRank per prioritzar tasques, i Wasteland, la federació de fàbriques que es subcontracten la feina. Tercer episodi de la sèrie sobre arnesos d'agent que obren el 017 i el 018."
-duration: '19:55'
+duration: '20:01'
 episode_number: 19
 season: 1
-soundbite_start: 621.3
+soundbite_start: 623.1
 soundbite_duration: 53.3
 soundbite_title: "Mode sense límits: cent dòlars en una hora destruint el repositori"
 sources:
