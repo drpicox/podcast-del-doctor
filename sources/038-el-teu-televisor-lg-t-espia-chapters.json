@@ -1,0 +1,16 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 038: El teu televisor LG t'espia",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 57.5, "title": "Gamers Nexus: la tele que grava desconnectada" },
+    { "startTime": 124.6, "title": "«Som els amos del vidre»: l'ACR per dins" },
+    { "startTime": 301.2, "title": "Serge Matta i el negoci de Vizio" },
+    { "startTime": 399.5, "title": "La tele que mapeja la xarxa i el veïnat" },
+    { "startTime": 470.3, "title": "RCE, micròfon a 20 metres i telemedicina" },
+    { "startTime": 616.9, "title": "Interruptor físic, dark patterns i 2.700 clics" },
+    { "startTime": 701.9, "title": "Arbitratge forçós i la DMCA 1201" },
+    { "startTime": 794.9, "title": "Reflexió final" }
+  ]
+}
