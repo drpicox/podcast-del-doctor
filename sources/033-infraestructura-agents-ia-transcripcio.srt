@@ -1,1504 +1,1504 @@
 1
-00:00:00,000 --> 00:00:03,860
+00:00:01,770 --> 00:00:05,630
 Pensem en una situació una mica curiosa per començar la immersió a fons d'avui.
 
 2
-00:00:04,460 --> 00:00:10,400
+00:00:06,230 --> 00:00:12,170
 Imaginem que al fons d'un garatge algú dissenya un cotxe conceptual absolutament increïble.
 
 3
-00:00:10,880 --> 00:00:12,420
+00:00:12,650 --> 00:00:14,190
 Sí, d'aquests que semblen del futur, no?
 
 4
-00:00:12,940 --> 00:00:18,680
+00:00:14,710 --> 00:00:20,450
 Exacte. Vull dir, amb un disseny aerodinàmic espectacular, un motor que fa por de la potència que té
 
 5
-00:00:18,680 --> 00:00:23,420
+00:00:20,450 --> 00:00:25,190
 i en un vídeo curt de demostració sembla que provengui directament de l'any 2050.
 
 6
-00:00:24,120 --> 00:00:26,180
+00:00:25,890 --> 00:00:27,950
 Clar, sobre el paper és una autèntica meravella.
 
 7
-00:00:26,180 --> 00:00:29,720
+00:00:27,950 --> 00:00:31,490
 Però el problema sorgeix quan intentem agafar aquest mateix vehicle
 
 8
-00:00:29,720 --> 00:00:32,420
+00:00:31,490 --> 00:00:34,190
 i posar-lo a circular per una autopista real.
 
 9
-00:00:32,740 --> 00:00:34,980
+00:00:34,510 --> 00:00:36,750
 I en hora punta. Un malson.
 
 10
-00:00:35,480 --> 00:00:38,300
+00:00:37,250 --> 00:00:40,070
 En hora punta i amb una tempesta de calamars a sobre, sí.
 
 11
-00:00:38,820 --> 00:00:41,600
+00:00:40,590 --> 00:00:43,370
 Resulta que el creador estava tan centrat en el motor
 
 12
-00:00:41,600 --> 00:00:44,560
+00:00:43,370 --> 00:00:46,330
 que s'ha oblidat d'instal·lar cinturons de seguretat,
 
 13
-00:00:44,940 --> 00:00:47,360
+00:00:46,710 --> 00:00:49,130
 la transmissió no ha estat provada per a canvis bruscos
 
 14
-00:00:47,360 --> 00:00:48,400
+00:00:49,130 --> 00:00:50,170
 i el més greu de tot.
 
 15
-00:00:48,660 --> 00:00:49,320
+00:00:50,430 --> 00:00:51,090
 No hi ha frens.
 
 16
-00:00:49,640 --> 00:00:50,260
+00:00:51,410 --> 00:00:52,030
 No hi ha frens.
 
 17
-00:00:50,600 --> 00:00:52,560
+00:00:52,370 --> 00:00:54,330
 Vaja, que tenim una obra d'art al garatge,
 
 18
-00:00:52,940 --> 00:00:54,540
+00:00:54,710 --> 00:00:56,310
 però un perill mortal a la vida real.
 
 19
-00:00:54,540 --> 00:01:00,060
+00:00:56,310 --> 00:01:01,830
 I aquesta és, de fet, la crisi silenciosa que està vivint el món de la intel·ligència artificial actualment.
 
 20
-00:01:00,540 --> 00:01:02,040
+00:01:02,310 --> 00:01:03,810
 D'acord, anem a desgranar-ho una mica.
 
 21
-00:01:02,520 --> 00:01:05,400
+00:01:04,290 --> 00:01:07,170
 Totalment, perquè, a veure, una cosa és un prototip, oi?
 
 22
-00:01:06,180 --> 00:01:10,900
+00:01:07,950 --> 00:01:12,670
 Un prototip té una única missió, que és demostrar que un concepte teòric
 
 23
-00:01:10,900 --> 00:01:14,160
+00:01:12,670 --> 00:01:15,930
 és possible sota condicions molt, molt controlades.
 
 24
-00:01:14,820 --> 00:01:16,660
+00:01:16,590 --> 00:01:18,430
 I fer això al portàtil de casa és fàcil.
 
 25
-00:01:17,100 --> 00:01:17,540
+00:01:18,870 --> 00:01:19,310
 Exacte.
 
 26
-00:01:17,940 --> 00:01:21,360
+00:01:19,710 --> 00:01:23,130
 Però la viabilitat teòrica no té res a veure amb sobreviure al caos,
 
 27
-00:01:21,360 --> 00:01:24,800
+00:01:23,130 --> 00:01:26,570
 a la impredictibilitat d'un entorn de producció real d'una gran empresa.
 
 28
-00:01:25,180 --> 00:01:26,920
+00:01:26,950 --> 00:01:28,690
 Això planteja una pregunta important.
 
 29
-00:01:27,660 --> 00:01:30,380
+00:01:29,430 --> 00:01:32,150
 Com assoleix una corporació aquesta escalabilitat
 
 30
-00:01:30,380 --> 00:01:34,920
+00:01:32,150 --> 00:01:36,690
 sense haver d'enderrocar i reconstruir tota la seva arquitectura cada dos per tres?
 
 31
-00:01:35,620 --> 00:01:38,460
+00:01:37,390 --> 00:01:40,230
 Clar, perquè avui dia crear una demo d'IA al portàtil
 
 32
-00:01:38,460 --> 00:01:41,780
+00:01:40,230 --> 00:01:43,550
 amb un parell de trucades a un API ho fa qualsevol en un cap de setmana.
 
 33
-00:01:42,260 --> 00:01:44,140
+00:01:44,030 --> 00:01:45,910
 Sembla que el programa raona, que és viu,
 
 34
-00:01:44,560 --> 00:01:47,160
+00:01:46,330 --> 00:01:48,930
 però el salt al món corporatiu és un abisme.
 
 35
-00:01:47,160 --> 00:01:49,340
+00:01:48,930 --> 00:01:51,110
 I la missió de la nostra exploració d'avui
 
 36
-00:01:49,340 --> 00:01:52,080
+00:01:51,110 --> 00:01:53,850
 i és justament entendre com creuem aquest abisme.
 
 37
-00:01:52,580 --> 00:01:56,380
+00:01:54,350 --> 00:01:58,150
 I no estem parlant de generar text per fer un resum d'un BDF,
 
 38
-00:01:56,500 --> 00:01:57,680
+00:01:58,270 --> 00:01:59,450
 que això no té risc.
 
 39
-00:01:58,100 --> 00:02:01,060
+00:01:59,870 --> 00:02:02,830
 No, no, ens basarem en la documentació oficial d'AVSS
 
 40
-00:02:01,060 --> 00:02:04,120
+00:02:02,830 --> 00:02:05,890
 per parlar d'Amazon Bedrock Agent Core i l'ApiConverse.
 
 41
-00:02:04,460 --> 00:02:07,240
+00:02:06,230 --> 00:02:09,010
 Estem parlant de sistemes que prenen decisions per si mateixos.
 
 42
-00:02:07,680 --> 00:02:09,600
+00:02:09,450 --> 00:02:11,370
 Això mateix. Agents autònoms.
 
 43
-00:02:10,260 --> 00:02:13,500
+00:02:12,030 --> 00:02:15,270
 Agents que consulten bases de dades corporatives en temps real
 
 44
-00:02:13,500 --> 00:02:16,380
+00:02:15,270 --> 00:02:18,150
 i, el que fa més vèrtic, executen codi.
 
 45
-00:02:16,700 --> 00:02:18,140
+00:02:18,470 --> 00:02:19,910
 Executen accions reals.
 
 46
-00:02:18,140 --> 00:02:20,640
+00:02:19,910 --> 00:02:22,410
 Sí, accions que poden alterar l'estat d'una aplicació.
 
 47
-00:02:21,320 --> 00:02:23,500
+00:02:23,090 --> 00:02:25,270
 Generar una recepta de cuina no fa mal a ningú,
 
 48
-00:02:23,980 --> 00:02:28,560
+00:02:25,750 --> 00:02:30,330
 però permetre que una IA modifiqui un registre de client en una base de dades activa,
 
 49
-00:02:28,860 --> 00:02:30,100
+00:02:30,630 --> 00:02:31,870
 això ja són paraules majors.
 
 50
-00:02:30,300 --> 00:02:33,080
+00:02:32,070 --> 00:02:34,850
 És que el nivell de risc es multiplica exponencialment.
 
 51
-00:02:33,460 --> 00:02:36,920
+00:02:35,230 --> 00:02:38,690
 I llegint les fonts de AWS, em queda molt clar que el veritable tap,
 
 52
-00:02:37,020 --> 00:02:42,140
+00:02:38,790 --> 00:02:43,910
 el coll d'ampolla per a les empreses, no és fer la IA més intel·ligent.
 
 53
-00:02:42,380 --> 00:02:44,580
+00:02:44,150 --> 00:02:46,350
 No, la lògica de la IA avança sola.
 
 54
-00:02:44,580 --> 00:02:49,160
+00:02:46,350 --> 00:02:50,930
 El drama és com incorpores aquest servei digital dins dels sistemes vells d'una empresa,
 
 55
-00:02:49,300 --> 00:02:50,940
+00:02:51,070 --> 00:02:52,710
 sense trencar-ho absolutament tot.
 
 56
-00:02:51,400 --> 00:02:52,820
+00:02:53,170 --> 00:02:54,590
 Qui li dona permís a la IA?
 
 57
-00:02:53,200 --> 00:02:55,900
+00:02:54,970 --> 00:02:57,670
 Com detectes si falla una connexió en milisegons?
 
 58
-00:02:56,420 --> 00:02:58,400
+00:02:58,190 --> 00:03:00,170
 I, bueno, aquí és on entra AgentCorp.
 
 59
-00:02:58,780 --> 00:03:02,220
+00:03:00,550 --> 00:03:03,990
 Exacte. AgentCorp neix per fer el que en enginyeria en diuen
 
 60
-00:03:02,220 --> 00:03:04,520
+00:03:03,990 --> 00:03:06,290
 la feina feixuga no diferenciada.
 
 61
-00:03:04,880 --> 00:03:06,420
+00:03:06,650 --> 00:03:08,190
 Feina feixuga, una bona traducció.
 
 62
-00:03:07,040 --> 00:03:11,420
+00:03:08,810 --> 00:03:13,190
 O sigui, tot aquell codi pesat, avorrit, que has d'escriure perquè les coses connectin,
 
 63
-00:03:11,420 --> 00:03:14,520
+00:03:13,190 --> 00:03:16,290
 però que no fa que el teu producte sigui millor o pitjor per al client.
 
 64
-00:03:14,860 --> 00:03:16,160
+00:03:16,630 --> 00:03:17,930
 Simplement fa que no exploti.
 
 65
-00:03:16,680 --> 00:03:17,640
+00:03:18,450 --> 00:03:19,410
 Clar, la fontaneria.
 
 66
-00:03:18,040 --> 00:03:19,140
+00:03:19,810 --> 00:03:20,910
 La fontaneria, sí.
 
 67
-00:03:19,620 --> 00:03:21,980
+00:03:21,390 --> 00:03:23,750
 Quan una gent dia ha de fer una tasca complexa,
 
 68
-00:03:22,140 --> 00:03:25,060
+00:03:23,910 --> 00:03:26,830
 posem per cas analitzar el perfil d'un client i fer-li un descompte,
 
 69
-00:03:25,600 --> 00:03:27,680
+00:03:27,370 --> 00:03:29,450
 necessita orquestrar molts sistemes alhora.
 
 70
-00:03:28,060 --> 00:03:29,460
+00:03:29,830 --> 00:03:31,230
 Ha de parlar amb la base de dades.
 
 71
-00:03:29,980 --> 00:03:32,680
+00:03:31,750 --> 00:03:34,450
 I normalment ho farà a través d'un protocol MSP,
 
 72
-00:03:33,240 --> 00:03:34,760
+00:03:35,010 --> 00:03:36,530
 que bàsicament és un estàndard
 
 73
-00:03:34,760 --> 00:03:37,300
+00:03:36,530 --> 00:03:39,070
 perquè la gent sàpiga parlar amb fonts de dades externes.
 
 74
-00:03:37,860 --> 00:03:41,940
+00:03:39,630 --> 00:03:43,710
 I després potser necessita executar un tros de codi ràpidament al núvol.
 
 75
-00:03:41,940 --> 00:03:44,940
+00:03:43,710 --> 00:03:46,710
 Les famoses funcions lambda d'AVSS.
 
 76
-00:03:45,580 --> 00:03:50,560
+00:03:47,350 --> 00:03:52,330
 Exactament. Executar una funció lambda vol dir demanar al núvol que executi un codi a l'instant,
 
 77
-00:03:50,860 --> 00:03:55,380
+00:03:52,630 --> 00:03:57,150
 sense tenir un servidor sencer encès les 24 hores. Tot això s'ha de coordinar.
 
 78
-00:03:55,780 --> 00:04:00,980
+00:03:57,550 --> 00:04:02,750
 Entès. Però clar, a veure, perquè la gent faci tot això necessita credencials, no?
 
 79
-00:04:01,080 --> 00:04:05,040
+00:04:02,850 --> 00:04:06,810
 Vull dir, si jo vaig a la base de dades, he de posar el meu usuari i la meva contrassenya.
 
 80
-00:04:05,620 --> 00:04:08,040
+00:04:07,390 --> 00:04:09,810
 La gent també necessita ensenyar la placa a l'entrada?
 
 81
-00:04:08,720 --> 00:04:14,180
+00:04:10,490 --> 00:04:15,950
 Totalment. I el sistema de seguretat ha de verificar si aquest model concret pot veure dades financeres o no.
 
 82
-00:04:15,020 --> 00:04:19,860
+00:04:16,790 --> 00:04:21,630
 Programar tot això manualment per a cada mínima acció que fa la IA és esgotador per als enginyers.
 
 83
-00:04:20,480 --> 00:04:25,380
+00:04:22,250 --> 00:04:27,150
 O sigui que, tornant a la meva analogia dels cotxes, l'IA és aquest motor ultrapotent,
 
 84
-00:04:25,380 --> 00:04:32,100
+00:04:27,150 --> 00:04:33,870
 però Agent Core seria els xassis de titani, la transmissió i els cinturons de seguretat ja posats.
 
 85
-00:04:32,600 --> 00:04:34,020
+00:04:34,370 --> 00:04:35,790
 M'agrada molt aquesta analogia.
 
 86
-00:04:34,880 --> 00:04:37,500
+00:04:36,650 --> 00:04:39,270
 És que, si poses aquest motor directament a l'asfalt,
 
 87
-00:04:37,940 --> 00:04:41,480
+00:04:39,710 --> 00:04:43,250
 la primera accelerada el desintegra, vull dir, surt volant per la vibració.
 
 88
-00:04:42,060 --> 00:04:45,740
+00:04:43,830 --> 00:04:47,510
 I aquest xassi té valor precisament perquè unifica coses com l'autenticació.
 
 89
-00:04:46,520 --> 00:04:49,740
+00:04:48,290 --> 00:04:51,510
 L'equip ja no s'ha de trencar el cap muntant una barrera de seguretat nova
 
 90
-00:04:49,740 --> 00:04:51,660
+00:04:51,510 --> 00:04:53,430
 cada vegada que volen afegir una eina a la gent.
 
 91
-00:04:52,000 --> 00:04:54,880
+00:04:53,770 --> 00:04:56,650
 L'enginyer s'estalvia setmanes de picar codi inútil.
 
 92
-00:04:55,500 --> 00:04:56,360
+00:04:57,270 --> 00:04:58,130
 Mesos, fins i tot.
 
 93
-00:04:57,080 --> 00:05:00,340
+00:04:58,850 --> 00:05:02,110
 Temps que poden dedicar al que realment importa, que és la lògica de la gent.
 
 94
-00:05:01,200 --> 00:05:02,980
+00:05:02,970 --> 00:05:04,750
 I, ostres, parlant d'aquest estalvi de temps,
 
 95
-00:05:02,980 --> 00:05:07,320
+00:05:04,750 --> 00:05:09,090
 he de fer un incís ràpid perquè m'ha fet moltíssima gràcia una cosa de les fonts.
 
 96
-00:05:07,680 --> 00:05:08,320
+00:05:09,450 --> 00:05:10,090
 Què hi has trobat?
 
 97
-00:05:08,980 --> 00:05:12,120
+00:05:10,750 --> 00:05:13,890
 Repassant la documentació tècnica, m'he trobat un detall ocult,
 
 98
-00:05:12,200 --> 00:05:15,100
+00:05:13,970 --> 00:05:16,870
 una relliscada boníssima, que recorda que al final,
 
 99
-00:05:15,560 --> 00:05:18,620
+00:05:17,330 --> 00:05:20,390
 darrere de tanta intel·ligència artificial, hi ha humans teclejant.
 
 100
-00:05:19,340 --> 00:05:20,640
+00:05:21,110 --> 00:05:22,410
 Alguna errada al codi d'exemple?
 
 101
-00:05:21,100 --> 00:05:24,320
+00:05:22,870 --> 00:05:26,090
 No, pitjor. Una errada a l'apartat de màrqueting corporatiu.
 
 102
-00:05:24,780 --> 00:05:26,720
+00:05:26,550 --> 00:05:28,490
 Estava llegint com lluaven la plataforma,
 
 103
-00:05:27,040 --> 00:05:30,440
+00:05:28,810 --> 00:05:32,210
 dient que els enginyers tindran més temps per innovar, tot molt èpic,
 
 104
-00:05:30,440 --> 00:05:33,000
+00:05:32,210 --> 00:05:34,770
 però arribo a la llista de beneficis mètrics
 
 105
-00:05:33,000 --> 00:05:37,360
+00:05:34,770 --> 00:05:39,130
 i posa textualment que Agent Core ofereix un 0% menys de temps
 
 106
-00:05:37,360 --> 00:05:38,640
+00:05:39,130 --> 00:05:40,410
 dedicat a la infraestructura.
 
 107
-00:05:39,100 --> 00:05:40,840
+00:05:40,870 --> 00:05:42,610
 Un 0%? Ostres!
 
 108
-00:05:41,520 --> 00:05:44,420
+00:05:43,290 --> 00:05:46,190
 Sí, sí, i a més promet una velocitat de desplegament, cito,
 
 109
-00:05:44,800 --> 00:05:46,440
+00:05:46,570 --> 00:05:48,210
 0.0 vegades més ràpida.
 
 110
-00:05:47,200 --> 00:05:47,620
+00:05:48,970 --> 00:05:49,390
 Que bo!
 
 111
-00:05:48,320 --> 00:05:50,400
+00:05:50,090 --> 00:05:52,170
 O sigui, clarament algú estava preparant la web,
 
 112
-00:05:50,740 --> 00:05:53,200
+00:05:52,510 --> 00:05:54,970
 va deixar això com a text de prova, un marcador d'espai,
 
 113
-00:05:53,560 --> 00:05:55,720
+00:05:55,330 --> 00:05:57,490
 pensant a omplir-ho després amb les dades reals,
 
 114
-00:05:55,820 --> 00:05:57,140
+00:05:57,590 --> 00:05:58,910
 i au, ho van publicar així.
 
 115
-00:05:57,140 --> 00:06:00,580
+00:05:58,910 --> 00:06:02,350
 el producte oficialment et fa zero vegades més ràpid.
 
 116
-00:06:01,020 --> 00:06:01,400
+00:06:02,790 --> 00:06:03,170
 Déu-n'hi-do.
 
 117
-00:06:02,300 --> 00:06:06,060
+00:06:04,070 --> 00:06:07,830
 És un recordatori fantàstic que per molta automatització revolucionària
 
 118
-00:06:06,060 --> 00:06:10,260
+00:06:07,830 --> 00:06:12,030
 algú es va oblidar de premre el botó d'actualitzar abans de publicar a producció.
 
 119
-00:06:11,040 --> 00:06:14,520
+00:06:12,810 --> 00:06:16,290
 Exacte. Com a dona, soc una mica escèptica amb l'apocalipsi robot.
 
 120
-00:06:14,940 --> 00:06:18,140
+00:06:16,710 --> 00:06:19,910
 Però veient això, potser se suspèn per un error d'edició, oi?
 
 121
-00:06:18,920 --> 00:06:19,360
+00:06:20,690 --> 00:06:21,130
 Segurament.
 
 122
-00:06:20,020 --> 00:06:23,440
+00:06:21,790 --> 00:06:25,210
 Però bromes a part, els casos reals que si telefon no són cap zero.
 
 123
-00:06:23,940 --> 00:06:26,700
+00:06:25,710 --> 00:06:28,470
 L'impacte, quan aquest exigís s'instal·la bé, és brutal.
 
 124
-00:06:27,140 --> 00:06:30,300
+00:06:28,910 --> 00:06:32,070
 Sí, és clar, hi ha el cas de Druva. Això m'ha impressionat bastant.
 
 125
-00:06:30,920 --> 00:06:33,600
+00:06:32,690 --> 00:06:35,370
 Diuen que han desplegat aquests agents per donar suport tècnic
 
 126
-00:06:33,600 --> 00:06:38,360
+00:06:35,370 --> 00:06:40,130
 i ja estan resolent el 68% de les incidències de forma autònoma, sense cap humà.
 
 127
-00:06:38,940 --> 00:06:40,740
+00:06:40,710 --> 00:06:42,510
 Un 68% és moltíssim.
 
 128
-00:06:41,200 --> 00:06:45,720
+00:06:42,970 --> 00:06:47,490
 I Thomson Reuters també informa d'un 70% d'automatització al seu centre d'enginyeria.
 
 129
-00:06:46,240 --> 00:06:48,640
+00:06:48,010 --> 00:06:50,410
 Però fixa't en un altre cas, que és el de Cox Automotive.
 
 130
-00:06:49,420 --> 00:06:51,900
+00:06:51,190 --> 00:06:53,670
 Ah, sí, les 17 ja. Això és una bogeria.
 
 131
-00:06:52,600 --> 00:06:56,580
+00:06:54,370 --> 00:06:58,350
 Exacte. Van passar de no tenir res a producció, zero agents,
 
 132
-00:06:56,580 --> 00:06:59,520
+00:06:58,350 --> 00:07:01,290
 a tenir-ne 17 d'operatius en menys d'un any.
 
 133
-00:07:00,300 --> 00:07:01,740
+00:07:02,070 --> 00:07:03,510
 És que a mi això em costa de creure.
 
 134
-00:07:02,000 --> 00:07:04,520
+00:07:03,770 --> 00:07:06,290
 Vull dir, jo he vist empreses trigar 8 mesos
 
 135
-00:07:04,520 --> 00:07:06,960
+00:07:06,290 --> 00:07:08,730
 a aprovar una sola integració d'una API bàsica.
 
 136
-00:07:07,420 --> 00:07:09,360
+00:07:09,190 --> 00:07:11,130
 Com arribes a 17 agents autònoms
 
 137
-00:07:09,360 --> 00:07:12,440
+00:07:11,130 --> 00:07:14,210
 sense que la infraestructura sencera col·lapsi per la complexitat?
 
 138
-00:07:12,980 --> 00:07:16,960
+00:07:14,750 --> 00:07:18,730
 Per l'estandardització, si fas 17 agents a mà, l'un per un,
 
 139
-00:07:17,520 --> 00:07:19,400
+00:07:19,290 --> 00:07:21,170
 tens 17 problemes independents.
 
 140
-00:07:19,920 --> 00:07:21,960
+00:07:21,690 --> 00:07:23,730
 Imagina que una clau de seguretat caduca.
 
 141
-00:07:22,580 --> 00:07:24,520
+00:07:24,350 --> 00:07:26,290
 Has d'anar buscant per 17 codis diferents
 
 142
-00:07:24,520 --> 00:07:26,200
+00:07:26,290 --> 00:07:27,970
 a veure on s'amaga un infern.
 
 143
-00:07:26,200 --> 00:07:31,460
+00:07:27,970 --> 00:07:33,230
 Un malson absolut. Però a Magens Core, aquesta capa de memòria i integració és compartida.
 
 144
-00:07:31,880 --> 00:07:35,240
+00:07:33,650 --> 00:07:37,010
 I el més interessant, suporten el que l'enginyer ja estava fent.
 
 145
-00:07:35,840 --> 00:07:37,080
+00:07:37,610 --> 00:07:38,850
 O sigui, no has de començar de zero.
 
 146
-00:07:37,420 --> 00:07:42,840
+00:07:39,190 --> 00:07:44,610
 No. Si un equip ja feia proves amb marcs de treball, com l'AncChain, que és molt famós per connectar coses amb IA,
 
 147
-00:07:43,300 --> 00:07:50,080
+00:07:45,070 --> 00:07:51,850
 o amb les eines d'OpenAI, el sistema d'AWS et permet agafar aquell codi i portar-lo a producció gairebé tal qual.
 
 148
-00:07:50,500 --> 00:07:53,940
+00:07:52,270 --> 00:07:55,710
 Clar. I això ens porta a un dels debats que trobo més fascinants de tot això.
 
 149
-00:07:54,300 --> 00:07:57,300
+00:07:56,070 --> 00:07:59,070
 Tenim el xassi, tenim l'equip a punt per llançar el primer agent,
 
 150
-00:07:57,740 --> 00:07:58,960
+00:07:59,510 --> 00:08:00,730
 però llavors topem amb el mercat,
 
 151
-00:07:59,240 --> 00:08:02,820
+00:08:01,010 --> 00:08:04,590
 perquè els creadors de models d'IA treuen versions noves pràcticament cada dimarts.
 
 152
-00:08:03,120 --> 00:08:05,860
+00:08:04,890 --> 00:08:07,630
 Cada setmana tenim un model nou que promet ser el millor, sí.
 
 153
-00:08:06,220 --> 00:08:08,700
+00:08:07,990 --> 00:08:10,470
 I clar, si jo connecto tots els cables de la meva empresa
 
 154
-00:08:08,700 --> 00:08:11,480
+00:08:10,470 --> 00:08:13,250
 perquè parlin exactament l'idioma del model X
 
 155
-00:08:11,480 --> 00:08:15,720
+00:08:13,250 --> 00:08:17,490
 i al més que bé surt el model Y, que és molt més llest i val la meitat,
 
 156
-00:08:16,200 --> 00:08:17,120
+00:08:17,970 --> 00:08:18,890
 em quedo atrapada, eh?
 
 157
-00:08:17,120 --> 00:08:19,080
+00:08:18,890 --> 00:08:20,850
 Tinc una arquitectura que ja està obsoleta.
 
 158
-00:08:19,560 --> 00:08:21,240
+00:08:21,330 --> 00:08:23,010
 És el clàssic bloqueig de proveïdor.
 
 159
-00:08:21,240 --> 00:08:24,300
+00:08:23,010 --> 00:08:26,070
 i aquí és on Berroch, les fonts, introdueixen l'app i Converse.
 
 160
-00:08:24,940 --> 00:08:28,140
+00:08:26,710 --> 00:08:29,910
 La famosa Converse. Com funciona exactament per evitar això?
 
 161
-00:08:28,660 --> 00:08:32,920
+00:08:30,430 --> 00:08:34,690
 Pensa en Converse com un traductor universal i impecable per a models de missatgeria.
 
 162
-00:08:33,600 --> 00:08:37,280
+00:08:35,370 --> 00:08:39,050
 Cada proveïdor d'IA demana les coses d'una manera lleugerament diferent.
 
 163
-00:08:37,880 --> 00:08:40,900
+00:08:39,650 --> 00:08:42,670
 Amb Converse, l'enginyer només aprèn un idioma, una estructura.
 
 164
-00:08:41,560 --> 00:08:44,500
+00:08:43,330 --> 00:08:46,270
 Escrius el menú de l'app i la lògica una sola vegada.
 
 165
-00:08:44,880 --> 00:08:50,020
+00:08:46,650 --> 00:08:51,790
 Exacte. I el dia que vols canviar el cervell de l'aplicació, literalment canvies una línia de text.
 
 166
-00:08:50,500 --> 00:08:52,460
+00:08:52,270 --> 00:08:54,230
 Només has de posar l'ID del model nou
 
 167
-00:08:52,460 --> 00:08:55,380
+00:08:54,230 --> 00:08:57,150
 i l'ApiConverse s'encarrega d'agafar la teva petició
 
 168
-00:08:55,380 --> 00:08:58,160
+00:08:57,150 --> 00:08:59,930
 i adaptar-la al format estrany que demani el model de torn.
 
 169
-00:08:58,680 --> 00:09:01,460
+00:09:00,450 --> 00:09:03,230
 A veure, llavors, què significa tot això a la pràctica?
 
 170
-00:09:01,620 --> 00:09:03,940
+00:09:03,390 --> 00:09:05,710
 Perquè jo aquí he de fer d'advocada del diable.
 
 171
-00:09:04,540 --> 00:09:06,540
+00:09:06,310 --> 00:09:08,310
 Estic una mica sorpresa per tanta meravella.
 
 172
-00:09:06,820 --> 00:09:09,360
+00:09:08,590 --> 00:09:11,130
 Si estandaritzem la comunicació per a tots els models,
 
 173
-00:09:09,740 --> 00:09:12,900
+00:09:11,510 --> 00:09:14,670
 no estem obligant a fer servir només el mínim denominador comú?
 
 174
-00:09:13,660 --> 00:09:14,580
+00:09:15,430 --> 00:09:16,350
 Entenc per on vas.
 
 175
-00:09:15,040 --> 00:09:16,980
+00:09:16,810 --> 00:09:18,750
 Vull dir, per què vull pagar una fortuna
 
 176
-00:09:16,980 --> 00:09:18,640
+00:09:18,750 --> 00:09:20,410
 per un model superespecialitzat
 
 177
-00:09:18,640 --> 00:09:22,180
+00:09:20,410 --> 00:09:23,950
 si aquesta API universal només em deixa usar les funcions bàsiques
 
 178
-00:09:22,180 --> 00:09:23,800
+00:09:23,950 --> 00:09:25,570
 que tenen tots els models gratuïts.
 
 179
-00:09:24,400 --> 00:09:28,120
+00:09:26,170 --> 00:09:29,890
 No converteix això, tota la innovació, en una talla única,
 
 180
-00:09:28,380 --> 00:09:29,700
+00:09:30,150 --> 00:09:31,470
 superavorrida i limitant?
 
 181
-00:09:29,980 --> 00:09:34,160
+00:09:31,750 --> 00:09:35,930
 És una objecció fantàstica i, de fet, és la queixa tècnica més habitual
 
 182
-00:09:34,160 --> 00:09:36,160
+00:09:35,930 --> 00:09:37,930
 quan poses una capa d'abstracció com aquesta.
 
 183
-00:09:36,920 --> 00:09:38,920
+00:09:38,690 --> 00:09:40,690
 L'estandardització sovint talla les ales.
 
 184
-00:09:39,500 --> 00:09:42,400
+00:09:41,270 --> 00:09:44,170
 Però Converse té un as a la màniga per solucionar aquest dilema.
 
 185
-00:09:42,920 --> 00:09:43,780
+00:09:44,690 --> 00:09:45,550
 A veure, quin as?
 
 186
-00:09:44,280 --> 00:09:47,880
+00:09:46,050 --> 00:09:49,650
 Un camp específic al codi que es diu Additional Model Request Fields.
 
 187
-00:09:47,880 --> 00:09:53,140
+00:09:49,650 --> 00:09:54,910
 Ah sí, ho he vist a la documentació. Això sona com un calaix de sastre per posar-hi excepcions, oi?
 
 188
-00:09:53,520 --> 00:10:02,700
+00:09:55,290 --> 00:10:04,470
 És exactament això. L'API et garanteix que les coses globals, com dir-li al model quina creativitat vols o quina longitud de text, funcionaran amb qualsevol proveïdor.
 
 189
-00:10:03,000 --> 00:10:03,960
+00:10:04,770 --> 00:10:05,730
 La base està coberta.
 
 190
-00:10:04,340 --> 00:10:09,880
+00:10:06,110 --> 00:10:11,650
 Però si demà un proveïdor llança una funció revolucionària que no té ningú més, l'enginyer pot fer servir aquest camp.
 
 191
-00:10:09,880 --> 00:10:12,340
+00:10:11,650 --> 00:10:14,110
 i posa un paquet de dades en format JSON,
 
 192
-00:10:12,780 --> 00:10:15,020
+00:10:14,550 --> 00:10:16,790
 que és un format estàndard de text per moure informació,
 
 193
-00:10:15,520 --> 00:10:18,560
+00:10:17,290 --> 00:10:20,330
 amb instruccions que només aquell model específic sabrà llegir.
 
 194
-00:10:18,680 --> 00:10:20,820
+00:10:20,450 --> 00:10:22,590
 D'acord, o sigui que l'API fa de carter,
 
 195
-00:10:21,260 --> 00:10:23,260
+00:10:23,030 --> 00:10:25,030
 transporta el paquet extra sense tocar-lo
 
 196
-00:10:23,260 --> 00:10:25,140
+00:10:25,030 --> 00:10:26,910
 i li entrega el model de gamma alta.
 
 197
-00:10:25,640 --> 00:10:28,180
+00:10:27,410 --> 00:10:29,950
 Tens l'estabilitat d'un sol idioma per a la teva empresa,
 
 198
-00:10:28,380 --> 00:10:30,120
+00:10:30,150 --> 00:10:31,890
 però pots afegir notes al marge
 
 199
-00:10:30,120 --> 00:10:33,000
+00:10:31,890 --> 00:10:34,770
 per a les capacitats VIP del model, per dir-ho així.
 
 200
-00:10:33,540 --> 00:10:34,200
+00:10:35,310 --> 00:10:35,970
 Exactament això.
 
 201
-00:10:34,780 --> 00:10:36,660
+00:10:36,550 --> 00:10:38,430
 I a les fonts hi ha un exemple molt gràfic.
 
 202
-00:10:37,120 --> 00:10:38,400
+00:10:38,890 --> 00:10:40,170
 L'usuari final simplement demana
 
 203
-00:10:38,400 --> 00:10:42,300
+00:10:40,170 --> 00:10:44,070
 «Vull un article sobre com la inflació alta afecta el producte interior brut».
 
 204
-00:10:42,300 --> 00:10:43,120
+00:10:44,070 --> 00:10:44,890
 Una pregunta senzilla.
 
 205
-00:10:43,520 --> 00:10:44,640
+00:10:45,290 --> 00:10:46,410
 Sí, una cerca típica.
 
 206
-00:10:45,060 --> 00:10:48,100
+00:10:46,830 --> 00:10:49,870
 I l'aplicació ho envia al Clot 3 Sonet d'Antròpic, en l'exemple.
 
 207
-00:10:48,760 --> 00:10:52,700
+00:10:50,530 --> 00:10:54,470
 Però la gràcia és que l'API no envia només aquesta pregunta, oi?
 
 208
-00:10:53,140 --> 00:10:57,020
+00:10:54,910 --> 00:10:58,790
 No, i afegeix el context de l'empresa a través d'un prompt de sistema,
 
 209
-00:10:57,140 --> 00:10:59,920
+00:10:58,910 --> 00:11:01,690
 una instrucció de sistema oculta, que li diu a l'IA
 
 210
-00:10:59,920 --> 00:11:05,720
+00:11:01,690 --> 00:11:07,490
 «Escolta, actua com un economista expert amb accés a grans volums de dades corporatives».
 
 211
-00:11:05,720 --> 00:11:07,780
+00:11:07,490 --> 00:11:09,550
 I aquesta divisió entre el que demana l'usuari
 
 212
-00:11:07,780 --> 00:11:09,460
+00:11:09,550 --> 00:11:11,230
 i la norma oculta que imposa l'empresa
 
 213
-00:11:09,460 --> 00:11:10,840
+00:11:11,230 --> 00:11:12,610
 passa tot per convers.
 
 214
-00:11:11,280 --> 00:11:13,460
+00:11:13,050 --> 00:11:15,230
 Si al mes vinent surt un model d'un altre proveïdor
 
 215
-00:11:13,460 --> 00:11:14,680
+00:11:15,230 --> 00:11:16,450
 que és millor fent d'economista,
 
 216
-00:11:15,060 --> 00:11:16,600
+00:11:16,830 --> 00:11:18,370
 canvies una sola línia de codi.
 
 217
-00:11:17,080 --> 00:11:18,360
+00:11:18,850 --> 00:11:20,130
 No has de refer l'aplicació del client
 
 218
-00:11:18,360 --> 00:11:19,740
+00:11:20,130 --> 00:11:21,510
 ni la integració de dades.
 
 219
-00:11:20,200 --> 00:11:23,000
+00:11:21,970 --> 00:11:24,770
 Aquesta agilitat per canviar de proveïdor d'un dia per l'altre
 
 220
-00:11:23,000 --> 00:11:24,800
+00:11:24,770 --> 00:11:26,570
 és una pressió brutal
 
 221
-00:11:24,800 --> 00:11:26,520
+00:11:26,570 --> 00:11:28,290
 per als creadors d'intel·ligència artificial.
 
 222
-00:11:27,120 --> 00:11:28,200
+00:11:28,890 --> 00:11:29,970
 Si no mantenen el nivell,
 
 223
-00:11:28,340 --> 00:11:30,520
+00:11:30,110 --> 00:11:32,290
 el client els despatxa en 5 minuts.
 
 224
-00:11:30,880 --> 00:11:33,500
+00:11:32,650 --> 00:11:35,270
 Però bé, aquí és on la cosa es posa realment interessant.
 
 225
-00:11:33,740 --> 00:11:34,000
+00:11:35,510 --> 00:11:35,770
 A veure.
 
 226
-00:11:34,200 --> 00:11:35,140
+00:11:35,970 --> 00:11:36,910
 Hem posat els xacis,
 
 227
-00:11:35,140 --> 00:11:37,540
+00:11:36,910 --> 00:11:39,310
 Hem estandarditzat la comunicació amb Converse.
 
 228
-00:11:37,660 --> 00:11:38,980
+00:11:39,430 --> 00:11:40,750
 L'orquestració està feta.
 
 229
-00:11:39,440 --> 00:11:42,580
+00:11:41,210 --> 00:11:44,350
 Però el vertige autèntic de les empreses, la por real,
 
 230
-00:11:43,060 --> 00:11:45,220
+00:11:44,830 --> 00:11:46,990
 arriba quan la gent ha d'executar accions.
 
 231
-00:11:45,360 --> 00:11:46,300
+00:11:47,130 --> 00:11:48,070
 Clar, pitjar el botó.
 
 232
-00:11:46,520 --> 00:11:49,700
+00:11:48,290 --> 00:11:51,470
 Sí, perquè al cap i a la fi, per molt llest que sembli un model de llenguatge,
 
 233
-00:11:49,880 --> 00:11:51,120
+00:11:51,650 --> 00:11:52,890
 no deixa de ser estadística.
 
 234
-00:11:51,500 --> 00:11:53,040
+00:11:53,270 --> 00:11:54,810
 Endevina quina paraula va després.
 
 235
-00:11:53,620 --> 00:11:56,500
+00:11:55,390 --> 00:11:58,270
 Com estàs segur que no me l'interpretarà una ordre i, ups,
 
 236
-00:11:56,740 --> 00:11:59,200
+00:11:58,510 --> 00:12:00,970
 he esborrat tota la base de dades dels clients sense voler?
 
 237
-00:11:59,380 --> 00:12:01,480
+00:12:01,150 --> 00:12:03,250
 Aquest és el pànic corporatiu per excel·lència.
 
 238
-00:12:02,160 --> 00:12:03,820
+00:12:03,930 --> 00:12:05,590
 I l'API ho aborda amb dos mecanismes.
 
 239
-00:12:03,820 --> 00:12:05,600
+00:12:05,590 --> 00:12:07,370
 les eines, o tool config,
 
 240
-00:12:06,060 --> 00:12:08,300
+00:12:07,830 --> 00:12:10,070
 i les barreres de seguretat, o guardrail config.
 
 241
-00:12:08,420 --> 00:12:09,500
+00:12:10,190 --> 00:12:11,270
 D'acord, anem a PAMS.
 
 242
-00:12:09,940 --> 00:12:11,820
+00:12:11,710 --> 00:12:13,590
 Pensem en les eines com si estiguéssim donant
 
 243
-00:12:11,820 --> 00:12:13,560
+00:12:13,590 --> 00:12:15,330
 una targeta de crèdit corporativa
 
 244
-00:12:13,560 --> 00:12:15,900
+00:12:15,330 --> 00:12:17,670
 a un treballador que acaba d'entrar a l'empresa.
 
 245
-00:12:16,660 --> 00:12:17,740
+00:12:18,430 --> 00:12:19,510
 Li donem capacitats.
 
 246
-00:12:18,240 --> 00:12:19,800
+00:12:20,010 --> 00:12:21,570
 La gent ara pot enviar correus,
 
 247
-00:12:20,080 --> 00:12:22,240
+00:12:21,850 --> 00:12:24,010
 fer pagaments, consultar inventaris...
 
 248
-00:12:22,240 --> 00:12:23,220
+00:12:24,010 --> 00:12:24,990
 M'agrada aquesta visió.
 
 249
-00:12:23,380 --> 00:12:24,960
+00:12:25,150 --> 00:12:26,730
 Les eines són la targeta de crèdit,
 
 250
-00:12:25,460 --> 00:12:28,100
+00:12:27,230 --> 00:12:29,870
 però només donar-li la targeta és un risc temerari.
 
 251
-00:12:28,380 --> 00:12:28,820
+00:12:30,150 --> 00:12:30,590
 Exacte.
 
 252
-00:12:28,820 --> 00:12:31,380
+00:12:30,590 --> 00:12:33,150
 I aquí entren els guardrails, les barreres.
 
 253
-00:12:32,060 --> 00:12:35,500
+00:12:33,830 --> 00:12:37,270
 Pensa en això com els límits que et posa el departament financer a la targeta.
 
 254
-00:12:35,560 --> 00:12:40,080
+00:12:37,330 --> 00:12:41,850
 Ah, clar. Pots gastar màxim 200 euros al dia, o només a botigues autoritzades.
 
 255
-00:12:40,240 --> 00:12:44,980
+00:12:42,010 --> 00:12:46,750
 Exacte. La gent té llibertat per utilitzar les seves eines per complir la missió que li has demanat.
 
 256
-00:12:45,340 --> 00:12:46,680
+00:12:47,110 --> 00:12:48,450
 Però dins d'aquests límits.
 
 257
-00:12:47,280 --> 00:12:50,100
+00:12:49,050 --> 00:12:51,870
 Si l'IA intenta fer una acció que incomplés la norma de l'empresa,
 
 258
-00:12:50,460 --> 00:12:52,380
+00:12:52,230 --> 00:12:54,150
 la infraestructura talla la connexió al moment.
 
 259
-00:12:52,900 --> 00:12:54,880
+00:12:54,670 --> 00:12:56,650
 Ni tan sols s'arriba a enviar l'ordre externa.
 
 260
-00:12:55,180 --> 00:12:56,380
+00:12:56,950 --> 00:12:58,150
 És prevenció des de fora.
 
 261
-00:12:57,180 --> 00:12:59,600
+00:12:58,950 --> 00:13:01,370
 Però hi ha un altre elefant a l'habitació.
 
 262
-00:13:00,120 --> 00:13:03,740
+00:13:01,890 --> 00:13:05,510
 Si jo poso documents confidencials de la meva empresa dins d'aquests sistemes,
 
 263
-00:13:04,140 --> 00:13:06,440
+00:13:05,910 --> 00:13:08,210
 el meu pànic no és només que la gent s'equivoqui,
 
 264
-00:13:06,800 --> 00:13:09,820
+00:13:08,570 --> 00:13:11,590
 és que Amazon es guardi les meves dades per entrenar futurs models.
 
 265
-00:13:10,700 --> 00:13:14,480
+00:13:12,470 --> 00:13:16,250
 I és per això que la política de privacitat que s'aplica és innegociable.
 
 266
-00:13:15,140 --> 00:13:18,100
+00:13:16,910 --> 00:13:19,870
 A OBS afirma rotundament que no guarda cap document,
 
 267
-00:13:18,100 --> 00:13:22,580
+00:13:19,870 --> 00:13:24,350
 cap imatge ni cap transcripció de les converses per entrenar els seus models futurs.
 
 268
-00:13:23,100 --> 00:13:25,680
+00:13:24,870 --> 00:13:27,450
 Si això no fos així, cap banc o hospital s'hi acostaria.
 
 269
-00:13:26,140 --> 00:13:30,320
+00:13:27,910 --> 00:13:32,090
 Si l'historial d'un pacient d'una clínica serveix per fer més llest el chatbot d'una altra clínica,
 
 270
-00:13:30,680 --> 00:13:32,260
+00:13:32,450 --> 00:13:34,030
 s'ha acabat el projecte de seguida, sí.
 
 271
-00:13:32,860 --> 00:13:34,760
+00:13:34,630 --> 00:13:36,530
 Però, tornant als límits de la gent,
 
 272
-00:13:35,140 --> 00:13:39,880
+00:13:36,910 --> 00:13:41,650
 jo tinc un dubte molt fonamental sobre com fan que aquests guardarrells siguin infal·libles.
 
 273
-00:13:40,780 --> 00:13:41,140
+00:13:42,550 --> 00:13:42,910
 Quin dubte?
 
 274
-00:13:41,640 --> 00:13:45,260
+00:13:43,410 --> 00:13:47,030
 Com pots estar segur al 100% que el model no s'assaltarà a la barrera?
 
 275
-00:13:45,580 --> 00:13:49,380
+00:13:47,350 --> 00:13:51,150
 Perquè l'IA pot generar respostes molt boges, respostes infinites, de fet.
 
 276
-00:13:49,380 --> 00:13:54,880
+00:13:51,150 --> 00:13:56,650
 El que resulta fascinant d'això és la tecnologia que fa servir AgentCore per verificar aquestes regles.
 
 277
-00:13:54,880 --> 00:13:57,880
+00:13:56,650 --> 00:13:59,650
 I aquí entrem en el terreny del raonament automatitzat.
 
 278
-00:13:58,980 --> 00:14:00,880
+00:14:00,750 --> 00:14:02,650
 Espera un moment. Raonament automatitzat.
 
 279
-00:14:01,760 --> 00:14:04,720
+00:14:03,530 --> 00:14:06,490
 Això sona a un truc de màrqueting abstracte.
 
 280
-00:14:05,320 --> 00:14:09,280
+00:14:07,090 --> 00:14:11,050
 Com apliques matemàtiques teòriques a un bot perquè no es borri una taula d'Excel?
 
 281
-00:14:09,580 --> 00:14:11,000
+00:14:11,350 --> 00:14:12,770
 No estem fent classe de geometria.
 
 282
-00:14:11,620 --> 00:14:14,460
+00:14:13,390 --> 00:14:16,230
 És que la lògica, de fet, és gairebé idèntica a la geometria.
 
 283
-00:14:15,000 --> 00:14:18,480
+00:14:16,770 --> 00:14:20,250
 Històricament, els programadors escriuen milers de tests per veure on falla un codi.
 
 284
-00:14:18,800 --> 00:14:21,300
+00:14:20,570 --> 00:14:23,070
 Però, com has dit, amb una IA les variacions són infinites.
 
 285
-00:14:21,420 --> 00:14:22,720
+00:14:23,190 --> 00:14:24,490
 Impossible aprovar-les totes.
 
 286
-00:14:23,020 --> 00:14:29,180
+00:14:24,790 --> 00:14:30,950
 Impossible. El que fa el raonament automatitzat és traduir l'arquitectura del codi a fórmules matemàtiques formals.
 
 287
-00:14:29,620 --> 00:14:33,880
+00:14:31,390 --> 00:14:35,650
 L'enginyer defineix el que la gent no pot fer com si fos una equació matemàtica.
 
 288
-00:14:34,200 --> 00:14:35,100
+00:14:35,970 --> 00:14:36,870
 I llavors, què passa?
 
 289
-00:14:35,460 --> 00:14:41,260
+00:14:37,230 --> 00:14:43,030
 Llavors el sistema processa el codi sencer i demostra matemàticament que és impossible arribar a aquest error.
 
 290
-00:14:41,760 --> 00:14:44,960
+00:14:43,530 --> 00:14:46,730
 És a dir, no és que hagin provat 10.000 vegades i no hagi fallat.
 
 291
-00:14:44,960 --> 00:14:50,020
+00:14:46,730 --> 00:14:51,790
 És que, sota les lleis de la matemàtica que regeixen el programa, aquell camí està clausurat.
 
 292
-00:14:50,020 --> 00:14:55,700
+00:14:51,790 --> 00:14:57,470
 Ostres! O sigui, la seguretat no és probabilitat, sinó matemàtica irrefutable.
 
 293
-00:14:56,100 --> 00:14:56,700
+00:14:57,870 --> 00:14:58,470
 Exacte.
 
 294
-00:14:56,960 --> 00:14:58,740
+00:14:58,730 --> 00:15:00,510
 I pensa que això no és un experiment d'ara.
 
 295
-00:14:59,020 --> 00:15:06,580
+00:15:00,790 --> 00:15:08,350
 És exactament la mateixa tecnologia teòrica que AWS porta anys utilitzant per protegir coses hipercrítiques,
 
 296
-00:15:07,000 --> 00:15:11,700
+00:15:08,770 --> 00:15:13,470
 com la identitat d'usuaris, l'IAM, i els seus servidors d'emmagatzematge, els S3.
 
 297
-00:15:12,180 --> 00:15:14,120
+00:15:13,950 --> 00:15:15,890
 Déu-n'hi-do, això sí que ho canvia tot.
 
 298
-00:15:14,540 --> 00:15:17,880
+00:15:16,310 --> 00:15:19,650
 No estàs confiant que la gent sigui bon minyó i faci cas del text.
 
 299
-00:15:17,880 --> 00:15:21,340
+00:15:19,650 --> 00:15:23,110
 L'estàs tancant en una presó matemàtica d'on no pots sortir.
 
 300
-00:15:21,980 --> 00:15:24,560
+00:15:23,750 --> 00:15:26,330
 Però què passa si la gent no fa res perillós,
 
 301
-00:15:24,940 --> 00:15:27,800
+00:15:26,710 --> 00:15:29,570
 sinó que simplement s'encalla i es posa a fer voltes inútils,
 
 302
-00:15:28,180 --> 00:15:29,760
+00:15:29,950 --> 00:15:31,530
 perquè la gent pensa en milisegons?
 
 303
-00:15:30,160 --> 00:15:31,020
+00:15:31,930 --> 00:15:32,790
 Com saps què ha passat?
 
 304
-00:15:31,680 --> 00:15:32,660
+00:15:33,450 --> 00:15:34,430
 L'observabilitat.
 
 305
-00:15:33,320 --> 00:15:35,020
+00:15:35,090 --> 00:15:36,790
 La infraestructura t'obre la caixa negra.
 
 306
-00:15:35,620 --> 00:15:37,520
+00:15:37,390 --> 00:15:39,290
 El desenvolupador no rep un error genèric.
 
 307
-00:15:37,760 --> 00:15:39,020
+00:15:39,530 --> 00:15:40,790
 Ah, rep el raonament.
 
 308
-00:15:39,560 --> 00:15:41,080
+00:15:41,330 --> 00:15:42,850
 Pot veure el rastre, pas a pas.
 
 309
-00:15:41,760 --> 00:15:43,300
+00:15:43,530 --> 00:15:45,070
 Quina deducció inicial va fer la gent?
 
 310
-00:15:43,900 --> 00:15:45,420
+00:15:45,670 --> 00:15:47,190
 Per què va triar l'eina A i no la B?
 
 311
-00:15:45,920 --> 00:15:47,100
+00:15:47,690 --> 00:15:48,870
 Quins paràmetres va enviar?
 
 312
-00:15:47,100 --> 00:15:48,260
+00:15:48,870 --> 00:15:50,030
 tot detallat.
 
 313
-00:15:48,940 --> 00:15:50,820
+00:15:50,710 --> 00:15:52,590
 Com la caixa negra d'un avió després de caure.
 
 314
-00:15:51,320 --> 00:15:52,900
+00:15:53,090 --> 00:15:54,670
 Això ha de ser clau per saber si l'IA
 
 315
-00:15:52,900 --> 00:15:55,120
+00:15:54,670 --> 00:15:56,890
 s'ha fet un embolic o si, senzillament,
 
 316
-00:15:55,240 --> 00:15:57,140
+00:15:57,010 --> 00:15:58,910
 la teva pròpia base de dades havia caigut
 
 317
-00:15:57,140 --> 00:15:58,880
+00:15:58,910 --> 00:16:00,650
 un minut i per això ha fallat l'acció.
 
 318
-00:15:59,620 --> 00:16:01,080
+00:16:01,390 --> 00:16:02,850
 Exactament. T'estalvia
 
 319
-00:16:01,080 --> 00:16:02,820
+00:16:02,850 --> 00:16:04,590
 dies intentant endevinar què ha passat
 
 320
-00:16:02,820 --> 00:16:05,200
+00:16:04,590 --> 00:16:06,970
 i pots iterar les solucions en temps real.
 
 321
-00:16:05,980 --> 00:16:07,000
+00:16:07,750 --> 00:16:08,770
 En resum, hem vist
 
 322
-00:16:07,000 --> 00:16:08,800
+00:16:08,770 --> 00:16:10,570
 perfectament per què intentar construir
 
 323
-00:16:08,800 --> 00:16:10,780
+00:16:10,570 --> 00:16:12,550
 tota aquesta fontaneria amalçada
 
 324
-00:16:10,780 --> 00:16:12,800
+00:16:12,550 --> 00:16:14,570
 al teu garatge és un bitllet directe
 
 325
-00:16:12,800 --> 00:16:14,840
+00:16:14,570 --> 00:16:16,610
 al caos corporatiu. Eines com
 
 326
-00:16:14,840 --> 00:16:17,060
+00:16:16,610 --> 00:16:18,830
 AgentCourse o l'ApiConverse et treuen
 
 327
-00:16:17,060 --> 00:16:18,860
+00:16:18,830 --> 00:16:20,630
 el pes immens de l'autenticació,
 
 328
-00:16:19,180 --> 00:16:21,220
+00:16:20,950 --> 00:16:22,990
 la connexió i la seguretat matemàtica.
 
 329
-00:16:21,820 --> 00:16:22,940
+00:16:23,590 --> 00:16:24,710
 Alliberen el talent humà
 
 330
-00:16:22,940 --> 00:16:24,740
+00:16:24,710 --> 00:16:26,510
 perquè dissenyi el valor real de la gent.
 
 331
-00:16:25,140 --> 00:16:26,620
+00:16:26,910 --> 00:16:28,390
 Si em permets, si connectem això
 
 332
-00:16:26,620 --> 00:16:28,860
+00:16:28,390 --> 00:16:30,630
 amb la perspectiva general, cap a on anem?
 
 333
-00:16:29,140 --> 00:16:30,780
+00:16:30,910 --> 00:16:32,550
 Endavant. Pensem en el que
 
 334
-00:16:30,780 --> 00:16:32,140
+00:16:32,550 --> 00:16:33,910
 acabem de descriure pas a pas.
 
 335
-00:16:32,920 --> 00:16:34,500
+00:16:34,690 --> 00:16:36,270
 Tenim una xarxa que connecta IA,
 
 336
-00:16:34,820 --> 00:16:36,560
+00:16:36,590 --> 00:16:38,330
 dades i eines de manera impecable.
 
 337
-00:16:37,260 --> 00:16:38,620
+00:16:39,030 --> 00:16:40,390
 Tenim un sistema de vigilància,
 
 338
-00:16:39,000 --> 00:16:40,700
+00:16:40,770 --> 00:16:42,470
 l'observabilitat, que mesura
 
 339
-00:16:40,700 --> 00:16:42,520
+00:16:42,470 --> 00:16:44,290
 en temps real l'eficiència i els errors
 
 340
-00:16:42,520 --> 00:16:44,740
+00:16:44,290 --> 00:16:46,510
 d'aquestes tasques. I tenim la capacitat
 
 341
-00:16:44,740 --> 00:16:46,540
+00:16:46,510 --> 00:16:48,310
 d'intercanviar un model del proveïdor
 
 342
-00:16:46,540 --> 00:16:48,480
+00:16:48,310 --> 00:16:50,250
 A pel model del proveïdor B
 
 343
-00:16:48,480 --> 00:16:51,000
+00:16:50,250 --> 00:16:52,770
 a l'instant només canviant un nom al codi.
 
 344
-00:16:51,160 --> 00:16:51,800
+00:16:52,930 --> 00:16:53,570
 D'acord, sí.
 
 345
-00:16:52,200 --> 00:16:54,220
+00:16:53,970 --> 00:16:55,990
 De forma colateral, acabem de llistar
 
 346
-00:16:54,220 --> 00:16:55,980
+00:16:55,990 --> 00:16:57,750
 totes les condicions prèvies necessàries
 
 347
-00:16:55,980 --> 00:16:59,220
+00:16:57,750 --> 00:17:00,990
 per crear el primer model de gestió autònoma corporativa.
 
 348
-00:16:59,680 --> 00:17:01,140
+00:17:01,450 --> 00:17:02,910
 Un model de gestió autònoma?
 
 349
-00:17:01,500 --> 00:17:02,760
+00:17:03,270 --> 00:17:04,530
 Per fer què exactament?
 
 350
-00:17:02,900 --> 00:17:03,540
+00:17:04,670 --> 00:17:05,310
 Dirigir l'empresa?
 
 351
-00:17:04,000 --> 00:17:06,620
+00:17:05,770 --> 00:17:08,390
 Per gestionar la feina de les altres intel·ligències artificials.
 
 352
-00:17:07,300 --> 00:17:07,640
+00:17:09,070 --> 00:17:09,410
 Pensa-hi.
 
 353
-00:17:08,060 --> 00:17:10,380
+00:17:09,830 --> 00:17:12,150
 Si ja no has de reescriure el codi per canviar de model,
 
 354
-00:17:10,780 --> 00:17:12,960
+00:17:12,550 --> 00:17:14,730
 en un futur no molt llunyà ja no caldrà un humà
 
 355
-00:17:12,960 --> 00:17:15,620
+00:17:14,730 --> 00:17:17,390
 que decideixi quina IA és millor per redactar correus
 
 356
-00:17:15,620 --> 00:17:17,280
+00:17:17,390 --> 00:17:19,050
 i quina és millor per buscar dades.
 
 357
-00:17:17,740 --> 00:17:19,240
+00:17:19,510 --> 00:17:21,010
 T'estic seguint i tela.
 
 358
-00:17:19,800 --> 00:17:22,740
+00:17:21,570 --> 00:17:24,510
 Un agent d'IA, configurat exclusivament com a mànager,
 
 359
-00:17:22,840 --> 00:17:25,240
+00:17:24,610 --> 00:17:27,010
 com a supervisor general, rebrà un encàrrec.
 
 360
-00:17:25,820 --> 00:17:28,180
+00:17:27,590 --> 00:17:29,950
 Aquest supervisor vigilarà les mètriques d'eficiència
 
 361
-00:17:28,180 --> 00:17:29,660
+00:17:29,950 --> 00:17:31,430
 i de cop podrà dir
 
 362
-00:17:29,660 --> 00:17:33,400
+00:17:31,430 --> 00:17:35,170
 aquest model d'OpenAI està massa lent avui, l'acomiado.
 
 363
-00:17:34,020 --> 00:17:36,720
+00:17:35,790 --> 00:17:38,490
 I automàticament desviarà tot el trànsit d'aquella tasca
 
 364
-00:17:36,720 --> 00:17:38,200
+00:17:38,490 --> 00:17:39,970
 cap a un model d'anthropic
 
 365
-00:17:38,200 --> 00:17:41,080
+00:17:39,970 --> 00:17:42,850
 que està responent més ràpid i barat a l'altra punta de la xarxa.
 
 366
-00:17:41,620 --> 00:17:45,200
+00:17:43,390 --> 00:17:46,970
 O sigui, empreses on el comandament internet és una IA,
 
 367
-00:17:45,200 --> 00:17:52,860
+00:17:46,970 --> 00:17:54,630
 la feina de la qual és exclusivament avaluar, contractar i acomiadar els agents dia més petits que fan la feina de base.
 
 368
-00:17:53,320 --> 00:17:58,540
+00:17:55,090 --> 00:18:00,310
 Una jerarquia corporativa invisible de models operant a la velocitat de la llum.
 
 369
-00:17:59,160 --> 00:17:59,680
+00:18:00,930 --> 00:18:01,450
 Ostres!
 
 370
-00:18:00,220 --> 00:18:03,040
+00:18:01,990 --> 00:18:04,810
 Operant sobre el xassi estandaritzat que permet tot això.
 
 371
-00:18:03,480 --> 00:18:04,100
+00:18:05,250 --> 00:18:05,870
 És fascinant.
 
 372
-00:18:04,660 --> 00:18:07,900
+00:18:06,430 --> 00:18:09,670
 El prototip brillant del garatge ha donat pas a una autopista
 
 373
-00:18:07,900 --> 00:18:12,880
+00:18:09,670 --> 00:18:14,650
 on els cotxes es canviaran el seu propi motor autònomament i en plena marxa, sense frenar.
 
 374
-00:18:12,880 --> 00:18:16,360
+00:18:14,650 --> 00:18:18,130
 Una revolució silenciosa a la infraestructura.
 
 375
-00:18:17,040 --> 00:18:21,060
+00:18:18,810 --> 00:18:22,830
 Sens dubte. Deixem aquesta reflexió profunda sobre la taula per a qui ens escolta.
 
 376
-00:18:21,500 --> 00:18:22,980
+00:18:23,270 --> 00:18:24,750
 Ens retrobem a la propera immersió.
 

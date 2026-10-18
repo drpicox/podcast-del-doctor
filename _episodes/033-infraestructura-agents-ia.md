@@ -1,13 +1,13 @@
 ---
 audio_file: "https://archive.org/download/podcast-del-doctor-033-infraestructura-agents-ia/033-infraestructura-agents-ia.mp3"
-audio_size: 8827016
+audio_size: 8875955
 chapters_file: "033-infraestructura-agents-ia-chapters.json"
 date: '2026-09-29'
 description: "Un cotxe conceptual espectacular al garatge, amb un motor que fa por... i sense frens. Així són moltes demos d'agents d'IA quan intenten sortir a producció. Amb la documentació d'AWS, parlem del xassi que els falta: AgentCore i la fontaneria feixuga (credencials, MCP, lambdas), l'API Converse per canviar de model amb una sola línia, les eines i els guardrails com una targeta de crèdit amb límits, el raonament automatitzat que demostra matemàticament que un error és impossible, i l'observabilitat com a caixa negra. I una pregunta final: qui dirigirà els agents quan el mànager també sigui una IA?"
-duration: '18:23'
+duration: '18:29'
 episode_number: 33
 season: 1
-soundbite_start: 839.0
+soundbite_start: 840.8
 soundbite_duration: 82.4
 soundbite_title: "Seguretat demostrada, no provada: la presó matemàtica dels agents"
 sources:
