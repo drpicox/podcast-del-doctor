@@ -403,6 +403,16 @@ EPISODIS = [
         "duration": "14:28",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "smart tv", "privacitat", "lg", "gamers nexus", "acr", "seguretat", "dark patterns", "dmca", "català"]
     },
+    {
+        "num": "039",
+        "fitxer": "039-com-construir-agents-ia-efectius.mp3",
+        "identifier": "podcast-del-doctor-039-com-construir-agents-ia-efectius",
+        "title": "Episodi 039: Com construir agents d'IA que acabin la feina",
+        "description": "Programar era conduir un tren per unes vies; treballar amb agents d'IA s'assembla més a domar un cavall salvatge. A partir de dos articles d'Anthropic, la documentació de Claude Code i un fil de beamnxw, veiem per què cal evitar els agents sempre que es pugui, què és la putrefacció del context, com Claude va començar a prendre notes tot sol jugant a Pokémon, per què una eina a prova d'errors val més que mil instruccions i com és un arnès de set capes per a tasques llargues amb Opus 5.5. I una paradoxa final: per fer funcionar la IA hem reinventat la burocràcia.",
+        "date": "2026-11-03",
+        "duration": "19:50",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude code", "enginyeria de context", "arnès", "mcp", "opus", "català"]
+    },
 ]
 
 

@@ -1,0 +1,47 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 039: Com construir agents d'IA que acabin la feina",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Introducció"
+    },
+    {
+      "startTime": 145.2,
+      "title": "Si pots, no construeixis un agent: fluxos de treball i agents"
+    },
+    {
+      "startTime": 286.7,
+      "title": "Enginyeria de context: la putrefacció del context"
+    },
+    {
+      "startTime": 451.3,
+      "title": "Memòria: cerca just a temps i compactació"
+    },
+    {
+      "startTime": 513.9,
+      "title": "L'anècdota de Pokémon i els subagents"
+    },
+    {
+      "startTime": 603.5,
+      "title": "Eines a prova d'errors: ACI i poka-yoke"
+    },
+    {
+      "startTime": 730.4,
+      "title": "Hooks: la seguretat fora del cervell de la IA"
+    },
+    {
+      "startTime": 780.4,
+      "title": "L'arnès de set capes per a Opus 5.5"
+    },
+    {
+      "startTime": 1009.0,
+      "title": "progress.md: el testimoni de la cursa de relleus"
+    },
+    {
+      "startTime": 1054.3,
+      "title": "Reflexió final: la burocràcia de la IA"
+    }
+  ]
+}

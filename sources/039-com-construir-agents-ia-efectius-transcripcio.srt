@@ -1,0 +1,1596 @@
+1
+00:00:00,000 --> 00:00:04,480
+Normalment, quan pensem en programar un ordinador,
+
+2
+00:00:04,980 --> 00:00:07,600
+esperem una precisió absoluta, oi?
+
+3
+00:00:07,940 --> 00:00:11,380
+És com si fóssim enginyers construint un pont penjant.
+
+4
+00:00:12,100 --> 00:00:13,360
+Escrius una línia de codi,
+
+5
+00:00:13,780 --> 00:00:15,780
+li dius a la màquina exactament què ha de fer
+
+6
+00:00:15,780 --> 00:00:18,680
+i ho executa pas per pas, de dalt a baix.
+
+7
+00:00:19,320 --> 00:00:20,540
+Sí, sí, i si hi ha un error,
+
+8
+00:00:20,960 --> 00:00:22,400
+si el pont trontolla, per dir-ho així,
+
+9
+00:00:22,920 --> 00:00:25,200
+assenyales la línia i dius, aquí falta un punt i coma.
+
+10
+00:00:26,320 --> 00:00:26,720
+Exacte.
+
+11
+00:00:26,720 --> 00:00:29,780
+És, o sigui, saps que si ho fas bé, funcionarà.
+
+12
+00:00:30,000 --> 00:00:34,540
+És un bon binari, clar. Tot es redueix a un sí o a un no. Funciona o no funciona.
+
+13
+00:00:35,140 --> 00:00:38,620
+I aquesta predictibilitat, vull dir, aquesta cosa tan mecànica,
+
+14
+00:00:39,000 --> 00:00:42,680
+ens ha donat durant dècades una il·lusió de control total sobre les nostres eines.
+
+15
+00:00:43,280 --> 00:00:47,780
+Però clar, de cop i volta, entrem en el món d'aquests sistemes d'intel·ligència artificial moderns
+
+16
+00:00:47,780 --> 00:00:52,700
+i tota aquesta mentalitat d'enginyeria clàssica es queda, bé, es queda completament curta.
+
+17
+00:00:53,040 --> 00:00:54,020
+Totalment obsoleta, sí.
+
+18
+00:00:54,600 --> 00:00:58,380
+Ja no estem dictant passos en un buit on l'ordinador simplement ho obeeix.
+
+19
+00:00:58,380 --> 00:01:02,620
+ara estem mirant cap a un paisatge on les màquines prenen decisions soles.
+
+20
+00:01:03,220 --> 00:01:06,000
+Per mi és com passar de conduir un tren per unes vies de ferro
+
+21
+00:01:06,000 --> 00:01:08,160
+a intentar domar un cavall salvatge.
+
+22
+00:01:08,660 --> 00:01:11,620
+M'agrada aquesta analogia, perquè aquest canvi de paradigma
+
+23
+00:01:11,620 --> 00:01:15,240
+és precisament el que fa que els desenvolupadors estiguin replantejant-se
+
+24
+00:01:15,240 --> 00:01:16,840
+com interactuem amb les màquines.
+
+25
+00:01:17,520 --> 00:01:19,720
+O sigui, ja no microgestionem instruccions.
+
+26
+00:01:20,120 --> 00:01:21,360
+Orquestrem comportaments.
+
+27
+00:01:21,740 --> 00:01:23,800
+Això mateix. Estem delegant l'agència.
+
+28
+00:01:24,360 --> 00:01:26,900
+Estem dient a la màquina que decideixi com arribar a l'objectiu.
+
+29
+00:01:26,900 --> 00:01:29,880
+I justament d'això tracta la nostra anàlisi a fons d'avui.
+
+30
+00:01:30,540 --> 00:01:34,820
+Volem desxifrar com construir i gestionar aquests sistemes d'IA autònoms,
+
+31
+00:01:34,940 --> 00:01:36,380
+el que la gent anomena agents,
+
+32
+00:01:36,860 --> 00:01:40,020
+perquè realment funcionin per tasques llargues i complexes.
+
+33
+00:01:40,420 --> 00:01:43,100
+Perquè sobre el paper sonen molt bé, però a la pràctica...
+
+34
+00:01:43,100 --> 00:01:44,660
+A la pràctica són un caos, de vegades.
+
+35
+00:01:45,020 --> 00:01:49,600
+L'objectiu avui és entendre com aconseguir que una IA treballi durant hores en un projecte
+
+36
+00:01:49,600 --> 00:01:53,860
+sense perdre el rumb i, molt important, sense rebentar el pressupost pel camí.
+
+37
+00:01:54,260 --> 00:01:56,340
+I ho farem basant-nos en algunes fonts brutals.
+
+38
+00:01:56,340 --> 00:02:02,940
+Sí, tenim un menú molt complet. Analitzarem les investigacions recents d'Anthropic sobre com construir agents efectius,
+
+39
+00:02:03,520 --> 00:02:11,320
+també mirarem la plataforma Claude Code i explorarem a fons un fil molt pràctic del desenvolupador beamnxw
+
+40
+00:02:11,320 --> 00:02:15,920
+sobre com muntar un arnès de 7 capes per al model Opus 5.5.
+
+41
+00:02:16,260 --> 00:02:22,280
+Com a algú que li apassiona tot això, estic molt sorpresa i fascinada per com passem d'escriure simples instruccions
+
+42
+00:02:22,280 --> 00:02:24,760
+a crear autèntics ecosistemes de treball.
+
+43
+00:02:25,180 --> 00:02:27,680
+Però vull començar just per la investigació d'Anthropic,
+
+44
+00:02:27,820 --> 00:02:30,360
+perquè la primera lliçó et trenca els esquemes.
+
+45
+00:02:30,940 --> 00:02:32,200
+Ah, sí, la regla d'or.
+
+46
+00:02:32,960 --> 00:02:38,140
+Exacte. Bàsicament diuen que si pots evitar construir un agent autònom, que ho evitis.
+
+47
+00:02:38,760 --> 00:02:40,540
+És un avís per a navegants molt clar.
+
+48
+00:02:41,080 --> 00:02:46,220
+La seva recomanació oficial és construir sempre, sempre, la solució més simple possible.
+
+49
+00:02:46,720 --> 00:02:50,640
+I només afegir complexitat quan el rendiment de la tasca ho exigeixi absolutament.
+
+50
+00:02:51,220 --> 00:02:55,340
+Per entendre això, fan una distinció molt bona entre fluxos de treball i agents.
+
+51
+00:02:56,100 --> 00:02:58,320
+A veure, deixa'm provar amb l'analogia d'abans.
+
+52
+00:02:58,800 --> 00:03:02,660
+Un flux de treball, o el que en diuen workflow, seria el tren, no?
+
+53
+00:03:03,040 --> 00:03:04,360
+Tu estableixes les estacions.
+
+54
+00:03:04,720 --> 00:03:06,400
+Si jo vull fer una campanya de màrqueting,
+
+55
+00:03:06,560 --> 00:03:08,760
+el tren passa primer per escriure esborrany,
+
+56
+00:03:09,080 --> 00:03:11,720
+després per traduir i, finalment, per publicar.
+
+57
+00:03:12,220 --> 00:03:13,580
+L'home ha posat les vies.
+
+58
+00:03:14,260 --> 00:03:14,620
+Tal qual.
+
+59
+00:03:14,980 --> 00:03:18,500
+I l'agent autònom seria donar-li el vehicle tot terreny, amb un mapa,
+
+60
+00:03:18,920 --> 00:03:19,980
+i dir-li que es busqui la vida.
+
+61
+00:03:19,980 --> 00:03:23,040
+que trobi la ruta i si hi ha un riu, doncs que busqui un pont.
+
+62
+00:03:23,680 --> 00:03:25,960
+Però clar, si connectem això amb la imatge general,
+
+63
+00:03:26,420 --> 00:03:29,280
+anar en tot terreny consumirà molta més benzina que anar en tren.
+
+64
+00:03:30,140 --> 00:03:30,820
+Moltíssima més.
+
+65
+00:03:31,360 --> 00:03:34,180
+I en termes d'IA, aquesta benzina és literalment
+
+66
+00:03:34,180 --> 00:03:36,580
+la latència computacional i els diners.
+
+67
+00:03:37,320 --> 00:03:39,980
+Cada vegada que el model s'atura a pensar i decidir
+
+68
+00:03:39,980 --> 00:03:42,260
+quin és el següent pas, estàs gastant tòquens.
+
+69
+00:03:42,920 --> 00:03:44,900
+Per això ells parlen d'un espectre evolutiu
+
+70
+00:03:44,900 --> 00:03:46,720
+abans d'arribar a l'autonomia total.
+
+71
+00:03:47,440 --> 00:03:48,960
+Clar, no cal saltar de 0 a 100.
+
+72
+00:03:49,340 --> 00:03:52,520
+Comences amb un LLM normal, potser amb alguna eina.
+
+73
+00:03:53,120 --> 00:03:54,760
+Després passes a encadenar instruccions,
+
+74
+00:03:54,980 --> 00:03:57,320
+que és molt útil per a coses com redactar i revisar.
+
+75
+00:03:57,840 --> 00:03:59,840
+Després hi ha l'enrutament, que és...
+
+76
+00:03:59,840 --> 00:04:02,480
+L'enrutament seria com tenir un porter de discoteca, oi?
+
+77
+00:04:02,600 --> 00:04:03,520
+O un classificador.
+
+78
+00:04:03,860 --> 00:04:05,860
+Si arriba un client demanant l'horari de la botiga,
+
+79
+00:04:06,000 --> 00:04:07,720
+ho envies al model ràpid i barat.
+
+80
+00:04:07,720 --> 00:04:10,640
+Però si és una queixa complexa, ho envies al model gran.
+
+81
+00:04:11,440 --> 00:04:11,880
+Exacte.
+
+82
+00:04:11,940 --> 00:04:15,560
+Perquè si fas servir el model més potent i car per dir a quina hora obres,
+
+83
+00:04:15,980 --> 00:04:17,640
+estàs tirant els diners a les escombraries.
+
+84
+00:04:18,260 --> 00:04:18,700
+Totalment.
+
+85
+00:04:18,960 --> 00:04:23,220
+I llavors el següent pas, abans de l'agent total, seria la paral·lelització,
+
+86
+00:04:23,760 --> 00:04:26,040
+aquesta estructura d'orquestrador i treballador.
+
+87
+00:04:26,620 --> 00:04:30,360
+Reps una tasca, la trosseges i envies fragments a diversos models alhora.
+
+88
+00:04:31,040 --> 00:04:33,760
+D'acord. O sigui que els agents autònoms autèntics,
+
+89
+00:04:33,860 --> 00:04:37,980
+els que resolen problemes de codi sols, com a l'avaluació SWE-bench,
+
+90
+00:04:38,280 --> 00:04:43,500
+estan al final de tot, on la màquina pensa, utilitza eines i s'avalua a si mateixa constantment.
+
+91
+00:04:43,700 --> 00:04:46,660
+I, com dèiem, afegir aquesta autonomia costa car.
+
+92
+00:04:46,660 --> 00:04:49,400
+Però posem pel cas que algú que ens escolta diu
+
+93
+00:04:49,400 --> 00:04:52,760
+D'acord, ho entenc, però jo necessito aquest agent autònom
+
+94
+00:04:52,760 --> 00:04:54,200
+per a una tasca molt complexa
+
+95
+00:04:54,200 --> 00:04:56,660
+I aquí jo sempre topo amb un mur cognitiu
+
+96
+00:04:56,660 --> 00:05:01,000
+perquè veiem vídeos on aquestes IA llegeixen llibres sencers en segons
+
+97
+00:05:01,000 --> 00:05:03,680
+I sí, la velocitat de processament brut és espectacular
+
+98
+00:05:03,680 --> 00:05:04,540
+És espectacular
+
+99
+00:05:04,540 --> 00:05:08,280
+Però després les poses a fer una feina autònoma durant dues hores
+
+100
+00:05:08,280 --> 00:05:10,820
+i de cop i volta s'obliden de la instrucció principal
+
+101
+00:05:10,820 --> 00:05:12,560
+o fracassen estrepitosament
+
+102
+00:05:12,560 --> 00:05:13,760
+Com s'explica això?
+
+103
+00:05:13,760 --> 00:05:18,680
+Això ens porta al que segurament és el concepte central per entendre l'estat actual de la tecnologia.
+
+104
+00:05:19,560 --> 00:05:23,620
+Ja no parlem només d'enginyeria de prompts, ara hem de parlar d'enginyeria de context.
+
+105
+00:05:24,240 --> 00:05:28,820
+El problema al que et refereixes es diu putrefacció del context, o context rot en anglès.
+
+106
+00:05:29,720 --> 00:05:31,040
+Putrefacció del context.
+
+107
+00:05:31,320 --> 00:05:31,940
+És sona fatal.
+
+108
+00:05:32,280 --> 00:05:33,800
+Que s'està podrint, exactament.
+
+109
+00:05:34,200 --> 00:05:37,600
+Vull dir, tenen finestres de context de centenars de milers de tòquens.
+
+110
+00:05:37,600 --> 00:05:43,600
+No és com nosaltres, que si tenim 50 pestanyes obertes del navegador ens col·lapsem i ja no sabem ni què buscàvem.
+
+111
+00:05:43,760 --> 00:05:45,000
+Ells són màquines.
+
+112
+00:05:45,380 --> 00:05:49,220
+L'analogia de les pestanyes és sorprenentment vàlida aquí,
+
+113
+00:05:49,760 --> 00:05:52,620
+perquè l'arquitectura que fan servir, l'arquitectura transformer,
+
+114
+00:05:53,340 --> 00:05:55,420
+funciona d'una manera molt particular.
+
+115
+00:05:56,280 --> 00:05:58,480
+Cada token, és a dir, cada trosset de paraula,
+
+116
+00:05:59,000 --> 00:06:02,540
+ha de prestar atenció matemàticament a tots els altres tokens del document
+
+117
+00:06:02,540 --> 00:06:04,440
+per entendre el significat global.
+
+118
+00:06:04,940 --> 00:06:08,000
+O sigui, no llegeixen com tu o com jo, d'esquerra a dreta,
+
+119
+00:06:08,000 --> 00:06:10,960
+sinó que tot està connectat amb tot el mateix temps.
+
+120
+00:06:11,360 --> 00:06:11,880
+Això mateix.
+
+121
+00:06:12,520 --> 00:06:14,860
+Requereixen relacions que els enginyers anomenen
+
+122
+00:06:14,860 --> 00:06:16,420
+de N al quadrat.
+
+123
+00:06:17,080 --> 00:06:17,740
+Imagina un sopar.
+
+124
+00:06:18,360 --> 00:06:20,760
+6 o 3 persones, la conversa és fàcil de seguir.
+
+125
+00:06:21,320 --> 00:06:23,640
+Però si de cop fas un banquet de 50 persones,
+
+126
+00:06:24,060 --> 00:06:25,020
+no només hi ha més gent.
+
+127
+00:06:25,460 --> 00:06:26,200
+Tot és soroll.
+
+128
+00:06:26,540 --> 00:06:28,420
+Hi ha gent cridant a l'altra punta de la taula,
+
+129
+00:06:28,640 --> 00:06:30,520
+interrupcions, subtextos...
+
+130
+00:06:30,520 --> 00:06:33,540
+I arriba un punt on no sents ni el que et diu la persona del costat.
+
+131
+00:06:33,960 --> 00:06:34,440
+Exacte.
+
+132
+00:06:34,780 --> 00:06:37,020
+Pateixen d'un pressupost d'atenció limitat.
+
+133
+00:06:37,120 --> 00:06:39,340
+A mesura que el context s'infla amb codi,
+
+134
+00:06:39,540 --> 00:06:40,920
+instruccions i resultats,
+
+135
+00:06:40,960 --> 00:06:44,260
+la capacitat de l'LLM, per recordar informació clau,
+
+136
+00:06:44,600 --> 00:06:45,500
+decau dràsticament.
+
+137
+00:06:45,920 --> 00:06:47,040
+No és màgia infinita.
+
+138
+00:06:47,460 --> 00:06:50,540
+Ostres, això capgira completament com solem interactuar amb ells,
+
+139
+00:06:50,840 --> 00:06:53,900
+perquè la reacció humana, quan la IA s'equivoca, és pensar
+
+140
+00:06:53,900 --> 00:06:56,880
+Ah, no m'ha entès, vaig a escriure-li 10 paràgrafs més
+
+141
+00:06:56,880 --> 00:06:59,140
+amb totes les excepcions i detalls perquè no falli.
+
+142
+00:06:59,520 --> 00:07:02,480
+Però fent això m'estàs dient que estem empitjorant la putrefacció.
+
+143
+00:07:02,820 --> 00:07:04,380
+L'estàs ofegant abans de començar, sí.
+
+144
+00:07:04,960 --> 00:07:06,860
+La regla d'or de l'enginyeria de context
+
+145
+00:07:06,860 --> 00:07:10,200
+és trobar el conjunt més petit possible de tòquens,
+
+146
+00:07:10,200 --> 00:07:12,260
+però que tinguin un valor de senyal alt.
+
+147
+00:07:13,100 --> 00:07:16,620
+Trobar el que a Anthropic anomenen l'altitud correcta.
+
+148
+00:07:17,420 --> 00:07:20,560
+O sigui, ni massa rígid, com un codi vell ple de condicionals,
+
+149
+00:07:20,960 --> 00:07:24,540
+ni tan vaga que la IA s'hagi d'inventar les coses per falta de context.
+
+150
+00:07:25,260 --> 00:07:28,960
+Justament. Assumir que teniu un context compartit que no existeix
+
+151
+00:07:28,960 --> 00:07:30,640
+és una recepta per al fracàs.
+
+152
+00:07:31,300 --> 00:07:34,520
+D'acord. Suposem que aconseguim aquesta altitud perfecta.
+
+153
+00:07:34,920 --> 00:07:37,400
+Com ho fem perquè un agent pugui treballar hores i hores
+
+154
+00:07:37,400 --> 00:07:39,800
+sense omplir aquest pressupost d'atenció limitat?
+
+155
+00:07:40,200 --> 00:07:44,080
+Perquè si ha d'arreglar desenes de fitxers, la memòria s'omplirà igualment.
+
+156
+00:07:44,820 --> 00:07:49,380
+Aquí és on entren les estratègies de memòria de Claude Code i les investigacions d'Anthropic.
+
+157
+00:07:50,040 --> 00:07:52,080
+La principal és la cerca just a temps.
+
+158
+00:07:52,800 --> 00:07:56,160
+En lloc de carregar tota la teva base de dades al principi de la conversa,
+
+159
+00:07:56,720 --> 00:08:00,380
+li dones eines a l'agent, com la comanda grep, que serveix per buscar text,
+
+160
+00:08:00,800 --> 00:08:03,240
+o comandes per llegir només l'inici d'un document.
+
+161
+00:08:03,880 --> 00:08:07,160
+És a dir, imiten el que faríem nosaltres en una biblioteca.
+
+162
+00:08:07,560 --> 00:08:09,260
+Jo no m'aprenc l'enciclopèdia de memòria.
+
+163
+00:08:09,260 --> 00:08:12,360
+Busco l'índex, agafo el volum i poso un marcador a la pàgina.
+
+164
+00:08:12,920 --> 00:08:16,320
+I quan l'agent porta una estona treballant i la conversa s'ha fet enorme,
+
+165
+00:08:16,800 --> 00:08:19,100
+apliquen una tècnica que es diu compactació.
+
+166
+00:08:20,020 --> 00:08:23,520
+Bàsicament, el sistema demana a l'agent que faci un resum de l'historial,
+
+167
+00:08:24,180 --> 00:08:27,080
+esborra tots els resultats vells de les eines, que ja no porten res,
+
+168
+00:08:27,580 --> 00:08:30,480
+i es queda només amb l'essència, netejada per continuar treballant.
+
+169
+00:08:30,880 --> 00:08:33,500
+Això em sembla tan, tan intel·ligent.
+
+170
+00:08:33,940 --> 00:08:38,160
+I em recorda moltíssim a un exemple de la investigació que em va deixar boca badada.
+
+171
+00:08:38,160 --> 00:08:39,700
+l'anècdota de Pokémon.
+
+172
+00:08:40,360 --> 00:08:42,480
+Ah, sí, l'exemple de Pokémon és potser
+
+173
+00:08:42,480 --> 00:08:44,220
+la millor il·lustració d'això.
+
+174
+00:08:44,580 --> 00:08:46,120
+És que és fortíssim.
+
+175
+00:08:46,340 --> 00:08:47,200
+És que és molt divertit.
+
+176
+00:08:47,560 --> 00:08:50,960
+Perquè van posar un model Claude a jugar a una partida de Pokémon,
+
+177
+00:08:51,480 --> 00:08:54,440
+sense cap directriu prèvia sobre com gestionar la seva memòria.
+
+178
+00:08:54,820 --> 00:08:57,360
+I clar, Pokémon és un joc on t'has de recordar d'on eres
+
+179
+00:08:57,360 --> 00:08:59,160
+i què estaves fent tres hores abans.
+
+180
+00:08:59,620 --> 00:09:02,620
+Doncs la IA, per compensar aquesta pèrdua de context
+
+181
+00:09:02,620 --> 00:09:06,340
+per la compactació, va començar a prendre notes de forma autònoma.
+
+182
+00:09:06,340 --> 00:09:07,860
+Es deixava missatges com
+
+183
+00:09:07,860 --> 00:09:09,940
+«Pikachu ha guanyat 8 nivells»
+
+184
+00:09:09,940 --> 00:09:13,360
+o es feia mapes en text per recordar les regions que hi havia visitat.
+
+185
+00:09:13,820 --> 00:09:15,580
+El que és realment fascinant d'aquest exemple
+
+186
+00:09:15,580 --> 00:09:19,040
+és com aquestes tècniques imiten la cognició humana.
+
+187
+00:09:19,360 --> 00:09:22,520
+L'agent reconeix la seva pròpia limitació de memòria a llarg termini
+
+188
+00:09:22,520 --> 00:09:24,920
+i crea un sistema extern per compensar-ho.
+
+189
+00:09:25,400 --> 00:09:28,180
+Es deixava pòstits a si mateixa per llegir-los l'endemà.
+
+190
+00:09:28,380 --> 00:09:29,340
+És que és de bojos.
+
+191
+00:09:29,940 --> 00:09:33,480
+I això ens ensenya que dissenyar agents no va només de donar ordres.
+
+192
+00:09:33,760 --> 00:09:36,260
+Va de pensar en l'arquitectura de la informació.
+
+193
+00:09:36,340 --> 00:09:39,980
+Una altra tàctica lligada a això és l'ús de subagents
+
+194
+00:09:39,980 --> 00:09:45,180
+Si tu ets l'agent principal i necessites llegir 50 arxius per entendre un problema
+
+195
+00:09:45,180 --> 00:09:48,440
+fer-ho directament destruiria el teu pressupost d'atenció
+
+196
+00:09:48,440 --> 00:09:51,380
+Clar, inundaries el teu propi cervell de soroll
+
+197
+00:09:51,380 --> 00:09:56,580
+Així que crees un treballador aïllat, un subagent, amb la memòria totalment en blanc
+
+198
+00:09:56,580 --> 00:10:02,240
+li fas llegir els 50 arxius i li demanes que retorni només un petit resum de 3 línies
+
+199
+00:10:02,240 --> 00:10:03,460
+Impressionant
+
+200
+00:10:03,460 --> 00:10:09,380
+Però espera, tot això, fer servir un cercador, obrir un subagent o escriure un mapa de Pokémon en un arxiu,
+
+201
+00:10:09,780 --> 00:10:12,120
+requereix que la IA pugui interactuar amb l'ordinador,
+
+202
+00:10:12,500 --> 00:10:16,360
+perquè un agent d'IA, al cap i a la fi, és text, no té ratolí ni teclat.
+
+203
+00:10:16,860 --> 00:10:19,320
+Com agafa les eines sense equivocar-se contínuament?
+
+204
+00:10:19,920 --> 00:10:24,140
+Això planteja una qüestió superimportant en la que la indústria està bolcada ara mateix.
+
+205
+00:10:24,820 --> 00:10:28,160
+L'ACI, o la Interfície Agent Ordinador.
+
+206
+00:10:28,880 --> 00:10:31,720
+Com la interfície d'usuari de tota la vida, però per a màquines.
+
+207
+00:10:31,720 --> 00:10:36,820
+Exacte. Ens hem passat dècades polint com els humans interactuen amb les pantalles
+
+208
+00:10:36,820 --> 00:10:41,300
+Doncs ara cal el mateix nivell d'esforç per a les interfícies dels agents
+
+209
+00:10:41,300 --> 00:10:44,800
+Un concepte clau aquí és la tècnica poka-yoke
+
+210
+00:10:44,800 --> 00:10:48,140
+que ve de la indústria japonesa i vol dir a prova d'errors
+
+211
+00:10:48,140 --> 00:10:51,960
+A prova d'errors. Dóna'm un exemple d'això aplicat a una IA
+
+212
+00:10:51,960 --> 00:10:55,400
+perquè costa d'imaginar com evites que un model de llenguatge s'equivoqui
+
+213
+00:10:55,400 --> 00:10:58,420
+Ho veiem clarament al projecte SWE-bench
+
+214
+00:10:58,420 --> 00:11:01,560
+Allà van posar agents a arreglar codi real
+
+215
+00:11:01,560 --> 00:11:04,600
+i van descobrir que la IA es perdia constantment
+
+216
+00:11:04,600 --> 00:11:07,580
+si havia de navegar per les carpetes utilitzant rutes relatives.
+
+217
+00:11:08,280 --> 00:11:11,280
+Rutes relatives és allò de ves dues carpetes cap enrere
+
+218
+00:11:11,280 --> 00:11:12,720
+i entra la de les fotos, oi?
+
+219
+00:11:13,060 --> 00:11:15,940
+Sí, i clar, per fer-ho bé, l'agent havia de mantenir el cap
+
+220
+00:11:15,940 --> 00:11:19,480
+tota l'estona on estava situat en cada moment, gastant atenció.
+
+221
+00:11:20,020 --> 00:11:21,960
+Així que sovint calculaven malament.
+
+222
+00:11:22,340 --> 00:11:23,980
+Intentaven obrir un arxiu que no hi era,
+
+223
+00:11:24,260 --> 00:11:26,180
+l'eina donava error i perdien el rumb.
+
+224
+00:11:26,480 --> 00:11:28,080
+I com fas un poka-yoke d'això?
+
+225
+00:11:28,420 --> 00:11:30,920
+Perquè, com dèiem abans, si vas a les instruccions generals
+
+226
+00:11:30,920 --> 00:11:32,080
+i li dius en maiúscules
+
+227
+00:11:32,080 --> 00:11:34,740
+recorda sempre on ets, l'estàs atabalant
+
+228
+00:11:34,740 --> 00:11:35,660
+i consumint context.
+
+229
+00:11:36,020 --> 00:11:37,980
+La solució és no dir-li res.
+
+230
+00:11:38,800 --> 00:11:40,680
+Canvies l'eina. Van modificar l'eina
+
+231
+00:11:40,680 --> 00:11:42,560
+d'obrir fitxers perquè fos impossible
+
+232
+00:11:42,560 --> 00:11:44,120
+utilitzar-la en rutes relatives.
+
+233
+00:11:44,860 --> 00:11:46,860
+Només funcionava si li donaves la ruta absoluta
+
+234
+00:11:46,860 --> 00:11:47,920
+des de l'arrel del disc dur.
+
+235
+00:11:48,560 --> 00:11:50,380
+En fi, això, el problema de navegació de la IA
+
+236
+00:11:50,380 --> 00:11:52,340
+va desaparèixer instantàniament.
+
+237
+00:11:52,760 --> 00:11:53,440
+Quina passada!
+
+238
+00:11:54,380 --> 00:11:56,300
+Bàsicament, si la IA pot ficar la pota
+
+239
+00:11:56,300 --> 00:11:57,460
+en una eina, ho farà.
+
+240
+00:11:57,920 --> 00:12:00,040
+A menys que dissenyis l'eina perquè sigui impossible
+
+241
+00:12:00,040 --> 00:12:00,680
+equivocar-se.
+
+242
+00:12:00,920 --> 00:12:01,820
+I a més.
+
+243
+00:12:02,280 --> 00:12:05,020
+Si un humà veu 30 botons i no sap ben bé quin prema,
+
+244
+00:12:05,260 --> 00:12:06,340
+l'agent tampoc ho sabrà.
+
+245
+00:12:06,860 --> 00:12:09,680
+Cal donar-los poques eines, però extremadament precises.
+
+246
+00:12:10,380 --> 00:12:13,280
+Això lliga perfectament amb una cosa de Claude Code que estava mirant.
+
+247
+00:12:13,700 --> 00:12:16,960
+L'estructura de capes per donar-los permís de fer coses al teu ordinador.
+
+248
+00:12:17,600 --> 00:12:20,220
+Tenen un sistema anomenat hooks o ganxos, oi?
+
+249
+00:12:20,760 --> 00:12:22,780
+Els hooks són vitals per la seguretat.
+
+250
+00:12:23,300 --> 00:12:25,540
+Pensa que estàs donant permís a un sistema probabilístic
+
+251
+00:12:25,540 --> 00:12:26,900
+perquè modifiqui els teus arxius.
+
+252
+00:12:27,460 --> 00:12:30,360
+Els hooks de preús d'eines són capes de codi tradicional,
+
+253
+00:12:30,360 --> 00:12:33,680
+rígid i segur que s'executen fora del cervell de l'IA.
+
+254
+00:12:34,340 --> 00:12:38,360
+O sigui, si l'IA decideix en un moment d'al·lucinació esborrar una carpeta important...
+
+255
+00:12:39,360 --> 00:12:42,380
+El hook intercepta la petició abans que arribi al sistema operatiu.
+
+256
+00:12:42,880 --> 00:12:45,600
+Veu que intenta esborrar un arxiu i la bloqueja automàticament,
+
+257
+00:12:45,920 --> 00:12:48,860
+perquè està forçant la seguretat des de fora del seu raonament.
+
+258
+00:12:49,300 --> 00:12:53,060
+Clar. Bé, llavors ara ja sabem que necessitem eines a prova d'errors,
+
+259
+00:12:53,480 --> 00:12:56,080
+coneixem les limitacions de la putrefacció del context
+
+260
+00:12:56,080 --> 00:13:00,320
+i entenem que només hem de recórrer a l'autonomia si és estrictament necessari.
+
+261
+00:13:00,360 --> 00:13:02,420
+Però com es munta tot això a la pràctica?
+
+262
+00:13:02,640 --> 00:13:07,160
+Perquè el fil del desenvolupador beamnxw a la plataforma X
+
+263
+00:13:07,160 --> 00:13:11,980
+sobre com crear un arnès de set capes per al model Opus 5.5
+
+264
+00:13:11,980 --> 00:13:13,920
+em va semblar una classe magistral.
+
+265
+00:13:14,280 --> 00:13:16,580
+És una demostració pràctica de l'estat de l'art, sí.
+
+266
+00:13:17,140 --> 00:13:20,240
+Ell volia assegurar-se que l'agent acabés les tasques llargues
+
+267
+00:13:20,240 --> 00:13:22,960
+sense exaurir el pressupost i, molt important,
+
+268
+00:13:23,380 --> 00:13:25,740
+deixant evidències verificables del que feia.
+
+269
+00:13:26,300 --> 00:13:29,680
+Tot comença per la capa 1, l'arxiu CLAUDE.md.
+
+270
+00:13:30,140 --> 00:13:32,080
+Jo veia com la constitució del projecte.
+
+271
+00:13:32,380 --> 00:13:34,460
+Aquesta capa és només per al context persistent, oi?
+
+272
+00:13:34,740 --> 00:13:35,140
+Exacte.
+
+273
+00:13:35,460 --> 00:13:37,080
+Només regles que s'apliquen sempre,
+
+274
+00:13:37,480 --> 00:13:38,820
+com els estàndards de l'arquitectura.
+
+275
+00:13:39,160 --> 00:13:41,440
+Ni se't passi pel cap posar-hi instruccions temporals,
+
+276
+00:13:41,520 --> 00:13:44,340
+perquè generaràs aquell soroll innecessari del que parlàvem.
+
+277
+00:13:44,520 --> 00:13:44,840
+D'acord.
+
+278
+00:13:45,440 --> 00:13:46,500
+Després hi ha la capa 2,
+
+279
+00:13:46,680 --> 00:13:48,880
+que ell anomena les skills o habilitats,
+
+280
+00:13:49,200 --> 00:13:50,760
+que són procediments recurrents.
+
+281
+00:13:51,060 --> 00:13:52,940
+Per exemple, si cada cop que l'agent escriu
+
+282
+00:13:52,940 --> 00:13:54,920
+ha de revisar l'ortografia i guardar el text.
+
+283
+00:13:55,260 --> 00:13:56,920
+En lloc de demanar-li-ho en cada torn,
+
+284
+00:13:57,260 --> 00:13:59,500
+ho converteixes en una única eina d'un sol ús.
+
+285
+00:13:59,680 --> 00:14:01,400
+I t'estalvies el desgast cognitiu.
+
+286
+00:14:01,680 --> 00:14:02,200
+Això mateix.
+
+287
+00:14:02,780 --> 00:14:05,340
+I la capa 3 és una de les més potents actualment,
+
+288
+00:14:05,760 --> 00:14:09,820
+que és la integració amb fonts externes a través del protocol MCP.
+
+289
+00:14:10,060 --> 00:14:12,600
+Això de l'MCP ho sento a tot arreu, darrerament.
+
+290
+00:14:13,160 --> 00:14:14,540
+Model Context Protocol.
+
+291
+00:14:15,220 --> 00:14:17,280
+Connectar-se a llocs com Notion, per exemple.
+
+292
+00:14:17,920 --> 00:14:20,500
+En lloc de donar-li les claus del teu Notion a l'agent
+
+293
+00:14:20,500 --> 00:14:22,800
+perquè s'hi passegi com un humà llegint-ho tot,
+
+294
+00:14:22,800 --> 00:14:25,780
+l'MCP estableix un conducte estructurat.
+
+295
+00:14:26,380 --> 00:14:28,020
+L'agent demana una dada concreta.
+
+296
+00:14:28,020 --> 00:14:30,580
+i la rep de forma neta i controlada.
+
+297
+00:14:30,960 --> 00:14:32,900
+Reduint el context al mínim necessari.
+
+298
+00:14:33,780 --> 00:14:37,740
+I lligat amb això ve la capa 4, les regles d'acció o els settings de l'entorn.
+
+299
+00:14:38,300 --> 00:14:41,280
+Ell aquí insistia molt en denegar l'accés a carpetes sensibles.
+
+300
+00:14:41,840 --> 00:14:45,940
+És com dir-li, sota cap concepte pots tocar la carpeta de codi publicat.
+
+301
+00:14:46,480 --> 00:14:48,920
+L'interessant és que ho configures a l'entorn, no al prompt.
+
+302
+00:14:49,180 --> 00:14:53,340
+De nou, traslladar la responsabilitat d'element de la IA cap al sistema.
+
+303
+00:14:54,020 --> 00:14:57,560
+Però on el model de beamnxw es torna realment corporatiu,
+
+304
+00:14:57,560 --> 00:14:59,800
+per dir-ho així, és a les capes 5 i 6.
+
+305
+00:15:00,360 --> 00:15:02,680
+La capa 5 és la introducció d'un revisor.
+
+306
+00:15:03,220 --> 00:15:04,680
+I aquí el truc és que aquest revisor
+
+307
+00:15:04,680 --> 00:15:06,780
+és un subagent completament separat.
+
+308
+00:15:07,500 --> 00:15:09,320
+Ostres, però quina necessitat hi ha?
+
+309
+00:15:09,640 --> 00:15:10,820
+Jo quan ho llegia pensava
+
+310
+00:15:10,820 --> 00:15:13,620
+si ja tinc un agent superintel·ligent fent la feina,
+
+311
+00:15:13,960 --> 00:15:15,900
+per què haig de pagar per obrir un segon agent
+
+312
+00:15:15,900 --> 00:15:17,080
+només perquè ho llegeixi?
+
+313
+00:15:17,380 --> 00:15:18,680
+Perquè no s'ho revisa ell mateix?
+
+314
+00:15:19,360 --> 00:15:21,200
+Bàsicament per la mateixa raó per la qual
+
+315
+00:15:21,200 --> 00:15:24,180
+tu o jo som pèssims corregint els nostres propis textos
+
+316
+00:15:24,180 --> 00:15:25,500
+quan acabem d'escriure'ls.
+
+317
+00:15:25,500 --> 00:15:27,000
+Clar, no veiem els propis errors.
+
+318
+00:15:27,560 --> 00:15:31,440
+L'agent principal ha gastat molta atenció prenent decisions sobre aquell text o codi.
+
+319
+00:15:31,820 --> 00:15:33,660
+Té una espècie de biaix o ceguesa.
+
+320
+00:15:34,260 --> 00:15:37,320
+Si obres un subagent nou de trinca, amb el context net,
+
+321
+00:15:37,620 --> 00:15:40,220
+i només li passes els requisits originals i el resultat final,
+
+322
+00:15:40,840 --> 00:15:44,360
+tindràs una revisió crítica implacable, gairebé sense al·lucinacions.
+
+323
+00:15:44,880 --> 00:15:47,180
+I aquest esforç cognitiu em porta a la capa 6,
+
+324
+00:15:47,320 --> 00:15:49,720
+que m'ha fet molta gràcia perquè és on parles amb la cartera.
+
+325
+00:15:49,860 --> 00:15:54,580
+A Opus 5.5 pots ajustar quant d'esforç de raonament vols que faci la màquina.
+
+326
+00:15:54,960 --> 00:15:56,580
+El balanç cost-benefici de sempre.
+
+327
+00:15:56,580 --> 00:16:02,680
+Exacte. L'autor deixa clar que per defecte el té a nivell mitjà, per la feina de picar pedra del dia a dia,
+
+328
+00:16:03,120 --> 00:16:09,700
+i només puja al nivell alt, que és molt més car i lent, quan fa servir aquest agent revisor o quan dissenya el nucli d'un sistema.
+
+329
+00:16:10,340 --> 00:16:11,620
+I finalment, la capa 7.
+
+330
+00:16:12,340 --> 00:16:14,420
+De marcar l'objectiu i limitar els torns.
+
+331
+00:16:14,800 --> 00:16:18,580
+Si deixes un agent autònom en un bucle sense un final definit de forma molt concreta...
+
+332
+00:16:19,440 --> 00:16:23,100
+Et pots despertar l'endemà amb una factura de servidor que et farà caure de la cadira.
+
+333
+00:16:23,400 --> 00:16:23,960
+Sens dubte.
+
+334
+00:16:23,960 --> 00:16:28,060
+Per això el framework demana definir l'èxit mitjançant fets comprovables.
+
+335
+00:16:28,580 --> 00:16:29,900
+No li dius, investiga aquest tema.
+
+336
+00:16:30,460 --> 00:16:36,440
+Li dius, l'objectiu s'ha complert si existeix un arxiu anomenat resum.txt amb aquesta estructura exacta.
+
+337
+00:16:37,040 --> 00:16:40,360
+I a més poses un límit. Si en 12 torns no ho has aconseguit, t'atures.
+
+338
+00:16:41,380 --> 00:16:45,440
+És claríssim. Estem fent de directors de projecte per a la nostra pròpia IA.
+
+339
+00:16:45,860 --> 00:16:48,960
+Li creem carpetes, establim regles d'aprovació, l'auditem...
+
+340
+00:16:48,960 --> 00:16:52,360
+Auditem. Però el que per a mi és la peça mestra d'aquest puzzle,
+
+341
+00:16:52,720 --> 00:16:55,940
+la tècnica per excel·lència per poder encadenar sessions llargues,
+
+342
+00:16:56,100 --> 00:16:58,240
+és el fitxer progress.md.
+
+343
+00:16:58,720 --> 00:17:01,760
+Ah, el testimoni de la cursa de relleus. És fonamental.
+
+344
+00:17:02,380 --> 00:17:03,840
+Això evita un dels pitjors escenaris.
+
+345
+00:17:04,340 --> 00:17:07,260
+Que el model es despisti o s'aturi al mig d'una tasca hipercomplexa
+
+346
+00:17:07,260 --> 00:17:10,500
+i hagis de començar des de zero, perdent tot el temps i els diners.
+
+347
+00:17:11,340 --> 00:17:14,240
+Llavors, la idea és que abans de tancar qualsevol sessió d'agent,
+
+348
+00:17:14,680 --> 00:17:18,060
+se l'obliga a obrir aquest fitxer i gravar exactament què ha fet,
+
+349
+00:17:18,060 --> 00:17:22,100
+què funciona, què estava a punt de fer i amb quin error s'ha trobat.
+
+350
+00:17:22,460 --> 00:17:25,300
+Això mateix. Així, quan obres una sessió nova amb l'agent en blanc,
+
+351
+00:17:25,660 --> 00:17:27,980
+el primer que llegeix és aquest progress.md
+
+352
+00:17:27,980 --> 00:17:31,060
+i pot reprendre la feina just on l'altre la va deixar.
+
+353
+00:17:31,520 --> 00:17:33,880
+T'estalvia una quantitat absurda de problemes.
+
+354
+00:17:34,340 --> 00:17:37,900
+I justament, veient tota aquesta complexitat de disseny que hem comentat,
+
+355
+00:17:38,320 --> 00:17:42,420
+l'arnès de set capes, el subagent revisor, les polítiques d'accés bloquejades
+
+356
+00:17:42,420 --> 00:17:45,600
+i això últim de l'informe de progrés obligatori abans de plegar,
+
+357
+00:17:46,240 --> 00:17:48,500
+hi ha una idea que m'ha vingut al cap preparant aquest guió
+
+358
+00:17:48,500 --> 00:17:51,140
+i crec que a qui ens escolta li agradarà rumiar-hi.
+
+359
+00:17:51,580 --> 00:17:52,360
+A veure, digues.
+
+360
+00:17:53,480 --> 00:17:55,740
+Històricament ens hem passat dècades com a humans
+
+361
+00:17:55,740 --> 00:17:58,700
+queixant-nos amargament de la burocràcia corporativa.
+
+362
+00:17:59,260 --> 00:18:02,460
+Allò típic de departaments independents que et revisen la feina,
+
+363
+00:18:02,920 --> 00:18:04,960
+arxius de polítiques intocables de l'empresa,
+
+364
+00:18:05,420 --> 00:18:07,600
+bloquejos de carpetes on només entra el cap,
+
+365
+00:18:08,140 --> 00:18:10,560
+l'obligació de fer informes d'estat tediosos
+
+366
+00:18:10,560 --> 00:18:12,380
+perquè el torn de demà sàpiga què fer.
+
+367
+00:18:13,100 --> 00:18:15,900
+Ens semblava l'antítesi de l'eficiència i l'agilitat.
+
+368
+00:18:16,480 --> 00:18:19,460
+És cert, sempre ho hem vist com un llast administratiu.
+
+369
+00:18:20,100 --> 00:18:23,460
+Però és que resulta que, quan per fi creem les intel·ligències artificials
+
+370
+00:18:23,460 --> 00:18:25,260
+més ràpides i capaces de la història,
+
+371
+00:18:25,700 --> 00:18:28,760
+el primer que hem hagut d'inventar i introduir dins de la màquina
+
+372
+00:18:28,760 --> 00:18:30,920
+perquè l'agent autònom no col·lapsi en el caos
+
+373
+00:18:30,920 --> 00:18:34,100
+és exactament la mateixa burocràcia corporativa.
+
+374
+00:18:34,760 --> 00:18:37,400
+Acabem d'inventar el middle management per algoritmes.
+
+375
+00:18:37,980 --> 00:18:40,260
+Ostres, és una paradoxa meravellosa.
+
+376
+00:18:40,880 --> 00:18:41,660
+Tens tota la raó.
+
+377
+00:18:42,220 --> 00:18:44,640
+Això planteja una qüestió gairebé filosòfica
+
+378
+00:18:44,640 --> 00:18:47,360
+sobre si aquestes estructures burocràtiques, que tan avorrim,
+
+379
+00:18:47,840 --> 00:18:50,340
+realment potser no eren un defecte humà, sinó potser...
+
+380
+00:18:50,340 --> 00:18:51,200
+Són necessàries.
+
+381
+00:18:51,500 --> 00:18:54,660
+Exacte. Potser són principis estructurals universals.
+
+382
+00:18:55,340 --> 00:18:57,640
+Potser separar funcions, documentar processos
+
+383
+00:18:58,200 --> 00:18:59,700
+i auditar de manera independent
+
+384
+00:18:59,700 --> 00:19:02,260
+són les úniques formes estables de gestionar
+
+385
+00:19:02,260 --> 00:19:04,920
+qualsevol sistema complex orientat a un objectiu.
+
+386
+00:19:05,680 --> 00:19:06,940
+Sigui un grup de treballadors humans
+
+387
+00:19:06,940 --> 00:19:09,080
+o un eixam de xarxes neuronals de silici.
+
+388
+00:19:09,220 --> 00:19:09,860
+És fascinant.
+
+389
+00:19:10,260 --> 00:19:13,040
+Et fa pensar que la pròxima era de la productivitat
+
+390
+00:19:13,040 --> 00:19:16,480
+no anirà només de saber parlar amb la IA per treure'n un text bonic.
+
+391
+00:19:17,000 --> 00:19:21,320
+Anirà de saber com dissenyar i estructurar departaments sencers de burocràcia digital
+
+392
+00:19:21,320 --> 00:19:25,860
+perquè les màquines puguin operar sense tornar-se boges o gastar-te tot el pressupost.
+
+393
+00:19:26,220 --> 00:19:29,700
+Seran autèntics ecosistemes organitzacionals sintètics.
+
+394
+00:19:30,000 --> 00:19:31,060
+M'ha encantat l'enfocament.
+
+395
+00:19:31,340 --> 00:19:31,560
+Sí.
+
+396
+00:19:32,400 --> 00:19:34,640
+Ho deixarem aquí perquè cadascú ho vagi digerint.
+
+397
+00:19:35,140 --> 00:19:38,100
+Us deixem aquesta idea de la burocràcia de la IA per rumiar
+
+398
+00:19:38,100 --> 00:19:41,860
+i us convidem a seguir aprenent com treure el màxim profit d'aquestes eines.
+
+399
+00:19:42,600 --> 00:19:45,980
+Gràcies per acompanyar-nos en una altra anàlisi a fons i fins a la propera.
+
