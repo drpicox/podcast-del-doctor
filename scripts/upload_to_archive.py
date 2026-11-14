@@ -453,6 +453,16 @@ EPISODIS = [
         "duration": "15:41",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "ccar-f", "certificació", "enginyeria", "hooks", "context", "multiagent", "escalada", "confiança calibrada", "català"]
     },
+    {
+        "num": "044",
+        "fitxer": "044-arquitectura-de-sistemes-amb-claude.mp3",
+        "identifier": "podcast-del-doctor-044-arquitectura-de-sistemes-amb-claude",
+        "title": "Episodi 044: Arquitectura de sistemes amb Claude, un simulacre d'examen on cada solució obre un problema nou",
+        "description": "Un agent que s'oblida d'un descompte obligatori, una recerca simple que costa un dineral, una factura que no quadra i una exploració de codi que col·lapsa el context. Tercer i últim episodi sobre l'examen Claude Certified Architect – Foundations (CCAR-F), ara com un simulacre d'examen amb una examinadora implacable, on cada solució obre el problema següent: el hook que deixa lliure l'agent, el coordinador que tria i reparteix subagents que comencen en blanc, l'allau d'alertes que es filtra amb confiança calibrada, el CLAUDE.md del projecte, l'exploració aïllada i la regla de desempat: guanya el mecanisme natiu de Claude.",
+        "date": "2026-11-14",
+        "duration": "12:08",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "claude code", "ccar-f", "certificació", "arquitectura de sistemes", "multiagent", "subagents", "hooks", "context", "confiança calibrada", "català"]
+    },
 ]
 
 

@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 044: Arquitectura de sistemes amb Claude, un simulacre d'examen on cada solució obre un problema nou",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: del camí de ferro al terreny obert" },
+    { "startTime": 69.7, "title": "Un simulacre d'examen i el mètode dels cinc passos" },
+    { "startTime": 102.8, "title": "Pregunta 1, atenció al client: el porter que dona llibertat a l'agent" },
+    { "startTime": 199.0, "title": "Pregunta 2, recerca multiagent: el coordinador que tria i reparteix" },
+    { "startTime": 264.0, "title": "La complicació: subagents en blanc i lost in the middle" },
+    { "startTime": 338.4, "title": "Pregunta 3, extracció de dades: la factura que no quadra" },
+    { "startTime": 423.4, "title": "L'allau d'alertes: confiança calibrada, escalada i mostreig" },
+    { "startTime": 520.9, "title": "Pregunta 4, Claude Code: CLAUDE.md d'equip i exploració aïllada" },
+    { "startTime": 598.0, "title": "El desempat: guanya el mecanisme natiu de Claude" },
+    { "startTime": 634.5, "title": "Reflexió final: qui audita l'auditor?" }
+  ]
+}
