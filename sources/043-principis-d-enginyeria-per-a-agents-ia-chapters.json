@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 043: Principis d'enginyeria per a agents d'IA, quan l'instint de programador et fa suspendre",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: del rellotge suís a l'organisme viu" },
+    { "startTime": 136.8, "title": "Principi 1: el parany del prompt en majúscules" },
+    { "startTime": 285.5, "title": "Principi 2: un enginyer sènior, no un guió" },
+    { "startTime": 319.9, "title": "Principis 3 i 4: el mite de l'omnisciència i la sessió desfasada" },
+    { "startTime": 489.5, "title": "Principis 5 i 7: el coordinador hub-and-spoke i els traspassos" },
+    { "startTime": 557.0, "title": "Principi 6: la factura que no quadra i el Tipp-Ex" },
+    { "startTime": 650.3, "title": "Principi 9: el client que escriu en majúscules" },
+    { "startTime": 723.8, "title": "Principi 10: un 95% de confiança no prova res" },
+    { "startTime": 807.9, "title": "Principi 8: recepta de cuina o investigació policial" },
+    { "startTime": 867.8, "title": "Reflexió final: de constructors a legisladors" }
+  ]
+}

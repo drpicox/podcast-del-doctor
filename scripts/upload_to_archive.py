@@ -443,6 +443,16 @@ EPISODIS = [
         "duration": "13:40",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "ccar-f", "certificació", "hooks", "seguretat", "escalada", "subagents", "català"]
     },
+    {
+        "num": "043",
+        "fitxer": "043-principis-d-enginyeria-per-a-agents-ia.mp3",
+        "identifier": "podcast-del-doctor-043-principis-d-enginyeria-per-a-agents-ia",
+        "title": "Episodi 043: Principis d'enginyeria per a agents d'IA, quan l'instint de programador et fa suspendre",
+        "description": "Detectes que l'agent s'oblida d'aplicar un descompte obligatori per llei una de cada 50 converses, i el primer instint és escriure-ho en majúscules al prompt: just la resposta que et fa suspendre. Segon de tres episodis sobre l'examen Claude Certified Architect – Foundations (CCAR-F), ara des de l'ull del programador clàssic: deu principis d'enginyeria convertits en paranys. El hook en lloc del prompt, la sessió desfasada que cal tornar a començar, la factura que no quadra i no s'arregla en silenci, el client enfadat que no cal escalar, el 95% de confiança que no prova res i la recepta de cuina contra la investigació policial.",
+        "date": "2026-11-14",
+        "duration": "15:41",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "ccar-f", "certificació", "enginyeria", "hooks", "context", "multiagent", "escalada", "confiança calibrada", "català"]
+    },
 ]
 
 
