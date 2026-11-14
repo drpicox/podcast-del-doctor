@@ -423,6 +423,16 @@ EPISODIS = [
         "duration": "18:57",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude code", "enginyeria de context", "context rot", "subagents", "memòria", "català"]
     },
+    {
+        "num": "041",
+        "fitxer": "041-sistema-de-recerca-multiagent-de-claude.mp3",
+        "identifier": "podcast-del-doctor-041-sistema-de-recerca-multiagent-de-claude",
+        "title": "Episodi 041: Recerca multiagent, l'agència de detectius de Claude",
+        "description": "Fins ara, preguntar a la IA era com consultar una enciclopèdia molt ràpida; el sistema Research de Claude s'assembla més a una agència de detectius. A partir de l'article d'Anthropic sobre com el van construir, veiem per què un agent líder amb subagents en paral·lel supera un sol agent i què costa en tòquens, com se li ensenya a delegar sense crear 50 subagents per a una pregunta simple, com s'avalua un sistema que mai no fa dues vegades el mateix camí i què cal per dur-lo a producció: reprendre la feina després d'un error, desplegaments arc de Sant Martí i fitxers per evitar el telèfon espatllat.",
+        "date": "2026-11-14",
+        "duration": "14:21",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "sistemes multiagent", "subagents", "recerca", "orquestrador", "llm com a jutge", "català"]
+    },
 ]
 
 

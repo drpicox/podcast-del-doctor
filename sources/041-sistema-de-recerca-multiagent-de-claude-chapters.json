@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 041: Recerca multiagent, l'agència de detectius de Claude",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 85.4, "title": "Per què molts agents: compressió, tòquens i cost" },
+    { "startTime": 242.1, "title": "Orquestrador, subagents i agent de citacions" },
+    { "startTime": 327.3, "title": "El mur dels 200.000 tòquens i la memòria externa" },
+    { "startTime": 384.4, "title": "Ensenyar a delegar: de 50 subagents a regles d'escala" },
+    { "startTime": 502.6, "title": "Agents que milloren les seves pròpies eines" },
+    { "startTime": 544.7, "title": "Avaluar: un LLM com a jutge i proves humanes" },
+    { "startTime": 622.5, "title": "Producció: errors que s'acumulen i desplegaments arc de Sant Martí" },
+    { "startTime": 696.4, "title": "El telèfon espatllat i el sistema de fitxers" },
+    { "startTime": 759.8, "title": "Reflexió final" }
+  ]
+}
