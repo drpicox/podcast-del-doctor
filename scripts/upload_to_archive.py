@@ -433,6 +433,16 @@ EPISODIS = [
         "duration": "14:21",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "sistemes multiagent", "subagents", "recerca", "orquestrador", "llm com a jutge", "català"]
     },
+    {
+        "num": "042",
+        "fitxer": "042-disseny-d-agents-ia-autonoms-i-segurs.mp3",
+        "identifier": "podcast-del-doctor-042-disseny-d-agents-ia-autonoms-i-segurs",
+        "title": "Episodi 042: Agents d'IA autònoms i segurs, deixar-los pensar i lligar-los curt",
+        "description": "Li dius a l'agent d'atenció al client que mai no faci reemborsaments grans, arriba un client furiós i n'autoritza un de 5.000 euros. Primer de tres episodis sobre l'examen Claude Certified Architect – Foundations (CCAR-F): com dissenyar agents que decideixin sols sense saltar-se les línies vermelles. Deu principis: les regles crítiques van al codi amb hooks, objectius en lloc de guions, el context que no li passes no existeix, traspassos estructurats, errors que no s'amaguen, un coordinador que reparteix i revisa, quan escalar a un humà i per què la confiança que declara el model no prova res.",
+        "date": "2026-11-14",
+        "duration": "13:40",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "ccar-f", "certificació", "hooks", "seguretat", "escalada", "subagents", "català"]
+    },
 ]
 
 

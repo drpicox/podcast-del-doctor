@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 042: Agents d'IA autònoms i segurs, deixar-los pensar i lligar-los curt",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: el reemborsament de 5.000 euros" },
+    { "startTime": 122.6, "title": "Principi 1: si ha de passar sempre, va al codi" },
+    { "startTime": 201.6, "title": "Principi 2: objectius i criteris, no un guió" },
+    { "startTime": 262.4, "title": "Principis 3 i 4: amnèsia i context que es degrada" },
+    { "startTime": 356.7, "title": "Principis 5 i 6: traspassos estructurats i errors a la vista" },
+    { "startTime": 464.8, "title": "Principi 7: el coordinador hub-and-spoke" },
+    { "startTime": 525.6, "title": "Principi 8: recepta fixa o investigació policial" },
+    { "startTime": 555.9, "title": "Principi 9: quan escalar a un humà" },
+    { "startTime": 637.5, "title": "Principi 10: abans de fiar-te'n, mesura" },
+    { "startTime": 732.2, "title": "Reflexió final" }
+  ]
+}
