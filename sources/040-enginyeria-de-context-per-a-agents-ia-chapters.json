@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 040: Enginyeria de context, l'art de no ofegar els agents d'IA",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció" },
+    { "startTime": 71.5, "title": "De la recepta a la cuina: del prompt al context" },
+    { "startTime": 200.9, "title": "La podridura del context i el pressupost d'atenció" },
+    { "startTime": 367.2, "title": "Primer pilar: l'altitud del prompt de sistema" },
+    { "startTime": 481.1, "title": "Segon i tercer pilar: eines clares i exemples canònics" },
+    { "startTime": 613.8, "title": "Context just a temps: la biblioteca i Claude Code" },
+    { "startTime": 781.7, "title": "Tasques llargues: la compactació" },
+    { "startTime": 834.9, "title": "Notes estructurades: l'agent que jugava a Pokémon" },
+    { "startTime": 940.7, "title": "Arquitectures de subagents" },
+    { "startTime": 1015.7, "title": "Reflexió final" }
+  ]
+}

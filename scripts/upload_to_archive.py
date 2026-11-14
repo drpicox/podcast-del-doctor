@@ -413,6 +413,16 @@ EPISODIS = [
         "duration": "19:50",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude code", "enginyeria de context", "arnès", "mcp", "opus", "català"]
     },
+    {
+        "num": "040",
+        "fitxer": "040-enginyeria-de-context-per-a-agents-ia.mp3",
+        "identifier": "podcast-del-doctor-040-enginyeria-de-context-per-a-agents-ia",
+        "title": "Episodi 040: Enginyeria de context, l'art de no ofegar els agents d'IA",
+        "description": "Un agent que juga a Pokémon perd la memòria cada poques hores i, per no començar de zero, porta un diari de camp. A partir de l'article d'Anthropic sobre enginyeria de context, veiem per què una finestra de context gegant no ho resol (la podridura del context i el pressupost d'atenció), com trobar l'altitud justa del prompt de sistema, per què calen eines sense solapaments i pocs exemples canònics, com busca Claude Code just a temps, i les tres tècniques per a tasques llargues: compactació, notes estructurades i subagents.",
+        "date": "2026-11-14",
+        "duration": "18:57",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude code", "enginyeria de context", "context rot", "subagents", "memòria", "català"]
+    },
 ]
 
 

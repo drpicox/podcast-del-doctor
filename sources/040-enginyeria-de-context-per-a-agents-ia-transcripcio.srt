@@ -1,0 +1,1616 @@
+1
+00:00:00,000 --> 00:00:05,980
+Imaginem un jugador de Pokémon que, per sobreviure a una amnèsia constant,
+
+2
+00:00:06,520 --> 00:00:08,860
+es veu obligat a escriure els seus propis diaris de batalla.
+
+3
+00:00:09,320 --> 00:00:10,760
+Sona bastant estressant.
+
+4
+00:00:11,220 --> 00:00:14,780
+I tant. Vull dir, si no nota en quin nivell està el seu Pikachu
+
+5
+00:00:14,780 --> 00:00:16,980
+o per quina ruta caminava fa cinc minuts,
+
+6
+00:00:17,480 --> 00:00:20,480
+quan la seva memòria reiniciarà, haurà de començar totalment de zero.
+
+7
+00:00:20,940 --> 00:00:22,000
+Clar, no sabrà ni on és.
+
+8
+00:00:22,340 --> 00:00:27,000
+Exacte. I el més fort és que això no és la trama d'una pel·lícula de ciència-ficció rara.
+
+9
+00:00:27,000 --> 00:00:31,300
+és exactament el que estan fent els sistemes d'intel·ligència artificial més avançats avui dia,
+
+10
+00:00:31,700 --> 00:00:34,180
+per vèncer els seus propis límits físics de memòria.
+
+11
+00:00:34,600 --> 00:00:35,820
+Uau, és un concepte brutal.
+
+12
+00:00:36,300 --> 00:00:41,440
+Sí. Avui obrim un article de recerca fascinant publicat per Anthropic el setembre de 2025.
+
+13
+00:00:42,140 --> 00:00:45,560
+Es titula Effective Context Engineering for AI Agents,
+
+14
+00:00:45,960 --> 00:00:48,900
+o sigui, enginyeria de context efectiva per a agents d'IA.
+
+15
+00:00:49,280 --> 00:00:53,100
+Un text imprescindible per a qui ens escolti i vulgui entendre cap on va tot això.
+
+16
+00:00:53,340 --> 00:00:53,780
+Totalment.
+
+17
+00:00:53,780 --> 00:00:58,440
+L'objectiu d'aquesta exploració a fons és entendre una transformació tectònica.
+
+18
+00:00:59,020 --> 00:01:04,800
+Hem passat de dissenyar una instrucció estàtica a haver d'orquestrar tot un ecosistema d'informació sencer
+
+19
+00:01:04,800 --> 00:01:08,760
+perquè una màquina pugui operar hores i hores de manera completament autònoma.
+
+20
+00:01:09,200 --> 00:01:10,840
+És un canvi de paradigma absolut.
+
+21
+00:01:11,460 --> 00:01:12,860
+D'acord, desgranem una mica.
+
+22
+00:01:13,460 --> 00:01:16,980
+Per què les tècniques d'enginyeria de prompts a les quals estàvem tan acostumats
+
+23
+00:01:16,980 --> 00:01:20,800
+es queden tan curtes davant d'aquesta nova generació d'agents autònoms?
+
+24
+00:01:21,260 --> 00:01:23,200
+A veure, l'enginyeria de prompts tradicional
+
+25
+00:01:23,200 --> 00:01:26,000
+es va dissenyar per a un món de transaccions aïllades.
+
+26
+00:01:26,340 --> 00:01:27,220
+D'un sol ús, diguem-ne.
+
+27
+00:01:27,460 --> 00:01:30,360
+Sí, sí, es tractava de trobar la formulació gramatical perfecta.
+
+28
+00:01:30,680 --> 00:01:32,260
+Gairebé com un encantari màgic
+
+29
+00:01:32,260 --> 00:01:34,580
+per obtenir un resultat concret en un sol pas,
+
+30
+00:01:34,960 --> 00:01:37,460
+com generar un resum o traduir un text.
+
+31
+00:01:37,780 --> 00:01:39,700
+O escriure una funció de codi ràpida.
+
+32
+00:01:40,160 --> 00:01:40,600
+Exacte.
+
+33
+00:01:41,200 --> 00:01:43,160
+Però, clar, la definició mateixa d'un agent
+
+34
+00:01:43,160 --> 00:01:45,240
+destrueix aquesta linealitat completament.
+
+35
+00:01:45,680 --> 00:01:48,600
+Un agent és un model de llenguatge integrat en un bucle continu.
+
+36
+00:01:49,140 --> 00:01:54,700
+Decideix de manera autònoma utilitzar eines, llegir arxius, avaluar els resultats i decidir la següent acció.
+
+37
+00:01:55,080 --> 00:01:56,720
+Això ja no és una transacció única.
+
+38
+00:01:57,080 --> 00:01:57,940
+Clar, és una cadena.
+
+39
+00:01:58,300 --> 00:02:01,120
+És una cadena de desenes o centenars d'inferències.
+
+40
+00:02:01,540 --> 00:02:04,680
+I a cada pas, cada acció modifica l'estat del sistema sencer.
+
+41
+00:02:04,980 --> 00:02:08,240
+O sigui, això vol dir que la informació que l'agent necessita no és gens estàtica.
+
+42
+00:02:08,800 --> 00:02:11,240
+Si en el pas 3 l'agent descobreix un error de codi,
+
+43
+00:02:11,640 --> 00:02:17,000
+doncs en el pas 4 necessita recordar aquest error, les eines disponibles per solucionar-lo i l'objectiu principal.
+
+44
+00:02:17,420 --> 00:02:17,840
+Tot alhora.
+
+45
+00:02:18,140 --> 00:02:19,040
+Totalment alhora, sí.
+
+46
+00:02:19,300 --> 00:02:21,240
+Per a mi, la enginyeria de prompts clàssica
+
+47
+00:02:21,240 --> 00:02:23,600
+és com donar-li una recepta meravellosa a un cuiner.
+
+48
+00:02:24,120 --> 00:02:25,780
+Està molt bé per fer un sol plat.
+
+49
+00:02:26,160 --> 00:02:27,080
+Bona analogia.
+
+50
+00:02:27,500 --> 00:02:30,140
+Però l'enginyeria de context de la qual ens parla Anthropic
+
+51
+00:02:30,140 --> 00:02:32,860
+s'assembla molt més a dissenyar tota l'arquitectura
+
+52
+00:02:32,860 --> 00:02:35,080
+d'una cuina de restaurant en plena hora punta.
+
+53
+00:02:35,360 --> 00:02:35,660
+I tant.
+
+54
+00:02:36,140 --> 00:02:38,000
+Vull dir, has de decidir a quina distància
+
+55
+00:02:38,000 --> 00:02:39,280
+estan els fogons de la nevera,
+
+56
+00:02:39,660 --> 00:02:41,120
+on es pengen les noves comandes,
+
+57
+00:02:41,500 --> 00:02:43,400
+com es retiren els plats bruts...
+
+58
+00:02:43,400 --> 00:02:45,120
+Tot això perquè el cuiner pugui moure's
+
+59
+00:02:45,120 --> 00:02:46,600
+durant hores sense bloquejar-se.
+
+60
+00:02:47,020 --> 00:02:49,200
+Bueno, si connectem això amb la visió general
+
+61
+00:02:49,200 --> 00:02:51,200
+de com operen aquests models tècnicament,
+
+62
+00:02:51,700 --> 00:02:54,300
+l'analogia de la cuina industrial encaixa perfectament.
+
+63
+00:02:54,880 --> 00:02:58,080
+L'espai físic de la cuina representa la finestra de context del model.
+
+64
+00:02:58,340 --> 00:02:59,420
+Aquest espai limitat, clar.
+
+65
+00:02:59,940 --> 00:03:02,440
+Exacte. Aquest espai acull absolutament
+
+66
+00:03:02,440 --> 00:03:04,720
+tot el que condiciona el raonament de la màquina.
+
+67
+00:03:05,160 --> 00:03:07,860
+Les instruccions base, les eines, el codi font,
+
+68
+00:03:08,260 --> 00:03:10,920
+l'historial complet de tot el que l'agent acaba de fer.
+
+69
+00:03:11,180 --> 00:03:11,880
+Que s'hi va acumulant.
+
+70
+00:03:12,400 --> 00:03:14,940
+Sí, sí. Per tant, l'enginyeria de context
+
+71
+00:03:14,940 --> 00:03:18,880
+és la disciplina científica de mantenir aquest espai meticulosament ordenat,
+
+72
+00:03:19,260 --> 00:03:20,420
+decisió rere decisió.
+
+73
+00:03:20,900 --> 00:03:24,020
+I aquí és on la nostra intuïció humana tendeix a fallar una mica.
+
+74
+00:03:24,740 --> 00:03:27,480
+Perquè darrerament no parem de veure anuncis de models dia
+
+75
+00:03:27,480 --> 00:03:29,360
+amb finestres de context monumentals.
+
+76
+00:03:30,000 --> 00:03:30,620
+Això és veritat.
+
+77
+00:03:30,740 --> 00:03:32,660
+Capaces d'ingerir llibres sencers de cop.
+
+78
+00:03:33,340 --> 00:03:37,160
+La lògica primària ens diria que si tenim una cuina d'una hectàrea d'extensió,
+
+79
+00:03:37,680 --> 00:03:38,740
+doncs el problema desapareix.
+
+80
+00:03:39,400 --> 00:03:40,160
+Sembla lògic, sí.
+
+81
+00:03:40,600 --> 00:03:43,200
+Llavors, per què no agafem tota la base de dades d'una empresa,
+
+82
+00:03:43,200 --> 00:03:47,400
+tot el codi font, ho colquem tot absolutament a dins de la memòria de l'agent
+
+83
+00:03:47,400 --> 00:03:48,800
+i deixem que s'espavili.
+
+84
+00:03:49,440 --> 00:03:52,540
+A veure, la temptació d'inundar el model amb dades és gegant, ho sé.
+
+85
+00:03:53,100 --> 00:03:55,420
+Però la recerca documenta de manera molt rigorosa
+
+86
+00:03:55,420 --> 00:03:59,440
+un fenomen anomenat podridura del context, o context rot en anglès.
+
+87
+00:03:59,940 --> 00:04:00,920
+Podridura del context?
+
+88
+00:04:01,060 --> 00:04:01,560
+Sona fatal.
+
+89
+00:04:01,800 --> 00:04:02,180
+És que ho és?
+
+90
+00:04:02,660 --> 00:04:04,880
+Resulta que la capacitat d'un model de llenguatge
+
+91
+00:04:04,880 --> 00:04:06,940
+per recuperar informació amb precisió
+
+92
+00:04:06,940 --> 00:04:09,680
+no es manté estable a mesura que l'omples de tòquens.
+
+93
+00:04:09,980 --> 00:04:11,580
+Té un pendent de degradació brutal.
+
+94
+00:04:11,580 --> 00:04:13,680
+D'acord, o sigui que no és infinit.
+
+95
+00:04:14,180 --> 00:04:18,740
+No, ni de bon tros. Els models tenen un pressupost d'atenció estrictament limitat.
+
+96
+00:04:19,140 --> 00:04:22,640
+Cada miler de tòquens adicionals consumeixen una fracció d'aquest pressupost.
+
+97
+00:04:23,060 --> 00:04:26,260
+No és un error informàtic temporal, està arrelat en l'arquitectura.
+
+98
+00:04:26,760 --> 00:04:32,200
+Clar, perquè si mirem sota el capó de tot això, ens topem amb l'arquitectura transformer, que és la base.
+
+99
+00:04:32,880 --> 00:04:36,820
+El principi fonamental d'un transformer és aquest mecanisme d'autoatenció.
+
+100
+00:04:37,400 --> 00:04:39,340
+Cada tòquen d'informació, cada paraula,
+
+101
+00:04:39,840 --> 00:04:43,220
+s'ha de relacionar matemàticament amb totes les altres paraules del text.
+
+102
+00:04:43,500 --> 00:04:44,860
+Exacte, totes amb totes.
+
+103
+00:04:45,360 --> 00:04:48,680
+Si tenim un text curt, doncs la xarxa de connexions és manejable.
+
+104
+00:04:49,200 --> 00:04:51,540
+Però com que les relacions creixen de manera quadràtica,
+
+105
+00:04:51,940 --> 00:04:54,760
+n al quadrat, si passem de 1.000 tòquens a 100.000,
+
+106
+00:04:54,760 --> 00:04:56,600
+la matriu es torna tan densa
+
+107
+00:04:56,600 --> 00:04:59,620
+que la veu de la dada rellevant queda ofegada pel soroll.
+
+108
+00:05:00,080 --> 00:05:00,920
+Totalment ofegada.
+
+109
+00:05:01,480 --> 00:05:04,000
+I el mecanisme subjacent d'això té molt a veure
+
+110
+00:05:04,000 --> 00:05:07,720
+amb com els enginyers aconsegueixen aquestes finestres tan llargues inicialment.
+
+111
+00:05:08,120 --> 00:05:12,180
+Utilitzen una tècnica anomenada interpolació de codificació de posició.
+
+112
+00:05:12,200 --> 00:05:13,200
+Sona complex.
+
+113
+00:05:13,540 --> 00:05:17,120
+Bueno, simplificant-ho, imaginem que un model s'ha entrenat originalment
+
+114
+00:05:17,120 --> 00:05:18,780
+amb contextos de 8.000 tokens.
+
+115
+00:05:19,240 --> 00:05:20,920
+Per fer-lo capaç de llegir-ne 100.000,
+
+116
+00:05:21,220 --> 00:05:24,940
+les matemàtiques que defineixen en quina posició exacta es troba cada paraula
+
+117
+00:05:24,940 --> 00:05:26,620
+s'han de comprimir o estirar.
+
+118
+00:05:26,960 --> 00:05:29,380
+Com si intentéssim estirar una imatge de baixa resolució
+
+119
+00:05:29,380 --> 00:05:30,820
+per cobrir una paret sencera.
+
+120
+00:05:31,160 --> 00:05:32,420
+Exacte, la mateixa idea.
+
+121
+00:05:32,820 --> 00:05:36,400
+Llavors, com en la imatge estirada, els píxels es tornen borrosos, no?
+
+122
+00:05:36,960 --> 00:05:41,080
+La intel·ligència artificial comença a perdre la noció exacta de la distància
+
+123
+00:05:41,080 --> 00:05:43,160
+o la posició d'un concepte dins del text.
+
+124
+00:05:43,540 --> 00:05:44,200
+Això mateix.
+
+125
+00:05:44,520 --> 00:05:47,240
+I no parlem d'un bloqueig sobtat on es penja l'ordinador, eh?
+
+126
+00:05:47,560 --> 00:05:50,040
+Parlem d'una pèrdua d'agudesa cognitiva.
+
+127
+00:05:50,540 --> 00:05:52,560
+Davant d'aquesta allau d'informació innecessària,
+
+128
+00:05:52,740 --> 00:05:56,180
+el model comença a al·lucinar relacions on no n'hi ha.
+
+129
+00:05:56,180 --> 00:05:57,180
+S'inventa coses.
+
+130
+00:05:57,420 --> 00:06:00,220
+Sí, oblida passos crus o tria l'eina equivocada,
+
+131
+00:06:00,220 --> 00:06:04,200
+simplement perquè la seva atenció està fragmentada amb milers de distraccions.
+
+132
+00:06:04,540 --> 00:06:06,820
+Això és el que anomenen tòquens de baix senyal.
+
+133
+00:06:07,240 --> 00:06:11,560
+Doncs, si llançar tones d'informació només aconsegueix aquesta podridura del context,
+
+134
+00:06:12,180 --> 00:06:14,300
+la pregunta central passa a ser estratègica, clar.
+
+135
+00:06:15,020 --> 00:06:17,520
+Com decidim quins ingredients permetem que entrin a la cuina?
+
+136
+00:06:17,900 --> 00:06:19,960
+Aquí està la clau de l'enginyeria de context.
+
+137
+00:06:19,960 --> 00:06:24,960
+L'objectiu, segons l'article, és trobar la quantitat mínima absoluta de tòquens d'alta qualitat.
+
+138
+00:06:25,880 --> 00:06:26,800
+Menys és més.
+
+139
+00:06:26,800 --> 00:06:30,460
+i els investigadors divideixen l'anatomia d'aquest context perfecte
+
+140
+00:06:30,460 --> 00:06:32,160
+en tres pilars essencials.
+
+141
+00:06:32,180 --> 00:06:34,240
+Sí, els tres pilars fonamentals.
+
+142
+00:06:34,520 --> 00:06:37,920
+El primer de tots se centra en el que anomenen la zona Rínxols d'Or
+
+143
+00:06:37,920 --> 00:06:39,180
+per als prompts del sistema.
+
+144
+00:06:39,700 --> 00:06:43,300
+Aquesta idea d'una altitud adequada, on no fa ni massa fred ni massa calor.
+
+145
+00:06:44,120 --> 00:06:47,120
+El repte amb les instruccions és el nivell de detall.
+
+146
+00:06:47,580 --> 00:06:49,140
+Molts desenvolupadors, al principi,
+
+147
+00:06:49,560 --> 00:06:52,240
+cometen l'error de tractar els agents com a codi tradicional,
+
+148
+00:06:52,760 --> 00:06:56,600
+intentant preveure cada bifurcació possible amb instruccions hiperrígides.
+
+149
+00:06:56,800 --> 00:06:59,340
+Com si fossin regles de si passa això, fes allò.
+
+150
+00:06:59,560 --> 00:06:59,760
+Clar.
+
+151
+00:07:00,360 --> 00:07:01,840
+I què passa quan es surten aquestes regles?
+
+152
+00:07:02,200 --> 00:07:05,220
+Doncs que quan l'agent es troba en un escenari que no estava previst,
+
+153
+00:07:05,560 --> 00:07:08,640
+el sistema es torna trencadís i col·lapsa en un bucle d'errors
+
+154
+00:07:08,640 --> 00:07:09,980
+perquè no se li deixa improvisar.
+
+155
+00:07:10,440 --> 00:07:12,800
+Però, d'altra banda, si les instruccions són massa vagues,
+
+156
+00:07:13,200 --> 00:07:17,440
+condueix al caos total perquè la IA no comparteix el nostre sentit comú.
+
+157
+00:07:18,000 --> 00:07:21,880
+Ostres, aquesta dicotomia em recorda molt a l'aprenentatge organitzacional humà.
+
+158
+00:07:22,360 --> 00:07:23,540
+A què et refereixes?
+
+159
+00:07:24,340 --> 00:07:27,260
+Doncs que si incorpores una persona jove a un projecte complex,
+
+160
+00:07:27,480 --> 00:07:31,640
+si li fas microgestió i li dictes com ha de moure el ratolí cada segon,
+
+161
+00:07:32,000 --> 00:07:32,540
+l'ofegues.
+
+162
+00:07:33,080 --> 00:07:35,380
+Pers tota l'avantatge de contractar algú intel·ligent.
+
+163
+00:07:35,960 --> 00:07:36,440
+Totalment.
+
+164
+00:07:36,800 --> 00:07:40,280
+Però si li dius fes la feina i marxes, el caos està garantit.
+
+165
+00:07:41,120 --> 00:07:44,440
+L'estudi recomana definir límits d'operació clars però permissius,
+
+166
+00:07:44,900 --> 00:07:47,420
+en pla d'etiquetes estructurades de codi com l'XML.
+
+167
+00:07:48,040 --> 00:07:48,600
+Exacte.
+
+168
+00:07:48,900 --> 00:07:51,580
+Les etiquetes XML ajuden moltíssim
+
+169
+00:07:51,580 --> 00:07:55,360
+perquè la màquina sàpiga diferenciar clarament on acaben les regles del joc
+
+170
+00:07:55,360 --> 00:07:56,980
+i on comença la informació crua.
+
+171
+00:07:57,400 --> 00:08:00,620
+Així pot fer servir la seva pròpia intuïció dins d'un terreny delimitat.
+
+172
+00:08:01,140 --> 00:08:02,600
+I quin és el segon pilar, llavors?
+
+173
+00:08:03,040 --> 00:08:03,880
+Passem a les eines.
+
+174
+00:08:04,360 --> 00:08:08,180
+I aquí radica una de les regles empíriques més potents de la investigació.
+
+175
+00:08:08,640 --> 00:08:11,260
+Citen literalment que si un enginyer humà competent
+
+176
+00:08:11,260 --> 00:08:16,260
+és incapaç de determinar ràpidament quina eina s'hauria d'utilitzar en una situació...
+
+177
+00:08:16,260 --> 00:08:17,420
+Llavors la IA tampoc podrà.
+
+178
+00:08:17,760 --> 00:08:21,520
+Exacte. No hi ha cap motiu per esperar que el model prengui la decisió correcta.
+
+179
+00:08:21,580 --> 00:08:26,300
+Les eines d'un agent són l'únic mecanisme que té per tocar el seu entorn digital.
+
+180
+00:08:26,740 --> 00:08:28,300
+Han de ser superintuitives.
+
+181
+00:08:28,700 --> 00:08:31,580
+Clar, i el problema dels conjunts d'eines sobrecarregats
+
+182
+00:08:31,580 --> 00:08:34,860
+és directament una qüestió d'interferència, d'adoptar massa.
+
+183
+00:08:35,640 --> 00:08:38,820
+Suposem que donem a l'agent una eina anomenada cerca documents interns
+
+184
+00:08:38,820 --> 00:08:41,540
+i una altra consulta base de dades textual.
+
+185
+00:08:41,740 --> 00:08:42,560
+Es farà un embolic.
+
+186
+00:08:42,940 --> 00:08:45,460
+I tant. Si la tasca és trobar una política d'empresa,
+
+187
+00:08:45,960 --> 00:08:47,740
+com que el model té aquesta atenció limitada,
+
+188
+00:08:47,980 --> 00:08:51,340
+destinarà un percentatge inútil d'esforç només d'optar entre les dues opcions.
+
+189
+00:08:51,580 --> 00:08:53,560
+I aquest solapament funcional el confon.
+
+190
+00:08:54,120 --> 00:08:56,320
+Genera un risc elevat de formataments erronis,
+
+191
+00:08:56,480 --> 00:08:59,680
+pèrdua de temps i incrementa de nou la podridura del context,
+
+192
+00:09:00,160 --> 00:09:02,440
+perquè va afegint intents fallits a la seva memòria.
+
+193
+00:09:02,820 --> 00:09:04,680
+Les eines han de ser inequívoques.
+
+194
+00:09:04,920 --> 00:09:08,040
+Llavors arribem al tercer pilar indispensable, els exemples.
+
+195
+00:09:08,440 --> 00:09:10,060
+Ah sí, el famós few-shot prompting.
+
+196
+00:09:10,460 --> 00:09:10,920
+Exacte.
+
+197
+00:09:11,300 --> 00:09:13,540
+Proporcionar uns quants exemples de com es fa bé una feina
+
+198
+00:09:13,540 --> 00:09:16,420
+funciona exponencialment millor que redactar pàgines de teoria.
+
+199
+00:09:17,100 --> 00:09:19,680
+Però clar, la trampa habitual és voler utilitzar els exemples
+
+200
+00:09:19,680 --> 00:09:21,600
+per descriure els errors més estranys, no?
+
+201
+00:09:21,860 --> 00:09:23,700
+Sí, molts enginyers omplen el context
+
+202
+00:09:23,700 --> 00:09:26,500
+intentant protegir el sistema contra tots els casos límit.
+
+203
+00:09:26,720 --> 00:09:27,500
+I això és un error.
+
+204
+00:09:28,040 --> 00:09:30,760
+I aquí és on la cosa es posa realment interessant.
+
+205
+00:09:31,380 --> 00:09:32,900
+Perquè l'estudi d'Anthropic
+
+206
+00:09:32,900 --> 00:09:35,020
+subratlla que subministrar a l'agent
+
+207
+00:09:35,020 --> 00:09:36,640
+una enciclopèdia d'anomalies
+
+208
+00:09:36,640 --> 00:09:38,780
+aconsegueix exactament l'efecte contrari.
+
+209
+00:09:39,340 --> 00:09:40,620
+S'atura l'atenció de la màquina
+
+210
+00:09:40,620 --> 00:09:43,060
+amb escenaris estranys que segurament mai passaran.
+
+211
+00:09:43,600 --> 00:09:44,720
+I li roben espai mental
+
+212
+00:09:44,720 --> 00:09:47,000
+per entendre com és una execució normal, clar.
+
+213
+00:09:47,620 --> 00:09:49,380
+El secret és limitar-se a proporcionar
+
+214
+00:09:49,380 --> 00:09:51,700
+uns pocs exemples, diversos entre si,
+
+215
+00:09:51,960 --> 00:09:53,520
+però completament canònics.
+
+216
+00:09:54,080 --> 00:09:55,780
+Són representacions pures de l'èxit.
+
+217
+00:09:56,460 --> 00:09:58,480
+És que la capacitat de generalització
+
+218
+00:09:58,480 --> 00:09:59,560
+d'un model de llenguatge
+
+219
+00:09:59,560 --> 00:10:02,400
+és prou bona per deduir com gestionar l'excepció,
+
+220
+00:10:02,640 --> 00:10:04,400
+sempre que hagi entès a la perfecció
+
+221
+00:10:04,400 --> 00:10:05,420
+la norma fonamental.
+
+222
+00:10:06,340 --> 00:10:08,600
+D'acord. Llavors tenim instrucció neta,
+
+223
+00:10:08,900 --> 00:10:10,100
+poques eines ben definides
+
+224
+00:10:10,100 --> 00:10:11,420
+i exemples canònics.
+
+225
+00:10:12,020 --> 00:10:13,420
+Així tenim l'estructura òptima.
+
+226
+00:10:13,800 --> 00:10:16,440
+Però el veritable repte apareix un mil·lisegon
+
+227
+00:10:16,440 --> 00:10:17,700
+després de començar la missió.
+
+228
+00:10:17,700 --> 00:10:20,900
+quan l'agent necessita adquirir coneixement del món exterior.
+
+229
+00:10:21,480 --> 00:10:24,000
+Com hem dit, evitem a tota costa el preprocessament.
+
+230
+00:10:24,300 --> 00:10:27,800
+No volem carregar gigabytes abans de començar per fugir del context rot.
+
+231
+00:10:28,200 --> 00:10:28,820
+Llavors, què fem?
+
+232
+00:10:29,440 --> 00:10:32,360
+Doncs la infraestructura requereix un nou mètode de cerca.
+
+233
+00:10:32,840 --> 00:10:35,940
+Es tracta d'orquestrar un subministrament d'informació just a temps,
+
+234
+00:10:36,180 --> 00:10:37,540
+o just-in-time context.
+
+235
+00:10:38,120 --> 00:10:40,120
+M'agrada molt això del subministrament just a temps.
+
+236
+00:10:40,740 --> 00:10:42,720
+Transforma completament la mecànica de treball.
+
+237
+00:10:42,720 --> 00:10:45,900
+Ho podem visualitzar si pensem en com investiguem
+
+238
+00:10:45,900 --> 00:10:47,540
+a l'interior d'una biblioteca enorme.
+
+239
+00:10:48,240 --> 00:10:49,640
+A veure, explica'm l'analogia.
+
+240
+00:10:50,040 --> 00:10:53,400
+Bueno, si algú ha d'escriure una tesi, no recull 200 enciclopèdies
+
+241
+00:10:53,400 --> 00:10:56,660
+i les apila sobre l'escriptori intentant llegir-les totes a la vegada.
+
+242
+00:10:57,000 --> 00:10:58,140
+Oi? L'escriptori col·lapsaria.
+
+243
+00:10:58,860 --> 00:11:02,120
+El mètode natural és guardar només la targeta amb el número de referència.
+
+244
+00:11:02,240 --> 00:11:02,660
+Clar.
+
+245
+00:11:02,900 --> 00:11:04,660
+Vas caminant pels passadissos, mirant etiquetes,
+
+246
+00:11:05,200 --> 00:11:07,900
+i només quan trobes un llibre que sembla crucial, l'agafes.
+
+247
+00:11:08,360 --> 00:11:11,100
+I potser només llegeixes l'índex abans d'endurt-te-la a la taula.
+
+248
+00:11:11,100 --> 00:11:15,780
+Doncs aquesta metàfora il·lustra perfectament el comportament d'eines avançades com Claude Code.
+
+249
+00:11:15,780 --> 00:11:19,460
+Davant de repositoris abismals, en lloc d'ingerir directoris sencers
+
+250
+00:11:19,460 --> 00:11:22,140
+conserven el que anomenem identificadors lleugers
+
+251
+00:11:22,140 --> 00:11:24,140
+simples rutes d'arxius o enllaços
+
+252
+00:11:24,140 --> 00:11:25,620
+Ho mantenen tot molt per sobre
+
+253
+00:11:25,620 --> 00:11:29,380
+Exacte, i quan decideixen que necessiten inspeccionar un document
+
+254
+00:11:29,380 --> 00:11:30,980
+no la boquen cru a la memòria
+
+255
+00:11:30,980 --> 00:11:34,760
+fan servir eines equivalents a les comandes head i tail de Linux
+
+256
+00:11:34,760 --> 00:11:38,220
+llegint únicament les primeres 20 línies per entendre l'estructura
+
+257
+00:11:38,220 --> 00:11:40,700
+Així mantenen el context superlleuger
+
+258
+00:11:40,700 --> 00:11:44,920
+Ostres, i l'agent pot prendre decisions crítiques sobre què obrir
+
+259
+00:11:44,920 --> 00:11:46,360
+només observant al voltant, oi?
+
+260
+00:11:46,820 --> 00:11:48,680
+L'article posa un exemple fantàstic
+
+261
+00:11:48,680 --> 00:11:50,700
+sobre la informació oculta a les metadades.
+
+262
+00:11:51,200 --> 00:11:52,520
+El de l'arxiu de tests, oi?
+
+263
+00:11:52,860 --> 00:11:53,420
+Aquest mateix.
+
+264
+00:11:54,060 --> 00:11:55,680
+Un agent pot llegir un nom d'arxiu
+
+265
+00:11:55,680 --> 00:11:58,200
+anomenat testutils.py.
+
+266
+00:11:58,940 --> 00:12:01,140
+Si aquest arxiu penja d'una carpeta anomenada tests,
+
+267
+00:12:01,400 --> 00:12:03,420
+la intel·ligència artificial sap immediatament
+
+268
+00:12:03,420 --> 00:12:05,040
+que es tracta d'un entorn de validació.
+
+269
+00:12:05,600 --> 00:12:08,360
+Sí, i ho sap sense haver gastat ni un sol tòquen
+
+270
+00:12:08,360 --> 00:12:09,580
+llegint el contingut interior.
+
+271
+00:12:10,060 --> 00:12:12,360
+Això és el que anomenen revelació progressiva
+
+272
+00:12:12,360 --> 00:12:14,680
+i depèn de senyals contextuals subtils
+
+273
+00:12:14,680 --> 00:12:16,680
+que l'agent apren a interpretar ràpidament.
+
+274
+00:12:17,200 --> 00:12:18,680
+Però suposo que això té un cost.
+
+275
+00:12:18,960 --> 00:12:20,900
+Vull dir, res a la computació és de franc.
+
+276
+00:12:21,520 --> 00:12:22,000
+Evidentment.
+
+277
+00:12:22,680 --> 00:12:24,660
+Aquesta cerca iterativa, just a temps,
+
+278
+00:12:25,120 --> 00:12:26,380
+introdueix una fricció temporal.
+
+279
+00:12:27,120 --> 00:12:29,900
+Cada vegada que l'agent llista arxius i reflexiona,
+
+280
+00:12:30,160 --> 00:12:32,160
+crida una comanda, extrau la informació,
+
+281
+00:12:32,720 --> 00:12:34,580
+tot això requereix intercanvis de xarxa
+
+282
+00:12:34,580 --> 00:12:36,360
+que consumeixen segons molt valuosos.
+
+283
+00:12:36,760 --> 00:12:37,000
+Clar.
+
+284
+00:12:37,640 --> 00:12:39,560
+En entorns com la programació compensa,
+
+285
+00:12:39,940 --> 00:12:43,100
+però l'article menciona que en sectors com el financer o el legal,
+
+286
+00:12:43,100 --> 00:12:45,820
+on hi ha centenars de documents normatius inamovibles,
+
+287
+00:12:46,340 --> 00:12:48,380
+aquesta cerca progressiva és un coll d'ampolla.
+
+288
+00:12:49,060 --> 00:12:53,320
+Sí, en aquests entorns menys volàtils es recomana una estratègia híbrida,
+
+289
+00:12:53,720 --> 00:12:57,160
+ancorar manualment el corpus més vital a la memòria a llarg termini
+
+290
+00:12:57,160 --> 00:13:00,860
+i deixar l'enfocament just a temps només per a les dades canviants.
+
+291
+00:13:01,680 --> 00:13:03,780
+Val, o sigui que la gestió a curt termini
+
+292
+00:13:03,780 --> 00:13:06,620
+se soluciona amb aquesta cerca progressiva o híbrida.
+
+293
+00:13:06,960 --> 00:13:08,640
+Però què passa a llarg termini?
+
+294
+00:13:09,160 --> 00:13:11,200
+Imaginem una tasca que triga 8 hores,
+
+295
+00:13:11,200 --> 00:13:13,060
+com una migració de codi gegant.
+
+296
+00:13:13,780 --> 00:13:16,060
+Aquí ens topem amb l'esgotament a llarg termini.
+
+297
+00:13:16,440 --> 00:13:18,120
+Perquè encara que exploris amb pinces,
+
+298
+00:13:18,480 --> 00:13:20,700
+la finestra de context tard o d'hora s'acaba omplint, eh?
+
+299
+00:13:21,080 --> 00:13:22,800
+S'omple amb els propis passos anteriors,
+
+300
+00:13:23,000 --> 00:13:25,020
+els errors rebuts, els raonaments...
+
+301
+00:13:25,020 --> 00:13:27,360
+I calen solucions per doblegar aquest pas del temps.
+
+302
+00:13:28,160 --> 00:13:31,800
+I l'estudi detalla tres estratègies d'arquitectura superior per fer-ho.
+
+303
+00:13:32,220 --> 00:13:33,760
+La primera és la compactació.
+
+304
+00:13:34,320 --> 00:13:36,960
+Són literalment com netejar la taula al final d'un torn, eh?
+
+305
+00:13:36,960 --> 00:13:38,180
+És exactament això.
+
+306
+00:13:38,800 --> 00:13:40,740
+Consisteix a escombrar l'historial complet
+
+307
+00:13:40,740 --> 00:13:44,600
+i demanar al model que emeti un resum extremadament compacte de la situació.
+
+308
+00:13:45,200 --> 00:13:48,140
+Els milers de tòquens gastats en errors esborrats per sempre.
+
+309
+00:13:48,860 --> 00:13:51,400
+Però clar, la compactació té el risc innegable
+
+310
+00:13:51,400 --> 00:13:54,440
+de perdre detalls subtils que podrien ser decisius.
+
+311
+00:13:54,940 --> 00:13:56,580
+I això planteja la gran pregunta.
+
+312
+00:13:57,220 --> 00:14:00,920
+Com externalitzem aquesta càrrega per no viure només de resums sintètics?
+
+313
+00:14:01,540 --> 00:14:05,400
+La resposta d'Anthropic és el desenvolupament de la presa de notes estructurada.
+
+314
+00:14:05,800 --> 00:14:07,580
+Memòria agèntica fora de banda.
+
+315
+00:14:08,000 --> 00:14:08,560
+Exacte.
+
+316
+00:14:08,560 --> 00:14:13,600
+Donar a l'agent la capacitat d'escriure arxius persistents en un espai d'emmagatzematge extern.
+
+317
+00:14:14,120 --> 00:14:17,340
+I el document detalla un experiment amb això que és al·lucinant.
+
+318
+00:14:17,880 --> 00:14:20,900
+Van connectar un agent a una partida del famós videojoc Pokémon.
+
+319
+00:14:21,120 --> 00:14:24,780
+Ah, aquí volia arribar. Aquest és l'experiment clau per entendre-ho.
+
+320
+00:14:25,200 --> 00:14:27,580
+L'agent no va rebre cap instrucció que li digués
+
+321
+00:14:27,580 --> 00:14:31,760
+«ets dèbil, la teva memòria s'esborrarà, pren apunts». Cap ni una.
+
+322
+00:14:32,180 --> 00:14:36,240
+Res de res. Només podia llegir els píxels de la pantalla i prem els botons.
+
+323
+00:14:36,240 --> 00:14:40,380
+i tenia una funció estàndard per escriure text pla per si la volia fer servir.
+
+324
+00:14:40,900 --> 00:14:47,080
+I davant del repte d'aquest entorn immens, on necessitava recordar per on anava després de centenars de passos,
+
+325
+00:14:47,580 --> 00:14:51,660
+la IA va experimentar el reinici de context, aquesta amnèsia sobtada.
+
+326
+00:14:52,060 --> 00:14:55,500
+I la resposta adaptativa que va tenir va ser extraordinària.
+
+327
+00:14:56,060 --> 00:15:01,240
+Per decisió totalment pròpia, l'agent va començar a mantenir un diari de camp extern sumament detallat.
+
+328
+00:15:02,160 --> 00:15:02,700
+Quina bogeria.
+
+329
+00:15:03,560 --> 00:15:04,860
+Escrivia anotacions com
+
+330
+00:15:04,860 --> 00:15:09,660
+«Avaluació actual. Durant els darrers mil passos m'he dedicat a pujar de nivell a la ruta 1,
+
+331
+00:15:10,040 --> 00:15:14,600
+el Pikachu ha assolit el nivell 8, l'objectiu és arribar al 10 per vèncer el líder...»
+
+332
+00:15:14,600 --> 00:15:17,640
+i fins i tot feia mapes textuals de les zones explorades.
+
+333
+00:15:18,040 --> 00:15:23,360
+Uau. O sigui, el nivell de consciència sobre els seus propis límits operatius és aclaparador.
+
+334
+00:15:24,020 --> 00:15:27,160
+Cada vegada que la seva memòria s'esgotava i es reiniciava a 8,
+
+335
+00:15:27,580 --> 00:15:32,580
+la primera acció que feia era obrir els seus propis apunts per reprendre la partida on l'havia deixat, oi?
+
+336
+00:15:32,700 --> 00:15:35,340
+amb tota la càrrega estratègica intacta.
+
+337
+00:15:35,780 --> 00:15:36,180
+Això mateix.
+
+338
+00:15:36,640 --> 00:15:40,140
+És la base de la memòria persistent que ja veiem en models moderns.
+
+339
+00:15:40,660 --> 00:15:44,000
+Llavors, ens queda la tercera tècnica per combatre el pas del temps,
+
+340
+00:15:44,640 --> 00:15:48,300
+que trasllada la gestió purament de programari a l'organització d'equips.
+
+341
+00:15:48,880 --> 00:15:51,200
+Estem parlant de les arquitectures de subagents.
+
+342
+00:15:51,840 --> 00:15:54,820
+En comptes d'un sol agent patint l'agonia de mantenir el pla
+
+343
+00:15:54,820 --> 00:15:57,640
+i embrutar-se les mans investigant, la tasca s'escalona.
+
+344
+00:15:58,300 --> 00:16:01,520
+Això és la reproducció exacta de la dinàmica d'una gran empresa.
+
+345
+00:16:01,520 --> 00:16:02,260
+Tal qual.
+
+346
+00:16:02,700 --> 00:16:05,080
+Un agent principal actua com el director executiu.
+
+347
+00:16:05,680 --> 00:16:08,240
+Aquest director opera sempre des d'un despatx impecable,
+
+348
+00:16:08,640 --> 00:16:11,940
+on el seu context només conté el pla estratègic i l'estat del nivell.
+
+349
+00:16:12,380 --> 00:16:13,920
+Aquest context està immaculat.
+
+350
+00:16:14,500 --> 00:16:16,660
+Quan s'enfronta a un problema tediós, no baixa el fang.
+
+351
+00:16:17,060 --> 00:16:18,580
+Deleguen un subagent autònom.
+
+352
+00:16:19,420 --> 00:16:22,640
+I el paper d'aquest subagent és clau dins l'economia de tokens.
+
+353
+00:16:23,080 --> 00:16:25,780
+Aquest model secundari rep l'encàrrec i surt a investigar.
+
+354
+00:16:25,780 --> 00:16:28,100
+Es passa potser una hora llegint codi brut,
+
+355
+00:16:28,320 --> 00:16:30,420
+utilitzant malament una eina, corregint-se
+
+356
+00:16:30,420 --> 00:16:33,740
+i consumint potser 40.000 tòquens en deduccions.
+
+357
+00:16:34,160 --> 00:16:37,120
+Una pèrdua d'atenció que hauria rebentat l'agent principal.
+
+358
+00:16:37,380 --> 00:16:38,000
+Totalment.
+
+359
+00:16:38,520 --> 00:16:40,300
+Però una vegada assoleix la resposta,
+
+360
+00:16:40,560 --> 00:16:42,900
+aquest subagent es destrueix a si mateix
+
+361
+00:16:42,900 --> 00:16:44,760
+i només retorna al director general
+
+362
+00:16:44,760 --> 00:16:48,260
+un resum refinat i cristallí d'uns 1.000 tòquens
+
+363
+00:16:48,260 --> 00:16:49,820
+amb els fets crucials.
+
+364
+00:16:50,100 --> 00:16:52,580
+Aquesta separació permet un escalat massiu
+
+365
+00:16:52,580 --> 00:16:55,080
+sense degradar la brúixola rectora del sistema.
+
+366
+00:16:55,660 --> 00:16:58,260
+Aleshores, què significa tot això per nosaltres?
+
+367
+00:16:58,420 --> 00:16:58,980
+Bona pregunta.
+
+368
+00:16:58,980 --> 00:17:03,420
+Si unim tots aquests fils conceptuals, ens adonem que ens allunyem per sempre
+
+369
+00:17:03,420 --> 00:17:07,300
+de l'època en què pensàvem en la intel·ligència artificial només com un oracle
+
+370
+00:17:07,300 --> 00:17:11,940
+al qual només necessitàvem preguntar-li les coses amb les paraules màgiques adequades.
+
+371
+00:17:12,040 --> 00:17:17,920
+Exacte. L'enginyeria d'agents converteix l'atenció de la màquina en l'actiu computacional més valuós,
+
+372
+00:17:18,340 --> 00:17:21,300
+una matèria primera finita, fràgil i cara.
+
+373
+00:17:21,780 --> 00:17:25,080
+Construir solucions ara implica dissenyar tot aquest ecosistema,
+
+374
+00:17:25,080 --> 00:17:30,460
+amb regles permissives, eines sense superposició i exploració quirúrgica pas a pas.
+
+375
+00:17:30,860 --> 00:17:36,520
+I això allibera l'operador humà del càrrec de fer microgestió, per convertir-lo en un estràtec real.
+
+376
+00:17:37,040 --> 00:17:41,700
+Com més hàbils siguin els models, més haurem de dominar com i quan subministrem les dades
+
+377
+00:17:41,700 --> 00:17:43,500
+per respectar aquest pressupost d'atenció.
+
+378
+00:17:44,080 --> 00:17:47,940
+Doncs això ens deixa una reflexió final molt potent per posar fil a l'agulla.
+
+379
+00:17:48,500 --> 00:17:52,720
+L'angoixa principal de l'enginyeria actual tracta d'evitar aquesta asfíxia cognitiva
+
+380
+00:17:52,720 --> 00:17:55,600
+quan exposem les IA a quantitats humanes de dades.
+
+381
+00:17:56,020 --> 00:17:57,580
+Clar, estem intentant arreglar-ho.
+
+382
+00:17:57,980 --> 00:17:59,920
+Però durant aquesta estona hem vist com els models
+
+383
+00:17:59,920 --> 00:18:02,460
+aprenen autònomament a esquivar els seus límits
+
+384
+00:18:02,460 --> 00:18:04,980
+amb mètodes pràcticament humans.
+
+385
+00:18:05,600 --> 00:18:07,520
+Aprenen a sintetitzar històries llargues,
+
+386
+00:18:07,940 --> 00:18:10,240
+escriuen notes organitzades en llibretes externes
+
+387
+00:18:10,240 --> 00:18:11,620
+quan saben que tindran amnèsia
+
+388
+00:18:11,620 --> 00:18:14,220
+i deleguen l'estudi dens a subagents.
+
+389
+00:18:14,760 --> 00:18:16,880
+Mètodes de supervivència molt orgànics.
+
+390
+00:18:17,180 --> 00:18:17,480
+I tant.
+
+391
+00:18:18,080 --> 00:18:19,860
+Llavors, el veritable enigma no és
+
+392
+00:18:19,860 --> 00:18:21,860
+quan trigaran les finestres de context
+
+393
+00:18:21,860 --> 00:18:24,160
+a suportar un segle d'informació de cop.
+
+394
+00:18:24,660 --> 00:18:27,400
+El misteri és com interactuarem amb el món
+
+395
+00:18:27,400 --> 00:18:29,720
+el dia que aquesta memòria externa artificial,
+
+396
+00:18:30,220 --> 00:18:32,120
+operant amb milers de llibretes intel·ligents
+
+397
+00:18:32,120 --> 00:18:34,760
+redactades a la velocitat de la llum per agents invisibles,
+
+398
+00:18:35,480 --> 00:18:37,260
+superi per magnituds exponencials
+
+399
+00:18:37,260 --> 00:18:40,460
+la nostra pròpia capacitat biològica per rastrejar la realitat.
+
+400
+00:18:40,660 --> 00:18:43,120
+Uau, un pensament molt provocador.
+
+401
+00:18:43,540 --> 00:18:46,260
+Ens tocarà seguir qüestionant i redissenyant la infraestructura
+
+402
+00:18:46,260 --> 00:18:47,640
+abans que el disseny en sobrepassi.
+
+403
+00:18:48,360 --> 00:18:51,100
+Moltíssimes gràcies per acompanyar-nos en l'anàlisi profunda d'avui.
+
+404
+00:18:51,100 --> 00:18:53,040
+Continuarem estudiant més endavant.
+
