@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 045: Arquitectura d'agents Claude en producció, bastides deterministes sobre un motor probabilístic",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: el reemborsament d'un milió i el gratacel" },
+    { "startTime": 80.6, "title": "Domini 1: el bucle d'agent i el stop_reason" },
+    { "startTime": 113.4, "title": "El director d'orquestra: subagents aïllats i la pregunta 7" },
+    { "startTime": 187.2, "title": "Hooks, normalització de dades i sessions" },
+    { "startTime": 229.4, "title": "Domini 2: menys eines, millors descripcions i errors estructurats" },
+    { "startTime": 383.4, "title": "Domini 3: Claude Code, del CLAUDE.md al pipeline de CI/CD" },
+    { "startTime": 519.3, "title": "Domini 4: criteris explícits, few-shot, JSON i lots" },
+    { "startTime": 669.1, "title": "Domini 5: lost in the middle, bloc de fets i scratchpads" },
+    { "startTime": 716.8, "title": "Escalar a un humà, errors que no s'amaguen i confiança per camp" },
+    { "startTime": 814.1, "title": "Reflexió final: un compilador probabilístic sofisticat?" }
+  ]
+}

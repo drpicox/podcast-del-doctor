@@ -463,6 +463,16 @@ EPISODIS = [
         "duration": "12:08",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "claude code", "ccar-f", "certificació", "arquitectura de sistemes", "multiagent", "subagents", "hooks", "context", "confiança calibrada", "català"]
     },
+    {
+        "num": "045",
+        "fitxer": "045-arquitectura-d-agents-claude-en-produccio.mp3",
+        "identifier": "podcast-del-doctor-045-arquitectura-d-agents-claude-en-produccio",
+        "title": "Episodi 045: Arquitectura d'agents Claude en producció, bastides deterministes sobre un motor probabilístic",
+        "description": "Un xatbot de reemborsaments que parla com un poeta i, per una data mal llegida, n'emet un d'un milió d'euros en lloc de 10. Quart episodi sobre l'examen Claude Certified Architect – Foundations (CCAR-F), ara com un repàs ordenat dels cinc dominis de la guia oficial i de vuit de les seves preguntes de mostra: el bucle d'agent i el stop_reason, el coordinador amb subagents aïllats, menys eines però ben descrites, el CLAUDE.md i el CI/CD de Claude Code, la sortida estructurada que no evita els errors semàntics, i el context, l'escalada i la confiança calibrada.",
+        "date": "2026-11-15",
+        "duration": "14:34",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "claude code", "ccar-f", "certificació", "mcp", "agent sdk", "sortida estructurada", "multiagent", "subagents", "hooks", "context", "confiança calibrada", "català"]
+    },
 ]
 
 
