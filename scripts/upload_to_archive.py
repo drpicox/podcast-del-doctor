@@ -473,6 +473,16 @@ EPISODIS = [
         "duration": "14:34",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "claude code", "ccar-f", "certificació", "mcp", "agent sdk", "sortida estructurada", "multiagent", "subagents", "hooks", "context", "confiança calibrada", "català"]
     },
+    {
+        "num": "046",
+        "fitxer": "046-guia-de-l-examen-claude-certified-architect.mp3",
+        "identifier": "podcast-del-doctor-046-guia-de-l-examen-claude-certified-architect",
+        "title": "Episodi 046: La guia d'estudi del Claude Certified Architect, de l'API de Claude a les preguntes trampa",
+        "description": "El model tria les eines llegint-ne la descripció, no el codi: cal fer-li màrqueting. Cinquè episodi sobre l'examen Claude Certified Architect – Foundations (CCAR-F), ara a partir d'una guia d'estudi de la comunitat: la teoria capítol per capítol (l'API sense memòria, el stop_reason, subagents que neixen en blanc, hooks, MCP, Claude Code, lots, escalada sense emocions i dades contradictòries), les dotze preguntes de mostra, tres del test de pràctica i la gran paradoxa: com més autonomia vols donar a l'agent, més rígides han de ser les baranes.",
+        "date": "2026-11-15",
+        "duration": "40:35",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "claude code", "ccar-f", "certificació", "guia d'estudi", "preguntes d'examen", "mcp", "agent sdk", "multiagent", "subagents", "hooks", "escalada", "català"]
+    },
 ]
 
 

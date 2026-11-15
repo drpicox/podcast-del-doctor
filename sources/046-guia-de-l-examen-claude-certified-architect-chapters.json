@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 046: La guia d'estudi del Claude Certified Architect, de l'API de Claude a les preguntes trampa",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: quan la precisió binària salta pels aires" },
+    { "startTime": 103.3, "title": "L'examen per dins: format, aprovat i els escenaris" },
+    { "startTime": 311.0, "title": "Capítols 1 i 2: l'API amb amnèsia, el stop_reason i les eines" },
+    { "startTime": 510.6, "title": "Capítol 3: coordinador, subagents en blanc i hooks" },
+    { "startTime": 664.1, "title": "Capítols 4 a 8: MCP, Claude Code, lots, few-shot i descomposició" },
+    { "startTime": 914.3, "title": "Capítols 9 a 12: escalada sense emocions, errors, procedència i pesos" },
+    { "startTime": 1132.6, "title": "Preguntes de mostra 1 a 6: hooks, descripcions, escalada i Claude Code" },
+    { "startTime": 1519.9, "title": "Preguntes de mostra 7 a 12: recerca, errors, lots i revisions grans" },
+    { "startTime": 1894.5, "title": "Tres preguntes del test de pràctica i els exercicis" },
+    { "startTime": 2300.2, "title": "Reflexió final: la gran paradoxa de la IA agèntica" }
+  ]
+}
