@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "podcastName": "Podcast del Doctor",
+  "title": "Episodi 047: El mite dels agents d'IA complexos, el tren abans que el cotxe autònom",
+  "chapters": [
+    { "startTime": 0, "title": "Introducció: una nau espacial per penjar un quadre" },
+    { "startTime": 129.3, "title": "Fluxos de treball i agents: el tren i el cotxe autònom" },
+    { "startTime": 259.2, "title": "Frameworks: les caixes negres que amaguen el prompt" },
+    { "startTime": 358.1, "title": "L'LLM augmentat i l'encadenament de peticions" },
+    { "startTime": 483.5, "title": "Enrutament i paral·lelització: seccionament i votació" },
+    { "startTime": 610.8, "title": "Orquestrador-treballadors i avaluador-optimitzador" },
+    { "startTime": 739.7, "title": "Agents autònoms: SWE-bench, computer use i l'humà en el bucle" },
+    { "startTime": 869.2, "title": "L'ACI: eines a prova d'errors i les rutes absolutes" },
+    { "startTime": 992.1, "title": "Els tres principis: simplicitat, transparència i ACI" },
+    { "startTime": 1027.9, "title": "Reflexió final: qui s'acabarà adaptant a qui?" }
+  ]
+}

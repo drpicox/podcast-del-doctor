@@ -483,6 +483,16 @@ EPISODIS = [
         "duration": "40:35",
         "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "claude code", "ccar-f", "certificació", "guia d'estudi", "preguntes d'examen", "mcp", "agent sdk", "multiagent", "subagents", "hooks", "escalada", "català"]
     },
+    {
+        "num": "047",
+        "fitxer": "047-el-mite-dels-agents-d-ia-complexos.mp3",
+        "identifier": "podcast-del-doctor-047-el-mite-dels-agents-d-ia-complexos",
+        "title": "Episodi 047: El mite dels agents d'IA complexos, el tren abans que el cotxe autònom",
+        "description": "Centenars de persones construint naus espacials per penjar un quadre, quan n'hi ha prou amb un martell i uns claus. A partir de l'article d'Anthropic «Building effective agents», veiem la diferència entre un flux de treball (un tren sobre vies fixes) i un agent (un cotxe autònom), per què els frameworks t'amaguen el prompt, els cinc patrons de flux (encadenament, enrutament, paral·lelització, orquestrador-treballadors i avaluador-optimitzador), quan val la pena un agent autònom i per què les eines que li dones, l'ACI, importen tant com el prompt.",
+        "date": "2026-11-17",
+        "duration": "18:16",
+        "tags": ["podcast", "programació", "tecnologia", "david rodenas", "podcast del doctor", "agents", "intel·ligència artificial", "anthropic", "claude", "building effective agents", "workflows", "fluxos de treball", "prompt chaining", "routing", "orquestrador", "avaluador-optimitzador", "aci", "eines", "simplicitat", "català"]
+    },
 ]
 
 
